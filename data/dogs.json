@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T17:23:03Z",
+  "updated": "2026-05-07T21:14:55Z",
   "count": 86,
   "animals": [
     {
@@ -378,7 +378,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777088685"
+      "LastUpdatedUnixTime": "1778179065"
     },
     {
       "ID": "2582",
@@ -2350,12 +2350,22 @@
       "Color": "Black",
       "Pattern": "Tricolor",
       "AdoptionFeeGroup": null,
-      "Description": "Meet the best snuggle pup Amethyst!\n\nAmethyst is a typical puppy, with high energy and chewing behaviors, when she is not entertained (cords, shoes, etc.) When Amethyst is not enjoying her time outside or playing with the resident dogs, she loves to cuddle up on the couch or bed to a good movie. Amethyst does great in her crate at night and is in her crate for about 4-6 a day once or twice a week! Amethyst is still young, with a small bladder, so she does have accidents here and there in the crate. She is doing great with potty training, often giving signs such as sniffing around, pawing or staring at the fosters, or running downstairs to sneak a quick accident on the rug. As long as you know the signs and are attentive, accidents are very rare for her.\n\nDue to her energy and breed, Amethyst would do great in an active home where she can be taken on walks often or ran around outside! After a good play time, she definitely gets thirsty and hungry and will scarf down food (even with a slow feeder).\n\nAmethyst has not been around children or cats as of yet, but she has done well meeting other adults or dogs who she is around!\n\nOverall, she is the most loving and spunky puppy who is ready to fill someone's heart with joy.",
+      "Description": "Amethyst is THE BEST puppy! Not only is she 100% adorable, but she is also a great blend of snuggly and independent, liking to hang out on the couch with you but not in your face when you get down on the floor and do yoga. She loves to play fetch and tug of war, and her zoomies are really an athletic feat! She is a super good car buddy, riding calmly and staying in the seat she is supposed to be in, until she thinks you are getting out...then she is in your lap, making sure you take her with you! She also rides well in a kennel in the car, if you prefer to go that route. She sleeps all night in her crate at our bedside without a peep and is just overall a wonderful dog.\n\nShe is a typical puppy for her age, exploring the world with her mouth, but she is getting the hang of which things are meant to go in her mouth and which ones aren't. She is doing great with housetraining and only rarely has an accident now, and often they are more our fault than hers. We typically let her out every half hour to hour when we are home and that works well. When we leave the house for work or other engagements, she happily goes in her crate and does well in it. So far we have only left her in there for up to three or four hours, and she has not had an accident in her crate. She does not display any separation anxiety when we leave - she actually seems to enjoy being in her crate, and will often go in there to take a break even when she doesn't have to.\n\nWe've been trying to guess how big this cutie pie will get and we really don't think she will be a large dog. She does not have big, clompy feet or a beefy build at all. so we are thinking she will be more of a medium-sized dog, maybe 35 pounds or so. Just our guess!",
       "LastIntakeUnixTime": "1776354996",
       "Attributes": [
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
           "Publish": "Yes"
         },
         {
@@ -2366,11 +2376,6 @@
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
           "Publish": "Yes"
         },
         {
@@ -2404,7 +2409,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777738311"
+      "LastUpdatedUnixTime": "1778177418"
     },
     {
       "ID": "3513",
@@ -2737,6 +2742,86 @@
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
       "LastUpdatedUnixTime": "1777865020"
+    },
+    {
+      "ID": "3538",
+      "Internal-ID": "213591745",
+      "Name": "Milo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "17",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1617339600,
+      "Age": 61,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9787ef7bad2efbae26523a017d9ec2bb/6e7d48eadb27338320357040fed25cd3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9787ef7bad2efbae26523a017d9ec2bb/6e7d48eadb27338320357040fed25cd3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Milo was surrendered from an Amish farm where he was used for breeding. He was a little shy for the first day, but now he is a friendly, derpy little guy who loves to follow us around and give kisses. He loves other dogs and will play and jump around with his buddy Larry and my other dogs. Milo was previously kept in a kennel building so he is still learning house training and how to walk on a leash. He\u2019s made so much progress in just a few days, but will need continued practice with a leash and should wear a belly band indoors at first just to be on the safe side. He does great in a crate.\n\nMilo is a sweetheart who will bring you lots of love in exchange for lots of pets and belly rubs!",
+      "LastIntakeUnixTime": "1777706760",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778187968"
     },
     {
       "ID": "3543",
@@ -3695,35 +3780,6 @@
       "LastUpdatedUnixTime": "1778166309"
     },
     {
-      "ID": "3538",
-      "Internal-ID": "213591745",
-      "Name": "Milo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1617339600,
-      "Age": 61,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9787ef7bad2efbae26523a017d9ec2bb/6e7d48eadb27338320357040fed25cd3.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9787ef7bad2efbae26523a017d9ec2bb/6e7d48eadb27338320357040fed25cd3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1777706760",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778165058"
-    },
-    {
       "ID": "3539",
       "Internal-ID": "213591750",
       "Name": "Larry",
@@ -4562,7 +4618,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "16.2",
+      "CurrentWeightPounds": "24",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1766901600,
@@ -4654,7 +4710,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778028989"
+      "LastUpdatedUnixTime": "1778188391"
     },
     {
       "ID": "3482",
@@ -5357,8 +5413,10 @@
       "Altered": "Yes",
       "DOBUnixTime": 1590987600,
       "Age": 71,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/485a83e520b109bc8ca46f21b8bfd049/95de6a62c758e960f31da9d668f01ba4.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/485a83e520b109bc8ca46f21b8bfd049/95de6a62c758e960f31da9d668f01ba4.png"
+      ],
       "Videos": [],
       "Breed": "Catahoula Leopard Dog",
       "Color": "Black",
@@ -5418,7 +5476,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777250171"
+      "LastUpdatedUnixTime": "1778186970"
     },
     {
       "ID": "2705",
