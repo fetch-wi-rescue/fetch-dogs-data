@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T20:16:44Z",
-  "count": 83,
+  "updated": "2026-05-08T23:41:38Z",
+  "count": 82,
   "animals": [
     {
       "ID": "2754",
@@ -4752,91 +4752,6 @@
       "LastIntakeUnixTime": "1773435600",
       "Attributes": [],
       "LastUpdatedUnixTime": "1778116885"
-    },
-    {
-      "ID": "3460",
-      "Internal-ID": "213355158",
-      "Name": "Oreo",
-      "LitterGroupId": 9483955,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "20.14",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1766901600,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/863de6c7d923c14e88729615c8a6047f/ccc1d2e4d54881f17ef3852929778170.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/863de6c7d923c14e88729615c8a6047f/ccc1d2e4d54881f17ef3852929778170.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53a28e4f42811c94828b41fbabeedced/54a67ffe25cf4970a0c1f23a10741dac.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/03032b3eb67dcd70fbf55f911d53db5d/e11010ad722586b87d4ab7867bbff6c9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1cd54b7f60d4e6750ff64a426b45900/72c6a948bc80982c946369642d8f8c31.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e823f488c04a27c7caf77f169d232549/213a6c21c73c6da1f16e509c3675fc0e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1777303699",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637008",
-          "AttributeName": "Good around horses",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778259888"
     },
     {
       "ID": "3482",
