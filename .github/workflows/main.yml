@@ -19,7 +19,6 @@ jobs:
           API_KEY: ${{ secrets.SHELTERLUV_API_KEY }}
         run: |
           mkdir -p data
-          echo '{"animals":[],"updated":"'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'"}' > data/dogs.json
           
           OFFSET=0
           LIMIT=100
@@ -46,14 +45,100 @@ jobs:
           COUNT=$(echo "$DOGS" | jq 'length')
           UPDATED=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           
-          echo "{\"updated\":\"$UPDATED\",\"count\":$COUNT,\"animals\":$DOGS}" | jq '.' > data/dogs.json
+          echo "{\"updated\":\"$UPDATED\",\"count\":$COUNT,\"animals\":$DOGS}" | jq '.' > data/dogs-current.json
           
           echo "Fetched $COUNT dogs"
+      
+      - name: Detect disappeared dogs and update archive
+        run: |
+          # If dogs.json exists, compare to find disappeared dogs
+          if [ -f data/dogs.json ]; then
+            # Get IDs from previous and current
+            PREV_IDS=$(jq -r '.animals[].ID' data/dogs.json | sort)
+            CURR_IDS=$(jq -r '.animals[].ID' data/dogs-current.json | sort)
+            
+            # Find IDs that were in previous but not in current
+            DISAPPEARED_IDS=$(comm -23 <(echo "$PREV_IDS") <(echo "$CURR_IDS"))
+            
+            if [ -n "$DISAPPEARED_IDS" ]; then
+              echo "Found disappeared dogs:"
+              echo "$DISAPPEARED_IDS"
+              
+              # Initialize archive file if it doesn't exist
+              if [ ! -f data/archived-pending-review.json ]; then
+                echo '{"updated":"","animals":[]}' > data/archived-pending-review.json
+              fi
+              
+              # Process each disappeared dog
+              while IFS= read -r DOG_ID; do
+                if [ -z "$DOG_ID" ]; then continue; fi
+                
+                # Check if already in archive
+                ALREADY_ARCHIVED=$(jq --arg id "$DOG_ID" '.animals | map(select(.ID == $id)) | length' data/archived-pending-review.json)
+                if [ "$ALREADY_ARCHIVED" -gt 0 ]; then
+                  echo "Dog $DOG_ID already in archive, skipping"
+                  continue
+                fi
+                
+                # Get the dog's last-known data from previous fetch
+                DOG_DATA=$(jq --arg id "$DOG_ID" '.animals[] | select(.ID == $id)' data/dogs.json)
+                LAST_STATUS=$(echo "$DOG_DATA" | jq -r '.Status')
+                
+                # Determine reason based on last status
+                case "$LAST_STATUS" in
+                  "Available"|"M&G"|"Boarding"|"Pending Adoption"|"Foster to Adopt")
+                    REASON="likely_adopted"
+                    ;;
+                  "Hospice")
+                    REASON="hospice_passed"
+                    ;;
+                  *)
+                    REASON="other"
+                    ;;
+                esac
+                
+                DISAPPEARED_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+                
+                # Add to archive with metadata
+                ENRICHED=$(echo "$DOG_DATA" | jq \
+                  --arg reason "$REASON" \
+                  --arg date "$DISAPPEARED_DATE" \
+                  '. + {reason: $reason, disappearedDate: $date, status: "pending"}')
+                
+                # Append to archive
+                jq --argjson dog "$ENRICHED" '.animals += [$dog]' data/archived-pending-review.json > data/archived-pending-review.tmp.json
+                mv data/archived-pending-review.tmp.json data/archived-pending-review.json
+                
+                echo "Archived $DOG_ID (last status: $LAST_STATUS, reason: $REASON)"
+              done <<< "$DISAPPEARED_IDS"
+              
+              # Update timestamp
+              UPDATED=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+              jq --arg updated "$UPDATED" '.updated = $updated' data/archived-pending-review.json > data/archived-pending-review.tmp.json
+              mv data/archived-pending-review.tmp.json data/archived-pending-review.json
+            else
+              echo "No disappeared dogs"
+            fi
+            
+            # Also: if any archived dog reappeared (came back from adoption fall-through), remove them
+            if [ -f data/archived-pending-review.json ]; then
+              CURRENT_IDS=$(jq -r '.animals[].ID' data/dogs-current.json | sort -u)
+              CURRENT_IDS_JSON=$(echo "$CURRENT_IDS" | jq -R . | jq -s .)
+              
+              jq --argjson currentIds "$CURRENT_IDS_JSON" \
+                '.animals |= map(select(.ID as $id | $currentIds | index($id) | not))' \
+                data/archived-pending-review.json > data/archived-pending-review.tmp.json
+              mv data/archived-pending-review.tmp.json data/archived-pending-review.json
+            fi
+          fi
+          
+          # Replace dogs.json with current data
+          mv data/dogs-current.json data/dogs.json
       
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/dogs.json
-          git diff --staged --quiet || git commit -m "Update dog data"
+          git add data/dogs.json data/archived-pending-review.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Update dog data and archive"
           git push
