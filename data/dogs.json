@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T16:03:05Z",
-  "count": 85,
+  "updated": "2026-05-08T20:16:44Z",
+  "count": 83,
   "animals": [
     {
       "ID": "2754",
@@ -1041,91 +1041,6 @@
       "LastUpdatedUnixTime": "1777816709"
     },
     {
-      "ID": "3460",
-      "Internal-ID": "213355158",
-      "Name": "Oreo",
-      "LitterGroupId": 9483955,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20.14",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1766901600,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/863de6c7d923c14e88729615c8a6047f/ccc1d2e4d54881f17ef3852929778170.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/863de6c7d923c14e88729615c8a6047f/ccc1d2e4d54881f17ef3852929778170.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53a28e4f42811c94828b41fbabeedced/54a67ffe25cf4970a0c1f23a10741dac.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/03032b3eb67dcd70fbf55f911d53db5d/e11010ad722586b87d4ab7867bbff6c9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1cd54b7f60d4e6750ff64a426b45900/72c6a948bc80982c946369642d8f8c31.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e823f488c04a27c7caf77f169d232549/213a6c21c73c6da1f16e509c3675fc0e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1777303699",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637008",
-          "AttributeName": "Good around horses",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778192578"
-    },
-    {
       "ID": "3461",
       "Internal-ID": "213355160",
       "Name": "Maple",
@@ -1477,8 +1392,69 @@
       },
       "Description": "Zella is the gentle soul of the Chaos Cousins. She\u2019s affectionate, people\u2011oriented, and happiest when she\u2019s snuggled up after a good play session. Zella loves learning and is already showing off her eager\u2011to\u2011please nature. If you\u2019re looking for a loving, loyal companion who will grow into a steady, devoted family dog, Zella is your girl.",
       "LastIntakeUnixTime": "1775302440",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778089169"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296940",
+          "AttributeName": "Not potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778266049"
     },
     {
       "ID": "3472",
@@ -1521,8 +1497,69 @@
       },
       "Description": "Bix is the class clown of the Chaos Cousins. He\u2019s silly, playful, and always making someone laugh. Whether he\u2019s pouncing on toys, rolling around dramatically, or showing off his puppy zoomies, Bix brings joy everywhere he goes. He\u2019s a fun, happy\u2011go\u2011lucky pup who will brighten any home.",
       "LastIntakeUnixTime": "1775302440",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778089169"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296940",
+          "AttributeName": "Not potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778266050"
     },
     {
       "ID": "3473",
@@ -1604,6 +1641,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
@@ -1634,7 +1676,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778089169"
+      "LastUpdatedUnixTime": "1778266050"
     },
     {
       "ID": "3474",
@@ -1677,8 +1719,69 @@
       },
       "Description": "Rocco is the steady, self\u2011assured pup of the group. He\u2019s brave, curious, and always the first to check out something new. He loves playtime, training, and being near his people. Rocco will grow into a loyal, confident companion who thrives with structure and engagement.",
       "LastIntakeUnixTime": "1775302440",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778089169"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296940",
+          "AttributeName": "Not potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778265924"
     },
     {
       "ID": "3475",
@@ -1720,8 +1823,69 @@
       },
       "Description": "Jaxen is laid\u2011back, curious, and adaptable. He enjoys adventure but doesn\u2019t need to be the center of attention. He\u2019s the pup who happily trots along, takes everything in, and then settles down for a nap. Jaxen will be a great fit for a family looking for a balanced, friendly companion.",
       "LastIntakeUnixTime": "1775302440",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778089170"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296940",
+          "AttributeName": "Not potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778266050"
     },
     {
       "ID": "3479",
@@ -3214,37 +3378,6 @@
       "LastUpdatedUnixTime": "1777250211"
     },
     {
-      "ID": "2726",
-      "Internal-ID": "213180677",
-      "Name": "Honey (fka Betty White)",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1740549600,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/253656fb4cc98d790e72fcd4d00dfd87/87c74274114b471481b8656eec47d5d5.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/253656fb4cc98d790e72fcd4d00dfd87/87c74274114b471481b8656eec47d5d5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f899866512093d0cc339c70e20ae2ab2/9ce85cdd915e6050950809c170922f2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b18f1b57c99bea054c6191bd4f469384/42783779d5a5a46e3458e86ddde10a35.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Unknown",
-      "Color": "Cream",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1772258400",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778165572"
-    },
-    {
       "ID": "3453",
       "Internal-ID": "213344907",
       "Name": "Sunday",
@@ -3965,7 +4098,7 @@
     {
       "ID": "3545",
       "Internal-ID": "213603738",
-      "Name": "Beagle #7 (Freddie)",
+      "Name": "Freddie",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -3999,7 +4132,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778170383"
+      "LastUpdatedUnixTime": "1778259596"
     },
     {
       "ID": "3546",
@@ -4045,7 +4178,7 @@
     {
       "ID": "3547",
       "Internal-ID": "213603747",
-      "Name": "Beagle #9 (Doug)",
+      "Name": "Doug",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -4082,12 +4215,12 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778170383"
+      "LastUpdatedUnixTime": "1778259582"
     },
     {
       "ID": "3548",
       "Internal-ID": "213603748",
-      "Name": "Beagle #10 (George)",
+      "Name": "George",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -4124,7 +4257,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778170482"
+      "LastUpdatedUnixTime": "1778259850"
     },
     {
       "ID": "3549",
@@ -4333,6 +4466,37 @@
         }
       ],
       "LastUpdatedUnixTime": "1778007289"
+    },
+    {
+      "ID": "2726",
+      "Internal-ID": "213180677",
+      "Name": "Honey",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Foster to Adopt",
+      "InFoster": true,
+      "CurrentWeightPounds": "20",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1740549600,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/253656fb4cc98d790e72fcd4d00dfd87/87c74274114b471481b8656eec47d5d5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/253656fb4cc98d790e72fcd4d00dfd87/87c74274114b471481b8656eec47d5d5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f899866512093d0cc339c70e20ae2ab2/9ce85cdd915e6050950809c170922f2d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b18f1b57c99bea054c6191bd4f469384/42783779d5a5a46e3458e86ddde10a35.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Unknown",
+      "Color": "Cream",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1772258400",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778259710"
     },
     {
       "ID": "492",
@@ -4590,29 +4754,32 @@
       "LastUpdatedUnixTime": "1778116885"
     },
     {
-      "ID": "3455",
-      "Internal-ID": "213344915",
-      "Name": "Mumford",
-      "LitterGroupId": 9483002,
+      "ID": "3460",
+      "Internal-ID": "213355158",
+      "Name": "Oreo",
+      "LitterGroupId": 9483955,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "7.36",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1773378000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aab29a43157d75a2e6ff9d9559c65a65/2921dfa985bc8d04f5e36b9c271357b5.jpg",
+      "CurrentWeightPounds": "20.14",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1766901600,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/863de6c7d923c14e88729615c8a6047f/ccc1d2e4d54881f17ef3852929778170.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/aab29a43157d75a2e6ff9d9559c65a65/2921dfa985bc8d04f5e36b9c271357b5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6f525d01d28dd4c29eeb99be293637c9/da8a68daa0f72ea228eb5b40bb9c376b.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/863de6c7d923c14e88729615c8a6047f/ccc1d2e4d54881f17ef3852929778170.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/53a28e4f42811c94828b41fbabeedced/54a67ffe25cf4970a0c1f23a10741dac.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/03032b3eb67dcd70fbf55f911d53db5d/e11010ad722586b87d4ab7867bbff6c9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1cd54b7f60d4e6750ff64a426b45900/72c6a948bc80982c946369642d8f8c31.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e823f488c04a27c7caf77f169d232549/213a6c21c73c6da1f16e509c3675fc0e.jpeg"
       ],
       "Videos": [],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "Tan/Brown",
-      "Pattern": "Badger",
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
       "AdoptionFeeGroup": {
         "Id": 37340,
         "Name": "Puppy + S/N deposit",
@@ -4620,10 +4787,56 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Mumford is a social butterfly of a puppy with a tail that doesn\u2019t stop wagging. He\u2019s adventurous and loves to be around people. He\u2019ll follow you around wherever he goes. We have no idea what breed he is - his mom is Honey and she weighs about 25 lbs. He\u2019s trending a little bigger than that so it will be fun to see what he grows up to be!  \n\n\n\nAdopting a newborn puppy from Fetch:\n\nAt Fetch, we\u2019re proud of the loving, healthy puppies born and raised in our care. We have raised more than 250 newborn puppies and counting, in addition to countless litters transferred to us when they were just days old. Each puppy receives round-the-clock attention, expert care, and a whole lot of love from the very start. Our team of volunteers work tirelessly to make sure they get everything they need, from socialization and basic training to regular veterinary visits. By the time our puppies are ready to go to their forever homes, they are well-prepared to join families and bring joy to their adopters\u2019 lives.\n\nAdopting a puppy from Fetch means you don\u2019t have to go to a breeder to find a healthy, happy companion. Our puppies are raised to be adaptable, comfortable around people and other animals, and ready to embrace new experiences. We take time to observe each puppy\u2019s unique personality, so when it\u2019s time for them to join a new family, we make sure it\u2019s the right fit. This individualized approach helps our puppies thrive in their new homes and brings joy to everyone involved. We have a select few foster homes that specialize in raising litters, and have each raised dozens of litters for our rescue. Having an experienced eye care for these puppies as they grow up is critical to their long-term success.\n\nWhen you choose to adopt a puppy through Fetch, you\u2019re not only welcoming a wonderful puppy into your family, but you\u2019re also helping to save more lives. Each adoption frees up space and resources for other dogs who need our care, allowing us to help more animals find loving homes. Adopting a puppy from Fetch Wisconsin Rescue gives you a lifelong companion and supports our mission to save lives\u2014one pup at a time.",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778253245"
+      "Description": "",
+      "LastIntakeUnixTime": "1777303699",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637008",
+          "AttributeName": "Good around horses",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778259888"
     },
     {
       "ID": "3482",
@@ -5072,7 +5285,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778125890"
+      "LastUpdatedUnixTime": "1778259615"
     },
     {
       "ID": "3515",
@@ -5310,86 +5523,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778124129"
-    },
-    {
-      "ID": "1475",
-      "Internal-ID": "213179817",
-      "Name": "Annie (fka Drip)",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1590987600,
-      "Age": 71,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/485a83e520b109bc8ca46f21b8bfd049/95de6a62c758e960f31da9d668f01ba4.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/485a83e520b109bc8ca46f21b8bfd049/95de6a62c758e960f31da9d668f01ba4.png"
-      ],
-      "Videos": [],
-      "Breed": "Catahoula Leopard Dog",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Annie is a sweet girl who does well with predictable environments and friendly faces. She spends most of her days relaxing inside or laying out in the sun. She has torn both of her CCLs in the past year so she isn't able to go on long walks, although she does still like to play outside and go for short stints around the block. She is on a few medications for her skin allergies, anxiety and pain associated with her torn ligaments. She needs slow introductions to new people and new dogs and would do best in a home with no children or cats. We're looking for a loving and relaxed home for her to spend her days. ",
-      "LastIntakeUnixTime": "1777072734",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296938",
-          "AttributeName": "Potty-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778186970"
     },
     {
       "ID": "2705",
