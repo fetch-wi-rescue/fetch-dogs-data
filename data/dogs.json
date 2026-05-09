@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T23:41:38Z",
+  "updated": "2026-05-09T07:24:12Z",
   "count": 82,
   "animals": [
     {
@@ -907,7 +907,7 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "296942",
@@ -1411,16 +1411,11 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296940",
-          "AttributeName": "Not potty-trained",
           "Publish": "Yes"
         },
         {
@@ -1516,16 +1511,11 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296940",
-          "AttributeName": "Not potty-trained",
           "Publish": "Yes"
         },
         {
@@ -1623,16 +1613,11 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296940",
-          "AttributeName": "Not potty-trained",
           "Publish": "Yes"
         },
         {
@@ -1738,16 +1723,11 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296940",
-          "AttributeName": "Not potty-trained",
           "Publish": "Yes"
         },
         {
@@ -1842,16 +1822,11 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296940",
-          "AttributeName": "Not potty-trained",
           "Publish": "Yes"
         },
         {
@@ -3215,16 +3190,11 @@
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
-          "Publish": "Yes"
+          "Publish": "No"
         },
         {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296940",
-          "AttributeName": "Not potty-trained",
           "Publish": "Yes"
         },
         {
@@ -3420,7 +3390,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1696827600,
-      "Age": 30,
+      "Age": 31,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg"
@@ -3480,7 +3450,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778252378"
+      "LastUpdatedUnixTime": "1778304474"
     },
     {
       "ID": "3500",
@@ -3492,7 +3462,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "6.875",
+      "CurrentWeightPounds": "9.25",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1774587600,
@@ -3516,7 +3486,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778252315"
+      "LastUpdatedUnixTime": "1778303777"
     },
     {
       "ID": "3501",
@@ -3528,7 +3498,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "6.875",
+      "CurrentWeightPounds": "8.8",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1774587600,
@@ -3552,7 +3522,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778252305"
+      "LastUpdatedUnixTime": "1778304131"
     },
     {
       "ID": "3502",
@@ -3564,7 +3534,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.3125",
+      "CurrentWeightPounds": "9.2",
       "Size": "Large (60-99)",
       "Altered": "No",
       "DOBUnixTime": 1774587600,
@@ -3588,7 +3558,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778252293"
+      "LastUpdatedUnixTime": "1778304433"
     },
     {
       "ID": "3503",
@@ -3600,7 +3570,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.875",
+      "CurrentWeightPounds": "9.5",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1774587600,
@@ -3624,7 +3594,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1777602268"
+      "LastUpdatedUnixTime": "1778303411"
     },
     {
       "ID": "3523",
@@ -4767,7 +4737,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1554786000,
-      "Age": 84,
+      "Age": 85,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5e3945296c100b92a38b514c6c96d6e2/8dd84dd6bcd0ba3f85da6d1d37c7ea48.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/5e3945296c100b92a38b514c6c96d6e2/8dd84dd6bcd0ba3f85da6d1d37c7ea48.jpg",
@@ -5042,7 +5012,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778028967"
+      "LastUpdatedUnixTime": "1778299418"
     },
     {
       "ID": "3490",
@@ -5155,7 +5125,13 @@
       "Breed": "Chihuahua",
       "Color": "Black/White",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Meet Your New Best Friend & Built-In Entertainer \ud83d\udc3e\n\nThis scruffy 2-year-old Chihuahua mix is full of personality and ready to bring nonstop joy to his forever home! If you\u2019re looking for a dog who is equal parts playful, affectionate, and entertaining\u2014this is your guy.\n\nHe\u2019s not shy in the slightest and absolutely loves people. Whether it\u2019s playtime, cuddle time, or just following you around the house, he\u2019s happiest being part of the action. He also does great with other dogs, gets along well with cats, and is kid-friendly\u2014making him a wonderful addition to many types of homes.\n\nHe has a medium energy level, meaning he\u2019s always up for some fun, but also knows how to settle down for naps and relax when the day winds down. He\u2019s still working on his manners (he may jump up to say hello\u2014he\u2019s just excited!), but he\u2019s very food motivated, which makes training a breeze with a little consistency.\n\nHe\u2019s currently learning house training. He sleeps in his crate at night and is getting the hang of his nighttime schedule. One thing to note\u2014he\u2019s a bit of a curious explorer and can be an escape artist, so a secure environment and attentive owner will help keep him safe.\n\nThis little guy is bursting with love, charm, and playful energy. If you\u2019re looking for a friendly, fun-loving companion who will keep you smiling every day, he might just be your perfect match. \ud83d\udc9b",
       "LastIntakeUnixTime": "1776182160",
       "Attributes": [
@@ -5200,7 +5176,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778259615"
+      "LastUpdatedUnixTime": "1778299633"
     },
     {
       "ID": "3515",
