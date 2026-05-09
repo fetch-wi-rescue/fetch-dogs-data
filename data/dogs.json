@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T14:36:29Z",
-  "count": 80,
+  "updated": "2026-05-09T18:05:15Z",
+  "count": 79,
   "animals": [
     {
       "ID": "2754",
@@ -2377,6 +2377,7 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fe3b582f9e04e0ea7a53cea8e7218911/ff80f078bb70ac2559ae4842f01a9923.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/fe3b582f9e04e0ea7a53cea8e7218911/ff80f078bb70ac2559ae4842f01a9923.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/60caa5603f37e42cf957d235f51cbe01/3cc4c1f5420951c7440cd61407f7200c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/14a9f40199a146a554dace27486fa33b/3015858b3c6503ba38ce14730678ec46.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/607aee8082777afc955cd22e5825263e/17154029fb5af590abde5d4a53a8f4b0.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/69460b8d1440c90ea6a5190eb07fb19c/363a97b9ac39d4089f8ae039b5428994.jpeg",
@@ -2406,8 +2407,79 @@
       },
       "Description": "Meet Bongo\nBongo is a Great Dane, and at first you notice his size. But very quickly, what stands out is the feeling he brings into a space. He has a calm, grounded presence that softens a room and makes it feel lived in and warm. He does not overwhelm a home. He settles into it, and somehow makes it feel more whole.\nHe is deeply connected to his person and happiest when he is nearby, part of whatever you are doing. There is an ease to him that makes daily life feel more settled.\n\nWhat makes Bongo special is the balance he brings. Outside, he is joyful and full of life. Walks are his favorite thing. He gets genuinely excited, loves being outside, and takes in the world with curiosity and energy. Inside, he shifts completely. He is calm, quiet, and content to just be near you. He is not a high-energy, toy-driven dog. His energy shows up as happiness on a walk and steady presence at home.\n\nHe is wonderful with people of all ages and always gentle. He enjoys attention but is not pushy, and there is no aggression in him at all. In public, he is relaxed and easy to be around. People naturally gravitate toward him, and when they do, he melts, rolling onto his back and offering his belly. He brings smiles everywhere he goes.\n\nAt home, he is incredibly easy. He is respectful, does not get into things, and has shown no interest in getting on furniture. He just wants to be near you.\n\nBongo is 8 years old, healthy, and happy. With a simple routine of joint supplements, a senior diet, and fish oil, he is thriving. He loves long walks and being outside just as much as he loves being home with his person.\n\nHe does have separation anxiety, so he needs a home where someone is around most of the time. He is not destructive, just deeply devoted and most comfortable when he knows where his person is.\n\nBongo is the right dog for a home that:\n- Has someone around most of the day\n- Wants a close, affectionate companion\n- Values calm, steady energy with joyful moments outside\n\nBongo is not just a dog you come home to. He is a dog you live life alongside.",
       "LastIntakeUnixTime": "1776130680",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778195931"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778339715"
     },
     {
       "ID": "3508",
@@ -4820,109 +4892,6 @@
       "LastUpdatedUnixTime": "1778097666"
     },
     {
-      "ID": "3483",
-      "Internal-ID": "213450849",
-      "Name": "Dave",
-      "LitterGroupId": 9489846,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "16.2",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1768543200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/57dd1bc5f3da1fe7b558c1337acb9e4a/f716a3792cd04d64e347230f73af5e80.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/57dd1bc5f3da1fe7b558c1337acb9e4a/f716a3792cd04d64e347230f73af5e80.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff949b060e298fc7a013769f13143443/294e2e0a5450aebb7d2e39a45b19c0bc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76ad487b6098a296a285425af5d08a78/e488531557ca3720cc954be77717b14d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dcf56a933d6b563d0fe9fb4811dd60eb/1deaaab1df78755344e09d4eb9015735.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/09de536828d799b39dfd13c490f89a30/c244b50a2d1cbed8c5280eb557bbbb5d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95da959de00f10ee14cb628f03a69a93/37e16fc837ca85c9ec090ee3a098878e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1086b28ac84c378aea7f1af2a4d6cdf6/d27d30e7d91eb7512464762e204b8fe2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/371486a89efc92f5f3335838f2b43ab9/31ae3c72758ab06a29b243fc21c05d30.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/337b0dd7016a7f2231e03857f15a3249/c4c63b88f956f0e17037c3f37074d3ce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b0293960f6a88d432df456a86686bc4/284432b6fd19194017083f512d39ab86.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/020191f7719f71f4fd12793f4ac1da25/f1430f0e28909d242414d7c950367a09.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e2ac0101875dd5785890f5df13ca8738/0512329e353685c933e06fa42ab932a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8d834dca252646e02af0109f709a368/94f4471348b94a7aea4b3404a74cb203.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/950a9303a516a72123cc0c151fc03c34/148e877ea5081498c1dde74b1466794d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1986c97f5d44f9aaa12f0f42be4e21e/887a73b60cb26351a47f0b11ef670ec6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ce720147381081accb9034d6b21d7b68/794af12d1dde2a4f3a13c8ea150b215c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9bbf8a09c47ca2ee6cd7d09f74c50408/c9ed2a2ef2de2ffd88e36fc50b1ce393.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77cba60d3b39de4aebc93a7f570c5fa2/7f9550f11b9d55334646be8389ebc622.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b62f09ab5f3c7078f93d8d6cd2de00a/cd5fda051f24c3b828c3b8d6cc378cc6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c97f7d6e7657c80b42d7661150f287fe/6ad64e088f22050e38a532bccf3bd210.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a5afc57e3cf113f3d19257548c5783b2/30fbe66001d1572c60dafbe6d55d9848.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a629f1daff013eb5dc977615952d28f4/14918668950402c7a5b939fbfdebfeeb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1f6e05f1a8063ca955574eeb19287926/b56e5453cd06d0c73dfe99e25d1b1b44.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c781369a6e8cf4c33ef2899a90147a14/8ddf08a96c963c217484ad02a05632a6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e379294af8712736838b1ea868bdceea/fe34984f911d32bd56195abf6095ad6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2eaa7ed2bdb8299902a425fb9cae74c/b6581261cbba7133bb4b2e5bd2ef755d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5897cd1eac395ef0822c6843def54284/7a057606e2947b6c60334fbfb75cd07c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e0c20c2efbba3d493e25e603975a8475/6e3e58abe66b2bafe27f6b7a46197a4a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Chocolate Labrador/Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Dave, your new best friend! Dave is a 3 month old lab mix with all your typical lab traits. He\u2019s incredibly friendly, smart, and very snuggly. Dave is still learning the ropes of crate training and potty training, but does great with consistency! He loves people and is great with his three canine foster siblings. Dave can\u2019t wait to soak up the sun with his forever family this Spring!",
-      "LastIntakeUnixTime": "1775797020",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778335915"
-    },
-    {
       "ID": "3490",
       "Internal-ID": "213450869",
       "Name": "Pinkie",
@@ -5167,7 +5136,13 @@
       "Breed": "Mixed Breed (Medium)",
       "Color": "Grey",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Compton is a 2 year old Blue Lacy Mix (state dog of Texas; herding dog). Please read the Blue Lacy dog descriptions online to know more about his personality traits as they do fit him. He is sensitive to correction so a firm gentle hand is needed.\n\nHe comes to us from our Alabama partner where he was found as a stray. He was in a local shelter for a couple of weeks and then brought to our partner. He was treated for heartworm (shaved patches on back) and is now in Wisconsin ready for the good life.\n\nEnergy Level:\n\nCompton is a medium to medium-high energy level pup. He loves playing with his foster brothers in the evenings. He also enjoys a 1.25 mile walk when the weather is nice and could easily go all day if you are looking for an adventure buddy. He loves to snuggle up to his foster mom at the end of the day or on the weekends when you want to stay inside. He\u2019s a tad velcro-ish but is also independent and will go find his favorite look out spot on top of the kennels or by the deck door in a sunny spot to watch out for squirrels.\n\nHe does not get destructive but does like to be busy.\n\nTraining:\n\nCompton is mastering commands like off, come, go around, and leave it. This boy is a dream on a leash. No pulling and just walked at a normal pace with the other dogs.\n\nCrate Training:\n\nCompton loves his crate. He can be crated alone or next to the other dogs in the house.  He also does excellent out of the crate at night.  If there weren't cats in the house his foster would let him free roam.\n\nPotty Training:\n\nCompton is fully potty trained.\n\nGrooming:\n\nCompton has a short hair coat. It\u2019s sleek and will require minimal grooming. He\u2019s not a fan of baths and will need work on that or you can keep him clean with grooming wipes.\n\nDogs:\n\nCompton is dog friendly and loves to play with his two foster brothers. We also recently had a Fetch alum come stay with us for a week and he did great. Compton\u2019s signature move, like any herding dog, is to bite ankles to get a dog playing. He also shakes off after a bit of rough play now and realizes that playing is fun.\n\nCompton attends doggie daycare and just morphs along with the pack throughout the day. He still prefers to play with the dogs that he knows well.\n\nCats:\n\nCompton lives with 2 cats. They mostly stay upstairs, but when he sees them he wants to chase them. He will jump a cat gate to get to them. He doesn\u2019t want to all out kill them but I wouldn\u2019t trust him with cats. It would take many months to get him cat trained if even possible.\n\nKids:\n\nCompton has met young kids at meet and greet events that are the same height as him and does just fine with them. He seems to love all people.\n\nPeople:\n\nCompton is great with people that have come to visit. He wants to say hi and then is off playing with the dogs. At meet and greet events he\u2019s been giving kisses to everyone that stops by to say hello.\n\nCompton is a great dog and a joy to have as a foster dog. He\u2019s actually quite easy once you get to know him.\n\nApply to meet Compton today!",
       "LastIntakeUnixTime": "1767420000",
       "Attributes": [
@@ -5242,7 +5217,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778124129"
+      "LastUpdatedUnixTime": "1778347857"
     },
     {
       "ID": "2705",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T14:36:30Z",
+  "updated": "2026-05-09T18:05:15Z",
   "animals": [
     {
       "ID": "3458",
@@ -588,6 +588,112 @@
       "LastUpdatedUnixTime": "1778299633",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-09T14:36:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3483",
+      "Internal-ID": "213450849",
+      "Name": "Dave",
+      "LitterGroupId": 9489846,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "16.2",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1768543200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/57dd1bc5f3da1fe7b558c1337acb9e4a/f716a3792cd04d64e347230f73af5e80.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/57dd1bc5f3da1fe7b558c1337acb9e4a/f716a3792cd04d64e347230f73af5e80.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff949b060e298fc7a013769f13143443/294e2e0a5450aebb7d2e39a45b19c0bc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76ad487b6098a296a285425af5d08a78/e488531557ca3720cc954be77717b14d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dcf56a933d6b563d0fe9fb4811dd60eb/1deaaab1df78755344e09d4eb9015735.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/09de536828d799b39dfd13c490f89a30/c244b50a2d1cbed8c5280eb557bbbb5d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/95da959de00f10ee14cb628f03a69a93/37e16fc837ca85c9ec090ee3a098878e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1086b28ac84c378aea7f1af2a4d6cdf6/d27d30e7d91eb7512464762e204b8fe2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/371486a89efc92f5f3335838f2b43ab9/31ae3c72758ab06a29b243fc21c05d30.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/337b0dd7016a7f2231e03857f15a3249/c4c63b88f956f0e17037c3f37074d3ce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b0293960f6a88d432df456a86686bc4/284432b6fd19194017083f512d39ab86.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/020191f7719f71f4fd12793f4ac1da25/f1430f0e28909d242414d7c950367a09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e2ac0101875dd5785890f5df13ca8738/0512329e353685c933e06fa42ab932a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8d834dca252646e02af0109f709a368/94f4471348b94a7aea4b3404a74cb203.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/950a9303a516a72123cc0c151fc03c34/148e877ea5081498c1dde74b1466794d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1986c97f5d44f9aaa12f0f42be4e21e/887a73b60cb26351a47f0b11ef670ec6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce720147381081accb9034d6b21d7b68/794af12d1dde2a4f3a13c8ea150b215c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9bbf8a09c47ca2ee6cd7d09f74c50408/c9ed2a2ef2de2ffd88e36fc50b1ce393.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77cba60d3b39de4aebc93a7f570c5fa2/7f9550f11b9d55334646be8389ebc622.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b62f09ab5f3c7078f93d8d6cd2de00a/cd5fda051f24c3b828c3b8d6cc378cc6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c97f7d6e7657c80b42d7661150f287fe/6ad64e088f22050e38a532bccf3bd210.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a5afc57e3cf113f3d19257548c5783b2/30fbe66001d1572c60dafbe6d55d9848.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a629f1daff013eb5dc977615952d28f4/14918668950402c7a5b939fbfdebfeeb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1f6e05f1a8063ca955574eeb19287926/b56e5453cd06d0c73dfe99e25d1b1b44.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c781369a6e8cf4c33ef2899a90147a14/8ddf08a96c963c217484ad02a05632a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e379294af8712736838b1ea868bdceea/fe34984f911d32bd56195abf6095ad6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2eaa7ed2bdb8299902a425fb9cae74c/b6581261cbba7133bb4b2e5bd2ef755d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5897cd1eac395ef0822c6843def54284/7a057606e2947b6c60334fbfb75cd07c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e0c20c2efbba3d493e25e603975a8475/6e3e58abe66b2bafe27f6b7a46197a4a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Chocolate Labrador/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Dave, your new best friend! Dave is a 3 month old lab mix with all your typical lab traits. He\u2019s incredibly friendly, smart, and very snuggly. Dave is still learning the ropes of crate training and potty training, but does great with consistency! He loves people and is great with his three canine foster siblings. Dave can\u2019t wait to soak up the sun with his forever family this Spring!",
+      "LastIntakeUnixTime": "1775797020",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778335915",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-09T18:05:15Z",
       "status": "pending"
     }
   ]
