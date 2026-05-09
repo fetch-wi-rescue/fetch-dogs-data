@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T10:39:14Z",
-  "count": 82,
+  "updated": "2026-05-09T14:36:29Z",
+  "count": 80,
   "animals": [
     {
       "ID": "2754",
@@ -3374,7 +3374,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1773435600",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1777562834"
+      "LastUpdatedUnixTime": "1778335646"
     },
     {
       "ID": "3498",
@@ -4920,99 +4920,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778116327"
-    },
-    {
-      "ID": "3488",
-      "Internal-ID": "213450859",
-      "Name": "Darya",
-      "LitterGroupId": 9489846,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1769407200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93cf1c6f445e51d79935e788d03fbb85/888d10515803293a1ece09cec56e9816.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/93cf1c6f445e51d79935e788d03fbb85/888d10515803293a1ece09cec56e9816.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bf35152d45e635c01392c1f29f9367c5/b1ceb38e6c570fca64304ce42221b773.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f3f3fb4e884f12db3088acee36dc45bf/d856a66891947ecfe87c7fa61d72a2f1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf768d897c4986aaf26b7744721577b8/7203898b803ffc12aab13be748aabf6f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e92337aefde8438143345813b86dfbf/a98c338523e8bdfe1f650b3e68a0d019.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f03b95d52e9856ccc343e606d82d5d9b/5144f950a8327aa3ea3e4fda4113e826.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/da4b55b4f814e67d918495173cf8eff5/a9be1df73d289025fc33afae46544c79.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Chocolate Labrador/Mixed Breed (Large)",
-      "Color": "Golden/Yellow",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Darya (nickname = Ari) is an adorable 11-week-old Lab mix puppy who\u2019s gonna to steal your heart and grow into the best companion!\n\n\u2728 Why you\u2019ll love Ari:\n\n* Sweet and affectionate demeanor\n* Quick learner - already knows sit and close to mastering down, picks up on routines and boundaries quickly\n* Paper trained and doing great with house training\n* Sleeps in a crate at night - been waking up only once to potty at night\n* Great with kids, very gentle and friendly\n* Loves to be part of the action - will happily \u201chelp\u201d with a variety of household activities and even assist with loading the dishwasher (tongue included \ud83d\ude04)\n* Total cuddle bug who loves to snuggle\n* Food-motivated and attentive (aka easy to train!)\n* Curious about the world, but cautious and looks to her people for reassurance when needed\n* Playful with the cutest zoomies you\u2019ve ever seen\n* Generous with puppy kisses \ud83d\udc95\n\nAri is an easy going girl who will do well in a variety of settings - she is sure to grow into a wonderful, super-loved member of the family!",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778299418"
+      "LastUpdatedUnixTime": "1778335915"
     },
     {
       "ID": "3490",
@@ -5098,85 +5006,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778125269"
-    },
-    {
-      "ID": "3505",
-      "Internal-ID": "213471780",
-      "Name": "Guac Norris",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "21.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1713070800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/617d03eb4a996d2cd919c7b1451ad0fd/5367cd74d5d71c5f75859dfa5e58d52f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/617d03eb4a996d2cd919c7b1451ad0fd/5367cd74d5d71c5f75859dfa5e58d52f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/34771e3ce74efca00f8e4334fb34a0cc/d544661008a78a106895c5805ba4c36e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ffc01b0f09735cf9a6c777acaf88eb9/81d8e343c903a4129f5933c38320b5a3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5a635a362577cc5bdd2fc1bc98c37750/c489aefc317b43e257d2fcb0974d221d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Your New Best Friend & Built-In Entertainer \ud83d\udc3e\n\nThis scruffy 2-year-old Chihuahua mix is full of personality and ready to bring nonstop joy to his forever home! If you\u2019re looking for a dog who is equal parts playful, affectionate, and entertaining\u2014this is your guy.\n\nHe\u2019s not shy in the slightest and absolutely loves people. Whether it\u2019s playtime, cuddle time, or just following you around the house, he\u2019s happiest being part of the action. He also does great with other dogs, gets along well with cats, and is kid-friendly\u2014making him a wonderful addition to many types of homes.\n\nHe has a medium energy level, meaning he\u2019s always up for some fun, but also knows how to settle down for naps and relax when the day winds down. He\u2019s still working on his manners (he may jump up to say hello\u2014he\u2019s just excited!), but he\u2019s very food motivated, which makes training a breeze with a little consistency.\n\nHe\u2019s currently learning house training. He sleeps in his crate at night and is getting the hang of his nighttime schedule. One thing to note\u2014he\u2019s a bit of a curious explorer and can be an escape artist, so a secure environment and attentive owner will help keep him safe.\n\nThis little guy is bursting with love, charm, and playful energy. If you\u2019re looking for a friendly, fun-loving companion who will keep you smiling every day, he might just be your perfect match. \ud83d\udc9b",
-      "LastIntakeUnixTime": "1776182160",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778299633"
     },
     {
       "ID": "3515",
