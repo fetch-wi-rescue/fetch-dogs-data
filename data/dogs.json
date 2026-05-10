@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T11:31:43Z",
+  "updated": "2026-05-10T15:33:18Z",
   "count": 78,
   "animals": [
     {
@@ -319,10 +319,71 @@
         "Discount": 350,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "When you Wish upon a star...you will meet the sweetest princess you have ever met. With her beautiful black coat with white markings and her soulful eyes, she will melt your heart. Her tail is always wagging and she turns her body sideways while she is doing it. Mornings are her favorite time of day as everything is brand new again.\n\nWish is a true Southern belle who enjoys running around my fenced in yard whether she has the zoomies or you\u2019re throwing a ball. I call her my little lady. She has learned to love the snow and will pick up pieces and throw them around or eat them. I keep telling her she doesn't need to do that as there is a pail of water in the house.\n\nWe\u2019ve been working on sit, touch, look, off, leave it, and quiet. She has the sit, touch and look down pat but still needs guidance for off, leave it, and quiet. I have no doubt she will understand that with time. She is very treat motivated and sits quietly waiting for her breakfast or dinner. She is a younger dog, probably about two so consistent training will be the key to her success. Perhaps a basic training class to help her learn and provide additional socialization will help her reach her full potential.\n\nShe is super sweet, a little shy, loving and snuggly and will follow you around the house. She\u2019s also playful and enjoys walks (still learning leash walking) and toys. She loves car rides and sits quietly looking around. She has no issues being in her crate and willingly goes in there before I even show her a treat. She is good for about eight hours so I do have a friend come and let her out while I am at work.\n\nShe gets along well with my resident dogs and has met a few others, too. She loves kids and is very gentle and patient with them. I have not found her to be afraid of storms, loud noises, or even the vacuum cleaner although she wants to attack it. When I redirect her from something I don't want her to do to something I do want her to do I simply say Yes and give her a treat to let her know that is what I want. She is great at puzzle games and loves her snuffle mat and lick mat.\n\nWish recently completed heartworm treatment and her restrictions were lifted, meaning she can go back to being a dog. We are slowly building up her tolerance to exercise and playing. She enjoys having a fenced in backyard as it gives her the freedom to do zoomies (not right now of course), sniff in the yard, and basically be an honest to goodness dog.\n\nIf you believe that wishing on a star will make your dreams come true, then come meet Wish...Are you the one to make her dreams come true?\n",
       "LastIntakeUnixTime": "1776603328",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778373864"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778423815"
     },
     {
       "ID": "2350",
@@ -2530,7 +2591,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "12.4",
+      "CurrentWeightPounds": "14.4",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1767765600,
@@ -2602,7 +2663,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777807366"
+      "LastUpdatedUnixTime": "1778420417"
     },
     {
       "ID": "3511",
