@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T00:08:09Z",
+  "updated": "2026-05-10T08:23:13Z",
   "count": 78,
   "animals": [
     {
@@ -302,7 +302,11 @@
       "Age": 29,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cd2fbd5e559e21c9cc11f45666823950/967bc285801f3a25f5e7c02eb0af3f73.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cd2fbd5e559e21c9cc11f45666823950/967bc285801f3a25f5e7c02eb0af3f73.png"
+        "https://new-s3.shelterluv.com/profile-pictures/cd2fbd5e559e21c9cc11f45666823950/967bc285801f3a25f5e7c02eb0af3f73.png",
+        "https://new-s3.shelterluv.com/profile-pictures/d4e17dade1352a8ef0b1c5c4f082ca2c/a8aa921ad5457b5bed0631ba28ec4d79.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23a8b603b65eb8949c87a2d29f87f6ab/23fe4434642a5bd231159db7b0240b97.png",
+        "https://new-s3.shelterluv.com/profile-pictures/f5bbb5d079fd3e46bb8a8e1b94b87f15/30968936a28c2aff7ad6a04aa6fcbf49.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/44a63ee0f3801615aa375d8f8c91f481/af5b617f08a18685b3bfc9cfd1e901ce.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mix",
@@ -318,7 +322,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776603328",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778371077"
+      "LastUpdatedUnixTime": "1778373864"
     },
     {
       "ID": "2350",
@@ -2145,7 +2149,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1768024800,
-      "Age": 3,
+      "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31aba8a03c5070a1fd7f12d4550f49d9/a9032b32ac0d3e51f0738d3e41291c78.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/31aba8a03c5070a1fd7f12d4550f49d9/a9032b32ac0d3e51f0738d3e41291c78.jpg",
@@ -2246,7 +2250,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1768024800,
-      "Age": 3,
+      "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
@@ -2322,7 +2326,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1768024800,
-      "Age": 3,
+      "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/70a67a2ce8b2553a8349ea2d646b54e1/466c210c1abd209af4dcc69a8490a986.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/70a67a2ce8b2553a8349ea2d646b54e1/466c210c1abd209af4dcc69a8490a986.jpeg",
@@ -3020,6 +3024,60 @@
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
       "LastUpdatedUnixTime": "1777865020"
+    },
+    {
+      "ID": "3532",
+      "Internal-ID": "213587853",
+      "Name": "Henry",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "30",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1683003600,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0f2d75e98772b1291a1762f4c5448cb7/4fdde2aef629389975033011b526549e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/0f2d75e98772b1291a1762f4c5448cb7/4fdde2aef629389975033011b526549e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "AVAILABLE AFTER 5/26.\n\nMeet and greets accepted in the meantime.\n\nMeet Sir Henry\u2014the sweetest little Ridglan beagle ready for his next chapter.\nSir Henry is off to a great start with potty training and is learning the ropes on a leash. He wasn\u2019t totally sold on his first bath, but his playful splashing suggests he might just become a water lover in time!\nThis gentle boy is friendly with dogs, cats, and his person. He\u2019s very submissive, incredibly affectionate, and happiest when he\u2019s involved in every aspect of home living. He sleeps through the night, loves being outside, and has a curious, observant nature\u2014always interested in what you\u2019re up to. While he enjoys following you around, he prefers not to be chased\u2014he likes to set the pace of his interactions.\nHenry has a soft spot for sniffing adventures and would thrive with another dog companion to help him continue building confidence. He also has a quirky love for lounging among flowers\u2014future garden buddy, perhaps?\nHenry is looking for a patient, understanding adopter who will go slow and let him blossom at his own pace. In return, you\u2019ll get a loyal, loving companion who\u2019s well worth the wait \ud83d\udc9b",
+      "LastIntakeUnixTime": "1777687620",
+      "Attributes": [
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778374931"
     },
     {
       "ID": "3538",
@@ -3747,59 +3805,6 @@
       "LastUpdatedUnixTime": "1777905176"
     },
     {
-      "ID": "3532",
-      "Internal-ID": "213587853",
-      "Name": "Henry",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "30",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778169789"
-    },
-    {
       "ID": "3533",
       "Internal-ID": "213587856",
       "Name": "Indie",
@@ -4279,12 +4284,27 @@
       "LastIntakeUnixTime": "1777945841",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778259582"
+      "LastUpdatedUnixTime": "1778372472"
     },
     {
       "ID": "3548",
@@ -4326,7 +4346,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778259850"
+      "LastUpdatedUnixTime": "1778383912"
     },
     {
       "ID": "3549",
@@ -4932,7 +4952,7 @@
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1712725200,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c702706001c7863e451c93b425890232/c92560c9435519c8dceb1c5734a70e6e.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/c702706001c7863e451c93b425890232/c92560c9435519c8dceb1c5734a70e6e.jpg",
