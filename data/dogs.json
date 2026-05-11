@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T22:31:14Z",
-  "count": 78,
+  "updated": "2026-05-11T10:49:26Z",
+  "count": 77,
   "animals": [
     {
       "ID": "2754",
@@ -820,7 +820,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777424913"
+      "LastUpdatedUnixTime": "1778456866"
     },
     {
       "ID": "740",
@@ -2307,7 +2307,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "23",
+      "CurrentWeightPounds": "27",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1768024800,
@@ -2332,17 +2332,17 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "This husky pup is your classic eager-to-learn youngster\u2014curious, energetic, and figuring things out as he goes. He\u2019s working on his manners, kennel training, and house training, and doing just what you\u2019d expect from a puppy his age: making progress with some patience and consistency.\n\nHe does well with other dogs and cats and enjoys having buddies around, and would also do well as an only pet. He hasn\u2019t spent much time with kids yet, but based on his temperament, he\u2019d likely do well. \n\nIf you\u2019re looking for adventure and entertainment, Ranger is your guy!",
+      "Description": "Ranger is the goofiest guy you might ever meet! He is a rambunctious, curious, truly hilarious, and zany guy. On one hand, he is a TOTAL husky, and on the other... he's completely different!\nIn husky form: he really does not like to be confined. This guy wants free range of the house, believes he knows what's best at all times, is vocal (you'll never to struggle to understand what he's wanting), and is down for every adventure. He is active and also wildly intelligent.\nIn non-husky form: He has INCREDIBLE recall off-leash, wants to follow you everywhere, oversee every task (or actually just do it for you?), and most certainly wants to ensure no one ever intrudes!\nRanger has been getting kennel trained, but realistically he hates it (see: total husky). He does not want to be a kennel guy, and is working on building up house manners (and the humans' trust) to be left unkenneled during the day and while sleeping at night. He is mostly house trained and has gotten great at signaling when he needs to go out. He loves to learn new tricks/commands, and he does so quickly! He lives in a house with other dogs and cats, and would really love to live in a house with other dogs when he's adopted, but could be an only dog with the right family. He occasionally BORKS at the cats, but has not shown any interest or drive to try to hurt them, though the same is not true for the mice in the garage or the moles in the yard (though he was very proud to present them to us). He lives in a house with a fenced in yard and while that would also be his preference in a forever home, could also do okay otherwise with the right people. \nRanger has met several kids at a wide variety of ages and has done well with them. Occasionally in new settings he can be shy or suspicious of new people, and he watches his humans or foster dog siblings for cues on how to behave. \nRanger's ideal home would be one where he could be active, could have a confident leader (human and/or dog!), and could have his intelligent little brain engaged. He is a loyal, tenacious little guy who can't wait to find his hoomans!",
       "LastIntakeUnixTime": "1776389611",
       "Attributes": [
         {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
           "Publish": "Yes"
         },
         {
@@ -2353,6 +2353,11 @@
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
           "Publish": "Yes"
         },
         {
@@ -2369,9 +2374,14 @@
           "Internal-ID": "634889",
           "AttributeName": "Snuggle Pup",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777160594"
+      "LastUpdatedUnixTime": "1778458330"
     },
     {
       "ID": "3497",
@@ -2850,7 +2860,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "5.2",
+      "CurrentWeightPounds": "6.6",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1767191259,
@@ -2871,7 +2881,7 @@
       "Description": "Meet Peeps!\nLooking for the perfect mix of playful and peaceful? Meet Peeps, a 4-month-old terrier mix who\u2019s ready to steal your heart!\nPeeps has the best of both worlds\u2014she loves to play and explore, but she\u2019s just as happy curling up for cuddles once she\u2019s gotten her zoomies out. Her calm, easygoing nature makes her a wonderful companion for just about any home.\nWhy Peeps is amazing:\nPlayful and fun-loving personality\nSuper cuddly and affectionate\nAlready potty trained \nCrate trained and settles nicely\nCalm demeanor for such a young pup\nPerfect home:\nPeeps would thrive with someone ready to give her love, attention, and a little playtime each day\u2014she\u2019ll handle the rest with her sweet, chill personality.\nVery social with other dogs and kids.\nIf you\u2019re ready for a loyal little companion who\u2019s already off to a great start, Peeps might be your girl!",
       "LastIntakeUnixTime": "1776354996",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778126144"
+      "LastUpdatedUnixTime": "1778460397"
     },
     {
       "ID": "3521",
@@ -3034,7 +3044,7 @@
       "Description": "Meet Edmond, a tender\u2011hearted hound mix who\u2019s discovering the world at his own quiet pace. He\u2019s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you\u2019re someone he can trust. Once he does, you\u2019ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond\u2019s ideal home is one that understands the beauty of patience. Loud chaos isn\u2019t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he\u2019s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you\u2019re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778203459"
+      "LastUpdatedUnixTime": "1778457487"
     },
     {
       "ID": "3528",
@@ -3084,7 +3094,7 @@
       "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well\u2011earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She\u2019s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she\u2019ll grow into the loyal, loving companion she\u2019s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you\u2019re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1777865020"
+      "LastUpdatedUnixTime": "1778458043"
     },
     {
       "ID": "3538",
@@ -3410,7 +3420,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1777934316"
+      "LastUpdatedUnixTime": "1778457839"
     },
     {
       "ID": "2774",
@@ -3597,7 +3607,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778304474"
+      "LastUpdatedUnixTime": "1778472841"
     },
     {
       "ID": "3500",
@@ -3633,7 +3643,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778303777"
+      "LastUpdatedUnixTime": "1778472754"
     },
     {
       "ID": "3501",
@@ -3669,7 +3679,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778304131"
+      "LastUpdatedUnixTime": "1778472772"
     },
     {
       "ID": "3502",
@@ -3705,7 +3715,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778304433"
+      "LastUpdatedUnixTime": "1778472793"
     },
     {
       "ID": "3503",
@@ -3741,7 +3751,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778303411"
+      "LastUpdatedUnixTime": "1778472733"
     },
     {
       "ID": "3523",
@@ -3809,7 +3819,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1777905176"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3532",
@@ -3826,9 +3836,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1683003600,
       "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0f2d75e98772b1291a1762f4c5448cb7/4fdde2aef629389975033011b526549e.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0f2d75e98772b1291a1762f4c5448cb7/4fdde2aef629389975033011b526549e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
@@ -3868,7 +3878,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778412510"
+      "LastUpdatedUnixTime": "1778494502"
     },
     {
       "ID": "3533",
@@ -3909,7 +3919,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778169789"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3534",
@@ -3948,7 +3958,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1777824318"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3535",
@@ -3989,7 +3999,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778077207"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3536",
@@ -4233,7 +4243,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778254105"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3545",
@@ -4272,7 +4282,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778259596"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3546",
@@ -4313,7 +4323,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778171970"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3547",
@@ -4370,7 +4380,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778372472"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3548",
@@ -4412,7 +4422,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778433550"
+      "LastUpdatedUnixTime": "1778457943"
     },
     {
       "ID": "3549",
@@ -4442,7 +4452,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1778188553",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778246951"
+      "LastUpdatedUnixTime": "1778457944"
     },
     {
       "ID": "2519",
@@ -4871,44 +4881,6 @@
       "LastUpdatedUnixTime": "1777838827"
     },
     {
-      "ID": "3454",
-      "Internal-ID": "213344911",
-      "Name": "Dogstar",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.44",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1773378000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c44cb081cec141e34b5dde077f6140c4/053e3a20ee9cba7f0c91b8b63bb16f8c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c44cb081cec141e34b5dde077f6140c4/053e3a20ee9cba7f0c91b8b63bb16f8c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1bf43b2356c35b7b163eda90656fc1d/3346de852b4ca0970ef5f55bc37863b7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd8b8ef77a16bc5a842effab46bc1f2/ee83f760385ca1f4e00c361365c517fe.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/557adb5bd0d2e1eea570f21819bdd6e6/cd6c575a477f3c9ddc93ac71412c1de9.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "Chocolate/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Dogstar is one of Honey\u2019s pups. He\u2019s a gentle giant with a good appetite and constantly wagging tail. He\u2019s started out quite shy and now can\u2019t get enough of people. He is submissive and an absolutely love. One lucky family is going to get one of the sweetest dogs on the planet. We aren\u2019t sure what breed he is - his mom is Honey and she\u2019s pretty small. He\u2019s about as wide as he is tall so we think he will be on the short stocky side. At any size, he\u2019s going to be a great companion.\n\n\n\nAdopting a newborn puppy from Fetch:\n\nAt Fetch, we\u2019re proud of the loving, healthy puppies born and raised in our care. We have raised more than 250 newborn puppies and counting, in addition to countless litters transferred to us when they were just days old. Each puppy receives round-the-clock attention, expert care, and a whole lot of love from the very start. Our team of volunteers work tirelessly to make sure they get everything they need, from socialization and basic training to regular veterinary visits. By the time our puppies are ready to go to their forever homes, they are well-prepared to join families and bring joy to their adopters\u2019 lives.\n\nAdopting a puppy from Fetch means you don\u2019t have to go to a breeder to find a healthy, happy companion. Our puppies are raised to be adaptable, comfortable around people and other animals, and ready to embrace new experiences. We take time to observe each puppy\u2019s unique personality, so when it\u2019s time for them to join a new family, we make sure it\u2019s the right fit. This individualized approach helps our puppies thrive in their new homes and brings joy to everyone involved. We have a select few foster homes that specialize in raising litters, and have each raised dozens of litters for our rescue. Having an experienced eye care for these puppies as they grow up is critical to their long-term success.\n\nWhen you choose to adopt a puppy through Fetch, you\u2019re not only welcoming a wonderful puppy into your family, but you\u2019re also helping to save more lives. Each adoption frees up space and resources for other dogs who need our care, allowing us to help more animals find loving homes. Adopting a puppy from Fetch Wisconsin Rescue gives you a lifelong companion and supports our mission to save lives\u2014one pup at a time.",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778116885"
-    },
-    {
       "ID": "3482",
       "Internal-ID": "213450846",
       "Name": "Lavender",
@@ -5213,7 +5185,7 @@
       "Description": "Meet Sonya, the hound mix with bright eyes, soft ears, and a heart full of gentle curiosity. She\u2019s a puppy who approaches the world with wonder - sniffing new scents, watching everything around her, and breaking into happy wiggles once she feels safe and understood.\nSonya is playful in that sweet, puppy way:  she loves toys, enjoys exploring, and is always up for a little adventure. But she also has a soft, cuddly side and will happily curl up next to you after a fun day of learning and play. She\u2019s smart, treat\u2011motivated, and eager to pick up her puppy manners, making her a wonderful companion for someone excited to guide her as she grows.\nShe gets along well with people, other dogs, and even cats; she will thrive in a home that offers patience, structure, and plenty of love. In return, Sonya will bring joy, laughter, and a whole lot of heart to her new family.\nIf you\u2019re looking for a sweet, spirited pup to grow with, Sonya is ready to wiggle her way into your life.",
       "LastIntakeUnixTime": "1777135865",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778124040"
+      "LastUpdatedUnixTime": "1778457570"
     },
     {
       "ID": "2705",

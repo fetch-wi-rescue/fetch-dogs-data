@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T21:06:06Z",
+  "updated": "2026-05-11T10:49:26Z",
   "animals": [
     {
       "ID": "3458",
@@ -814,6 +814,47 @@
       "LastUpdatedUnixTime": "1778347857",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-09T21:06:06Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3454",
+      "Internal-ID": "213344911",
+      "Name": "Dogstar",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.44",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1773378000,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c44cb081cec141e34b5dde077f6140c4/053e3a20ee9cba7f0c91b8b63bb16f8c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c44cb081cec141e34b5dde077f6140c4/053e3a20ee9cba7f0c91b8b63bb16f8c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1bf43b2356c35b7b163eda90656fc1d/3346de852b4ca0970ef5f55bc37863b7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd8b8ef77a16bc5a842effab46bc1f2/ee83f760385ca1f4e00c361365c517fe.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/557adb5bd0d2e1eea570f21819bdd6e6/cd6c575a477f3c9ddc93ac71412c1de9.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "Chocolate/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Dogstar is one of Honey\u2019s pups. He\u2019s a gentle giant with a good appetite and constantly wagging tail. He\u2019s started out quite shy and now can\u2019t get enough of people. He is submissive and an absolutely love. One lucky family is going to get one of the sweetest dogs on the planet. We aren\u2019t sure what breed he is - his mom is Honey and she\u2019s pretty small. He\u2019s about as wide as he is tall so we think he will be on the short stocky side. At any size, he\u2019s going to be a great companion.\n\n\n\nAdopting a newborn puppy from Fetch:\n\nAt Fetch, we\u2019re proud of the loving, healthy puppies born and raised in our care. We have raised more than 250 newborn puppies and counting, in addition to countless litters transferred to us when they were just days old. Each puppy receives round-the-clock attention, expert care, and a whole lot of love from the very start. Our team of volunteers work tirelessly to make sure they get everything they need, from socialization and basic training to regular veterinary visits. By the time our puppies are ready to go to their forever homes, they are well-prepared to join families and bring joy to their adopters\u2019 lives.\n\nAdopting a puppy from Fetch means you don\u2019t have to go to a breeder to find a healthy, happy companion. Our puppies are raised to be adaptable, comfortable around people and other animals, and ready to embrace new experiences. We take time to observe each puppy\u2019s unique personality, so when it\u2019s time for them to join a new family, we make sure it\u2019s the right fit. This individualized approach helps our puppies thrive in their new homes and brings joy to everyone involved. We have a select few foster homes that specialize in raising litters, and have each raised dozens of litters for our rescue. Having an experienced eye care for these puppies as they grow up is critical to their long-term success.\n\nWhen you choose to adopt a puppy through Fetch, you\u2019re not only welcoming a wonderful puppy into your family, but you\u2019re also helping to save more lives. Each adoption frees up space and resources for other dogs who need our care, allowing us to help more animals find loving homes. Adopting a puppy from Fetch Wisconsin Rescue gives you a lifelong companion and supports our mission to save lives\u2014one pup at a time.",
+      "LastIntakeUnixTime": "1773435600",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778116885",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-11T10:49:26Z",
       "status": "pending"
     }
   ]
