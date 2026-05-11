@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11T18:04:22Z",
-  "count": 77,
+  "updated": "2026-05-11T22:19:17Z",
+  "count": 78,
   "animals": [
     {
       "ID": "2754",
@@ -2470,6 +2470,47 @@
       "LastUpdatedUnixTime": "1777747146"
     },
     {
+      "ID": "3499",
+      "Internal-ID": "213465511",
+      "Name": "Matilda",
+      "LitterGroupId": 9491380,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "59.8",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1712984400,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "Sable/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778537306"
+    },
+    {
       "ID": "3504",
       "Internal-ID": "213468574",
       "Name": "Bongo ",
@@ -3044,7 +3085,7 @@
       "Description": "Meet Edmond, a tender\u2011hearted hound mix who\u2019s discovering the world at his own quiet pace. He\u2019s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you\u2019re someone he can trust. Once he does, you\u2019ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond\u2019s ideal home is one that understands the beauty of patience. Loud chaos isn\u2019t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he\u2019s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you\u2019re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778457487"
+      "LastUpdatedUnixTime": "1778525736"
     },
     {
       "ID": "3528",
@@ -3153,7 +3194,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778507010"
+      "LastUpdatedUnixTime": "1778530542"
     },
     {
       "ID": "3538",
@@ -3653,19 +3694,39 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1773378000,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d222ceb2b23e0154ec166593419a01f/7b5afe60798e6c5e3aee3daff91b03c6.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4d222ceb2b23e0154ec166593419a01f/7b5afe60798e6c5e3aee3daff91b03c6.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcd985e001ccd2fef4cfa3b0b63e3d3c/d8dceb560d9384fdb6851a132b955464.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c9e64453ef4835c90041a3226eb9a40/73f00c675ab463abfc24df01b86a1bbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d25f0185caa4308058146d86a2ccceeb/d68a71c6efd919241120cfb223e736ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0ada41d08bd1d477fa78ffd928ffde0/d7faf62c7ab7f8f5dd1e7a8bbc1ab575.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/623ac1cad74afeba23b74a38651342c8/8f3376100e60ff10d41044ff64202824.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7c914a11768298a1359a3149b24ea3b/658ea4e51b7e9dce597378f4c5181844.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53823129fed9e4ac98c580ac4fb45302/aba91e2e94e0be9d2d0b2699cf49c3a1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/55f2932c77cf5738114211626dbf193e/fd71437a5adf28d855268ab00126c2f6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/13abd164f4d3bdb9c76fd88ae176d3e3/bd9c9c8d4a40f944b8668cd45bd511b0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d1580d1fbbfc3e92dcf467a3f685934/99e7e4a06a0bdd848501e1d7ccf8efdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/138d86f511279410f1fa0af5e19b8f71/43da9f97fb68b7ec4da06b68763eeef8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb774ac0dd7d3a8e0968bf387fe58a3f/b6cff6e932bafd104f343151f43bd196.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d82f1d8cb41ef58cdb286d05f35cf9de/05faaa0a1e74ba955cbbbbadc0c4ba0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d61690df0546ee1d38688e320e029338/11fba653342ad639703edaaa9f2a683b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33f6a9cc94d2444d34a43d896b50597f/76a5eb0c5296fce54ec8b7fcfc383ab4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/72bf4aa3460a1ec32149ca9defa197af/8c5f21cd82d6d80158369879e1145b01.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3fc61f4524753042cc72e17229b667d1/8043f32c42ec498eb54315ef13af6ca9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2730802c073c7d48fcb3ec03acd7d23e/a8c4fd81f13ab18372abfad5f30c9e1d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e6400bd150acb3d864b75a507af432d1/69d595e66bfb6399ea7e666ae204aa57.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7b9fff944b4d2e0bac242ee55a3c2807/3d9a9f75d1a28435446155295ce9ef4d.jpeg"
       ],
       "Videos": [],
       "Breed": "",
       "Color": "",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one.  She's well on her way to mastering her house training, stays close on walks, enjoys trading treats for tricks yet eats like a lady.  She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately.  No idea what breed this little tyke is but I sure don't see her getting real big.  I could see Sunday being in a home with only humans or canine companions.  Hasn't met a cat yet.  She still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time.  She's currently eating two meals a day with chewy and crunchy treats in between.  If you're looking for an absolutely gorgeous loyal and smart side kick to grow with, Sunday is your match.            ",
       "LastIntakeUnixTime": "1773435600",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778450925"
+      "LastUpdatedUnixTime": "1778537883"
     },
     {
       "ID": "3498",
@@ -3701,47 +3762,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1777906579"
-    },
-    {
-      "ID": "3499",
-      "Internal-ID": "213465511",
-      "Name": "Matilda",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "59.8",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1712984400,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "Sable/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778472841"
     },
     {
       "ID": "3500",
@@ -3953,7 +3973,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778519936"
+      "LastUpdatedUnixTime": "1778530127"
     },
     {
       "ID": "3533",
@@ -3994,7 +4014,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778530605"
     },
     {
       "ID": "3534",
@@ -4033,7 +4053,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778530668"
     },
     {
       "ID": "3535",
@@ -4074,7 +4094,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778530646"
     },
     {
       "ID": "3536",
@@ -4134,7 +4154,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1777758480",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778255413"
+      "LastUpdatedUnixTime": "1778532651"
     },
     {
       "ID": "3540",
@@ -4249,7 +4269,7 @@
     {
       "ID": "3544",
       "Internal-ID": "213603731",
-      "Name": "Beagle #6",
+      "Name": "Barkeley",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -4283,7 +4303,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778529933"
     },
     {
       "ID": "3545",
@@ -4322,7 +4342,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778529127"
     },
     {
       "ID": "3546",
@@ -4354,7 +4374,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Hi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I\u2019m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it\u2019s okay, then I\u2019m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk\u2026.\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we\u2019ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He\u2019s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn\u2019t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven\u2019t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
       "LastIntakeUnixTime": "1777945841",
       "Attributes": [
         {
@@ -4363,7 +4383,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778537543"
     },
     {
       "ID": "3547",
@@ -4420,7 +4440,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778536006"
     },
     {
       "ID": "3548",
@@ -4462,7 +4482,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
+      "LastUpdatedUnixTime": "1778528749"
     },
     {
       "ID": "3549",
@@ -5382,6 +5402,77 @@
         }
       ],
       "LastUpdatedUnixTime": "1778164847"
+    },
+    {
+      "ID": "1395",
+      "Internal-ID": "213179009",
+      "Name": "Alfie (fka Blueberry)",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "58",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1757134800,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Black/Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Alfie is a handsome, intelligent young pup who is looking for the right home to help him grow into the wonderful dog he has the potential to be. Originally adopted as a young puppy, Alfie is believed to be a German Shepherd / Anatolian Shepherd mix, which means he\u2019s a smart, energetic working-type dog who thrives with structure, training, and an experienced handler.\n\nAlfie is very people-oriented and loves being near his humans. When he\u2019s calm, he enjoys snuggling and being part of whatever his people are doing. He is friendly and enthusiastic when meeting new people and is always excited to make new friends.\n\nThis bright boy has already started learning his basic commands in puppy training classes and has been doing very well. He is eager to please and responds well to consistent training. Alfie is crate-trained overnight and is doing well with potty training. He does well with other dogs and enjoys their company. He has interacted appropriately with dogs in puppy class and is excited to see dogs in the neighborhood.\n\nAlfie is still a young puppy and is very energetic and curious. Like many shepherd-type dogs, he needs both physical exercise and mental enrichment to help him stay balanced and happy.\n\nBecause he is still learning impulse control, Alfie can be mouthy during play and may nip at clothing or hands when he becomes overexcited. He will need a patient home committed to continuing training to help him develop appropriate play and manners as he matures. Alfie has also shown resource guarding with high-value chews, such as bully sticks. A home familiar with training and managing this behavior will help him succeed.\n\nAlfie has lived with a cat but has recently begun nipping at and grabbing the cat\u2019s tail, so he will need a home without cats.\n\nBecause of his mouthy play style and energy level, Alfie would do best in a home with adults or older, dog-savvy children. A calmer household that can provide structure, training, and consistent leadership will help him thrive.\n\nAlfie\u2019s Ideal Home\n\n    Experience with shepherd or guardian breeds preferred\n\n    Committed to continued training and structure\n\n    Plenty of exercise and mental enrichment\n\n    No cats\n\n    No young children\n\nAlfie is a smart, loyal pup with a lot of potential. In the right home with guidance and consistency, he can grow into a wonderful companion.",
+      "LastIntakeUnixTime": "1778533447",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778533655"
     }
   ]
 }
