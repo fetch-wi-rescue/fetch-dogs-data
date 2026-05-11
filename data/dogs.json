@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T10:49:26Z",
+  "updated": "2026-05-11T18:04:22Z",
   "count": 77,
   "animals": [
     {
@@ -978,7 +978,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "4.72",
+      "CurrentWeightPounds": "4.94",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1773378000,
@@ -1040,7 +1040,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778208786"
+      "LastUpdatedUnixTime": "1778519738"
     },
     {
       "ID": "3459",
@@ -2685,7 +2685,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.1",
+      "CurrentWeightPounds": "15.5",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1767765600,
@@ -2762,7 +2762,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778177418"
+      "LastUpdatedUnixTime": "1778506607"
     },
     {
       "ID": "3513",
@@ -3097,6 +3097,65 @@
       "LastUpdatedUnixTime": "1778458043"
     },
     {
+      "ID": "3532",
+      "Internal-ID": "213587853",
+      "Name": "Henry",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "30",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1683003600,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "AVAILABLE AFTER 5/26.\n\nMeet and greets accepted in the meantime.\n\nMeet Sir Henry\u2014the sweetest little Ridglan beagle ready for his next chapter.\nSir Henry is off to a great start with potty training and is learning the ropes on a leash. He wasn\u2019t totally sold on his first bath, but his playful splashing suggests he might just become a water lover in time!\nThis gentle boy is friendly with dogs, cats, and his person. He\u2019s very submissive, incredibly affectionate, and happiest when he\u2019s involved in every aspect of home living. He sleeps through the night, loves being outside, and has a curious, observant nature\u2014always interested in what you\u2019re up to. While he enjoys following you around, he prefers not to be chased\u2014he likes to set the pace of his interactions.\nHenry has a soft spot for sniffing adventures and would thrive with another dog companion to help him continue building confidence. He also has a quirky love for lounging among flowers\u2014future garden buddy, perhaps?\nHenry is looking for a patient, understanding adopter who will go slow and let him blossom at his own pace. In return, you\u2019ll get a loyal, loving companion who\u2019s well worth the wait \ud83d\udc9b",
+      "LastIntakeUnixTime": "1777687620",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778507010"
+    },
+    {
       "ID": "3538",
       "Internal-ID": "213591745",
       "Name": "Milo",
@@ -3244,6 +3303,81 @@
       "LastUpdatedUnixTime": "1778357738"
     },
     {
+      "ID": "3541",
+      "Internal-ID": "213591752",
+      "Name": "Marigold",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12.2",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 104,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out!",
+      "LastIntakeUnixTime": "1777708500",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778509936"
+    },
+    {
       "ID": "3543",
       "Internal-ID": "213593055",
       "Name": "Max",
@@ -3335,9 +3469,9 @@
       "Sex": "Female",
       "Status": "Medical Hold",
       "InFoster": true,
-      "CurrentWeightPounds": "20.2",
+      "CurrentWeightPounds": "19.8",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1766383200,
       "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ad2343bfa013e3b0f4171892370b7b4b/c80b5c9f483e01c32d93f5c17623df54.jpg",
@@ -3420,7 +3554,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778457839"
+      "LastUpdatedUnixTime": "1778508461"
     },
     {
       "ID": "2774",
@@ -3792,7 +3926,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "25.4",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1683003600,
@@ -3819,66 +3953,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778457943"
-    },
-    {
-      "ID": "3532",
-      "Internal-ID": "213587853",
-      "Name": "Henry",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "30",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "AVAILABLE AFTER 5/26.\n\nMeet and greets accepted in the meantime.\n\nMeet Sir Henry\u2014the sweetest little Ridglan beagle ready for his next chapter.\nSir Henry is off to a great start with potty training and is learning the ropes on a leash. He wasn\u2019t totally sold on his first bath, but his playful splashing suggests he might just become a water lover in time!\nThis gentle boy is friendly with dogs, cats, and his person. He\u2019s very submissive, incredibly affectionate, and happiest when he\u2019s involved in every aspect of home living. He sleeps through the night, loves being outside, and has a curious, observant nature\u2014always interested in what you\u2019re up to. While he enjoys following you around, he prefers not to be chased\u2014he likes to set the pace of his interactions.\nHenry has a soft spot for sniffing adventures and would thrive with another dog companion to help him continue building confidence. He also has a quirky love for lounging among flowers\u2014future garden buddy, perhaps?\nHenry is looking for a patient, understanding adopter who will go slow and let him blossom at his own pace. In return, you\u2019ll get a loyal, loving companion who\u2019s well worth the wait \ud83d\udc9b",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778494502"
+      "LastUpdatedUnixTime": "1778519936"
     },
     {
       "ID": "3533",
@@ -4135,41 +4210,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778357878"
-    },
-    {
-      "ID": "3541",
-      "Internal-ID": "213591752",
-      "Name": "Marigold",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 104,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1777708500",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778357756"
     },
     {
       "ID": "3542",
