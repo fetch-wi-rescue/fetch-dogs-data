@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T10:49:26Z",
+  "updated": "2026-05-12T21:52:21Z",
   "animals": [
     {
       "ID": "3458",
@@ -90,6 +90,15 @@
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-11T10:49:26Z",
       "status": "adopted"
+    },
+    {
+      "ID": "3486",
+      "Name": "Roya",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3b9d89852eadae284e1869d8115c01a2/e8dcd5f3926592f63998662d4c62b32e.jpg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-12T21:52:21Z",
+      "status": "pending"
     }
   ]
 }
