@@ -41,7 +41,8 @@ jobs:
             sleep 1
           done
           
-          DOGS=$(echo "$ALL_ANIMALS" | jq '[.[] | select(.Type == "Dog")]')
+          # Filter to dogs only, AND strip sensitive fields
+          DOGS=$(echo "$ALL_ANIMALS" | jq '[.[] | select(.Type == "Dog") | del(.AssociatedPerson, .Microchips, .PreviousIds)]')
           COUNT=$(echo "$DOGS" | jq 'length')
           UPDATED=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           
@@ -80,7 +81,7 @@ jobs:
                   continue
                 fi
                 
-                # Get the dog's last-known data from previous fetch
+                # Get the dog's last-known data from previous fetch (already stripped of sensitive fields)
                 DOG_DATA=$(jq --arg id "$DOG_ID" '.animals[] | select(.ID == $id)' data/dogs.json)
                 LAST_STATUS=$(echo "$DOG_DATA" | jq -r '.Status')
                 
@@ -134,6 +135,15 @@ jobs:
           
           # Replace dogs.json with current data
           mv data/dogs-current.json data/dogs.json
+      
+      - name: Clean sensitive fields from existing archive
+        run: |
+          # One-time cleanup: also strip sensitive fields from existing archived entries
+          if [ -f data/archived-pending-review.json ]; then
+            jq '.animals |= map(del(.AssociatedPerson, .Microchips, .PreviousIds))' \
+              data/archived-pending-review.json > data/archived-pending-review.tmp.json
+            mv data/archived-pending-review.tmp.json data/archived-pending-review.json
+          fi
       
       - name: Commit updated data
         run: |
