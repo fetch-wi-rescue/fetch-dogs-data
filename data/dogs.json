@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11T22:19:17Z",
-  "count": 78,
+  "updated": "2026-05-12T01:06:30Z",
+  "count": 79,
   "animals": [
     {
       "ID": "2754",
@@ -1041,6 +1041,55 @@
         }
       ],
       "LastUpdatedUnixTime": "1778519738"
+    },
+    {
+      "ID": "3453",
+      "Internal-ID": "213344907",
+      "Name": "Sunday",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.6",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1773378000,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcd985e001ccd2fef4cfa3b0b63e3d3c/d8dceb560d9384fdb6851a132b955464.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c9e64453ef4835c90041a3226eb9a40/73f00c675ab463abfc24df01b86a1bbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d25f0185caa4308058146d86a2ccceeb/d68a71c6efd919241120cfb223e736ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0ada41d08bd1d477fa78ffd928ffde0/d7faf62c7ab7f8f5dd1e7a8bbc1ab575.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/623ac1cad74afeba23b74a38651342c8/8f3376100e60ff10d41044ff64202824.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7c914a11768298a1359a3149b24ea3b/658ea4e51b7e9dce597378f4c5181844.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53823129fed9e4ac98c580ac4fb45302/aba91e2e94e0be9d2d0b2699cf49c3a1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/55f2932c77cf5738114211626dbf193e/fd71437a5adf28d855268ab00126c2f6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/13abd164f4d3bdb9c76fd88ae176d3e3/bd9c9c8d4a40f944b8668cd45bd511b0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d1580d1fbbfc3e92dcf467a3f685934/99e7e4a06a0bdd848501e1d7ccf8efdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/138d86f511279410f1fa0af5e19b8f71/43da9f97fb68b7ec4da06b68763eeef8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb774ac0dd7d3a8e0968bf387fe58a3f/b6cff6e932bafd104f343151f43bd196.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d82f1d8cb41ef58cdb286d05f35cf9de/05faaa0a1e74ba955cbbbbadc0c4ba0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d61690df0546ee1d38688e320e029338/11fba653342ad639703edaaa9f2a683b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33f6a9cc94d2444d34a43d896b50597f/76a5eb0c5296fce54ec8b7fcfc383ab4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/72bf4aa3460a1ec32149ca9defa197af/8c5f21cd82d6d80158369879e1145b01.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3fc61f4524753042cc72e17229b667d1/8043f32c42ec498eb54315ef13af6ca9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2730802c073c7d48fcb3ec03acd7d23e/a8c4fd81f13ab18372abfad5f30c9e1d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e6400bd150acb3d864b75a507af432d1/69d595e66bfb6399ea7e666ae204aa57.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7b9fff944b4d2e0bac242ee55a3c2807/3d9a9f75d1a28435446155295ce9ef4d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one.  She's well on her way to mastering her house training, stays close on walks, enjoys trading treats for tricks yet eats like a lady.  She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately.  No idea what breed this little tyke is but I sure don't see her getting real big.  I could see Sunday being in a home with only humans or canine companions.  Hasn't met a cat yet.  She still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time.  She's currently eating two meals a day with chewy and crunchy treats in between.  If you're looking for an absolutely gorgeous loyal and smart side kick to grow with, Sunday is your match.            ",
+      "LastIntakeUnixTime": "1773435600",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778537971"
     },
     {
       "ID": "3459",
@@ -2508,7 +2557,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778537306"
+      "LastUpdatedUnixTime": "1778543186"
     },
     {
       "ID": "3504",
@@ -3501,6 +3550,51 @@
       "LastUpdatedUnixTime": "1778205713"
     },
     {
+      "ID": "3546",
+      "Internal-ID": "213603741",
+      "Name": "Archer James",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e2d82ca7004dc27ac407a5a20674195/e68e6289ca9038e4ba321e73c2227cc9.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "NOT AVAILABLE UNTIL 6/8\nIN THE MEANTIME, MEET & GREETS WELCOMED \n\n\nHi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I\u2019m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it\u2019s okay, then I\u2019m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk\u2026.\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we\u2019ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He\u2019s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn\u2019t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven\u2019t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778541150"
+    },
+    {
       "ID": "3530",
       "Internal-ID": "213575111",
       "Name": "Cobalt",
@@ -3678,55 +3772,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778213542"
-    },
-    {
-      "ID": "3453",
-      "Internal-ID": "213344907",
-      "Name": "Sunday",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.6",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773378000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bcd985e001ccd2fef4cfa3b0b63e3d3c/d8dceb560d9384fdb6851a132b955464.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c9e64453ef4835c90041a3226eb9a40/73f00c675ab463abfc24df01b86a1bbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d25f0185caa4308058146d86a2ccceeb/d68a71c6efd919241120cfb223e736ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d0ada41d08bd1d477fa78ffd928ffde0/d7faf62c7ab7f8f5dd1e7a8bbc1ab575.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/623ac1cad74afeba23b74a38651342c8/8f3376100e60ff10d41044ff64202824.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e7c914a11768298a1359a3149b24ea3b/658ea4e51b7e9dce597378f4c5181844.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53823129fed9e4ac98c580ac4fb45302/aba91e2e94e0be9d2d0b2699cf49c3a1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/55f2932c77cf5738114211626dbf193e/fd71437a5adf28d855268ab00126c2f6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/13abd164f4d3bdb9c76fd88ae176d3e3/bd9c9c8d4a40f944b8668cd45bd511b0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d1580d1fbbfc3e92dcf467a3f685934/99e7e4a06a0bdd848501e1d7ccf8efdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/138d86f511279410f1fa0af5e19b8f71/43da9f97fb68b7ec4da06b68763eeef8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb774ac0dd7d3a8e0968bf387fe58a3f/b6cff6e932bafd104f343151f43bd196.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d82f1d8cb41ef58cdb286d05f35cf9de/05faaa0a1e74ba955cbbbbadc0c4ba0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d61690df0546ee1d38688e320e029338/11fba653342ad639703edaaa9f2a683b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33f6a9cc94d2444d34a43d896b50597f/76a5eb0c5296fce54ec8b7fcfc383ab4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/72bf4aa3460a1ec32149ca9defa197af/8c5f21cd82d6d80158369879e1145b01.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3fc61f4524753042cc72e17229b667d1/8043f32c42ec498eb54315ef13af6ca9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2730802c073c7d48fcb3ec03acd7d23e/a8c4fd81f13ab18372abfad5f30c9e1d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e6400bd150acb3d864b75a507af432d1/69d595e66bfb6399ea7e666ae204aa57.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7b9fff944b4d2e0bac242ee55a3c2807/3d9a9f75d1a28435446155295ce9ef4d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one.  She's well on her way to mastering her house training, stays close on walks, enjoys trading treats for tricks yet eats like a lady.  She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately.  No idea what breed this little tyke is but I sure don't see her getting real big.  I could see Sunday being in a home with only humans or canine companions.  Hasn't met a cat yet.  She still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time.  She's currently eating two meals a day with chewy and crunchy treats in between.  If you're looking for an absolutely gorgeous loyal and smart side kick to grow with, Sunday is your match.            ",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778537883"
     },
     {
       "ID": "3498",
@@ -4343,47 +4388,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778529127"
-    },
-    {
-      "ID": "3546",
-      "Internal-ID": "213603741",
-      "Name": "Archer James",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Hi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I\u2019m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it\u2019s okay, then I\u2019m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk\u2026.\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we\u2019ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He\u2019s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn\u2019t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven\u2019t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778537543"
     },
     {
       "ID": "3547",
@@ -5472,7 +5476,80 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778533655"
+      "LastUpdatedUnixTime": "1778538708"
+    },
+    {
+      "ID": "437",
+      "Internal-ID": "213180340",
+      "Name": "Sunny",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "40",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1698987600,
+      "Age": 30,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Hound, Plott",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Sunny is a sweet, affectionate girl who forms strong bonds with her people and loves cozy couch time just as much as playful zoomie moments. She has a medium-to-high energy personality with a fun, goofy side and especially enjoys squeaky stuffed toys she can proudly \u201cde-stuff.\u201d\n\nSunny thrives on structure and routine and does best in a calm, predictable home. She is kennel-trained, comfortable resting while you\u2019re away, and benefits from consistent potty breaks and clear boundaries. While mostly house-trained, she does best with supervision and schedule.\n\nDue to anxiety and dog reactivity, Sunny is looking for a home as the only pet, without young children. With patience, positive reinforcement, and a peaceful environment, she has so much potential to grow into an incredibly loyal and devoted companion.\n\nSunny is spayed, healthy, and up to date on all vaccinations. In the right home, she will be a loving, deeply attached best friend.",
+      "LastIntakeUnixTime": "1778538736",
+      "Attributes": [
+        {
+          "Internal-ID": "294321",
+          "AttributeName": "Not Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295161",
+          "AttributeName": "Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778538756"
     }
   ]
 }
