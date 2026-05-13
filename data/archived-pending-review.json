@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T21:52:21Z",
+  "updated": "2026-05-13T16:41:40Z",
   "animals": [
     {
       "ID": "3458",
@@ -98,6 +98,24 @@
       "Status": "Foster to Adopt",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-12T21:52:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3497",
+      "Name": "Dakota",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/70a67a2ce8b2553a8349ea2d646b54e1/466c210c1abd209af4dcc69a8490a986.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-13T16:41:40Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3499",
+      "Name": "Matilda",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-13T16:41:40Z",
       "status": "pending"
     }
   ]

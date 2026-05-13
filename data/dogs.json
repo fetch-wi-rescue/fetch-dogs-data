@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-13T08:21:53Z",
-  "count": 82,
+  "updated": "2026-05-13T16:41:40Z",
+  "count": 91,
   "animals": [
     {
       "ID": "2754",
@@ -1045,7 +1045,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778519738"
+      "LastUpdatedUnixTime": "1778674215"
     },
     {
       "ID": "3453",
@@ -2265,9 +2265,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1768024800,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31aba8a03c5070a1fd7f12d4550f49d9/a9032b32ac0d3e51f0738d3e41291c78.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5ce3fb51a37c458a4628e5bc24c77f56/bace665dd0b1ac009fe5a05927cd3eee.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/31aba8a03c5070a1fd7f12d4550f49d9/a9032b32ac0d3e51f0738d3e41291c78.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5ce3fb51a37c458a4628e5bc24c77f56/bace665dd0b1ac009fe5a05927cd3eee.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6cb87618782056284a15818ea151f66e/d570bb46393f1a5c36a1f9d0348b5670.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/96f8f6219031006cbe3d08708c223c3e/fee60cc7a02cf21e0fb4fb923336531f.png",
         "https://new-s3.shelterluv.com/profile-pictures/e4e4449e131a8849bf1839bad2bfb297/c201e4893034d43967193ab37508a719.jpg",
@@ -2282,6 +2282,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/37e409d5e2c676870ebab6047d9f939e/28dd6dc1a1ee47a1cdc319f53ffa3498.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2ba69d9d8e836ad49a79174bd634d83e/6cf9b5e10b00fae42738c997855b24d2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e931aba043591ef17ef65d4728c8fd5d/48d1820092f865eb60f61ee4967d4885.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/31aba8a03c5070a1fd7f12d4550f49d9/a9032b32ac0d3e51f0738d3e41291c78.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/be82868a07df11d0d1c23777396c9a7e/a034dee6f0d79ef11ffece20f295a591.jpg"
       ],
       "Videos": [],
@@ -2349,7 +2350,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778076871"
+      "LastUpdatedUnixTime": "1778679434"
     },
     {
       "ID": "3495",
@@ -2436,133 +2437,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778458330"
-    },
-    {
-      "ID": "3497",
-      "Internal-ID": "213450894",
-      "Name": "Dakota",
-      "LitterGroupId": 9489851,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1768024800,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/70a67a2ce8b2553a8349ea2d646b54e1/466c210c1abd209af4dcc69a8490a986.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/70a67a2ce8b2553a8349ea2d646b54e1/466c210c1abd209af4dcc69a8490a986.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c8fa8ec6f261ab160f061940c76918af/4c4fa333e0628f608653522e528384cf.png",
-        "https://new-s3.shelterluv.com/profile-pictures/40f74956500221f16308d7cb419cab23/fafc4cfc78757348993c689f675ef098.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e7a7afd0e343d337a27945832f28ab1/3bc6ce8d8625a767cbe0781a01e076ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c4c6efe192a688f61859e86fe44f62df/37320308b19ce171cc50485e66fe3b9b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/88213e46eef18fa8ef3318528b74080d/52b0479d6071f9690bc62c9939558857.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6b0e27add293edf6223c14408724d6cd/4844354bdbdf98ffd79e7bb000486566.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3fa958a2788fe2f9a69b217cd051953b/90c137bc68aca375f0fbb65c1c071425.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/89aaa1ea8d7edabc1e56c405b6701181/1f0f6e871bf0e485a28014b17dc547ca.png",
-        "https://new-s3.shelterluv.com/profile-pictures/576794349fbeb08f17ebf6d7e75aef96/4333997426c770d9a1d5a458a0134bd7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c4aa4e6dd8b7ea73465e7246817efb51/099f12e94f9e910ad1dcd9755c5a0fde.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
-      "Color": "Grey/Cream",
-      "Pattern": "Badger",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet this sweet girl looking for her forever home 🐾💛\nShe’s only been in foster care for a couple of days, but she’s already showing what a loving, gentle companion she’ll be. She loves to follow her foster mom around the house and be close to her people—your little shadow in the making!\nShe’s off to a great start with potty training and is quickly getting the hang of leash walking. She’s been around kids ages 4–12 and has done wonderfully—calm, friendly, and respectful. She’s also living with another foster puppy and a senior resident dog, and she’s fitting in beautifully.\nShe can be a bit nervous in the crate right now, but she’s improving every day with patience and reassurance. Her playful side is just starting to shine, and she’s beginning to show interest in toys—such a fun stage to watch!\nWith a little guidance and a lot of love, she’s going to grow into an amazing companion. If you’re looking for a sweet, loyal pup who will stick by your side, she might be the perfect match.\nApply to meet her today and see if she’s your new best friend 🐶💛",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1777747146"
-    },
-    {
-      "ID": "3499",
-      "Internal-ID": "213465511",
-      "Name": "Matilda",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "59.8",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1712984400,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/736ef44c4925594a7d1ba16df534348c/4613a2081c95e2516f7314d4b6963b53.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "Sable/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778612973"
     },
     {
       "ID": "3504",
@@ -3056,7 +2930,7 @@
       "Description": "Meet Edmond, a tender‑hearted hound mix who’s discovering the world at his own quiet pace. He’s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you’re someone he can trust. Once he does, you’ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond’s ideal home is one that understands the beauty of patience. Loud chaos isn’t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he’s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you’re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778617926"
+      "LastUpdatedUnixTime": "1778674241"
     },
     {
       "ID": "3528",
@@ -3165,7 +3039,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "30",
+      "CurrentWeightPounds": "30.4",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1683003600,
@@ -3213,7 +3087,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778624244"
+      "LastUpdatedUnixTime": "1778686811"
     },
     {
       "ID": "3538",
@@ -3880,7 +3754,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.25",
+      "CurrentWeightPounds": "10.7",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1774587600,
@@ -3904,7 +3778,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778472754"
+      "LastUpdatedUnixTime": "1778681524"
     },
     {
       "ID": "3501",
@@ -3916,7 +3790,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "8.8",
+      "CurrentWeightPounds": "10.8",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1774587600,
@@ -3940,7 +3814,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778472772"
+      "LastUpdatedUnixTime": "1778681591"
     },
     {
       "ID": "3502",
@@ -3952,7 +3826,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.2",
+      "CurrentWeightPounds": "10.8",
       "Size": "Large (60-99)",
       "Altered": "No",
       "DOBUnixTime": 1774587600,
@@ -3976,7 +3850,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778472793"
+      "LastUpdatedUnixTime": "1778681699"
     },
     {
       "ID": "3503",
@@ -3988,7 +3862,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.5",
+      "CurrentWeightPounds": "11.5",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1774587600,
@@ -4012,7 +3886,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1776391740",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778472733"
+      "LastUpdatedUnixTime": "1778680882"
     },
     {
       "ID": "3523",
@@ -4053,7 +3927,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "27.8",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1683003600,
@@ -4082,7 +3956,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778530605"
+      "LastUpdatedUnixTime": "1778687176"
     },
     {
       "ID": "3534",
@@ -4094,7 +3968,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "37.2",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1683003600,
@@ -4123,7 +3997,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778640534"
+      "LastUpdatedUnixTime": "1778687075"
     },
     {
       "ID": "3535",
@@ -4392,7 +4266,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "22.75",
+      "CurrentWeightPounds": "23",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
@@ -4437,7 +4311,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778619335"
+      "LastUpdatedUnixTime": "1778686953"
     },
     {
       "ID": "3548",
@@ -4510,6 +4384,326 @@
       "LastIntakeUnixTime": "1778188553",
       "Attributes": [],
       "LastUpdatedUnixTime": "1778457944"
+    },
+    {
+      "ID": "3552",
+      "Internal-ID": "213684439",
+      "Name": "Miller",
+      "LitterGroupId": 9510754,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "6.7",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1771525006,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eca57f4a00bd5560ebe9b08d082a59b6/556e3cc5fb6c286b68bad13af0fb3a79.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/eca57f4a00bd5560ebe9b08d082a59b6/556e3cc5fb6c286b68bad13af0fb3a79.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Mixed Breed (Medium)",
+      "Color": "Black/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689178"
+    },
+    {
+      "ID": "3553",
+      "Internal-ID": "213684440",
+      "Name": "Gilmore",
+      "LitterGroupId": 9510754,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.8",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1771525308,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c17f4bac72ea0ce36a4d7ede3f06775a/61a2da63fe2e32204e87b314bda08fbf.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c17f4bac72ea0ce36a4d7ede3f06775a/61a2da63fe2e32204e87b314bda08fbf.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Boxer/Mixed Breed (Medium)",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689466"
+    },
+    {
+      "ID": "3554",
+      "Internal-ID": "213684441",
+      "Name": "Elver",
+      "LitterGroupId": 9510754,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.9",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1771525249,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/797a2d993c7423788b5a79d1c0197870/502794af1866f48fe42e8e71868fb12b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/797a2d993c7423788b5a79d1c0197870/502794af1866f48fe42e8e71868fb12b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Boxer/Mixed Breed (Medium)",
+      "Color": "Brindle/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689549"
+    },
+    {
+      "ID": "3555",
+      "Internal-ID": "213684442",
+      "Name": "Elvis",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.5",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1771567200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/86364b9a0fd3efc4a6f56ad5bc5d8daf/c68c432798896f12f8d13eee4a2b42a2.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/86364b9a0fd3efc4a6f56ad5bc5d8daf/c68c432798896f12f8d13eee4a2b42a2.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Jack Russell/Mixed Breed (Small)",
+      "Color": "White/Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689179"
+    },
+    {
+      "ID": "3556",
+      "Internal-ID": "213684443",
+      "Name": "Black Beauty",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.8",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714712400,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689179"
+    },
+    {
+      "ID": "3557",
+      "Internal-ID": "213684445",
+      "Name": "Spirit",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.6",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f8aae8c8ef95900ec23c2675400dd18d/681042a91e230ca21fb81ccd34718e6c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f8aae8c8ef95900ec23c2675400dd18d/681042a91e230ca21fb81ccd34718e6c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brown/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689179"
+    },
+    {
+      "ID": "3558",
+      "Internal-ID": "213684446",
+      "Name": "Roan",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.62",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brown/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689179"
+    },
+    {
+      "ID": "3559",
+      "Internal-ID": "213684447",
+      "Name": "Colt",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.8",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30817e6b4088f590e6be4f84aad927f7/35c70b4cfb076aeec3cc208268fcd14e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/30817e6b4088f590e6be4f84aad927f7/35c70b4cfb076aeec3cc208268fcd14e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689179"
+    },
+    {
+      "ID": "3560",
+      "Internal-ID": "213684448",
+      "Name": "Chestnut",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.78",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689180"
+    },
+    {
+      "ID": "3561",
+      "Internal-ID": "213684449",
+      "Name": "Buck",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.86",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689180"
+    },
+    {
+      "ID": "3562",
+      "Internal-ID": "213684450",
+      "Name": "Pony",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.92",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778689180"
     },
     {
       "ID": "2519",
@@ -4714,11 +4908,17 @@
       "Breed": "Unknown",
       "Color": "Cream",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1772258400",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778614504"
+      "LastUpdatedUnixTime": "1778686657"
     },
     {
       "ID": "492",
