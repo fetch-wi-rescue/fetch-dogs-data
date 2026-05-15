@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T10:03:51Z",
+  "updated": "2026-05-15T17:02:50Z",
   "count": 90,
   "animals": [
     {
@@ -3009,8 +3009,64 @@
       },
       "Description": "Meet Edmond, a tender‑hearted hound mix who’s discovering the world at his own quiet pace. He’s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you’re someone he can trust. Once he does, you’ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond’s ideal home is one that understands the beauty of patience. Loud chaos isn’t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he’s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you’re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
       "LastIntakeUnixTime": "1777143060",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778768479"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778852216"
     },
     {
       "ID": "3528",
@@ -3027,10 +3083,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1765951200,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b84f624e7df3d8714246b08bf1500445/11829caa8e7ea31b4417c62112533420.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b84f624e7df3d8714246b08bf1500445/11829caa8e7ea31b4417c62112533420.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/37a670fc988b60c08941a06aaa4f81e5/6b18228b98540dcb2c71d6a9a53168f3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/840d877d56d2ed1da6205e91d6508b9b/fd1aa0c5305678e76d83d24d6bcf4d52.jpg",
@@ -3043,6 +3098,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/627f0c21ffe6bab69809c741e749c79c/a1301a8f16943bed470cb7f4a3426513.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/f1d10b6047b7574db038f9a6d89eb9b6/607c201fd4efd748615e051c66d06fb0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/a5c7e0f0a29c011d446913048de337ce/0498d0a5b4a83193f5228635cf0538b3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b84f624e7df3d8714246b08bf1500445/11829caa8e7ea31b4417c62112533420.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c57d7238d9184650073405743860289a/a347f6e89485dc750f9fb6a765a4eae7.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/41b607dcb2aac9f29e4d83c92cb95817/d51f3bbeb79935c1250b1092ed18b0d0.jpg"
       ],
@@ -3060,7 +3117,7 @@
       "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
       "LastIntakeUnixTime": "1777143060",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778768457"
+      "LastUpdatedUnixTime": "1778859009"
     },
     {
       "ID": "3529",
@@ -3305,7 +3362,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768430"
+      "LastUpdatedUnixTime": "1778860813"
     },
     {
       "ID": "3539",
@@ -3368,6 +3425,81 @@
         }
       ],
       "LastUpdatedUnixTime": "1778768419"
+    },
+    {
+      "ID": "3540",
+      "Internal-ID": "213591751",
+      "Name": "Pearl",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.8",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1516428000,
+      "Age": 99,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dee8b61b8fc292153571064c7e1c2348/64a1b3a07cc5b09306a8e8929e601562.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/dee8b61b8fc292153571064c7e1c2348/64a1b3a07cc5b09306a8e8929e601562.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Pearl was surrendered from an Amish farm where she was used for breeding. She is living in a house for the first time and is blossoming so well! She is very shy at first and will hide from new people but as she gets to know us, she is becoming more and more affectionate. She has never growled or shown any aggression, even when scared. She loves to be around other small dogs but is a little scared of big dogs and will run away from them. She is learning to walk on a leash and potty outside for the first time but she makes progress every day. When indoors, she mostly likes to stay in her pen or crate. We sit with her and give her pets and she will gently lick our hands.\n\nPearl is a nonshedding dog and will require regular haircuts. She gets carsick in the car so she would prefer not to be your roadtrip buddy. Otherwise, she is a perfect little girl!",
+      "LastIntakeUnixTime": "1777708320",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778860183"
     },
     {
       "ID": "3541",
@@ -4432,81 +4564,6 @@
       "LastIntakeUnixTime": "1777758480",
       "Attributes": [],
       "LastUpdatedUnixTime": "1778768231"
-    },
-    {
-      "ID": "3540",
-      "Internal-ID": "213591751",
-      "Name": "Pearl",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.8",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1516428000,
-      "Age": 99,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dee8b61b8fc292153571064c7e1c2348/64a1b3a07cc5b09306a8e8929e601562.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dee8b61b8fc292153571064c7e1c2348/64a1b3a07cc5b09306a8e8929e601562.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Pearl was surrendered from an Amish farm where she was used for breeding. She is living in a house for the first time and is blossoming so well! She is very shy at first and will hide from new people but as she gets to know us, she is becoming more and more affectionate. She has never growled or shown any aggression, even when scared. She loves to be around other small dogs but is a little scared of big dogs and will run away from them. She is learning to walk on a leash and potty outside for the first time but she makes progress every day. When indoors, she mostly likes to stay in her pen or crate. We sit with her and give her pets and she will gently lick our hands.\n\nPearl is a nonshedding dog and will require regular haircuts. She gets carsick in the car so she would prefer not to be your roadtrip buddy. Otherwise, she is a perfect little girl!",
-      "LastIntakeUnixTime": "1777708320",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778357878"
     },
     {
       "ID": "3544",
@@ -6027,7 +6084,7 @@
     {
       "ID": "3576",
       "Internal-ID": "213697575",
-      "Name": "Buddy the hound",
+      "Name": "Buddy the Hound",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -6095,7 +6152,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778830542"
+      "LastUpdatedUnixTime": "1778859848"
     }
   ]
 }
