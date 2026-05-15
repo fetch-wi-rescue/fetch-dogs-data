@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T21:00:11Z",
+  "updated": "2026-05-15T00:14:07Z",
   "count": 89,
   "animals": [
     {
@@ -3853,6 +3853,33 @@
       "LastUpdatedUnixTime": "1778769080"
     },
     {
+      "ID": "873",
+      "Internal-ID": "213178888",
+      "Name": "Smilie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1601442000,
+      "Age": 67,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Pyrenees, Great",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778798085",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778798140"
+    },
+    {
       "ID": "3500",
       "Internal-ID": "213465530",
       "Name": "Lucas",
@@ -5293,102 +5320,6 @@
       "LastIntakeUnixTime": "1777135865",
       "Attributes": [],
       "LastUpdatedUnixTime": "1778768488"
-    },
-    {
-      "ID": "2519",
-      "Internal-ID": "213177864",
-      "Name": "Zippy",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "50.2",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1761195600,
-      "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4ea5032e6b94a27adf1c5a0065282986/9150d1fd1cfc464eec7779ec642bcfc1.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4ea5032e6b94a27adf1c5a0065282986/9150d1fd1cfc464eec7779ec642bcfc1.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c157ac40364eb23386ac87a4f95402dc/d48ca571a8de6c272f49a96e48888edf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/989dbee572427ad7723a5352112bbfcd/1bdb816de509447c0db1bc9978e68758.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/22e78515d61845a7def628590c37f644/4c75ef09152af1ecd809d7dfd3db71b9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5ed342abd5c46cec7b7319d826d54f27/08550270e87839cc8f8a0936cb6aeac2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/88a51bc17ce9c3d97457a26cec438631/74949652a3b30183f2d9ddbab3586596.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Poodle/Retriever, Labrador",
-      "Color": "White/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Zippy is a 5 month old pup that is a mix of all kinds of cool breeds! His mom is Delta is labradoodle, GWP mix and his dad is a mini husky, border collie, dalmatian mix. He came into our care with a broken tibia but it does not slow him down!\nZippy will be ready for his forever home soon!",
-      "LastIntakeUnixTime": "1770098400",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778730017"
     },
     {
       "ID": "2705",
