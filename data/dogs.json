@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T20:44:48Z",
+  "updated": "2026-05-16T00:07:55Z",
   "count": 90,
   "animals": [
     {
@@ -2443,7 +2443,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "107",
+      "CurrentWeightPounds": "104",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1522990800,
@@ -2553,7 +2553,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768779"
+      "LastUpdatedUnixTime": "1778884739"
     },
     {
       "ID": "3508",
@@ -3031,8 +3031,89 @@
       },
       "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
       "LastIntakeUnixTime": "1777143060",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778859009"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778881373"
     },
     {
       "ID": "3529",
@@ -3084,8 +3165,89 @@
       },
       "Description": "Meet Sonya, the hound mix with bright eyes, soft ears, and a heart full of gentle curiosity. She’s a puppy who approaches the world with wonder - sniffing new scents, watching everything around her, and breaking into happy wiggles once she feels safe and understood.\nSonya is playful in that sweet, puppy way:  she loves toys, enjoys exploring, and is always up for a little adventure. But she also has a soft, cuddly side and will happily curl up next to you after a fun day of learning and play. She’s smart, treat‑motivated, and eager to pick up her puppy manners, making her a wonderful companion for someone excited to guide her as she grows.\nShe gets along well with people, other dogs, and even cats; she will thrive in a home that offers patience, structure, and plenty of love. In return, Sonya will bring joy, laughter, and a whole lot of heart to her new family.\nIf you’re looking for a sweet, spirited pup to grow with, Sonya is ready to wiggle her way into your life.",
       "LastIntakeUnixTime": "1777135865",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778816676"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778881374"
     },
     {
       "ID": "3531",
@@ -3277,7 +3439,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778860813"
+      "LastUpdatedUnixTime": "1778886112"
     },
     {
       "ID": "3539",
@@ -3339,7 +3501,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768419"
+      "LastUpdatedUnixTime": "1778886051"
     },
     {
       "ID": "3540",
@@ -3414,7 +3576,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778860183"
+      "LastUpdatedUnixTime": "1778883891"
     },
     {
       "ID": "3541",
@@ -3489,7 +3651,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768207"
+      "LastUpdatedUnixTime": "1778885976"
     },
     {
       "ID": "3542",
@@ -3569,7 +3731,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768224"
+      "LastUpdatedUnixTime": "1778885911"
     },
     {
       "ID": "3543",
@@ -3668,7 +3830,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "24.4",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
@@ -3703,7 +3865,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768309"
+      "LastUpdatedUnixTime": "1778885494"
     },
     {
       "ID": "3547",
@@ -3806,8 +3968,59 @@
       "AdoptionFeeGroup": null,
       "Description": "Miller is a tiny powerhouse of joy. At just under 3 months old, this girl has already survived parvo and come out the other side with a spark that’s impossible to miss. She’s brave, she’s bright, and she’s bursting with life.\n\nWhere some pups are shy, Miller is the one trotting right up to say hello. She’s outgoing in the best way — friendly, social, and always ready to make a new friend. Whether she’s greeting people with her happy little tail or bouncing toward another puppy to play, she brings energy and confidence everywhere she goes.\n\nMiller’s personality shines through in everything she does:\n• loves meeting new people\n• playful, bold, and curious\n• great with other gentle pets\n• eager to explore and learn\n• snuggles like it’s her full‑time job\n\nEven after her tough start, she’s thriving — eating well, gaining strength, and embracing every new experience with enthusiasm. She’s working on potty training, enjoys toys she can pounce on, and absolutely lights up when someone gives her attention.\n\nIf you’re looking for a puppy with a survivor’s grit, a Shepherd’s smarts, and an outgoing, lovable spirit, Miller is ready to bring sunshine and excitement into your home. She’s the kind of pup who turns every day into something special.",
       "LastIntakeUnixTime": "1778689145",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778821271"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778880275"
     },
     {
       "ID": "3553",
@@ -3840,8 +4053,59 @@
       "AdoptionFeeGroup": null,
       "Description": "Gilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.\n",
       "LastIntakeUnixTime": "1778689145",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778821102"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778880276"
     },
     {
       "ID": "3554",
@@ -3874,8 +4138,59 @@
       "AdoptionFeeGroup": null,
       "Description": "Elver is strong, brave, and already a little legend. At just under 3 months old, he has overcome more in his short life than most pups ever will — including surviving his bout of parvo. And he didn’t just pull through… he bounced back with the sweetest, happiest spirit you could imagine.\n\nElver is a survivor in every sense, but you’d never know he had a rough start. He greets every day with a wagging tail, bright eyes, and a whole lot of puppy enthusiasm. He loves playtime, soft toys, and curling up against you like he’s finally found the safe place he always deserved.\n\nHis personality is pure sunshine:\n• incredibly affectionate\n• eager to learn\n• gentle with people and other pets\n• and full of that goofy Boxer‑mix charm\n\nElver is ready to start the next chapter of his life — one filled with love, stability, and a family who sees how special he truly is. He’s working on potty training, enjoys routine, and thrives on encouragement and snuggles.\n\nIf you’re looking for a puppy with a courageous heart, a sweet soul, and a whole lifetime of love ahead of him, Elver is ready to meet you. He’s proof that the smallest fighters often become the biggest blessings.\n",
       "LastIntakeUnixTime": "1778689145",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778820657"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778880276"
     },
     {
       "ID": "3555",
@@ -4067,7 +4382,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778824877"
+      "LastUpdatedUnixTime": "1778886157"
     },
     {
       "ID": "873",
@@ -4533,7 +4848,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "18.2",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
@@ -4563,7 +4878,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768333"
+      "LastUpdatedUnixTime": "1778885063"
     },
     {
       "ID": "3548",
@@ -4575,7 +4890,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "30",
+      "CurrentWeightPounds": "31.6",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
@@ -4605,7 +4920,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778768340"
+      "LastUpdatedUnixTime": "1778884388"
     },
     {
       "ID": "3549",
@@ -5658,7 +5973,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778816568"
+      "LastUpdatedUnixTime": "1778883690"
     },
     {
       "ID": "1395",
