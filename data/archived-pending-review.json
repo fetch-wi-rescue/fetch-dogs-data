@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T00:14:07Z",
+  "updated": "2026-05-16T15:38:57Z",
   "animals": [
     {
       "ID": "3458",
@@ -143,6 +143,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-15T00:14:07Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3511",
+      "Name": "Amethyst",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1de5562ff4f8bff813d2f218e849e78c/b9ab9083f7cb0f7b59c9dc53f1518d4e.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-16T15:38:57Z",
       "status": "pending"
     }
   ]

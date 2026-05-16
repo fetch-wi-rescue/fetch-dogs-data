@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T11:33:21Z",
+  "updated": "2026-05-16T15:38:57Z",
   "count": 91,
   "animals": [
     {
@@ -383,7 +383,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768518"
+      "LastUpdatedUnixTime": "1778942408"
     },
     {
       "ID": "2350",
@@ -576,7 +576,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778769173"
+      "LastUpdatedUnixTime": "1778941568"
     },
     {
       "ID": "1140",
@@ -988,11 +988,11 @@
       "Altered": "No",
       "DOBUnixTime": 1773378000,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/66c5b3782778d60ca8493525608d04b1/3114a2157b81f7f58d12e1f6b2f34ce1.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f62c225564c256e30751dcd7ede04460/d9fd0d1d1c68219c2a0ff842f444dc75.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/66c5b3782778d60ca8493525608d04b1/3114a2157b81f7f58d12e1f6b2f34ce1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f62c225564c256e30751dcd7ede04460/d9fd0d1d1c68219c2a0ff842f444dc75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/fb4e97640093e4368125febefb116af4/7488455105a012c4796f3382a02d6f29.jpeg"
       ],
       "Videos": [],
@@ -1045,7 +1045,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778769039"
+      "LastUpdatedUnixTime": "1778941652"
     },
     {
       "ID": "3459",
@@ -2407,7 +2407,6 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1723e5417bb8e401efb98614313f5963/1093caa0958d575de9a887d729cdf4d5.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1723e5417bb8e401efb98614313f5963/1093caa0958d575de9a887d729cdf4d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/33f5acc5da338606b5a817ff3b3316b6/db44ddf603d681b65bfbab57179d55e1.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7465e2a9cab881d171e761f27a0f87a3/5e2fb02137a4255cc85fba42274ea564.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7bdf88d74242458e3dfc93c366af7844/2c12106c8a4c234f47e2eefd8cb602db.jpg",
@@ -2415,7 +2414,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/331e68ebe0a1ba30d89c48ac6f25530f/6157223ecd67ab5f7cce54e9b7df492f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1e07e61a1d0cd41fe54bb9e9d1697e69/6299a16efda4c1b8d6cc1b0668099dc4.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/22e7c722527fcf3d18548b052504a918/f6243e14edd0e328e9226f5d40388081.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/539c367feba1461fe50e7b7dfb3c6e60/7aa27dbbe71fa2fe5c3fc3fb0af02529.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/539c367feba1461fe50e7b7dfb3c6e60/7aa27dbbe71fa2fe5c3fc3fb0af02529.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg"
       ],
       "Videos": [],
       "Breed": "Shiba Inu",
@@ -2431,180 +2431,167 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778817157"
+      "LastUpdatedUnixTime": "1778934791"
     },
     {
-      "ID": "3508",
-      "Internal-ID": "213488328",
-      "Name": "Royal",
-      "LitterGroupId": 9493240,
+      "ID": "3500",
+      "Internal-ID": "213465530",
+      "Name": "Lucas",
+      "LitterGroupId": 9491380,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "14.4",
-      "Size": "Small (0-24)",
+      "CurrentWeightPounds": "12.3",
+      "Size": "Large (60-99)",
       "Altered": "Unknown",
-      "DOBUnixTime": 1767765600,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
+      "DOBUnixTime": 1774587600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/492eeeec1b90a07d823fae19956f7ace/cc1c04ca110fdab30d81bb7fa4607f58.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c869b356e15382716f7ee1cdd2c79a8c/9e2b3ac21f2e0492ac3011e274d1b697.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8253beb607a6b86279968364a0515b0f/5ef0ecbff20d415ddce90c98aab43636.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/13d455bd45b0b59d9b562f1a6b9f9679/e8a73db5f939e726eb56e7e43bfbd558.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e343e054ab8a710815c8a717875eb179/8516fdd677987cf47e1cfc4d3a136324.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6fb8dac7c5686dace09106fb7127bac1/46df0f17cad372e401b16187b085fbd1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ceba275a3b3db45bd3834937e645d28d/a7218dd5f6f4afc918363bc971f23f7d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/397af3a83eba498cb1febe0a9632df9e/0168c82ff2845924cf992b9a39eaa7d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7543a68fe0a2d9d7e0509517580788c2/10646c56828fc350fc4e05c18b6267d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/51fed10debd0992b1ae57138904f1594/652f660d84679a35c85a99671b7d5af4.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/492eeeec1b90a07d823fae19956f7ace/cc1c04ca110fdab30d81bb7fa4607f58.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f493ba22f1fc232a4a16ec40fd76ca20/88073cc1e3c1ab3f145ec36d03726165.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/780b89e69992cda6d27d79bd34659d4d/7c123ab95cf85fcd8d292e7cfaf1a122.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/17807da49e415d7ced38bdfca331995c/1238d069c29414b19ed307ff0fa0b5af.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/25e4c79384f92a8b3571c232dc675910/a53beaab939528676bd52b683bd2659e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/213a1c1c867bfeec82253d7dd4488cb9/ad87196c886be056df45c0b059ef869d.jpeg"
       ],
       "Videos": [],
-      "Breed": "Greater Swiss Mountain Dog/Mixed Breed (Medium)",
-      "Color": "Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
-      "Description": "Royal is a typical puppy. He loves to play with his toys both with humans and independently. We do not have any kids or other pets in our house but Royal is playful with other dogs and gentle with children keeping in mind, he is a teething puppy so can by mouthy at times. Royal is making great strides in potty training but occasionally has accidents in the house. He is learning to walk on a leash. He goes easily into his crate and will sometimes whine a little once he's in but then quiets quickly. He loves to follow his humans around and loves cuddles and napping on laps. He checks in with his humans making eye contact with his big puppy eyes. He's has a great auto-sit and is working on turn, touch and come.\n\nRoyal is a happy, playful puppy who brings a great balance of energy and affection. He loves engaging with toys—whether it’s playtime with his humans or entertaining himself—and enjoys being around people, often following them from room to room. He’s especially fond of cuddles and will happily curl up for a nap in your lap, making plenty of eye contact with those irresistible puppy eyes.\n\nRoyal is social and does well with other dogs, and he’s gentle with children, though like most teething puppies, he can be a bit mouthy at times. He’s making solid progress with potty training and leash walking, showing a strong willingness to learn. He already has a reliable auto-sit and is currently working on commands like turn, touch, and come.\n\nHe settles well in his crate and may whine briefly before calming down. Overall, Royal is a smart, affectionate pup who is building great habits and would thrive in a home ready to continue his training and give him plenty of love and structure.",
-      "LastIntakeUnixTime": "1776354996",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778768699"
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "The quietest of the siblings, Lucas is the complete package. He is sweet, calm, playful, and calculating. He loves to sit in your lap and watch his siblings play, waiting for the perfect moment to join the fray. \n\nBrother to Deva, Kai, and Nola!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778942485"
     },
     {
-      "ID": "3511",
-      "Internal-ID": "213488331",
-      "Name": "Amethyst",
-      "LitterGroupId": 9493240,
+      "ID": "3501",
+      "Internal-ID": "213465531",
+      "Name": "Kai",
+      "LitterGroupId": 9491380,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.9",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1774587600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/794c849a77328fe3dd1142222aa4b16b/5b040ccf8a5bcdd0106dd6bf558d8a19.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/794c849a77328fe3dd1142222aa4b16b/5b040ccf8a5bcdd0106dd6bf558d8a19.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bed92f4340b302d752356a7e3169e559/1967e7934b982941eeb6a854df67edb5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb1dd3f859baebac690cbdb7c5bfe65c/73cb861956315d97ca55eda93e43cb5b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3a6d79459e3950309b93f85c69800ac/f899652fa064291247214d9375729b39.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1b553c364c3545fdeb5697fae1c305cc/1ae518e3748ac7378487eb111ef036d8.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Kai is my charming little rogue. Sweet, but a little mischievous, he loves to explore for things to chew on (his favorite is the door stopper), but loves to crawl in your lap and lick your nose even more! A total heartbreaker. \n\nBrother to Deva, Lucas, and Nola!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778942519"
+    },
+    {
+      "ID": "3502",
+      "Internal-ID": "213465535",
+      "Name": "Deva",
+      "LitterGroupId": 9491380,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "15.5",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1767765600,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1de5562ff4f8bff813d2f218e849e78c/b9ab9083f7cb0f7b59c9dc53f1518d4e.jpg",
+      "CurrentWeightPounds": "12.2",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1774587600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46e69fb124c914a3b0dd8109a2a9a9ec/146b5d5739c88c50dfaa04fc17d3449d.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1de5562ff4f8bff813d2f218e849e78c/b9ab9083f7cb0f7b59c9dc53f1518d4e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8931e75b3530396fb9bdd679e46adda9/e9742dcaeb7e0a8614c6aa253013492a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9caa828ae3b9797e903c26d7b9f731b/a5cfbdfc6d3057daa96ab0527d1f75e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/709f15d5647d57d1cfccf13ca896fce4/274733062e6bdc212cd60fcccb137eb9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3fb2bdea73212d3b15c059c20274586e/441be2a292a4a2b60609f5b811d7702e.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/46e69fb124c914a3b0dd8109a2a9a9ec/146b5d5739c88c50dfaa04fc17d3449d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b00c61bfc7e24ad4dd83b7f915c7baab/3b8e52302bfcc793947754a964b7e961.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2950c3299d5f0c8678814cefda2885b3/7b6c2191d58303c4e02f02821ab45cb0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e064d84c45684c7a61be16ff273210a0/77f6c5e0dbf24276d21a5b93762475a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3e30f1431921637cf2c9998a321b87d0/94a3c2c62c09d332258430cc8c8e020b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/246e03d84e515a6912078a9fa6572fbb/16ce28088bf1518770bae491d7cfac6a.jpeg"
       ],
       "Videos": [],
-      "Breed": "Greater Swiss Mountain Dog/Mixed Breed (Medium)",
-      "Color": "Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
-      "Description": "Amethyst is THE BEST puppy! Not only is she 100% adorable, but she is also a great blend of snuggly and independent, liking to hang out on the couch with you but not in your face when you get down on the floor and do yoga. She loves to play fetch and tug of war, and her zoomies are really an athletic feat! She is a super good car buddy, riding calmly and staying in the seat she is supposed to be in, until she thinks you are getting out...then she is in your lap, making sure you take her with you! She also rides well in a kennel in the car, if you prefer to go that route. She sleeps all night in her crate at our bedside without a peep and is just overall a wonderful dog.\n\nShe is a typical puppy for her age, exploring the world with her mouth, but she is getting the hang of which things are meant to go in her mouth and which ones aren't. She is doing great with housetraining and only rarely has an accident now, and often they are more our fault than hers. We typically let her out every half hour to hour when we are home and that works well. When we leave the house for work or other engagements, she happily goes in her crate and does well in it. So far we have only left her in there for up to three or four hours, and she has not had an accident in her crate. She does not display any separation anxiety when we leave - she actually seems to enjoy being in her crate, and will often go in there to take a break even when she doesn't have to.\n\nWe've been trying to guess how big this cutie pie will get and we really don't think she will be a large dog. She does not have big, clompy feet or a beefy build at all. so we are thinking she will be more of a medium-sized dog, maybe 35 pounds or so. Just our guess!",
-      "LastIntakeUnixTime": "1776354996",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "A fiery redhead that’s true to her name, Deva is the star, the big sister, and the representative of her siblings.  She’s brave, adventurous, and not afraid to tell you what she thinks. When her big sister work is done, she's in your lap being the perfect cuddle bug.\n\nSister to Nola, Lucas, and Kai!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778942545"
+    },
+    {
+      "ID": "3503",
+      "Internal-ID": "213465538",
+      "Name": "Nola",
+      "LitterGroupId": 9491380,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12.6",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1774587600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6170a3a75b0cca98da0968b5eeb10821/10d42e82c467fb1416234567f75fa896.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6170a3a75b0cca98da0968b5eeb10821/10d42e82c467fb1416234567f75fa896.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/572c2299e985e61b6b4b070333442b5c/bae7d7cf5362262483f7d6c9b47fceb7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f562a796d4bf8c6f8ee0873e645e9d50/0ca2e4505dff85a40ccf5bf2a2e29e07.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b28c7017c34eb305b9082dcadfcd2481/ca10e34136cccb208f48d3a36b1146f6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68be277e5e2ec63079be3ffae1dbf394/873f3bda1088aa2197d2248347fcfd99.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a4a1a6893c281640e9fdebc80ea45d3/f773ab84e112ef9918180ede54c6b32a.jpeg"
       ],
-      "LastUpdatedUnixTime": "1778768743"
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Nola is a total sweetheart. Always first out of the gate to give you some loving, she's a silly, sweet, playful girl.  If she's not in cuddling up with you, she's pouncing on a toy or (preferably) on her siblings!\n\nSister to Deva, Kai, and Lucas!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1778942573"
     },
     {
       "ID": "3513",
@@ -3128,53 +3115,6 @@
       "LastUpdatedUnixTime": "1778881374"
     },
     {
-      "ID": "3531",
-      "Internal-ID": "213587848",
-      "Name": "Reuben",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0223e28d8f0f76b1122090838185b165/29bb0efeba3073f3338cf44b72deb8c3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5fa97cc894ed7b20b6fea532a6add745/6b2397fec70ebbbd71079966cd3797dc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ba28bcf6a6d95dfa5196c342295d3a9/fe871d6bfd50c91669a1fe22fb669c5d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e5a88ed60aaafea9ff7a9f298c819a68/c1fc45fa8e3e2cd51c7cb18ba0f40835.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/22b06bcca24a7d28153b712a146b99c8/4142f12f80d70c778b0509660ef921e8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/37fd10df5870f667601d0d9e48218e68/bd0e601e20b8058f866ba8209e792e85.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "AVAILABLE AFTER 5/26.\nMeet and greets accepted in the meantime.\n\nReuben is the perfect balance of playful and snuggly! He loves playing with toys,  getting zoomies in the yard, and then curling up next to you on the couch for a good nap. He is very food motivated and is very entertained by sniffing. He is a very loving and social pup and does great with other dogs, cats, kids, and people! He follows his foster mom all around the house, and insists on snuggling up next to her on the couch every night. \n\nReuben is a rescue from Rigland Farms, so he’s still learning all of his doggy basics and adjusting to his new life. He will need an understanding and patient adopter committed to continuing his training. He is still working on potty training, but learning very fast! When he does go in the house, he consistently uses a potty pad and will likely be fully potty trained by the time he is adopted 😊\n\nReuben would do best in a home with a fenced yard, since he is not comfortable walking on a leash yet. He would also do best in a home with another dog to continue to show him the ropes and help keep him company (he’s not a fan of being alone). \n\nReuben does great free roaming with his foster dog and cat brothers while his foster mom works. He does NOT like to be alone, confined, or crated— if crated or locked in a room alone, he may panic & become destructive. His ideal adopter would have an understanding of dogs with separation anxiety and be okay with a non-crate trained pup. \n\nReuben is a very loving and sweet pup who will thrive in a home where he is given the time and patience to continue his training and enjoy his new life of freedom 🥰",
-      "LastIntakeUnixTime": "1777774067",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778640229"
-    },
-    {
       "ID": "3532",
       "Internal-ID": "213587853",
       "Name": "Henry",
@@ -3696,7 +3636,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768293"
+      "LastUpdatedUnixTime": "1778941528"
     },
     {
       "ID": "3546",
@@ -4316,150 +4256,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778827227"
-    },
-    {
-      "ID": "3500",
-      "Internal-ID": "213465530",
-      "Name": "Lucas",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.7",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1774587600,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f493ba22f1fc232a4a16ec40fd76ca20/88073cc1e3c1ab3f145ec36d03726165.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f493ba22f1fc232a4a16ec40fd76ca20/88073cc1e3c1ab3f145ec36d03726165.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/780b89e69992cda6d27d79bd34659d4d/7c123ab95cf85fcd8d292e7cfaf1a122.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778892566"
-    },
-    {
-      "ID": "3501",
-      "Internal-ID": "213465531",
-      "Name": "Kai",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.8",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1774587600,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bed92f4340b302d752356a7e3169e559/1967e7934b982941eeb6a854df67edb5.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778892583"
-    },
-    {
-      "ID": "3502",
-      "Internal-ID": "213465535",
-      "Name": "Deva",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.8",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1774587600,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b00c61bfc7e24ad4dd83b7f915c7baab/3b8e52302bfcc793947754a964b7e961.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b00c61bfc7e24ad4dd83b7f915c7baab/3b8e52302bfcc793947754a964b7e961.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2950c3299d5f0c8678814cefda2885b3/7b6c2191d58303c4e02f02821ab45cb0.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778892598"
-    },
-    {
-      "ID": "3503",
-      "Internal-ID": "213465538",
-      "Name": "Nola",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.5",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1774587600,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/572c2299e985e61b6b4b070333442b5c/bae7d7cf5362262483f7d6c9b47fceb7.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/572c2299e985e61b6b4b070333442b5c/bae7d7cf5362262483f7d6c9b47fceb7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f562a796d4bf8c6f8ee0873e645e9d50/0ca2e4505dff85a40ccf5bf2a2e29e07.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778892551"
     },
     {
       "ID": "3523",
@@ -5093,6 +4889,93 @@
         }
       ],
       "LastUpdatedUnixTime": "1778898743"
+    },
+    {
+      "ID": "3579",
+      "Internal-ID": "213704415",
+      "Name": "Stacy",
+      "LitterGroupId": 9389635,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "40",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1732047217,
+      "Age": 17,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fe093dc250a5d1b56c36a1c58d325bc5/7679136c387c3fc1f72f77566143f2a2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/fe093dc250a5d1b56c36a1c58d325bc5/7679136c387c3fc1f72f77566143f2a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dba83d53b49436616ccfafb5d8b57009/7d05a3db741c1d61dccc0f2af6580a39.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9124594fe518ce9d2434bbb7f95d156/94313ed5e4cdffbad5ba5cb254faf7a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/24312ee264520ee383693457a793bc28/115c8353770400f8a6ab12b828997cc7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e023b78d180de5cc128732707177d0c6/eeaedb8478c8c9ab72c945772d00b8d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d212ed8bac3854e967435a64e1d72aa/eb51477e3e1930c0f9d62c059414dd4e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/68092ea030b6106fb743a0499c3d07b1/786599c495886eb831fa6e4b1b50d531.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f44f83ae8eeef0e0c2277eeafc9e40c3/2c7f5052bcf401aee504893a06151c1d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/70e120f3a5827c8a2b6c79c4b93a51fc/24b3c1a3d5200e0d00da027ad5fc16a8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9bbca8e84e4b2f2d5410f6ccb875ca1/a8dd9fd2824e6d19973d92f4ef41117b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04956d6964209e05cb7ff7361ce5d233/e00372c8997d2d7d470a9b12e06b2567.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aca0d6b07390c72b2682b001d78d3f72/35ad63b7b2b9236c1e5a401c52f36189.png",
+        "https://new-s3.shelterluv.com/profile-pictures/adde58e7eae13f2176b8ea8a13a66553/ef9c446b982188a8ecf03ae6c364ea1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8c97794b235ac530672a05cc3079177/4f84ddab0390af1ffcca9a39a4442409.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3721c61af39d79cf4053812178f9bb8f/d07c8583511285d65dde6eb089e66d0f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8dba531ae6d40696f90144e24a29977/6b4def27d49d6725f953e9fd871173cb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/44f7e527e946c48e400cf5494172d7ce/162d2b37e4d5fecf582904fff7001688.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65924c433eb31f5bfad8e1b45c57e1e1/ed1c2974dd6f1ca31a658fc1ff956593.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/84a6d336da1e87f6b1dcaba7f1333895/69c4afa50568ef22d47c3d78aab2214b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/40c343ef9484413ef41e5c4643b98aaf/76417857033377581b9cc85fd118f3c7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/843e1f14bc33dafd53ed886986ed7da7/2c6f8e57cf4b7f4c0aba295b037ab697.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/762bd799f456c0a58886231bfec91b39/61c4884200633a9a27b624cf58d0aa99.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a53011ecc56fb1ce833a75acfc7fb13a/5f66df4913e9510560bdc7883bf6a7cc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a1bd343371d5c6275ae67c2991b02d9/bda20638541d404669734329390fd88d.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "3paOjWspH2k",
+          "EmbedUrl": "//www.youtube.com/embed/3paOjWspH2k?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=3paOjWspH2k",
+          "ThumbUrl": "https://img.youtube.com/vi/3paOjWspH2k/0.jpg"
+        },
+        {
+          "VideoId": "lT9qqcR0QNU",
+          "EmbedUrl": "//www.youtube.com/embed/lT9qqcR0QNU?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=lT9qqcR0QNU",
+          "ThumbUrl": "https://img.youtube.com/vi/lT9qqcR0QNU/0.jpg"
+        },
+        {
+          "VideoId": "SKp2TKBzPY0",
+          "EmbedUrl": "//www.youtube.com/embed/SKp2TKBzPY0?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=SKp2TKBzPY0",
+          "ThumbUrl": "https://img.youtube.com/vi/SKp2TKBzPY0/0.jpg"
+        }
+      ],
+      "Breed": "Mixed Breed (Large)/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Stacy 🌸🐾\n\nStacy came to us months ago as a scared, unsure puppy, trying to figure out a world that felt a little too big and a little too loud. With time, consistency, and gentle care, she has blossomed into a dog who has learned how to trust — though she’ll always appreciate a person who understands that good things are worth going slow.\n\nStacy approaches new situations with caution and thoughtfulness, but once she knows she’s safe, her sweet side shines through. She loves kind, gentle pets, is highly motivated by treats, and truly enjoys the company of other dogs, who help boost her confidence.\n\nShe’s looking for a patient, compassionate home — one that will celebrate the small wins, respect her pace, and give her the time she needs to keep growing. In return, Stacy will offer quiet affection, loyalty, and the kind of bond that comes from earning a dog’s trust.\n\nIf you believe love is built gently and beautifully over time, Stacy may be your perfect match 💗🐶",
+      "LastIntakeUnixTime": "1778942911",
+      "Attributes": [
+        {
+          "Internal-ID": "294266",
+          "AttributeName": "Bonded",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778942957"
     },
     {
       "ID": "2533",
@@ -5783,6 +5666,53 @@
       "LastUpdatedUnixTime": "1778768732"
     },
     {
+      "ID": "3531",
+      "Internal-ID": "213587848",
+      "Name": "Reuben",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "25.4",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1683003600,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0223e28d8f0f76b1122090838185b165/29bb0efeba3073f3338cf44b72deb8c3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fa97cc894ed7b20b6fea532a6add745/6b2397fec70ebbbd71079966cd3797dc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ba28bcf6a6d95dfa5196c342295d3a9/fe871d6bfd50c91669a1fe22fb669c5d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e5a88ed60aaafea9ff7a9f298c819a68/c1fc45fa8e3e2cd51c7cb18ba0f40835.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/22b06bcca24a7d28153b712a146b99c8/4142f12f80d70c778b0509660ef921e8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/37fd10df5870f667601d0d9e48218e68/bd0e601e20b8058f866ba8209e792e85.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "AVAILABLE AFTER 5/26.\nMeet and greets accepted in the meantime.\n\nReuben is the perfect balance of playful and snuggly! He loves playing with toys,  getting zoomies in the yard, and then curling up next to you on the couch for a good nap. He is very food motivated and is very entertained by sniffing. He is a very loving and social pup and does great with other dogs, cats, kids, and people! He follows his foster mom all around the house, and insists on snuggling up next to her on the couch every night. \n\nReuben is a rescue from Rigland Farms, so he’s still learning all of his doggy basics and adjusting to his new life. He will need an understanding and patient adopter committed to continuing his training. He is still working on potty training, but learning very fast! When he does go in the house, he consistently uses a potty pad and will likely be fully potty trained by the time he is adopted 😊\n\nReuben would do best in a home with a fenced yard, since he is not comfortable walking on a leash yet. He would also do best in a home with another dog to continue to show him the ropes and help keep him company (he’s not a fan of being alone). \n\nReuben does great free roaming with his foster dog and cat brothers while his foster mom works. He does NOT like to be alone, confined, or crated— if crated or locked in a room alone, he may panic & become destructive. His ideal adopter would have an understanding of dogs with separation anxiety and be okay with a non-crate trained pup. \n\nReuben is a very loving and sweet pup who will thrive in a home where he is given the time and patience to continue his training and enjoy his new life of freedom 🥰",
+      "LastIntakeUnixTime": "1777774067",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778937114"
+    },
+    {
       "ID": "2705",
       "Internal-ID": "213180547",
       "Name": "Ricardo (aka Ricardito)",
@@ -5858,6 +5788,90 @@
         }
       ],
       "LastUpdatedUnixTime": "1778769145"
+    },
+    {
+      "ID": "3508",
+      "Internal-ID": "213488328",
+      "Name": "Royal",
+      "LitterGroupId": 9493240,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "14.4",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1767765600,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c869b356e15382716f7ee1cdd2c79a8c/9e2b3ac21f2e0492ac3011e274d1b697.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8253beb607a6b86279968364a0515b0f/5ef0ecbff20d415ddce90c98aab43636.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/13d455bd45b0b59d9b562f1a6b9f9679/e8a73db5f939e726eb56e7e43bfbd558.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e343e054ab8a710815c8a717875eb179/8516fdd677987cf47e1cfc4d3a136324.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6fb8dac7c5686dace09106fb7127bac1/46df0f17cad372e401b16187b085fbd1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ceba275a3b3db45bd3834937e645d28d/a7218dd5f6f4afc918363bc971f23f7d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/397af3a83eba498cb1febe0a9632df9e/0168c82ff2845924cf992b9a39eaa7d6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7543a68fe0a2d9d7e0509517580788c2/10646c56828fc350fc4e05c18b6267d5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/51fed10debd0992b1ae57138904f1594/652f660d84679a35c85a99671b7d5af4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Greater Swiss Mountain Dog/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": null,
+      "Description": "Royal is a typical puppy. He loves to play with his toys both with humans and independently. We do not have any kids or other pets in our house but Royal is playful with other dogs and gentle with children keeping in mind, he is a teething puppy so can by mouthy at times. Royal is making great strides in potty training but occasionally has accidents in the house. He is learning to walk on a leash. He goes easily into his crate and will sometimes whine a little once he's in but then quiets quickly. He loves to follow his humans around and loves cuddles and napping on laps. He checks in with his humans making eye contact with his big puppy eyes. He's has a great auto-sit and is working on turn, touch and come.\n\nRoyal is a happy, playful puppy who brings a great balance of energy and affection. He loves engaging with toys—whether it’s playtime with his humans or entertaining himself—and enjoys being around people, often following them from room to room. He’s especially fond of cuddles and will happily curl up for a nap in your lap, making plenty of eye contact with those irresistible puppy eyes.\n\nRoyal is social and does well with other dogs, and he’s gentle with children, though like most teething puppies, he can be a bit mouthy at times. He’s making solid progress with potty training and leash walking, showing a strong willingness to learn. He already has a reliable auto-sit and is currently working on commands like turn, touch, and come.\n\nHe settles well in his crate and may whine briefly before calming down. Overall, Royal is a smart, affectionate pup who is building great habits and would thrive in a home ready to continue his training and give him plenty of love and structure.",
+      "LastIntakeUnixTime": "1776354996",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1778934939"
     },
     {
       "ID": "3518",
