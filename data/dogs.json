@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T15:43:26Z",
+  "updated": "2026-05-17T19:56:39Z",
   "count": 98,
   "animals": [
     {
@@ -1127,7 +1127,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768962"
+      "LastUpdatedUnixTime": "1779043720"
     },
     {
       "ID": "3461",
@@ -1139,7 +1139,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "13",
+      "CurrentWeightPounds": "25",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1766901600,
@@ -1230,7 +1230,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768952"
+      "LastUpdatedUnixTime": "1779043720"
     },
     {
       "ID": "3464",
@@ -3434,53 +3434,6 @@
       "LastUpdatedUnixTime": "1778941528"
     },
     {
-      "ID": "3546",
-      "Internal-ID": "213603741",
-      "Name": "Archer James",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "24.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "NOT AVAILABLE UNTIL 6/8\nIN THE MEANTIME, MEET & GREETS WELCOMED \n\n\nHi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we’ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He’s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn’t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven’t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779028437"
-    },
-    {
       "ID": "3547",
       "Internal-ID": "213603747",
       "Name": "Doug",
@@ -3956,7 +3909,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778981944"
+      "LastUpdatedUnixTime": "1779036850"
     },
     {
       "ID": "3586",
@@ -4055,7 +4008,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778982217"
+      "LastUpdatedUnixTime": "1779036813"
     },
     {
       "ID": "2774",
@@ -4492,7 +4445,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Meet George 🐶\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he prefers having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends.\n\nGeorge is still working on potty training and learning that being alone is safe. He can experience some crate and separation anxiety, but he’s making progress with patience, routine, and reassurance. He’ll thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of tender-hearted love that makes every bit of effort worthwhile.\n\nIf you have a kind home, a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
+      "Description": "Meet George 🐶\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends.\n\nGeorge is still working on potty training and learning that being alone is safe. He can experience some crate and separation anxiety, but he’s making progress with patience, routine, and reassurance. He’ll thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of tender-hearted love that makes every bit of effort worthwhile.\n\nIf you have a kind heart,a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
       "LastIntakeUnixTime": "1777945841",
       "Attributes": [
         {
@@ -4795,7 +4748,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778898743"
+      "LastUpdatedUnixTime": "1779036930"
     },
     {
       "ID": "3579",
@@ -4882,7 +4835,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778974525"
+      "LastUpdatedUnixTime": "1779037026"
     },
     {
       "ID": "3580",
@@ -4894,7 +4847,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "55",
+      "CurrentWeightPounds": "81.4",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1546761600,
@@ -4928,7 +4881,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778958401"
+      "LastUpdatedUnixTime": "1779037083"
     },
     {
       "ID": "3581",
@@ -4972,7 +4925,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778958353"
+      "LastUpdatedUnixTime": "1779036752"
     },
     {
       "ID": "3587",
@@ -5002,7 +4955,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1778952181",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778958268"
+      "LastUpdatedUnixTime": "1779036954"
     },
     {
       "ID": "2533",
@@ -5180,7 +5133,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1778954265",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1778958267"
+      "LastUpdatedUnixTime": "1779036992"
     },
     {
       "ID": "2617",
@@ -5192,7 +5145,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "55",
+      "CurrentWeightPounds": "54",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1742274000,
@@ -5259,7 +5212,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778769161"
+      "LastUpdatedUnixTime": "1779042197"
     },
     {
       "ID": "3462",
@@ -5271,7 +5224,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "15.6",
+      "CurrentWeightPounds": "25",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1769666400,
@@ -5362,7 +5315,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778957064"
+      "LastUpdatedUnixTime": "1779043655"
     },
     {
       "ID": "3482",
@@ -5829,6 +5782,53 @@
       "LastUpdatedUnixTime": "1779031183"
     },
     {
+      "ID": "3546",
+      "Internal-ID": "213603741",
+      "Name": "Archer James",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "24.4",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "NOT AVAILABLE UNTIL 6/8\nIN THE MEANTIME, MEET & GREETS WELCOMED \n\n\nHi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we’ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He’s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn’t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven’t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779037606"
+    },
+    {
       "ID": "3552",
       "Internal-ID": "213684439",
       "Name": "Miller",
@@ -6007,7 +6007,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779031158"
+      "LastUpdatedUnixTime": "1779036917"
     },
     {
       "ID": "2705",
