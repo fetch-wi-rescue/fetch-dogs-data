@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T19:14:14Z",
+  "updated": "2026-05-18T22:42:47Z",
   "count": 100,
   "animals": [
     {
@@ -184,7 +184,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779131274"
+      "LastUpdatedUnixTime": "1779142268"
     },
     {
       "ID": "3279",
@@ -1036,7 +1036,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779022018"
+      "LastUpdatedUnixTime": "1779132162"
     },
     {
       "ID": "3453",
@@ -1121,7 +1121,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779078849"
+      "LastUpdatedUnixTime": "1779143345"
     },
     {
       "ID": "3459",
@@ -3006,66 +3006,6 @@
       "LastUpdatedUnixTime": "1778881374"
     },
     {
-      "ID": "3532",
-      "Internal-ID": "213587853",
-      "Name": "Henry",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "30.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/32b6a5e35194b888debb06167b61e9a2/6c2dabc7fd0b7bbc856c2c572be20110.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "AVAILABLE AFTER 5/26.\n\nMeet and greets accepted in the meantime.\n\nMeet Sir Henry—the sweetest little Ridglan beagle ready for his next chapter.\nSir Henry is off to a great start with potty training and is learning the ropes on a leash. He wasn’t totally sold on his first bath, but his playful splashing suggests he might just become a water lover in time!\nThis gentle boy is friendly with dogs, cats, and his person. He’s very submissive, incredibly affectionate, and happiest when he’s involved in every aspect of home living. He sleeps through the night, loves being outside, and has a curious, observant nature—always interested in what you’re up to. While he enjoys following you around, he prefers not to be chased—he likes to set the pace of his interactions.\nHenry has a soft spot for sniffing adventures and would thrive with another dog companion to help him continue building confidence. He also has a quirky love for lounging among flowers—future garden buddy, perhaps?\nHenry is looking for a patient, understanding adopter who will go slow and let him blossom at his own pace. In return, you’ll get a loyal, loving companion who’s well worth the wait 💛",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778686811"
-    },
-    {
       "ID": "3538",
       "Internal-ID": "213591745",
       "Name": "Milo",
@@ -3148,7 +3088,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778886112"
+      "LastUpdatedUnixTime": "1779143180"
     },
     {
       "ID": "3539",
@@ -3210,7 +3150,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779052661"
+      "LastUpdatedUnixTime": "1779142437"
     },
     {
       "ID": "3540",
@@ -3285,7 +3225,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779030264"
+      "LastUpdatedUnixTime": "1779143061"
     },
     {
       "ID": "3541",
@@ -3360,7 +3300,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779030305"
+      "LastUpdatedUnixTime": "1779143114"
     },
     {
       "ID": "3542",
@@ -3440,7 +3380,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779030285"
+      "LastUpdatedUnixTime": "1779142568"
     },
     {
       "ID": "3543",
@@ -3607,9 +3547,14 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Doug is a 23-pound beagle with a joyful spirit and a love for life that shows in everything he does. He’s a happy, playful pup who approaches each day like a new adventure, whether that means exploring his surroundings, chasing a toy, or making a new friend.\n\nDoug is still learning the ropes of living in a home, and he’s making great progress. He sleeps quietly through the night, settling in more each day. It’s fun to watch Doug grow and learn new things in life—he’s brave and a true adventurer. He’s curious, eager, and soaking up new experiences as he goes. With a little guidance and consistency, he’ll continue to thrive and build a solid routine.\n\nDoug currently lives with multiple dogs and absolutely loves to play, making him a great fit for a home with other canine companions. One of his most charming traits is his friendly nature—he truly believes everyone is his friend. He’s especially curious about cats and would likely do well in a home with them, though he may assume they’re just fellow dogs and try to engage them in playtime.\n\nDoug would be a wonderful companion for someone looking for an affectionate, energetic dog who’s ready to learn, grow, and bring plenty of happiness into a home.\n\nDoug will be available for adoption after May 26th but is taking applications now!",
+      "Description": "Doug is a 23-pound beagle with a joyful spirit and a love for life that shows in everything he does. He’s a happy, playful pup who approaches each day like a new adventure, whether that means exploring his surroundings, chasing a toy, or making a new friend.\n\nDoug is still learning the ropes of living in a home, and he’s making great progress. He sleeps quietly through the night, settling in more each day. It’s fun to watch Doug grow and learn new things in life—he’s brave and a true adventurer. He’s curious, eager, and soaking up new experiences as he goes. With a little guidance and consistency, he’ll continue to thrive and build a solid routine.\n\nDoug currently lives with multiple dogs and absolutely loves to play, making him a great fit for a home with other canine companions. One of his most charming traits is his friendly nature—he truly believes everyone is his friend. He’s especially curious about cats and would likely do well in a home with them, though he may assume they’re just fellow dogs and try to engage them in playtime.\n\nDoug would be a wonderful companion for someone looking for an affectionate, playful dog who’s ready to learn, grow, and bring plenty of happiness into a home.\n\nDoug will be available for adoption after May 26th but is taking applications now!",
       "LastIntakeUnixTime": "1777945841",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -3646,7 +3591,58 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778975532"
+      "LastUpdatedUnixTime": "1779137804"
+    },
+    {
+      "ID": "3548",
+      "Internal-ID": "213603748",
+      "Name": "George",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "31.6",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a95cc454d486f8a2d3d7780351e15f5/0b9827dc6c763c71408dc66244741a44.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2a95cc454d486f8a2d3d7780351e15f5/0b9827dc6c763c71408dc66244741a44.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/222478a5dec08a7c90bd726de358264a/6f6eb7a9f7f970c49c68d67d458995b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/745a64bb7db4696bd75a9e3e5102ee49/31afc33f34d70cfcb767555727f2738e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c8704f65120a12925ed914c0bb503bb8/2a68a1fbf43b53163d1863487446d31d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/de89af1df5b155f1b4960ce970bea6e0/29a0fdc448198ba09cddc6e50ac0822a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9526fb5c4940bdd0d2d3aacf628b71c/90b70c0185033629fc4ba005cfa46f14.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ec91dff3002dc87e8a7d952547230029/04a2b5226f35d230a2a37bdb63607aef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8519cd6de207cbcedf552eb3b2c0a044/04b8257e0ae4996e2dacdf8fb2788fbf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8907c3d294c24a32de54cd542d5730ab/42a215270d5e50313559d8354ae007fe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a71120d41f825c6cd559c733774f185/300f01450d4445299580ca5ee6a3646d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e21b3926c690b135872d51b5a2c05b77/0af0710830bcfd929fc2fb64f487f876.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet George 🐶\n\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends. He’s a lower-energy boy overall who absolutely loves to cuddle, and everyone who meets him comments on how incredibly soft he is. One of George’s cutest qualities is how joyful he becomes outside; upon first seeing grass, and honestly every time after that, he loves to skip and run around the yard with a ball like it’s the happiest moment of his day.\n\nGeorge is still working on potty training and learning that being in a crate is safe.  He’ll continue to make progress with additional patience, routine, and reassurance and will thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of dog love that makes every bit of effort worthwhile.\n\nIf you have a kind heart, a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779141532"
     },
     {
       "ID": "3553",
@@ -4513,7 +4509,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779036813"
+      "LastUpdatedUnixTime": "1779142978"
     },
     {
       "ID": "873",
@@ -4829,48 +4825,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779063871"
-    },
-    {
-      "ID": "3548",
-      "Internal-ID": "213603748",
-      "Name": "George",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "31.6",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a95cc454d486f8a2d3d7780351e15f5/0b9827dc6c763c71408dc66244741a44.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2a95cc454d486f8a2d3d7780351e15f5/0b9827dc6c763c71408dc66244741a44.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/222478a5dec08a7c90bd726de358264a/6f6eb7a9f7f970c49c68d67d458995b8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet George 🐶\n\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends. He’s a lower-energy boy overall who absolutely loves to cuddle, and everyone who meets him comments on how incredibly soft he is. One of George’s cutest qualities is how joyful he becomes outside; upon first seeing grass, and honestly every time after that, he loves to skip and run around the yard with a ball like it’s the happiest moment of his day.\n\nGeorge is still working on potty training and learning that being in a crate is safe.  He’ll continue to make progress with additional patience, routine, and reassurance and will thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of dog love that makes every bit of effort worthwhile.\n\nIf you have a kind heart, a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779062005"
     },
     {
       "ID": "3549",
@@ -5396,10 +5350,10 @@
       "Color": "Brown",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "True to her name, Ladybug is both a considerate and well-mannered lady (around guinea pigs, chickens and a cat so far) and a supreme snuggle bug who enjoys nothing more than falling asleep in your lap or alongside you after a rigorous play session. She's done great with kids of all ages that she's met so far and is happy to greet all other dogs that's she's come across as well. She's really locking-in to potty training and benefits greatly from frequent opportunities and consistent routine - she gives a whine when it's time in case you're not paying attention! She arrived in mid-May from Alabama and *really* needed a bath immediately and was a champ at that also. She's also started a crate routine that is going pretty well. Ladybug is ready to lock her pretty green eyes on you and join you on your next adventure if you've got big love to share.",
       "LastIntakeUnixTime": "1778954265",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1779036992"
+      "LastUpdatedUnixTime": "1779132400"
     },
     {
       "ID": "2617",
@@ -5958,53 +5912,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778768732"
-    },
-    {
-      "ID": "3531",
-      "Internal-ID": "213587848",
-      "Name": "Reuben",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0223e28d8f0f76b1122090838185b165/29bb0efeba3073f3338cf44b72deb8c3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5fa97cc894ed7b20b6fea532a6add745/6b2397fec70ebbbd71079966cd3797dc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ba28bcf6a6d95dfa5196c342295d3a9/fe871d6bfd50c91669a1fe22fb669c5d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e5a88ed60aaafea9ff7a9f298c819a68/c1fc45fa8e3e2cd51c7cb18ba0f40835.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/22b06bcca24a7d28153b712a146b99c8/4142f12f80d70c778b0509660ef921e8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/37fd10df5870f667601d0d9e48218e68/bd0e601e20b8058f866ba8209e792e85.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "AVAILABLE AFTER 5/26.\nMeet and greets accepted in the meantime.\n\nReuben is the perfect balance of playful and snuggly! He loves playing with toys,  getting zoomies in the yard, and then curling up next to you on the couch for a good nap. He is very food motivated and is very entertained by sniffing. He is a very loving and social pup and does great with other dogs, cats, kids, and people! He follows his foster mom all around the house, and insists on snuggling up next to her on the couch every night. \n\nReuben is a rescue from Rigland Farms, so he’s still learning all of his doggy basics and adjusting to his new life. He will need an understanding and patient adopter committed to continuing his training. He is still working on potty training, but learning very fast! When he does go in the house, he consistently uses a potty pad and will likely be fully potty trained by the time he is adopted 😊\n\nReuben would do best in a home with a fenced yard, since he is not comfortable walking on a leash yet. He would also do best in a home with another dog to continue to show him the ropes and help keep him company (he’s not a fan of being alone). \n\nReuben does great free roaming with his foster dog and cat brothers while his foster mom works. He does NOT like to be alone, confined, or crated— if crated or locked in a room alone, he may panic & become destructive. His ideal adopter would have an understanding of dogs with separation anxiety and be okay with a non-crate trained pup. \n\nReuben is a very loving and sweet pup who will thrive in a home where he is given the time and patience to continue his training and enjoy his new life of freedom 🥰",
-      "LastIntakeUnixTime": "1777774067",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778937114"
     },
     {
       "ID": "3535",
@@ -6665,6 +6572,113 @@
         }
       ],
       "LastUpdatedUnixTime": "1779112073"
+    },
+    {
+      "ID": "3531",
+      "Internal-ID": "213587848",
+      "Name": "Reuben",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "25.4",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1683003600,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c0e95972aaee0676176e272f78147289/83964465ff108f747c2fb04c9c875123.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0223e28d8f0f76b1122090838185b165/29bb0efeba3073f3338cf44b72deb8c3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fa97cc894ed7b20b6fea532a6add745/6b2397fec70ebbbd71079966cd3797dc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ba28bcf6a6d95dfa5196c342295d3a9/fe871d6bfd50c91669a1fe22fb669c5d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e5a88ed60aaafea9ff7a9f298c819a68/c1fc45fa8e3e2cd51c7cb18ba0f40835.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/22b06bcca24a7d28153b712a146b99c8/4142f12f80d70c778b0509660ef921e8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/37fd10df5870f667601d0d9e48218e68/bd0e601e20b8058f866ba8209e792e85.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "AVAILABLE AFTER 5/26.\nMeet and greets accepted in the meantime.\n\nReuben is the perfect balance of playful and snuggly! He loves playing with toys,  getting zoomies in the yard, and then curling up next to you on the couch for a good nap. He is very food motivated and is very entertained by sniffing. He is a very loving and social pup and does great with other dogs, cats, kids, and people! He follows his foster mom all around the house, and insists on snuggling up next to her on the couch every night. \n\nReuben is a rescue from Rigland Farms, so he’s still learning all of his doggy basics and adjusting to his new life. He will need an understanding and patient adopter committed to continuing his training. He is still working on potty training, but learning very fast! When he does go in the house, he consistently uses a potty pad and will likely be fully potty trained by the time he is adopted 😊\n\nReuben would do best in a home with a fenced yard, since he is not comfortable walking on a leash yet. He would also do best in a home with another dog to continue to show him the ropes and help keep him company (he’s not a fan of being alone). \n\nReuben does great free roaming with his foster dog and cat brothers while his foster mom works. He does NOT like to be alone, confined, or crated— if crated or locked in a room alone, he may panic & become destructive. His ideal adopter would have an understanding of dogs with separation anxiety and be okay with a non-crate trained pup. \n\nReuben is a very loving and sweet pup who will thrive in a home where he is given the time and patience to continue his training and enjoy his new life of freedom 🥰",
+      "LastIntakeUnixTime": "1777774067",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779138654"
+    },
+    {
+      "ID": "3532",
+      "Internal-ID": "213587853",
+      "Name": "Henry",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "30.4",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1683003600,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/32b6a5e35194b888debb06167b61e9a2/6c2dabc7fd0b7bbc856c2c572be20110.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "AVAILABLE AFTER 5/26.\n\nMeet and greets accepted in the meantime.\n\nMeet Sir Henry—the sweetest little Ridglan beagle ready for his next chapter.\nSir Henry is off to a great start with potty training and is learning the ropes on a leash. He wasn’t totally sold on his first bath, but his playful splashing suggests he might just become a water lover in time!\nThis gentle boy is friendly with dogs, cats, and his person. He’s very submissive, incredibly affectionate, and happiest when he’s involved in every aspect of home living. He sleeps through the night, loves being outside, and has a curious, observant nature—always interested in what you’re up to. While he enjoys following you around, he prefers not to be chased—he likes to set the pace of his interactions.\nHenry has a soft spot for sniffing adventures and would thrive with another dog companion to help him continue building confidence. He also has a quirky love for lounging among flowers—future garden buddy, perhaps?\nHenry is looking for a patient, understanding adopter who will go slow and let him blossom at his own pace. In return, you’ll get a loyal, loving companion who’s well worth the wait 💛",
+      "LastIntakeUnixTime": "1777687620",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779138676"
     },
     {
       "ID": "3036",
