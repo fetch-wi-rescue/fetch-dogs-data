@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T23:14:37Z",
-  "count": 98,
+  "updated": "2026-05-18T12:49:54Z",
+  "count": 99,
   "animals": [
     {
       "ID": "2754",
@@ -956,7 +956,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.6",
+      "CurrentWeightPounds": "9.4",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1773378000,
@@ -990,7 +990,7 @@
       "Color": "",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one. She's well on her way to mastering house training, stays close on walks, and enthusiastically enjoys trading treats for tricks, yet eats like a lady. She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately. \n\nNo idea what breed this little tyke is, but I sure don't see her getting real big. \n\nI imagine Sunday would be equally thrilled being in a home with only humans or with canine companions.  She has not met a cat yet. \n\nShe still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time. She is most content just hanging out in the yard or surrounded by kitchen activity.  She will also make herself available to nap any time, just say the word.  \n\nShe's currently eating two meals a day with chewy and crunchy treats in between. \n\nIf you're looking for a gorgeous, loyal and smart sidekick to grow with, Sunday is your match.",
+      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one. She's well on her way to mastering house training, stays close on walks, and enthusiastically enjoys trading treats for tricks, yet eats like a lady. She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately.  Sunday is easy to read, telling you when she needs to go out, when she's thirsty, when she's ready to sleep, or fired up to play.  \n\nNo idea what breed this little tyke is, but I sure don't see her getting real big.\n\nI imagine Sunday would be equally thrilled being in a home with only humans or with canine companions. \n\nShe still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time. She is most content just hanging out in the yard or surrounded by kitchen activity. She will also make herself available to nap any time, just say the word.\n\nShe's currently eating two meals a day with chewy and crunchy treats in between.\n\nIf you're looking for a gorgeous, loyal and smart sidekick to grow with, Sunday is your match.",
       "LastIntakeUnixTime": "1773435600",
       "Attributes": [
         {
@@ -1029,7 +1029,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778987407"
+      "LastUpdatedUnixTime": "1779078849"
     },
     {
       "ID": "3459",
@@ -3434,6 +3434,50 @@
       "LastUpdatedUnixTime": "1778941528"
     },
     {
+      "ID": "3544",
+      "Internal-ID": "213603731",
+      "Name": "Barkeley",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "20.8",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/333cdd9870dde748290af425195c6f0e/dd69e16d9c1c5e916d84704254b07709.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b457b7f6e8bd7db21a6472f4c3a36411/184c397175260ca6efabd02d25b48683.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa531a8bd2fbbecceb27fd484fa347ca/00f2090c047c74add8e39e3766db22e0.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "I am a very good boy who loves snuggles, long walks, and frequent play sessions. I am food motivated and eager to please, and really enjoy human and dog company. I startle easily, but gain confidence by following my people and dog friends leads. I am medium energy, looking for a couple walks and some play time each day. I haven't met any cats yet, but I have done great with kids and larger people gatherings. I am still learning my manners, but am learning fast!",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779063426"
+    },
+    {
       "ID": "3547",
       "Internal-ID": "213603747",
       "Name": "Doug",
@@ -3777,6 +3821,144 @@
         }
       ],
       "LastUpdatedUnixTime": "1778820329"
+    },
+    {
+      "ID": "3580",
+      "Internal-ID": "213704416",
+      "Name": "Maxasaurus",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "81.4",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1546761600,
+      "Age": 88,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e4592db078536182bee8bb53724cc7f0/50dbc866e0b6fa99ba34cc6ac0f48fcd.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e4592db078536182bee8bb53724cc7f0/50dbc866e0b6fa99ba34cc6ac0f48fcd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3a071e5c181b9e6a4c8b7b5df96d694e/765276c48a20d01632ff965f4689b3db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c622a6e6c5c72a21e76f7bed4502e71/62556d1ae35af7a34599536ad823a4c8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e21f31acdf26bd8929bf54d0820b6492/31a3c8deea0eaefa5dc7a9150a6021e2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5944472b8d6fff5bb167afa06b59fff7/c24fde6d401e1539ab11154875f703ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6634e68cfd09c3a58e3e0753cb70dcaf/0562a5af38a84d54bee6e6bf5dc80142.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/453d37d65e9887121d723f2e34249561/479e3bb571f60a24701aeaeb8517df1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e63e676bed7257b5a06f73935ce51adc/e3b0a31558a1c7092eadf10a0e965976.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/59d46a8fc1bd39b3cfc5afcb13f27f20/9b69eda447fba442cf5861aba80a41e6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/42aac289058905a07bd766aa47995986/e79372a26bbd9b08ee568e6bc1b8aaac.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b3f8f34b3a1a2e93b83da3008d57399/df6be506240bfd87a9436349d79f3022.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ea06bf9a1722dec47230ae08702eb5a4/ce110eedb8cb70194c5c72fcb94a7441.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/09a36915fc1a56d6b139b21b610c0bad/e2c1a6d6b22ccb947fb601a708b1c85e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f6fb930c95d3e9e86ff399ed9c8d750/b0f7de63f32bc30becb742f5288c2ecf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1aa632aace09f6aaca07e3fa33df74dc/205d0a6c2af2e8dc9caeb66f2f99a15c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4dd477d865b928007cf898dadb9c1e16/83594271245691aa910c854af4da5d57.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3616a3a1c0bcb18bbe9dbb6aba97b97/d54e7518951909e784f96e22ba109678.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/92cab38276a5305562e2d3f645d6d98c/fd0ac6d62a3fbe45dd0c393a4da72b2d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Catahoula Leopard Dog",
+      "Color": "Grey",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Maxasaurus is a big bundle of love with an easy-going personality and the sweetest soul. \n\nMax is friendly with people of all ages and gets along well with animals of all kinds and sizes. He does great with my resident dog, but he’d also be perfectly happy as an only dog soaking up all the attention. He’s a total patio pup — he loves socializing for a bit and then relaxing in the shade like the polite gentleman he is.\n\nMax gets very excited for walks, so he may pull a little at first (especially if he spots a bunny!), but he settles in nicely after the first few minutes. He is currently very overweight and needs to lose about 30 pounds, so he tires quickly and isn’t up for long hikes right now. Overall, he’s a low-energy guy who prefers leisurely strolls and long naps (specifically on my clothes!).\n\nDuring the workday, Max is crated with a lunch break and does wonderfully in an apartment setting. He would likely do well free roaming, too.\nBecause my dog guards furniture, Max doesn’t try to climb up on it, but he absolutely loves leaning in for pets and would happily snuggle given the chance.\n\nMaxasaurus has such a goofy personality and is constantly making hilarious faces that will keep you laughing.\nHe truly is a gem — a dog looking for a soft place to nap, a few daily strolls, and unconditional love. You can feel how badly he wants to be loved just by the way he looks at you.",
+      "LastIntakeUnixTime": "1778954207",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296938",
+          "AttributeName": "Potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779075152"
     },
     {
       "ID": "3584",
@@ -4329,50 +4511,6 @@
       "LastUpdatedUnixTime": "1778768231"
     },
     {
-      "ID": "3544",
-      "Internal-ID": "213603731",
-      "Name": "Barkeley",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20.8",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/333cdd9870dde748290af425195c6f0e/dd69e16d9c1c5e916d84704254b07709.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b457b7f6e8bd7db21a6472f4c3a36411/184c397175260ca6efabd02d25b48683.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa531a8bd2fbbecceb27fd484fa347ca/00f2090c047c74add8e39e3766db22e0.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "I am a very good boy who loves snuggles, long walks, and frequent play sessions. I am food motivated and eager to please, and really enjoy human and dog company. I startle easily, but gain confidence by following my people and dog friends leads. I am medium energy, looking for a couple walks and some play time each day. I haven't met any cats yet, but I have done great with kids and larger people gatherings. I am still learning my manners, but am learning fast!",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779054629"
-    },
-    {
       "ID": "3545",
       "Internal-ID": "213603738",
       "Name": "Freddie",
@@ -4415,6 +4553,53 @@
       "LastUpdatedUnixTime": "1778885063"
     },
     {
+      "ID": "3546",
+      "Internal-ID": "213603741",
+      "Name": "Archer James",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "24.4",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "NOT AVAILABLE UNTIL 6/8\nIN THE MEANTIME, MEET & GREETS WELCOMED \n\n\nHi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we’ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He’s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn’t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven’t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779063871"
+    },
+    {
       "ID": "3548",
       "Internal-ID": "213603748",
       "Name": "George",
@@ -4445,7 +4630,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Meet George 🐶\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends.\n\nGeorge is still working on potty training and learning that being alone is safe. He can experience some crate and separation anxiety, but he’s making progress with patience, routine, and reassurance. He’ll thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of tender-hearted love that makes every bit of effort worthwhile.\n\nIf you have a kind heart,a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
+      "Description": "Meet George 🐶\n\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends. He’s a lower-energy boy overall who absolutely loves to cuddle, and everyone who meets him comments on how incredibly soft he is. One of George’s cutest qualities is how joyful he becomes outside; upon first seeing grass, and honestly every time after that, he loves to skip and run around the yard with a ball like it’s the happiest moment of his day.\n\nGeorge is still working on potty training and learning that being in a crate is safe.  He’ll continue to make progress with additional patience, routine, and reassurance and will thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of dog love that makes every bit of effort worthwhile.\n\nIf you have a kind heart, a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
       "LastIntakeUnixTime": "1777945841",
       "Attributes": [
         {
@@ -4454,7 +4639,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778969370"
+      "LastUpdatedUnixTime": "1779062005"
     },
     {
       "ID": "3549",
@@ -4838,52 +5023,6 @@
       "LastUpdatedUnixTime": "1779037026"
     },
     {
-      "ID": "3580",
-      "Internal-ID": "213704416",
-      "Name": "Maxasaurus",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "81.4",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1546761600,
-      "Age": 88,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ea06bf9a1722dec47230ae08702eb5a4/ce110eedb8cb70194c5c72fcb94a7441.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ea06bf9a1722dec47230ae08702eb5a4/ce110eedb8cb70194c5c72fcb94a7441.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3a071e5c181b9e6a4c8b7b5df96d694e/765276c48a20d01632ff965f4689b3db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c622a6e6c5c72a21e76f7bed4502e71/62556d1ae35af7a34599536ad823a4c8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e21f31acdf26bd8929bf54d0820b6492/31a3c8deea0eaefa5dc7a9150a6021e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5944472b8d6fff5bb167afa06b59fff7/c24fde6d401e1539ab11154875f703ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6634e68cfd09c3a58e3e0753cb70dcaf/0562a5af38a84d54bee6e6bf5dc80142.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/453d37d65e9887121d723f2e34249561/479e3bb571f60a24701aeaeb8517df1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e63e676bed7257b5a06f73935ce51adc/e3b0a31558a1c7092eadf10a0e965976.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/59d46a8fc1bd39b3cfc5afcb13f27f20/9b69eda447fba442cf5861aba80a41e6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/42aac289058905a07bd766aa47995986/e79372a26bbd9b08ee568e6bc1b8aaac.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b3f8f34b3a1a2e93b83da3008d57399/df6be506240bfd87a9436349d79f3022.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/09a36915fc1a56d6b139b21b610c0bad/e2c1a6d6b22ccb947fb601a708b1c85e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Catahoula Leopard Dog",
-      "Color": "Grey",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": null,
-      "Description": "Max is looking for a soft place to land—and he’s hoping it’s right on your couch (and in your heart)💜 \n\nWith his soulful eyes, sugar-sprinkled snoot, and A+ snuggle credentials, Max is a professional comfort pup who knows that the best things in life are blankets, belly rubs, and being your #1 fur-iend. He’s the kind of guy who’ll make your house feel more like a home—one happy tail wag at a time.\n\nAnd bonus: Max isn’t just cute—he’s got the skills to prove it! He’s crate trained, leash trained, and housebroken, so he’s already got the “good boy basics” down pat. Even better? Max is the best road dog you could ask for—your co-pilot with the most, ready for road trips, snack stops, and scenic snoozes. 🚗🐶\n\nMax’s dream is simple: a calm, loving family, a warm bed, and a forever human who’s ready for a little extra pawsitivity and a whole lot of un-fur-gettable love. If you’ve got a cozy corner and room for a loyal sidekick, Max is ready to land—softly, sweetly, and fur-ever. 🐾✨",
-      "LastIntakeUnixTime": "1778954207",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779037083"
-    },
-    {
       "ID": "3581",
       "Internal-ID": "213704418",
       "Name": "Ruthie",
@@ -5149,7 +5288,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1742274000,
-      "Age": 13,
+      "Age": 14,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/449bed68058f295b989c43f81f985cbf/0d94760824a47db0ca77f68fdbec0be5.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/449bed68058f295b989c43f81f985cbf/0d94760824a47db0ca77f68fdbec0be5.jpg",
@@ -5618,7 +5757,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778899386"
+      "LastUpdatedUnixTime": "1779073389"
     },
     {
       "ID": "3515",
@@ -5780,53 +5919,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779031183"
-    },
-    {
-      "ID": "3546",
-      "Internal-ID": "213603741",
-      "Name": "Archer James",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "24.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "NOT AVAILABLE UNTIL 6/8\nIN THE MEANTIME, MEET & GREETS WELCOMED \n\n\nHi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we’ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He’s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn’t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven’t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779037606"
     },
     {
       "ID": "3552",
@@ -6440,6 +6532,72 @@
         }
       ],
       "LastUpdatedUnixTime": "1778883690"
+    },
+    {
+      "ID": "3036",
+      "Internal-ID": "213177950",
+      "Name": "Duke",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1680498000,
+      "Age": 37,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/75edd2af4cd295274013fbf518964168/00b1a5e50ba1f2acf2fe7b64c00008a2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/75edd2af4cd295274013fbf518964168/00b1a5e50ba1f2acf2fe7b64c00008a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/da6e4ed4386eee79024fb76c6732dd56/27ca03717d0d598cd3e7f8927b07e7a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Terrier, American Pit Bull",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Duke is a sweet, loving, and snuggly boy. I’m heartbroken that we need to re-home him as he has not adjusted well to our infant now being mobile. Children toddler age and below stress him out and he tends to start acting out in a reactive and aggressive manner. He would need to be in a home with kids preferably 7 years old or older (taller than his height) or no children at all.\n\nHis best qualities are that he is full of energy and loves to play with both adults and dogs, he is an early riser and loves morning exercise, he’s potty trained, once he bonds with you he listens pretty well as he is very food motivated (we taught him that every time he goes poop, he gets a greenie treat and runs back in the house, so he has excellent recall), he is not a dog destroys or steals items when he acts out, he is not a big licker and only comes up and gives light kisses when you pet him on the ideal spot, and he loves to snuggle in bed at night. \n\nSome of his more difficult qualities are that he barks at dogs outside the window or people that come to the door, he often is reactive on leash and jumps towards other dogs or people running/riding bikes, he will whine a lot for attention, and though he is really good at being outside on his own and staying in the yard, he will chase rabbits or squirrels out of the yard every once in a while.\n\nWe have two cats in our household that he has always gotten along with and occasionally chases them when he wants to play. He loves going to the dog park to play with other dogs and has gone to dog daycare/boarding since we got him. Socialization with other dogs is good for him to burn energy.\n\nHe has a chicken/bird sensitivity, so we typically have given him either the lamb or salmon Purina dog food. He has seasonal allergies and we have him take Apoquel as he was very anxious towards getting cytopoint shots at the vet. He is also anxious towards getting his nails trimmed and thunderstorms. \n\nWith Duke, we would send his kennel, collar/leash/harness, toys, dog bed, bowl, etc. to make his transition easier. He is up to date on his vaccines until October.\n\nI want to make sure Duke can find a home environment that suits the rest of his life as we have loved him and want him to live someplace where he can thrive long term.",
+      "LastIntakeUnixTime": "1779073227",
+      "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295161",
+          "AttributeName": "Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296938",
+          "AttributeName": "Potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779073597"
     },
     {
       "ID": "1395",
