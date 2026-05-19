@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19T10:50:16Z",
-  "count": 100,
+  "updated": "2026-05-19T18:19:17Z",
+  "count": 99,
   "animals": [
     {
       "ID": "2754",
@@ -93,98 +93,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778769127"
-    },
-    {
-      "ID": "2774",
-      "Internal-ID": "213177791",
-      "Name": "Minnie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1709704800,
-      "Age": 26,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/77dc5f9ab6a0afe3d0ae1f464349b257/2499b6553873f9fb2ea1265eb03d59e7.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/77dc5f9ab6a0afe3d0ae1f464349b257/2499b6553873f9fb2ea1265eb03d59e7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/e104da5b9cca72f0518b7bd691930564/4af204ac9ddcd91312e8270ed31827c7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e69b2212808566ac89e75e55ee0433b0/6dbdd233394d1c045352935d99443312.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Brindle",
-      "Pattern": "Brindle",
-      "AdoptionFeeGroup": null,
-      "Description": "Minnie was surrendered from a hoarding case where she was neglected. She is the sweetest little cuddle bug and does great with all people, dogs and cats. She is potty trained and crate trained. She is not a typical chihuahua in that she is very calm and quiet, not nervous or barky at all. She has an old CCL tear that is getting fixed on May 29 and will be available for adoption after she recovers.",
-      "LastIntakeUnixTime": "1772431200",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629390",
-          "AttributeName": "Orthopedic Surgery Recovery in Progress",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779142268"
     },
     {
       "ID": "3279",
@@ -3003,7 +2911,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779150845"
+      "LastUpdatedUnixTime": "1779205891"
     },
     {
       "ID": "3538",
@@ -3088,7 +2996,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779143180"
+      "LastUpdatedUnixTime": "1779194987"
     },
     {
       "ID": "3539",
@@ -3150,7 +3058,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779142437"
+      "LastUpdatedUnixTime": "1779195434"
     },
     {
       "ID": "3540",
@@ -3225,7 +3133,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779143061"
+      "LastUpdatedUnixTime": "1779195825"
     },
     {
       "ID": "3541",
@@ -3300,7 +3208,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779143114"
+      "LastUpdatedUnixTime": "1779195972"
     },
     {
       "ID": "3542",
@@ -3380,7 +3288,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779142568"
+      "LastUpdatedUnixTime": "1779196083"
     },
     {
       "ID": "3543",
@@ -3468,50 +3376,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778941528"
-    },
-    {
-      "ID": "3544",
-      "Internal-ID": "213603731",
-      "Name": "Barkeley",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20.8",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/333cdd9870dde748290af425195c6f0e/dd69e16d9c1c5e916d84704254b07709.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b457b7f6e8bd7db21a6472f4c3a36411/184c397175260ca6efabd02d25b48683.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa531a8bd2fbbecceb27fd484fa347ca/00f2090c047c74add8e39e3766db22e0.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "I am a very good boy who loves snuggles, long walks, and frequent play sessions. I am food motivated and eager to please, and really enjoy human and dog company. I startle easily, but gain confidence by following my people and dog friends leads. I am medium energy, looking for a couple walks and some play time each day. I haven't met any cats yet, but I have done great with kids and larger people gatherings. I am still learning my manners, but am learning fast!",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779131427"
     },
     {
       "ID": "3547",
@@ -4320,7 +4184,7 @@
       "Description": "Meet Fisher, a stunning brindle lab mix. He is two months old, 16 lbs and growing. Fisher loves other dogs and is currently fostered with three older dogs. He is a huge fan of soft toys, bones, and laying in the sun. Fisher is working on both crate and potty training and does well with consistency. \n\nHe has not been around children or cats, but with proper introductions he could do well with them. He loves exploring the yard and snuggling with his foster family.\n\nHe would do well in a home with an existing dog or as the only dog. He would make a great addition to any family. He can't wait to find his forever family to start the summer with!",
       "LastIntakeUnixTime": "1778953966",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1779120175"
+      "LastUpdatedUnixTime": "1779205862"
     },
     {
       "ID": "3585",
@@ -4516,6 +4380,98 @@
       "LastUpdatedUnixTime": "1779142978"
     },
     {
+      "ID": "2774",
+      "Internal-ID": "213177791",
+      "Name": "Minnie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12.2",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1709704800,
+      "Age": 26,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/77dc5f9ab6a0afe3d0ae1f464349b257/2499b6553873f9fb2ea1265eb03d59e7.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/77dc5f9ab6a0afe3d0ae1f464349b257/2499b6553873f9fb2ea1265eb03d59e7.png",
+        "https://new-s3.shelterluv.com/profile-pictures/e104da5b9cca72f0518b7bd691930564/4af204ac9ddcd91312e8270ed31827c7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e69b2212808566ac89e75e55ee0433b0/6dbdd233394d1c045352935d99443312.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brindle",
+      "Pattern": "Brindle",
+      "AdoptionFeeGroup": null,
+      "Description": "Minnie was surrendered from a hoarding case where she was neglected. She is the sweetest little cuddle bug and does great with all people, dogs and cats. She is potty trained and crate trained. She is not a typical chihuahua in that she is very calm and quiet, not nervous or barky at all. She has an old CCL tear that is getting fixed on May 29 and will be available for adoption after she recovers.",
+      "LastIntakeUnixTime": "1772431200",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629390",
+          "AttributeName": "Orthopedic Surgery Recovery in Progress",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779206345"
+    },
+    {
       "ID": "873",
       "Internal-ID": "213178888",
       "Name": "Smilie",
@@ -4568,7 +4524,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779159165"
+      "LastUpdatedUnixTime": "1779197618"
     },
     {
       "ID": "3523",
@@ -5962,90 +5918,51 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779115126"
+      "LastUpdatedUnixTime": "1779196384"
     },
     {
-      "ID": "3552",
-      "Internal-ID": "213684439",
-      "Name": "Miller",
-      "LitterGroupId": 9510754,
+      "ID": "3544",
+      "Internal-ID": "213603731",
+      "Name": "Barkeley",
+      "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Female",
+      "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "Small (0-24)",
+      "CurrentWeightPounds": "20.8",
+      "Size": "Medium (25-59)",
       "Altered": "Unknown",
-      "DOBUnixTime": 1771525006,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/059faa3d0b3478f95a84682cc1843141/fcfd472aa22b0838314a8828589dda85.jpg",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/059faa3d0b3478f95a84682cc1843141/fcfd472aa22b0838314a8828589dda85.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0eb6991a1cd48c5445d30f66d977b0aa/77d2591e2bdd714afbf15908570dd798.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa85b6940243971baed31861f13c4c08/75c8016100045268d9a5670dd9859e2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eca57f4a00bd5560ebe9b08d082a59b6/556e3cc5fb6c286b68bad13af0fb3a79.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/333cdd9870dde748290af425195c6f0e/dd69e16d9c1c5e916d84704254b07709.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b457b7f6e8bd7db21a6472f4c3a36411/184c397175260ca6efabd02d25b48683.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa531a8bd2fbbecceb27fd484fa347ca/00f2090c047c74add8e39e3766db22e0.jpg"
       ],
       "Videos": [],
-      "Breed": "Shepherd/Mixed Breed (Medium)",
-      "Color": "Black/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Miller is a tiny powerhouse of joy. At just under 3 months old, this girl has already survived parvo and come out the other side with a spark that’s impossible to miss. She’s brave, she’s bright, and she’s bursting with life.\n\nWhere some pups are shy, Miller is the one trotting right up to say hello. She’s outgoing in the best way — friendly, social, and always ready to make a new friend. Whether she’s greeting people with her happy little tail or bouncing toward another puppy to play, she brings energy and confidence everywhere she goes.\n\nMiller’s personality shines through in everything she does:\n• loves meeting new people\n• playful, bold, and curious\n• great with other gentle pets\n• eager to explore and learn\n• snuggles like it’s her full‑time job\n\nEven after her tough start, she’s thriving — eating well, gaining strength, and embracing every new experience with enthusiasm. She’s working on potty training, enjoys toys she can pounce on, and absolutely lights up when someone gives her attention.\n\nIf you’re looking for a puppy with a survivor’s grit, a Shepherd’s smarts, and an outgoing, lovable spirit, Miller is ready to bring sunshine and excitement into your home. She’s the kind of pup who turns every day into something special.",
-      "LastIntakeUnixTime": "1778689145",
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "I am a very good boy who loves snuggles, long walks, and frequent play sessions. I am food motivated and eager to please, and really enjoy human and dog company. I startle easily, but gain confidence by following my people and dog friends leads. I am medium energy, looking for a couple walks and some play time each day. I haven't met any cats yet, but I have done great with kids and larger people gatherings. I am still learning my manners, but am learning fast!",
+      "LastIntakeUnixTime": "1777945841",
       "Attributes": [
         {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779030549"
+      "LastUpdatedUnixTime": "1779196483"
     },
     {
       "ID": "3582",
