@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T19:35:22Z",
+  "updated": "2026-05-20T23:58:45Z",
   "animals": [
     {
       "ID": "3458",
@@ -224,6 +224,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-20T19:35:22Z",
+      "status": "pending"
+    },
+    {
+      "ID": "2533",
+      "Name": "Bonnie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9a79f2ef3c23df0b9a6c6b730426ec21/3bcf71706c247598759a17decea6cea1.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-20T23:58:45Z",
       "status": "pending"
     }
   ]

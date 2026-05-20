@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-20T19:35:22Z",
-  "count": 93,
+  "updated": "2026-05-20T23:58:45Z",
+  "count": 92,
   "animals": [
     {
       "ID": "2754",
@@ -297,7 +297,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779229882"
+      "LastUpdatedUnixTime": "1779314167"
     },
     {
       "ID": "2350",
@@ -3702,7 +3702,7 @@
       "Color": "Tan/White",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "Gilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.\n",
+      "Description": "Gilmore is the ultimate lover boy. He is always up for a cuddle, kiss, or belly rub. He loves humans and wants to be held or snuggled up. He does enjoy dogs and wants to play, but is learning appropriate play manners. ",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
         {
@@ -3761,7 +3761,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779271490"
+      "LastUpdatedUnixTime": "1779320728"
     },
     {
       "ID": "3554",
@@ -3838,111 +3838,6 @@
         {
           "Internal-ID": "634889",
           "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779226131"
-    },
-    {
-      "ID": "3555",
-      "Internal-ID": "213684442",
-      "Name": "Elvis",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1771567200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a985c610e0324dd91f005861baa2577/c501872c0602ae5498ae53b1ffe63d12.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2a985c610e0324dd91f005861baa2577/c501872c0602ae5498ae53b1ffe63d12.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/89fac8db817021566ed36797d32a249a/7d84089edd061b2b3941b5fe621c8863.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a0f8bed4c5272862d5e1767928cb8a3d/42b31beccb39ca4bec23c9320d9ceff7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f5b1d7d6fb1c93c9a0585d4c8d6ab92/c947421a076c8e85acbce91a36e9f3e0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d192da88609a87b61e1814f61ff12854/213ccf4d1cc5a95248f1b2094b5bbe0d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f6a0e98c3cddd388025598a12f5cfcde/98a2ff0b7e1bd0807a43efe92d0beead.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1ae3ddbf518a26dd0966c82727f31ab/632b44012bd94a37042836b51c3661ce.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a0bde2a550c22b51134cd939d76336f8/78a3ea40c8e70e07ed5489d404d5e835.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9f768fb0e955a29d95bc62a047d086c/297c74e24eb10889f18c906719817686.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1f9af701cf8ea22fd8a8ec510c0ed388/4e8a8f02a3c824e2f97849ba816d6e38.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/86364b9a0fd3efc4a6f56ad5bc5d8daf/c68c432798896f12f8d13eee4a2b42a2.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Jack Russell/Mixed Breed (Small)",
-      "Color": "White/Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Elvis is a tiny heart‑stealer with a whole lot of charm packed into his little body. At just under 3 months, he’s already mastered the art of making people smile — one wiggle, one tail flick, one soft puppy blink at a time.\n\nThis little guy is playful, curious, and wonderfully affectionate. He loves exploring new spaces, chasing soft toys, and curling up in your arms like he was born to be someone’s sidekick. Elvis is gentle with people, friendly with other small pets, and is learning the basics of potty training with impressive determination for such a young pup.\n\nHis personality is a perfect blend of sweet and spunk:\n• loves snuggles and warm laps\n• enjoys bursts of zoomies\n• gives tiny kisses with zero warning\n• and melts into you the moment he gets sleepy\n\nElvis would thrive in a home that wants a loving, loyal, people‑oriented puppy who will happily follow you from room to room. If you’re looking for a baby who brings joy, softness, and a little superstar sparkle to everyday life, Elvis is ready to join your family.",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
           "Publish": "Yes"
         },
         {
@@ -5253,99 +5148,6 @@
       "LastUpdatedUnixTime": "1779121452"
     },
     {
-      "ID": "2533",
-      "Internal-ID": "213178095",
-      "Name": "Bonnie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "50.3",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1743051600,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9a79f2ef3c23df0b9a6c6b730426ec21/3bcf71706c247598759a17decea6cea1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9a79f2ef3c23df0b9a6c6b730426ec21/3bcf71706c247598759a17decea6cea1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b5d1b903981b35debd9d5c508f14854/6f946585e6026fb386b99f139b0eadd8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5fc4fdacb08dd9ac7bc0e83d108a75f/4b147f96ccf98123064f516bc1ff483f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/140b3d34b91b05b32b5e546c71d49161/7114775199dd29cbc86eb26d9a0d7957.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30b37b373dc190ff32288e4a05185328/7749ddbd296a6cef07bb608fd9edb7fc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/91433df63267571d11e261ac4abc4a00/68c7b0d6e2c37a427f666343a4ccb363.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3ceb94e8c6fde122376680bbf368bc9/3c2a04a583e7d0232cfcd00fbf3b651a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae6b13be6cd719d2e6881d7d4e5eacba/cbfd2ecc2ca0c482198dbcb30146c286.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc552c3a9c31247d100ec6ff6958318e/7900e4e09fa42c928c4179acc1a0e332.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "If you’re looking for a \"puppy in a big girl suit,\" I’m your Bonnie! I’m a smart, inquisitive creature who approaches the world with bouncing ears and a heart full of sweetness.\n\nMy Signature Moves:\n\nThe \"Apple Bobber\": I don't just drink water—I dunk my entire nose in like I’m bobbing for apples. It’s a talent! \n\nThe Lap-Dog Delusion: I’m a big girl, but in my head, I’m a tiny lap-dog who just wants to be silly and snuggle.\n\nThe Self-Starter: I throw my own ball and do solo zoomies in the snow. \n\nThe Social \"Slow-Burn\":\nI’m a \"quality over quantity\" kind of girl. New people and dog friends take a little bit of time to earn my trust—think of it like a two-hour orientation. Once I’ve had a slow intro and realize you’re \"cool,\" I’m all wags and silliness!\n\nThe Teenage Years:\nI’m a total genius with puzzle feeders and I’ve mastered \"sit,\" but I’m still learning that counters aren't buffets. I’m a \"velcro dog\" who prefers the party to the crate, but I’m a total angel once I’m settled in for a night of snoring.\n\nThe Bonnie Basics:\nHouse-trained & sleeps through the night\nExpert at \"the head tilt\" and ear-bouncing\nLoves long walks and sniffing every single leaf\n\nI’m looking for a patient, fun-loving family who appreciates a loyal best friend with a slightly soggy nose. Ready to meet your new shadow?",
-      "LastIntakeUnixTime": "1770444000",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779298724"
-    },
-    {
       "ID": "492",
       "Internal-ID": "213180709",
       "Name": "Dallas",
@@ -5461,90 +5263,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779226894"
-    },
-    {
-      "ID": "2617",
-      "Internal-ID": "213179577",
-      "Name": "Leena",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "54",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1742274000,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/449bed68058f295b989c43f81f985cbf/0d94760824a47db0ca77f68fdbec0be5.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/449bed68058f295b989c43f81f985cbf/0d94760824a47db0ca77f68fdbec0be5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6a3e89a55d5291acb9c49f6706345a3e/192db02ec78f55d56edeafa9e2ae15ae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/720f144861062b55c35c4d1da78dd7d0/fcae438ef3b7255edd76a08def7a430f.png",
-        "https://new-s3.shelterluv.com/profile-pictures/bc23cae5f9f94c7322bdfa66d35603b9/c66305aa569d776805ad55fc378065ec.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2026b67f9629e7b39d12a7acf82357ce/a581b30df87d6a1cbebcf5c6507150dc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/86288d51d126833fa8055f0274368a59/864769c87e082f29d83b5a0c9d4725b6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5486ed9bdefd7b4fddf79e5bdfa48d9e/27564378a36bb2c5845f337d7d922743.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d9d391abb6c0d077ca94c2229efd500/6053fba57ae9e3eea4d4e1de53a874c2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52cc38cc13066e6825408dbfd0f30697/beb437d6780c4067717317260b35424e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brown/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Leena is a 1 year old, 54-pound hound mix with the sweetest puppy eyes and an always wagging tail.\n\nLeena is very friendly and loves to receive pets and snuggles from everyone. She has an easy-going, sweet-tempered nature that makes her a joy to be around. She would do well with a dog sibling or by herself.\n\nLeena is medium energy- she enjoys going on walks & playing with doggy friends, but she also likes relaxing & snuggling with her humans.\nLeena is crate trained and potty trained. She does like stealing shoes and bringing them into bed, which we have to admit is a very cute 'flaw'.\n\nIf you’re looking for a goofy, affectionate, loyal best friend with a sweet temperament and large, soulful eyes, Leena would be the perfect match for you. ",
-      "LastIntakeUnixTime": "1771653600",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296938",
-          "AttributeName": "Potty-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779227115"
     },
     {
       "ID": "3482",
@@ -5956,6 +5674,111 @@
       "LastUpdatedUnixTime": "1779228511"
     },
     {
+      "ID": "3555",
+      "Internal-ID": "213684442",
+      "Name": "Elvis",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1771567200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a985c610e0324dd91f005861baa2577/c501872c0602ae5498ae53b1ffe63d12.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2a985c610e0324dd91f005861baa2577/c501872c0602ae5498ae53b1ffe63d12.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/89fac8db817021566ed36797d32a249a/7d84089edd061b2b3941b5fe621c8863.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a0f8bed4c5272862d5e1767928cb8a3d/42b31beccb39ca4bec23c9320d9ceff7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f5b1d7d6fb1c93c9a0585d4c8d6ab92/c947421a076c8e85acbce91a36e9f3e0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d192da88609a87b61e1814f61ff12854/213ccf4d1cc5a95248f1b2094b5bbe0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f6a0e98c3cddd388025598a12f5cfcde/98a2ff0b7e1bd0807a43efe92d0beead.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1ae3ddbf518a26dd0966c82727f31ab/632b44012bd94a37042836b51c3661ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a0bde2a550c22b51134cd939d76336f8/78a3ea40c8e70e07ed5489d404d5e835.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9f768fb0e955a29d95bc62a047d086c/297c74e24eb10889f18c906719817686.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1f9af701cf8ea22fd8a8ec510c0ed388/4e8a8f02a3c824e2f97849ba816d6e38.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/86364b9a0fd3efc4a6f56ad5bc5d8daf/c68c432798896f12f8d13eee4a2b42a2.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Jack Russell/Mixed Breed (Small)",
+      "Color": "White/Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Elvis is a tiny heart‑stealer with a whole lot of charm packed into his little body. At just under 3 months, he’s already mastered the art of making people smile — one wiggle, one tail flick, one soft puppy blink at a time.\n\nThis little guy is playful, curious, and wonderfully affectionate. He loves exploring new spaces, chasing soft toys, and curling up in your arms like he was born to be someone’s sidekick. Elvis is gentle with people, friendly with other small pets, and is learning the basics of potty training with impressive determination for such a young pup.\n\nHis personality is a perfect blend of sweet and spunk:\n• loves snuggles and warm laps\n• enjoys bursts of zoomies\n• gives tiny kisses with zero warning\n• and melts into you the moment he gets sleepy\n\nElvis would thrive in a home that wants a loving, loyal, people‑oriented puppy who will happily follow you from room to room. If you’re looking for a baby who brings joy, softness, and a little superstar sparkle to everyday life, Elvis is ready to join your family.",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779310293"
+    },
+    {
       "ID": "3585",
       "Internal-ID": "213704422",
       "Name": "Koda",
@@ -6059,6 +5882,90 @@
         }
       ],
       "LastUpdatedUnixTime": "1779243570"
+    },
+    {
+      "ID": "2617",
+      "Internal-ID": "213179577",
+      "Name": "Leena",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "54",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1742274000,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/449bed68058f295b989c43f81f985cbf/0d94760824a47db0ca77f68fdbec0be5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/449bed68058f295b989c43f81f985cbf/0d94760824a47db0ca77f68fdbec0be5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6a3e89a55d5291acb9c49f6706345a3e/192db02ec78f55d56edeafa9e2ae15ae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/720f144861062b55c35c4d1da78dd7d0/fcae438ef3b7255edd76a08def7a430f.png",
+        "https://new-s3.shelterluv.com/profile-pictures/bc23cae5f9f94c7322bdfa66d35603b9/c66305aa569d776805ad55fc378065ec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2026b67f9629e7b39d12a7acf82357ce/a581b30df87d6a1cbebcf5c6507150dc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/86288d51d126833fa8055f0274368a59/864769c87e082f29d83b5a0c9d4725b6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5486ed9bdefd7b4fddf79e5bdfa48d9e/27564378a36bb2c5845f337d7d922743.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d9d391abb6c0d077ca94c2229efd500/6053fba57ae9e3eea4d4e1de53a874c2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52cc38cc13066e6825408dbfd0f30697/beb437d6780c4067717317260b35424e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Brown/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Leena is a 1 year old, 54-pound hound mix with the sweetest puppy eyes and an always wagging tail.\n\nLeena is very friendly and loves to receive pets and snuggles from everyone. She has an easy-going, sweet-tempered nature that makes her a joy to be around. She would do well with a dog sibling or by herself.\n\nLeena is medium energy- she enjoys going on walks & playing with doggy friends, but she also likes relaxing & snuggling with her humans.\nLeena is crate trained and potty trained. She does like stealing shoes and bringing them into bed, which we have to admit is a very cute 'flaw'.\n\nIf you’re looking for a goofy, affectionate, loyal best friend with a sweet temperament and large, soulful eyes, Leena would be the perfect match for you. ",
+      "LastIntakeUnixTime": "1771653600",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296938",
+          "AttributeName": "Potty-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779318177"
     },
     {
       "ID": "2705",
