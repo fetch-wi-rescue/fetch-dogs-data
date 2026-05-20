@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T10:36:15Z",
+  "updated": "2026-05-20T19:35:22Z",
   "animals": [
     {
       "ID": "3458",
@@ -197,6 +197,33 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-20T10:36:15Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3511",
+      "Name": "Amethyst",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1de5562ff4f8bff813d2f218e849e78c/b9ab9083f7cb0f7b59c9dc53f1518d4e.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-20T19:35:22Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3537",
+      "Name": "Stella",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e4d1db0d96910ca0464640e462697a9e/5f7d5796130b02d8885a6687b5337d4b.jpeg",
+      "Status": "Not available",
+      "reason": "other",
+      "disappearedDate": "2026-05-20T19:35:22Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3582",
+      "Name": "Florence",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/350127fdff30d5f21c3d69dbe6509002/e9fdd99afcdc4a0e560bb8b712af6c18.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-20T19:35:22Z",
       "status": "pending"
     }
   ]
