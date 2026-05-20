@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T22:47:24Z",
+  "updated": "2026-05-20T10:36:15Z",
   "animals": [
     {
       "ID": "3458",
@@ -179,6 +179,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-19T22:47:24Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3515",
+      "Name": "Cadbury",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3eb0d2c5a37993fc813b5afe44a4c03b/9fdfac56a1708484d1ac0e126b34e80b.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-20T10:36:15Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3517",
+      "Name": "Peeps",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2bfe17085f1427e35a5a7d46a0d33ce1/414c0bafd2038a1501d59d721a1c8c92.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-20T10:36:15Z",
       "status": "pending"
     }
   ]
