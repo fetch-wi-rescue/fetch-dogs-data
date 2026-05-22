@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T19:28:28Z",
+  "updated": "2026-05-22T10:36:48Z",
   "animals": [
     {
       "ID": "3458",
@@ -242,6 +242,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-21T19:28:28Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3530",
+      "Name": "Cobalt",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ad2343bfa013e3b0f4171892370b7b4b/c80b5c9f483e01c32d93f5c17623df54.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-22T10:36:48Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3555",
+      "Name": "Elvis",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a985c610e0324dd91f005861baa2577/c501872c0602ae5498ae53b1ffe63d12.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-22T10:36:48Z",
       "status": "pending"
     }
   ]
