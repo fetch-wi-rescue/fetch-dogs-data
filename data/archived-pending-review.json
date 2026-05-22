@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T10:36:48Z",
+  "updated": "2026-05-22T17:29:20Z",
   "animals": [
     {
       "ID": "3458",
@@ -260,6 +260,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-22T10:36:48Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3508",
+      "Name": "Royal",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-22T17:29:20Z",
       "status": "pending"
     }
   ]

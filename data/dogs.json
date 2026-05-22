@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T10:36:48Z",
-  "count": 90,
+  "updated": "2026-05-22T17:29:20Z",
+  "count": 89,
   "animals": [
     {
       "ID": "2754",
@@ -1024,7 +1024,7 @@
       "Color": "",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one. She's well on her way to mastering house training, stays close on walks, and enthusiastically enjoys trading treats for tricks, yet eats like a lady. She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately. Sunday is easy to read, telling you when she needs to go out, when she's thirsty, when she's ready to sleep, or fired up to play.\n\nThis smarty pants has learned tricks quickly.  She's already a pro at crossing the street with Place (\"here\" with a pointed finger), Sit (\"sit\" with hand gesture),  Stay (\"stay\" with a stop sign hand), Come (\"let's go!\" with a fast walk across the street next to me).  I'm so proud of her very mature tendencies at only 9 weeks!  No accidents so far and gives very clear cues when she needs something.       \n\nNo idea what breed this little tyke is, but I sure don't see her getting real big.\n\nI imagine Sunday would be equally thrilled being in a home with only humans or with canine or feline companions.\n\nShe still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time. She is most content just hanging out in the yard or surrounded by kitchen activity. She will also make herself available to nap any time, just say the word.\n\nShe's currently eating two meals a day with chewy and crunchy treats in between.\n\nIf you're looking for a gorgeous, loyal and smart sidekick to grow with, Sunday is your match.",
+      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one. She's well on her way to mastering house training, stays close on walks, and enthusiastically enjoys trading treats for tricks, yet eats like a lady. She sleeps in her crate at night for 6-7 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately. Sunday is easy to read, telling you when she needs to go out, when she's thirsty, when she's ready to sleep, or fired up to play.\n\nThis smarty pants has learned tricks quickly. She's already a pro at crossing the street with Place (\"here\" with a pointed finger), Sit (\"sit\" with hand gesture), Stay (\"stay\" with a stop sign hand), Come (\"let's go!\" with a fast walk across the street next to me). I'm so proud of her very mature tendencies at only 9 weeks! No accidents so far and gives very clear cues when she needs something.\n\nNo idea what breed this little tyke is, but I sure don't see her getting real big. Although I will say she sports a big girl “woof” and not a little dog “arf arf”. Don't let her current size fool you. Her legs are stretching out and she will go with you anywhere any time on any terrain for as long as you want.\n\nI imagine Sunday would be equally thrilled being in a home with only humans or with canine or feline companions.\n\nShe still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time. She is most content just hanging out in the yard or surrounded by kitchen activity. She will also make herself available to nap any time, just say the word.\n\nShe's currently eating two meals a day with chewy and crunchy treats in between.\n\nIf you're looking for a gorgeous, loyal and smart sidekick to grow with, Sunday is your match.",
       "LastIntakeUnixTime": "1773435600",
       "Attributes": [
         {
@@ -1399,7 +1399,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "6.8",
+      "CurrentWeightPounds": "8.5",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -1505,7 +1505,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779369646"
+      "LastUpdatedUnixTime": "1779467328"
     },
     {
       "ID": "3473",
@@ -1517,7 +1517,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "5.7",
+      "CurrentWeightPounds": "8.4",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -1623,7 +1623,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779425781"
+      "LastUpdatedUnixTime": "1779464386"
     },
     {
       "ID": "3474",
@@ -1635,7 +1635,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "7",
+      "CurrentWeightPounds": "7.12",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -1733,7 +1733,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1779464441"
     },
     {
       "ID": "3475",
@@ -1745,7 +1745,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "6.12",
+      "CurrentWeightPounds": "7.6",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -1842,7 +1842,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1779464500"
     },
     {
       "ID": "3479",
@@ -4620,7 +4620,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779417215"
+      "LastUpdatedUnixTime": "1779454989"
     },
     {
       "ID": "3533",
@@ -4737,53 +4737,6 @@
       "LastIntakeUnixTime": "1777729200",
       "Attributes": [],
       "LastUpdatedUnixTime": "1778124795"
-    },
-    {
-      "ID": "3545",
-      "Internal-ID": "213603738",
-      "Name": "Freddie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "18.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f965bb38018f3d3fe26d62f0f3a033d2/3a76443feb4f2ca0f24d72ceb43a447b.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Chocolate/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779228217"
     },
     {
       "ID": "3549",
@@ -5982,90 +5935,6 @@
       "LastUpdatedUnixTime": "1779226131"
     },
     {
-      "ID": "3508",
-      "Internal-ID": "213488328",
-      "Name": "Royal",
-      "LitterGroupId": 9493240,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "14.4",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1767765600,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e0a4145c536b55d4d903d4bd4e4271b1/eae0652a546e2a44abfa655a48057eb1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c869b356e15382716f7ee1cdd2c79a8c/9e2b3ac21f2e0492ac3011e274d1b697.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8253beb607a6b86279968364a0515b0f/5ef0ecbff20d415ddce90c98aab43636.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/13d455bd45b0b59d9b562f1a6b9f9679/e8a73db5f939e726eb56e7e43bfbd558.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e343e054ab8a710815c8a717875eb179/8516fdd677987cf47e1cfc4d3a136324.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6fb8dac7c5686dace09106fb7127bac1/46df0f17cad372e401b16187b085fbd1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ceba275a3b3db45bd3834937e645d28d/a7218dd5f6f4afc918363bc971f23f7d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/397af3a83eba498cb1febe0a9632df9e/0168c82ff2845924cf992b9a39eaa7d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7543a68fe0a2d9d7e0509517580788c2/10646c56828fc350fc4e05c18b6267d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/51fed10debd0992b1ae57138904f1594/652f660d84679a35c85a99671b7d5af4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Greater Swiss Mountain Dog/Mixed Breed (Medium)",
-      "Color": "Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
-      "Description": "Royal is a typical puppy. He loves to play with his toys both with humans and independently. We do not have any kids or other pets in our house but Royal is playful with other dogs and gentle with children keeping in mind, he is a teething puppy so can by mouthy at times. Royal is making great strides in potty training but occasionally has accidents in the house. He is learning to walk on a leash. He goes easily into his crate and will sometimes whine a little once he's in but then quiets quickly. He loves to follow his humans around and loves cuddles and napping on laps. He checks in with his humans making eye contact with his big puppy eyes. He's has a great auto-sit and is working on turn, touch and come.\n\nRoyal is a happy, playful puppy who brings a great balance of energy and affection. He loves engaging with toys—whether it’s playtime with his humans or entertaining himself—and enjoys being around people, often following them from room to room. He’s especially fond of cuddles and will happily curl up for a nap in your lap, making plenty of eye contact with those irresistible puppy eyes.\n\nRoyal is social and does well with other dogs, and he’s gentle with children, though like most teething puppies, he can be a bit mouthy at times. He’s making solid progress with potty training and leash walking, showing a strong willingness to learn. He already has a reliable auto-sit and is currently working on commands like turn, touch, and come.\n\nHe settles well in his crate and may whine briefly before calming down. Overall, Royal is a smart, affectionate pup who is building great habits and would thrive in a home ready to continue his training and give him plenty of love and structure.",
-      "LastIntakeUnixTime": "1776354996",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779408935"
-    },
-    {
       "ID": "3518",
       "Internal-ID": "213488339",
       "Name": "Chiquito",
@@ -6260,6 +6129,53 @@
         }
       ],
       "LastUpdatedUnixTime": "1779235632"
+    },
+    {
+      "ID": "3545",
+      "Internal-ID": "213603738",
+      "Name": "Freddie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "18.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f965bb38018f3d3fe26d62f0f3a033d2/3a76443feb4f2ca0f24d72ceb43a447b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Chocolate/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779461654"
     },
     {
       "ID": "3036",
