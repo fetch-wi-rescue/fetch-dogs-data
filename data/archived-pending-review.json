@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T17:29:20Z",
+  "updated": "2026-05-23T11:46:21Z",
   "animals": [
     {
       "ID": "3458",
@@ -269,6 +269,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-22T17:29:20Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3473",
+      "Name": "Kip",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9503baa8729976856a5cc8106f2d1efd/370006982030a746fb15449e7a6fbb7b.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-23T11:46:21Z",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-23T07:41:03Z",
-  "count": 89,
+  "updated": "2026-05-23T11:46:21Z",
+  "count": 88,
   "animals": [
     {
       "ID": "2754",
@@ -1463,124 +1463,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779467328"
-    },
-    {
-      "ID": "3473",
-      "Internal-ID": "213392422",
-      "Name": "Kip",
-      "LitterGroupId": 9485946,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.4",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1772265600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9503baa8729976856a5cc8106f2d1efd/370006982030a746fb15449e7a6fbb7b.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9503baa8729976856a5cc8106f2d1efd/370006982030a746fb15449e7a6fbb7b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/32b7a34309f61aa8786e8057a5984b8e/2ab2363f06c2a796d5a62b790596e067.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a686b9da75592100592cacd31dc77b84/255346207ff25f29f9787b276c85e83c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3f9b28aeb9b7e634ad6c77a1e2b3e362/70c84da3e07c6dbebc83eb6225550c34.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e2b2ccc5a530d05ede14b5e23f21a0d/4db09c92a2257cdc4908a904bbc31720.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/181b3ca054cfa6bd4b7ddb5c1773d544/4570801fd987fb4a1028e05e947225c8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1cf7c0a2012702c8eb5cd11b6646be5b/cd175d9cc22a86b1837771009923cf85.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e056a726ef630832e66db995f851deae/b288b2d50672094a1f111b396fc3af29.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d946bc80772aaaee1e8b4e686c0822c/2eb1228c2ba6dc21c9a141c463420421.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47ae9326f260364a3c2062fd06193218/9917d73d558bcebaca0285833d4317bc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5b1556fe4b38b94c0b7e501cb40dcf9/994fee5e89d4ddb04811ef4ca704098f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bf0340dab9431a574f5bb35239dfb640/56525a7b6dd9bc29e79552be420797d9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9a17687fc851a7593ee990a567fafe0/ff5930177b820022f8850893e78c26dc.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Australian/Mixed Breed (Medium)",
-      "Color": "Tan/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Kip is soft, sweet, and happiest when he’s curled up next to someone. He has a gentle temperament and a big heart. While he enjoys playtime with his siblings, he’s the first to settle down for cuddles. Kip is perfect for someone wanting a loving, affectionate pup who bonds deeply with his people.",
-      "LastIntakeUnixTime": "1775302440",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779500247"
     },
     {
       "ID": "3474",
