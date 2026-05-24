@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T12:13:17Z",
-  "count": 88,
+  "updated": "2026-05-24T16:14:23Z",
+  "count": 87,
   "animals": [
     {
       "ID": "2754",
@@ -360,7 +360,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779570660"
+      "LastUpdatedUnixTime": "1779631102"
     },
     {
       "ID": "2350",
@@ -5796,88 +5796,6 @@
       "LastUpdatedUnixTime": "1779243570"
     },
     {
-      "ID": "2705",
-      "Internal-ID": "213180547",
-      "Name": "Ricardo (aka Ricardito)",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "40",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1711237850,
-      "Age": 26,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e8f15e7e13873ae68f429794e3e11db2/fdf56a9c9761078268fc73958651a3f0.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e8f15e7e13873ae68f429794e3e11db2/fdf56a9c9761078268fc73958651a3f0.png",
-        "https://new-s3.shelterluv.com/profile-pictures/e94119dd2684bddbfd4eeec032cb1ee0/8e12f1aeff691f5b9d0173ef16f671ec.png",
-        "https://new-s3.shelterluv.com/profile-pictures/66ca3a95c982bcf44d896202437ae57e/1c4d64a2efecd0d6c70d1e40f2e802a8.png",
-        "https://new-s3.shelterluv.com/profile-pictures/dd55e5f714816d0c7bfed0e34be9aa5a/c09ca4ccecba1f04f66fd70a52ab9f38.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6798cf8fa468c310ce557cf6795d86d7/bdfc9b2064261a8779c72c98bac39c08.png",
-        "https://new-s3.shelterluv.com/profile-pictures/4b3ed4764de02007546a5f97525b2a1b/2bcb2c9d69a34fc7d7538c33e04859eb.png",
-        "https://new-s3.shelterluv.com/profile-pictures/efbaa4ae827c4452ca85590ccf80be6c/a64b523cea8a78f20e63b42437fe7633.png",
-        "https://new-s3.shelterluv.com/profile-pictures/1d0323fd36fbfef5346eed6b0c09a218/e607efe6f2c1a111d709e69a76df91ad.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Follow Ricardo on Instagram @adoptricky",
-      "LastIntakeUnixTime": "1771999200",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296938",
-          "AttributeName": "Potty-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779226131"
-    },
-    {
       "ID": "3518",
       "Internal-ID": "213488339",
       "Name": "Chiquito",
@@ -5904,7 +5822,13 @@
       "Breed": "Chihuahua/Terrier",
       "Color": "Tan",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Meet Your New Little Sidekick 🐾\n\nThis adorable 1-year-old Chihuahua/Terrier mix is as sweet as they come—just with a shy little twist. He can be a bit nervous when meeting new people, but once he feels safe, his true personality shines. And when it does? He’ll gently crawl right up to you for pets and soak in every bit of love.\n\nHe absolutely loves other dogs and gains confidence from having furry friends around, so a home with another playful pup would be a huge bonus for him. Watching him play is when you really see his happy, carefree side come out—tail wagging the whole time.\n\nHe’s low to medium energy, making him a great mix of playful and relaxed. He’s crate trained at night and does well settling in, and he’s currently working on potty training and leash skills. With a little patience and encouragement, he’ll continue to make great progress.\n\nThis little guy is looking for a calm, understanding home that will give him the time he needs to build trust. In return, you’ll get a loyal, gentle companion who will absolutely melt into you once he knows he’s safe.",
       "LastIntakeUnixTime": "1776354996",
       "Attributes": [
@@ -5954,7 +5878,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768725"
+      "LastUpdatedUnixTime": "1779625382"
     },
     {
       "ID": "3531",

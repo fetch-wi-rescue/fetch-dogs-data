@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T11:46:21Z",
+  "updated": "2026-05-24T16:14:23Z",
   "animals": [
     {
       "ID": "3458",
@@ -278,6 +278,15 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-23T11:46:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "2705",
+      "Name": "Ricardo (aka Ricardito)",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e8f15e7e13873ae68f429794e3e11db2/fdf56a9c9761078268fc73958651a3f0.png",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-24T16:14:23Z",
       "status": "pending"
     }
   ]
