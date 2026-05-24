@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T20:15:41Z",
-  "count": 87,
+  "updated": "2026-05-24T23:45:36Z",
+  "count": 86,
   "animals": [
     {
       "ID": "2754",
@@ -5804,91 +5804,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779243570"
-    },
-    {
-      "ID": "3518",
-      "Internal-ID": "213488339",
-      "Name": "Chiquito",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.6",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1744002000,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4302d38279c7b933b7775500bda67906/e3d48aac4dc671aecf58668948516623.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4302d38279c7b933b7775500bda67906/e3d48aac4dc671aecf58668948516623.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6451d57ef529845b77ca901b43e50e23/0abf1a54589935bde72546e590938e79.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2b6fcf8bbb997c556e985da75a7eeb7/7ce137c0ffa136ec797f304a25c4db0f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f31969572c6cfb690ff877aaeac9e190/f372e7d03469ce9f78cb5a2219415a98.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/60c5394496affbe47ffc58fba4e31fa1/02971ae3cbc5abdfe457a0d9b791ae1b.png"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Terrier",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Your New Little Sidekick 🐾\n\nThis adorable 1-year-old Chihuahua/Terrier mix is as sweet as they come—just with a shy little twist. He can be a bit nervous when meeting new people, but once he feels safe, his true personality shines. And when it does? He’ll gently crawl right up to you for pets and soak in every bit of love.\n\nHe absolutely loves other dogs and gains confidence from having furry friends around, so a home with another playful pup would be a huge bonus for him. Watching him play is when you really see his happy, carefree side come out—tail wagging the whole time.\n\nHe’s low to medium energy, making him a great mix of playful and relaxed. He’s crate trained at night and does well settling in, and he’s currently working on potty training and leash skills. With a little patience and encouragement, he’ll continue to make great progress.\n\nThis little guy is looking for a calm, understanding home that will give him the time he needs to build trust. In return, you’ll get a loyal, gentle companion who will absolutely melt into you once he knows he’s safe.",
-      "LastIntakeUnixTime": "1776354996",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779625382"
     },
     {
       "ID": "3531",

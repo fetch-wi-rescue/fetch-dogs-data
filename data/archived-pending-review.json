@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T16:14:23Z",
+  "updated": "2026-05-24T23:45:37Z",
   "animals": [
     {
       "ID": "3458",
@@ -287,6 +287,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-24T16:14:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3518",
+      "Name": "Chiquito",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4302d38279c7b933b7775500bda67906/e3d48aac4dc671aecf58668948516623.png",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-24T23:45:37Z",
       "status": "pending"
     }
   ]
