@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T18:23:19Z",
+  "updated": "2026-05-25T22:18:24Z",
   "count": 86,
   "animals": [
     {
@@ -2137,10 +2137,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/7465e2a9cab881d171e761f27a0f87a3/5e2fb02137a4255cc85fba42274ea564.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7bdf88d74242458e3dfc93c366af7844/2c12106c8a4c234f47e2eefd8cb602db.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/97aacb782bf043375a15bdfd7fe299f4/971f8e7012171ad170e74477920ea810.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b82a53864961d785059c1627e8968a7e/1a66d22e918efc2714ebe68ed21a9e91.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/331e68ebe0a1ba30d89c48ac6f25530f/6157223ecd67ab5f7cce54e9b7df492f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1e07e61a1d0cd41fe54bb9e9d1697e69/6299a16efda4c1b8d6cc1b0668099dc4.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/22e7c722527fcf3d18548b052504a918/f6243e14edd0e328e9226f5d40388081.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/539c367feba1461fe50e7b7dfb3c6e60/7aa27dbbe71fa2fe5c3fc3fb0af02529.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg"
       ],
       "Videos": [],
@@ -2162,7 +2162,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779414091"
+      "LastUpdatedUnixTime": "1779742108"
     },
     {
       "ID": "3500",
@@ -3600,66 +3600,6 @@
       "LastUpdatedUnixTime": "1779573653"
     },
     {
-      "ID": "3548",
-      "Internal-ID": "213603748",
-      "Name": "George",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "31.6",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a95cc454d486f8a2d3d7780351e15f5/0b9827dc6c763c71408dc66244741a44.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/222478a5dec08a7c90bd726de358264a/6f6eb7a9f7f970c49c68d67d458995b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd404067c7d9eec70ce9a6c17f31f14/9ee4279563180f51c183b70dcde1a60d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c8704f65120a12925ed914c0bb503bb8/2a68a1fbf43b53163d1863487446d31d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fda69a372183db9256a35dddc3870a14/3922324fe169dafa23b7efe871fb3d16.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b9526fb5c4940bdd0d2d3aacf628b71c/90b70c0185033629fc4ba005cfa46f14.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ec91dff3002dc87e8a7d952547230029/04a2b5226f35d230a2a37bdb63607aef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8519cd6de207cbcedf552eb3b2c0a044/04b8257e0ae4996e2dacdf8fb2788fbf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8907c3d294c24a32de54cd542d5730ab/42a215270d5e50313559d8354ae007fe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1a71120d41f825c6cd559c733774f185/300f01450d4445299580ca5ee6a3646d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/babf0cb1579fd9150250568873d86d97/7599dec01dd79f2200b05932d88cde40.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd06478f44a9312f8a11ab7ec7824475/4abbff53d15e13286d0462b75f2bd787.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/edc70397257b1e23fe11c06a7b67ed27/db85b0174ef78a940aa4abbd912eea4c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b30497daa2bc58fead3e127da8a58d9/2c1ddc1412b833508674b11f729531a2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet George 🐶\n\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends. He’s a lower-energy boy overall who absolutely loves to cuddle, and everyone who meets him comments on how incredibly soft he is. One of George’s cutest qualities is how joyful he becomes outside; upon first seeing grass, and honestly every time after that, he loves to skip and run around the yard with a ball like it’s the happiest moment of his day.\n\nGeorge is still working on potty training and learning that being in a crate is safe.  He’ll continue to make progress with additional patience, routine, and reassurance and will thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of dog love that makes every bit of effort worthwhile.\n\nIf you have a kind heart, a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779593287"
-    },
-    {
       "ID": "3553",
       "Internal-ID": "213684440",
       "Name": "Gilmore",
@@ -3754,7 +3694,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779490194"
+      "LastUpdatedUnixTime": "1779738297"
     },
     {
       "ID": "3554",
@@ -4619,7 +4559,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Meet Arthur 🐶\n\nThis handsome beagle is looking for a warm, consistent home where he can keep growing in confidence and enjoy life alongside other canine  companions. He’s available for adoption after 5/26/2026.\n\nArthur is a big-hearted boy — big in personality, and honestly just big in general (he’s on the larger side for a beagle at nearly 40 pounds, which just means there’s more of him to love). He slid into his foster family’s dog pack without missing a beat, getting along beautifully with dogs of all ages and energy levels and reading social cues like a pro. A home with another dog would be ideal, giving him a built-in mentor to help him continue to blossom — we call him “brave Arthur,” and every day he earns that name a little more.\n\nArthur is a medium-energy guy who loves a good walk or a spirited game of fetch, but he’s equally happy to declare victory and spend the rest of the afternoon cuddled up on the couch with his humans or doggy housemates. He’s a stuffed-toy and tennis-ball enthusiast — and in a funny twist for a beagle, he’s somehow not very treat-motivated. He just loves to play and loves to be close to his people.\n\nHe’s a perceptive, observant soul who notices everything around him. New or unexpected things can still give him pause, but he works through it and comes out the other side more confident each time. Car rides aren’t his favorite yet — he tends to tuck himself quietly at the foot of the back seat — but even that is just Arthur doing his best, and his best keeps getting better.\n\nArthur is still working on leash manners and reliable potty training, but he’s smart and making steady progress. He’ll thrive with an adopter who can offer patience, routine, and consistency to keep that positive momentum going.\nWhat Arthur brings in return is so worth it: loyalty, playfulness, snuggles, and the joy of watching a dog step fully into himself.\nIf you have a steady home, another dog to show him the ropes, and a couch with room for this snugglemuffin, brave Arthur might just be waiting for you. 🐾",
       "LastIntakeUnixTime": "1777687620",
       "Attributes": [
         {
@@ -4628,7 +4568,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778687075"
+      "LastUpdatedUnixTime": "1779746336"
     },
     {
       "ID": "3536",
@@ -5311,6 +5251,66 @@
         }
       ],
       "LastUpdatedUnixTime": "1779226894"
+    },
+    {
+      "ID": "3548",
+      "Internal-ID": "213603748",
+      "Name": "George",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Foster to Adopt",
+      "InFoster": true,
+      "CurrentWeightPounds": "31.6",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a95cc454d486f8a2d3d7780351e15f5/0b9827dc6c763c71408dc66244741a44.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/222478a5dec08a7c90bd726de358264a/6f6eb7a9f7f970c49c68d67d458995b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd404067c7d9eec70ce9a6c17f31f14/9ee4279563180f51c183b70dcde1a60d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c8704f65120a12925ed914c0bb503bb8/2a68a1fbf43b53163d1863487446d31d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fda69a372183db9256a35dddc3870a14/3922324fe169dafa23b7efe871fb3d16.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9526fb5c4940bdd0d2d3aacf628b71c/90b70c0185033629fc4ba005cfa46f14.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ec91dff3002dc87e8a7d952547230029/04a2b5226f35d230a2a37bdb63607aef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8519cd6de207cbcedf552eb3b2c0a044/04b8257e0ae4996e2dacdf8fb2788fbf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8907c3d294c24a32de54cd542d5730ab/42a215270d5e50313559d8354ae007fe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a71120d41f825c6cd559c733774f185/300f01450d4445299580ca5ee6a3646d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/babf0cb1579fd9150250568873d86d97/7599dec01dd79f2200b05932d88cde40.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd06478f44a9312f8a11ab7ec7824475/4abbff53d15e13286d0462b75f2bd787.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/edc70397257b1e23fe11c06a7b67ed27/db85b0174ef78a940aa4abbd912eea4c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b30497daa2bc58fead3e127da8a58d9/2c1ddc1412b833508674b11f729531a2.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet George 🐶\n\nThis sweet beagle is looking for a patient, loving home where he can continue building confidence and enjoy life with a furry best friend by his side. He will be available for adoption after 6/8/26.\n\nGeorge is a gentle soul with a soft personality and an even softer spot for other dogs — he loves having canine companionship and truly blossoms around them. His ideal home would include another friendly dog to help him feel secure, playful, and part of the pack.\n\nDespite being a beagle, George is surprisingly quiet and keeps barking to a minimum. He’s also cat friendly and happy to coexist peacefully with feline friends. He’s a lower-energy boy overall who absolutely loves to cuddle, and everyone who meets him comments on how incredibly soft he is. One of George’s cutest qualities is how joyful he becomes outside; upon first seeing grass, and honestly every time after that, he loves to skip and run around the yard with a ball like it’s the happiest moment of his day.\n\nGeorge is still working on potty training and learning that being in a crate is safe.  He’ll continue to make progress with additional patience, routine, and reassurance and will thrive with an adopter who understands that building confidence takes time and who’s willing to celebrate the little victories along the way.\n\nWhat George offers in return is enormous: sweetness, loyalty, companionship, and the kind of dog love that makes every bit of effort worthwhile.\n\nIf you have a kind heart, a steady routine, and a dog looking for a new best friend, George just might be your perfect match. 🐾",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1779738234"
     },
     {
       "ID": "3464",
