@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T12:50:53Z",
+  "updated": "2026-05-25T18:23:19Z",
   "count": 86,
   "animals": [
     {
@@ -360,7 +360,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779671226"
+      "LastUpdatedUnixTime": "1779721093"
     },
     {
       "ID": "2350",
@@ -2113,7 +2113,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779678271"
+      "LastUpdatedUnixTime": "1779732748"
     },
     {
       "ID": "3498",
@@ -2596,7 +2596,7 @@
       "Description": "May 4, 2026Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
       "LastIntakeUnixTime": "1776441715",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1779646727"
+      "LastUpdatedUnixTime": "1779723194"
     },
     {
       "ID": "3523",
@@ -3771,14 +3771,13 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1771525249,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98dea7bc88e225a9aa1fec2e5e37933c/19e4ca7e3502a549df24fb37fc1f93ac.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/398bdf87d9cbdfa2fdccbed1b9ec9a88/3dccef31b80a1a3863ca3584af102a03.jpg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/398bdf87d9cbdfa2fdccbed1b9ec9a88/3dccef31b80a1a3863ca3584af102a03.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/98dea7bc88e225a9aa1fec2e5e37933c/19e4ca7e3502a549df24fb37fc1f93ac.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ff98c4c4484b891baffe25287f6f444a/aca50db77f71f7198b917612a509e030.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/398bdf87d9cbdfa2fdccbed1b9ec9a88/3dccef31b80a1a3863ca3584af102a03.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/94c5a7b1bad26343a2976028cb6f1d01/6fb2640ec3969c1504fa8946063a33af.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c512bd7ecf8c26ffe60f061e94136848/396b486c285bce95f94b126d203f24df.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/797a2d993c7423788b5a79d1c0197870/502794af1866f48fe42e8e71868fb12b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a3a09f4eefc0d3d3737f9cce7f10cbdb/7ea34f5c166906149fc04b5f5424e096.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c31708d813b1f4c37182137fbe61767b/9e2b04c9c686a62f0ab2515796a82bc2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/500b7c4d53658a14bea4393747f5dce3/4151031d970e4795759b885ccd752dcc.jpeg",
@@ -3849,7 +3848,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779644370"
+      "LastUpdatedUnixTime": "1779726176"
     },
     {
       "ID": "3579",
@@ -4322,7 +4321,12 @@
         "https://new-s3.shelterluv.com/profile-pictures/938a34014ddfd0605448ecaa87c01ad4/23d06724aa86467cebc5cf1b02e7781e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/52c2883525b040ab26b0e04efe32a982/f9a666ae09859ba510623cd11f6979e2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1571cac85bcfa9aa067f9a7943dcb473/2ae4d0b11cc0c8f5615f0c2d1fa734a7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c0045b0e1066243ff9d2e9425ad3faea/41148ce65ffd397bb595915ac49f60e5.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/c0045b0e1066243ff9d2e9425ad3faea/41148ce65ffd397bb595915ac49f60e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2be7448e9771872fb5f066be278e55ed/11aa7c1574dd8661d73249d30192e430.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2b107c5ecbd439749182bfb6aa78671/16826966ca9d4a33a5879f7f08aa2035.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5064e5210d63175c70e8db2618ecac49/11219a79dea29827809ef88715cd3a60.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1efbeb18544a2ee3fbe91dad6925e6db/81a5c50f4ae434f1f114c752ed311872.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2195af32a3261d251ad6b0c8f4213d19/017d3ce4acee8e9728fa47350a575708.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Labrador",
@@ -4338,7 +4342,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779227999"
+      "LastUpdatedUnixTime": "1779723307"
     },
     {
       "ID": "3586",
@@ -4358,15 +4362,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31b66c031e91e9440ec2a81b8497754d/86ae6ff01068f26358768e254855a5ae.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/31b66c031e91e9440ec2a81b8497754d/86ae6ff01068f26358768e254855a5ae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a79adf78e8bf2ef7c00b711408c060fc/aea6c608c6077b14ff57b28813fef22f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c351506574fc9f2c9fc7b315b56179d9/8133c95629a16aca905b30a41a5326eb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/13d735acc5ce661a69e53a2e774857b3/ceb72354d90b192d0254faef39d8611b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/653135b2d9fda858713af3b5be8c61d7/47d7e67545b64531132d1acabc8d1832.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8f682b7b5792c6b979aff88cf050fd07/71ec995a04f3c15bf78734060519a204.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7af2e534bff814221cb81ac62ef655a3/e540e1c94c245941ec472ccc5ebd7cd3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/11fbefdd148e47bf3eda0ce4863d53d8/0db14300e29002fbeeb235705cfc4989.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d754355dfa0c887e564d2cbb5c18b41/8ad7c22d9eddde734dbe97c9c16af8b8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ffb6ff5df8cb59979c3362ed7d502788/b8ad25284142872eab56fffaba6d7267.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f4b92893aabe9cb7b9cd417e43dfc1dc/131b5f04f37353824309472432e3a8fe.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a05500d0236b3403a636cafb387db36e/88259119dc9a49907d941d09ea414142.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/95bb2e407c276682c5e0d85a4137b9da/66170747e82a9a89d9f08d41ab5c0001.jpeg",
@@ -4447,7 +4444,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779644429"
+      "LastUpdatedUnixTime": "1779726097"
     },
     {
       "ID": "2774",
@@ -5090,7 +5087,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "24.11",
       "Size": "Medium (25-59)",
-      "Altered": "Yes",
+      "Altered": "No",
       "DOBUnixTime": 1741413600,
       "Age": 14,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/759eedee0e312518cf37527b9788824b/8e529a51e76dc18acf3049d886f04a7a.jpeg",
@@ -5149,7 +5146,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779713281"
+      "LastUpdatedUnixTime": "1779713462"
     },
     {
       "ID": "492",
