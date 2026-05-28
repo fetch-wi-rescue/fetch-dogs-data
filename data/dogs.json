@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T20:37:25Z",
+  "updated": "2026-05-28T11:05:08Z",
   "count": 84,
   "animals": [
     {
@@ -92,7 +92,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779228311"
+      "LastUpdatedUnixTime": "1779936872"
     },
     {
       "ID": "3279",
@@ -182,7 +182,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779228344"
+      "LastUpdatedUnixTime": "1779938238"
     },
     {
       "ID": "1099",
@@ -345,7 +345,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779883657"
+      "LastUpdatedUnixTime": "1779929760"
     },
     {
       "ID": "2350",
@@ -433,9 +433,14 @@
           "Internal-ID": "634892",
           "AttributeName": "Food motivated",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1778769272"
+      "LastUpdatedUnixTime": "1779938493"
     },
     {
       "ID": "2582",
@@ -732,7 +737,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779228222"
+      "LastUpdatedUnixTime": "1779932370"
     },
     {
       "ID": "3238",
@@ -797,7 +802,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779227081"
+      "LastUpdatedUnixTime": "1779938633"
     },
     {
       "ID": "740",
@@ -1218,7 +1223,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226690"
+      "LastUpdatedUnixTime": "1779933945"
     },
     {
       "ID": "3461",
@@ -1234,7 +1239,7 @@
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1766901600,
-      "Age": 4,
+      "Age": 5,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
@@ -1328,7 +1333,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779377783"
+      "LastUpdatedUnixTime": "1779933499"
     },
     {
       "ID": "3472",
@@ -1344,7 +1349,7 @@
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ac9f691820eebb8f7c84c8adb50a294b/d40d86737529aa9f1194656f01d25a30.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/ac9f691820eebb8f7c84c8adb50a294b/d40d86737529aa9f1194656f01d25a30.jpeg",
@@ -1446,7 +1451,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779893405"
+      "LastUpdatedUnixTime": "1779933362"
     },
     {
       "ID": "3474",
@@ -1462,7 +1467,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
@@ -1556,7 +1561,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779495383"
+      "LastUpdatedUnixTime": "1779933290"
     },
     {
       "ID": "3475",
@@ -1572,7 +1577,7 @@
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e9a38fd5e4002daad6aa460fa23abb09/65e70f5cc1740983421538692727d7d1.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e9a38fd5e4002daad6aa460fa23abb09/65e70f5cc1740983421538692727d7d1.jpg",
@@ -1665,7 +1670,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779464500"
+      "LastUpdatedUnixTime": "1779933331"
     },
     {
       "ID": "3479",
@@ -2833,7 +2838,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779807303"
+      "LastUpdatedUnixTime": "1779938064"
     },
     {
       "ID": "3528",
@@ -2970,7 +2975,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779473931"
+      "LastUpdatedUnixTime": "1779938071"
     },
     {
       "ID": "3533",
@@ -3220,7 +3225,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1779932140"
     },
     {
       "ID": "3541",
@@ -3477,7 +3482,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1779931959"
     },
     {
       "ID": "3547",
@@ -3665,7 +3670,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779826121"
+      "LastUpdatedUnixTime": "1779930468"
     },
     {
       "ID": "3554",
@@ -3759,7 +3764,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779726176"
+      "LastUpdatedUnixTime": "1779930525"
     },
     {
       "ID": "3579",
@@ -3887,7 +3892,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "81.4",
+      "CurrentWeightPounds": "78.2",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1546761600,
@@ -4013,7 +4018,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779399136"
+      "LastUpdatedUnixTime": "1779929068"
     },
     {
       "ID": "3581",
@@ -4345,7 +4350,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779726097"
+      "LastUpdatedUnixTime": "1779938072"
     },
     {
       "ID": "3587",
@@ -4537,7 +4542,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1778188553",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1779892939"
+      "LastUpdatedUnixTime": "1779930675"
     },
     {
       "ID": "3556",
@@ -4713,7 +4718,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1779930211"
     },
     {
       "ID": "3561",
@@ -4838,7 +4843,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779841840"
+      "LastUpdatedUnixTime": "1779929689"
     },
     {
       "ID": "3588",
@@ -4888,7 +4893,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779801255"
+      "LastUpdatedUnixTime": "1779927161"
     },
     {
       "ID": "3589",
@@ -4971,7 +4976,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779904707"
+      "LastUpdatedUnixTime": "1779938072"
     },
     {
       "ID": "3590",
@@ -5062,7 +5067,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779904169"
+      "LastUpdatedUnixTime": "1779926644"
     },
     {
       "ID": "3591",
@@ -5074,7 +5079,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "55",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1666414800,
@@ -5123,7 +5128,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779905120"
+      "LastUpdatedUnixTime": "1779927058"
     },
     {
       "ID": "492",
@@ -5188,7 +5193,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1779937016"
     },
     {
       "ID": "3545",
@@ -5453,7 +5458,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779499723"
+      "LastUpdatedUnixTime": "1779932790"
     },
     {
       "ID": "3482",
@@ -5549,7 +5554,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778768813"
+      "LastUpdatedUnixTime": "1779933017"
     },
     {
       "ID": "3544",
@@ -5593,7 +5598,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779228511"
+      "LastUpdatedUnixTime": "1779934225"
     },
     {
       "ID": "3583",
@@ -6272,7 +6277,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1566968400,
-      "Age": 80,
+      "Age": 81,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b4c4c36d34813177eb57a3c3e89321c2/c49ae73a85b6a4a4f59f2300b6f64828.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/b4c4c36d34813177eb57a3c3e89321c2/c49ae73a85b6a4a4f59f2300b6f64828.jpeg",
