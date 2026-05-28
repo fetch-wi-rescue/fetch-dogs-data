@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T11:05:08Z",
+  "updated": "2026-05-28T19:56:02Z",
   "count": 84,
   "animals": [
     {
@@ -345,7 +345,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779929760"
+      "LastUpdatedUnixTime": "1779974499"
     },
     {
       "ID": "2350",
@@ -1682,9 +1682,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "53",
+      "CurrentWeightPounds": "57.8",
       "Size": "",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1672552800,
       "Age": 40,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47f68012a63729290efff6fe267c9b95/8a2dbff94c6ddff6b90bff0c67a001d3.jpeg",
@@ -1747,7 +1747,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779808518"
+      "LastUpdatedUnixTime": "1779989278"
     },
     {
       "ID": "3480",
@@ -1759,9 +1759,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "50",
+      "CurrentWeightPounds": "51.2",
       "Size": "",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1641016800,
       "Age": 52,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
@@ -1830,7 +1830,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779808540"
+      "LastUpdatedUnixTime": "1779989122"
     },
     {
       "ID": "3481",
@@ -1842,9 +1842,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "36",
+      "CurrentWeightPounds": "38.2",
       "Size": "",
-      "Altered": "No",
+      "Altered": "Yes",
       "DOBUnixTime": 1735711200,
       "Age": 16,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2b33db8b72fb3b7d06c92f5dd4c5ea6c/37da7f01423da82de78d2ec6c37b988f.jpeg",
@@ -1914,7 +1914,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779808559"
+      "LastUpdatedUnixTime": "1779989415"
     },
     {
       "ID": "3490",
@@ -5794,7 +5794,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779842630"
+      "LastUpdatedUnixTime": "1779975834"
     },
     {
       "ID": "3036",
