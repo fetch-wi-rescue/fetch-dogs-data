@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T19:56:02Z",
+  "updated": "2026-05-29T00:18:00Z",
   "count": 84,
   "animals": [
     {
@@ -3027,50 +3027,6 @@
       "LastUpdatedUnixTime": "1779893180"
     },
     {
-      "ID": "3534",
-      "Internal-ID": "213587858",
-      "Name": "Arthur",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "36.6",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c4273117f82282c097c33d98ea5cc279/b2a12b933ac0ebc439a2fcfef5de7618.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9af14a3d6c37bf29807d52b18bf00554/1b4b34504470bba054595b2894099eb5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/02a3091ca70a5f8cc67b081af68cfa29/fd15baf65a7d8ac0e737196e977570a1.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Arthur 🐶\n\nThis handsome beagle is looking for a warm, consistent home where he can keep growing in confidence and enjoy life alongside other canine  companions. He’s available for adoption after 5/26/2026.\n\nArthur is a big-hearted boy — big in personality, and honestly just big in general (he’s on the larger side for a beagle at nearly 40 pounds, which just means there’s more of him to love). He slid into his foster family’s dog pack without missing a beat, getting along beautifully with dogs of all ages and energy levels and reading social cues like a pro. A home with another dog would be ideal, giving him a built-in mentor to help him continue to blossom — we call him “brave Arthur,” and every day he earns that name a little more.\n\nArthur is a medium-energy guy who loves a good walk or a spirited game of fetch, but he’s equally happy to declare victory and spend the rest of the afternoon cuddled up on the couch with his humans or doggy housemates. He’s a stuffed-toy and tennis-ball enthusiast — and in a funny twist for a beagle, he’s somehow not very treat-motivated. He just loves to play and loves to be close to his people.\n\nHe’s a perceptive, observant soul who notices everything around him. New or unexpected things can still give him pause, but he works through it and comes out the other side more confident each time. Car rides aren’t his favorite yet — he tends to tuck himself quietly at the foot of the back seat — but even that is just Arthur doing his best, and his best keeps getting better.\n\nArthur is still working on leash manners and reliable potty training, but he’s smart and making steady progress. He’ll thrive with an adopter who can offer patience, routine, and consistency to keep that positive momentum going.\nWhat Arthur brings in return is so worth it: loyalty, playfulness, snuggles, and the joy of watching a dog step fully into himself.\nIf you have a steady home, another dog to show him the ropes, and a couch with room for this snugglemuffin, brave Arthur might just be waiting for you. 🐾",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779842837"
-    },
-    {
       "ID": "3538",
       "Internal-ID": "213591745",
       "Name": "Milo",
@@ -3483,92 +3439,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779931959"
-    },
-    {
-      "ID": "3547",
-      "Internal-ID": "213603747",
-      "Name": "Doug",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "23",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714798800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7283880c21dc66f88e28e867f289442b/aae3281abff7da7db80342c48c7ed6ec.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5079d3537b57006a870adff7a96a08bf/5003e1858977e03869bff53aa839d004.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1fa7b38436aacd4af22df92e0a60f13/c197dbcf04f3548afec7741aa5dbbbce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9fd8c79726799c0087b91ded687a1ab/66d37cb78ba2ee8bc4dcb6c036636b39.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d6bb5b0d975b58df9cce172ebaa3952/82e5ef41497d174b18455c18956344c2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Doug is available to adopt after 5/27!\n\nDoug is a 23-pound beagle with a joyful spirit and a love for life that shows in everything he does. He’s a happy, playful pup who approaches each day like a new adventure, whether that means exploring his surroundings, chasing a toy, or making a new friend.\n\nDoug sleeps quietly through the night. He’s brave, curious, and a true adventurer with an upbeat personality that makes him a joy to be around.\n\nDoug currently lives with multiple dogs and absolutely loves to play, making him a great fit for a home with other canine companions. One of his most charming traits is his friendly nature—he truly believes everyone is his friend. He does well in a home with cats, he assumes they’re just fellow dogs and endearingly try to engage them in playtime.\n\nDoug would be a wonderful companion for someone looking for a friendly, chill dog who’s ready to bring plenty of happiness into a home.",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779844045"
     },
     {
       "ID": "3553",
@@ -5557,6 +5427,50 @@
       "LastUpdatedUnixTime": "1779933017"
     },
     {
+      "ID": "3534",
+      "Internal-ID": "213587858",
+      "Name": "Arthur",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "36.6",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1683003600,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c4273117f82282c097c33d98ea5cc279/b2a12b933ac0ebc439a2fcfef5de7618.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9af14a3d6c37bf29807d52b18bf00554/1b4b34504470bba054595b2894099eb5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/02a3091ca70a5f8cc67b081af68cfa29/fd15baf65a7d8ac0e737196e977570a1.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Arthur 🐶\n\nThis handsome beagle is looking for a warm, consistent home where he can keep growing in confidence and enjoy life alongside other canine  companions. He’s available for adoption after 5/26/2026.\n\nArthur is a big-hearted boy — big in personality, and honestly just big in general (he’s on the larger side for a beagle at nearly 40 pounds, which just means there’s more of him to love). He slid into his foster family’s dog pack without missing a beat, getting along beautifully with dogs of all ages and energy levels and reading social cues like a pro. A home with another dog would be ideal, giving him a built-in mentor to help him continue to blossom — we call him “brave Arthur,” and every day he earns that name a little more.\n\nArthur is a medium-energy guy who loves a good walk or a spirited game of fetch, but he’s equally happy to declare victory and spend the rest of the afternoon cuddled up on the couch with his humans or doggy housemates. He’s a stuffed-toy and tennis-ball enthusiast — and in a funny twist for a beagle, he’s somehow not very treat-motivated. He just loves to play and loves to be close to his people.\n\nHe’s a perceptive, observant soul who notices everything around him. New or unexpected things can still give him pause, but he works through it and comes out the other side more confident each time. Car rides aren’t his favorite yet — he tends to tuck himself quietly at the foot of the back seat — but even that is just Arthur doing his best, and his best keeps getting better.\n\nArthur is still working on leash manners and reliable potty training, but he’s smart and making steady progress. He’ll thrive with an adopter who can offer patience, routine, and consistency to keep that positive momentum going.\nWhat Arthur brings in return is so worth it: loyalty, playfulness, snuggles, and the joy of watching a dog step fully into himself.\nIf you have a steady home, another dog to show him the ropes, and a couch with room for this snugglemuffin, brave Arthur might just be waiting for you. 🐾",
+      "LastIntakeUnixTime": "1777687620",
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780003302"
+    },
+    {
       "ID": "3544",
       "Internal-ID": "213603731",
       "Name": "Barkeley",
@@ -5599,6 +5513,92 @@
         }
       ],
       "LastUpdatedUnixTime": "1779934225"
+    },
+    {
+      "ID": "3547",
+      "Internal-ID": "213603747",
+      "Name": "Doug",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "23",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7283880c21dc66f88e28e867f289442b/aae3281abff7da7db80342c48c7ed6ec.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5079d3537b57006a870adff7a96a08bf/5003e1858977e03869bff53aa839d004.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1fa7b38436aacd4af22df92e0a60f13/c197dbcf04f3548afec7741aa5dbbbce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9fd8c79726799c0087b91ded687a1ab/66d37cb78ba2ee8bc4dcb6c036636b39.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d6bb5b0d975b58df9cce172ebaa3952/82e5ef41497d174b18455c18956344c2.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Doug is available to adopt after 5/27!\n\nDoug is a 23-pound beagle with a joyful spirit and a love for life that shows in everything he does. He’s a happy, playful pup who approaches each day like a new adventure, whether that means exploring his surroundings, chasing a toy, or making a new friend.\n\nDoug sleeps quietly through the night. He’s brave, curious, and a true adventurer with an upbeat personality that makes him a joy to be around.\n\nDoug currently lives with multiple dogs and absolutely loves to play, making him a great fit for a home with other canine companions. One of his most charming traits is his friendly nature—he truly believes everyone is his friend. He does well in a home with cats, he assumes they’re just fellow dogs and endearingly try to engage them in playtime.\n\nDoug would be a wonderful companion for someone looking for a friendly, chill dog who’s ready to bring plenty of happiness into a home.",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780002819"
     },
     {
       "ID": "3583",
