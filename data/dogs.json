@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T12:29:35Z",
-  "count": 84,
+  "updated": "2026-05-29T21:03:23Z",
+  "count": 94,
   "animals": [
     {
       "ID": "2754",
@@ -814,7 +814,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "22",
+      "CurrentWeightPounds": "23",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1728190800,
@@ -875,7 +875,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779671023"
+      "LastUpdatedUnixTime": "1780080430"
     },
     {
       "ID": "3451",
@@ -1137,11 +1137,12 @@
       "Altered": "No",
       "DOBUnixTime": 1769666400,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6797fa6d388a4707f899bd0ccd9ed73a/7dff749a4cd3884e47901fa58324e6e0.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b79780c5dab48e55b2fb0a14974af34a/439089c58589b2954edf65b4971488d7.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6797fa6d388a4707f899bd0ccd9ed73a/7dff749a4cd3884e47901fa58324e6e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9299fa4779865e270df7c0e2066f3209/1ce5a8d1424a636dde93bc1b7392ba31.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9657dbd0f217625823a01c54316cbecb/ce3cc151161546b2ca8ee3cd4155dc1c.png"
+        "https://new-s3.shelterluv.com/profile-pictures/b79780c5dab48e55b2fb0a14974af34a/439089c58589b2954edf65b4971488d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5f31b4e9bfeef50529233a3671a6f8a/da7f6190431a726c83cfabbde5058a44.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9657dbd0f217625823a01c54316cbecb/ce3cc151161546b2ca8ee3cd4155dc1c.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6797fa6d388a4707f899bd0ccd9ed73a/7dff749a4cd3884e47901fa58324e6e0.jpeg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Large)",
@@ -1223,7 +1224,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779933945"
+      "LastUpdatedUnixTime": "1780062310"
     },
     {
       "ID": "3461",
@@ -1468,9 +1469,9 @@
       "Altered": "No",
       "DOBUnixTime": 1772265600,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ff641e79dcb71b25a067fce135511159/48659f486d809b85b5e034edac165f4f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/47a588ee8873de0b39ae7738fee98143/e622b98c1824580994c5cb98ec4a2dd6.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8e4f77a3120343e653ae066c224140a9/ecfb8b7909f457f66d128daa7f6b57d7.jpg",
@@ -1478,10 +1479,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/bef9d3d5091d3704ab2f0f603b0a1c8f/aecc0c0dd661455de8cc8cd97add64eb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0a259272eb9e1484d36635f19535bb1d/8a2a87ee09fd170d789342f82b0f8c2a.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/565b68638d02f69188c1959e4bd2b19f/977ef01580121056331e6f7ef3a49747.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/35fa71e65ea67f5258f41102aa6e06ef/771d1b072969fe1eef6bbaa47eb711a6.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5616240e238c3c197373749ac1be7e9e/b3c5c7316a70d8a50a3aaaef3daa9194.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e6dad3a726f24553e4c9c718326cf001/ce2f072c9c3150c9e7b116ffc78cf1fd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2bc3cc2be58d4a81d1bbac4f6c0a6b30/6f23f478a7853d976a535d99e1e79833.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6213e476b74daaafd26c9dc3e6d85d80/3dd6a7a5117ef513b2bed4751a38bc77.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/61c1f1024575e3da4fd2da740c83d3bc/26daa244a45ee688371e3370c453708a.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0645974af5e8db0fb6224efdc2f274d7/9874329d4d91ba7996169c46b405e49c.jpg"
@@ -1561,7 +1562,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779933290"
+      "LastUpdatedUnixTime": "1780071268"
     },
     {
       "ID": "3475",
@@ -2021,9 +2022,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1766124000,
       "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5ce3fb51a37c458a4628e5bc24c77f56/bace665dd0b1ac009fe5a05927cd3eee.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d32b487a2da6dc9108fa8f9a64eaa196/2b71888cefbf89743f463c88fc0498ed.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/5ce3fb51a37c458a4628e5bc24c77f56/bace665dd0b1ac009fe5a05927cd3eee.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d32b487a2da6dc9108fa8f9a64eaa196/2b71888cefbf89743f463c88fc0498ed.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6cb87618782056284a15818ea151f66e/d570bb46393f1a5c36a1f9d0348b5670.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/96f8f6219031006cbe3d08708c223c3e/fee60cc7a02cf21e0fb4fb923336531f.png",
         "https://new-s3.shelterluv.com/profile-pictures/e4e4449e131a8849bf1839bad2bfb297/c201e4893034d43967193ab37508a719.jpg",
@@ -2039,7 +2040,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/2ba69d9d8e836ad49a79174bd634d83e/6cf9b5e10b00fae42738c997855b24d2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e931aba043591ef17ef65d4728c8fd5d/48d1820092f865eb60f61ee4967d4885.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/31aba8a03c5070a1fd7f12d4550f49d9/a9032b32ac0d3e51f0738d3e41291c78.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/be82868a07df11d0d1c23777396c9a7e/a034dee6f0d79ef11ffece20f295a591.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/be82868a07df11d0d1c23777396c9a7e/a034dee6f0d79ef11ffece20f295a591.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5ce3fb51a37c458a4628e5bc24c77f56/bace665dd0b1ac009fe5a05927cd3eee.jpg"
       ],
       "Videos": [],
       "Breed": "Husky/Mixed Breed (Large)",
@@ -2111,7 +2113,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779678223"
+      "LastUpdatedUnixTime": "1780072352"
     },
     {
       "ID": "3495",
@@ -2729,7 +2731,7 @@
       "Description": "Ginger is a sweetheart who loves hanging out with her people, going for long walks, and snuggling up in the coziest spots in the house.\n\nIn her foster home she lives with a large dog foster brother and 2 young kids and she does great with them. When Ginger gets excited she doesn't have great spatial awareness and may knock over toddlers/babies and people with mobility limitations, but generally she is very calm and gentle. Her interaction with cats is unknown at this time.\n\nGinger gets anxious during thunderstorms and likes hiding under a bed as her safe spot. She likes quietly observing animals outside and she hardly ever barks. She is working on not jumping when first meeting a person, but listens pretty well to commands. She will sit when getting her leash on/waiting to go outside.\n\nGinger walks well on a leash, can be left out to free roam inside the house, is potty trained, and does great in the car. She likes occasional play sessions with toys and checking out what everyone is doing, but spends most of her time resting around the house. She thinks she is a lap dog and loves cuddles. Ginger loves exploring and hanging out in the sunshine.",
       "LastIntakeUnixTime": "1776519588",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1779891453"
+      "LastUpdatedUnixTime": "1780067044"
     },
     {
       "ID": "3527",
@@ -2855,9 +2857,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1765951200,
       "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/37a670fc988b60c08941a06aaa4f81e5/6b18228b98540dcb2c71d6a9a53168f3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/840d877d56d2ed1da6205e91d6508b9b/fd1aa0c5305678e76d83d24d6bcf4d52.jpg",
@@ -2873,7 +2875,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b84f624e7df3d8714246b08bf1500445/11829caa8e7ea31b4417c62112533420.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c57d7238d9184650073405743860289a/a347f6e89485dc750f9fb6a765a4eae7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41b607dcb2aac9f29e4d83c92cb95817/d51f3bbeb79935c1250b1092ed18b0d0.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/41b607dcb2aac9f29e4d83c92cb95817/d51f3bbeb79935c1250b1092ed18b0d0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9cc44b0f071626c120a6ba7968a906d5/7a364a7d2d0f0f126e30b54bd86be552.jpg"
       ],
       "Videos": [],
       "Breed": "Hound/Mixed Breed (Large)",
@@ -2975,7 +2979,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779938071"
+      "LastUpdatedUnixTime": "1780071143"
     },
     {
       "ID": "3533",
@@ -3024,7 +3028,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779893180"
+      "LastUpdatedUnixTime": "1780080031"
     },
     {
       "ID": "3538",
@@ -3358,7 +3362,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "55.2",
+      "CurrentWeightPounds": "53.1",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
@@ -3438,7 +3442,44 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779931959"
+      "LastUpdatedUnixTime": "1780080309"
+    },
+    {
+      "ID": "3549",
+      "Internal-ID": "213641251",
+      "Name": "Tigger",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "56.4",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1759294800,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/310eed76c06e46c7090ec9a1e2468b10/ed0f254e97edf93c1de6d9e556cb5344.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d07da9df51a726152f8fd90e4dd2a73/610bdf64d8a9ca9e9d0af05ff4f3c77d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6adf07672e54411191006c53cea22834/859d8edacd6704ef2a9da6b5985d4919.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8cc99979a10a596f1d847db10875e7e1/5c3f6a894577be5cb720a27fb66a5591.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3234e373fbd469be623deb7daef8f8b2/817e68157a85f38b6c78e34ab33e767e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8fd873f7d6efd853c8a286b32c3a0f96/53d27e54b4cd87bd6288f62c229f6629.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7a4b3eed69d68878b25d1b2bf615fbe/3156779588b626bf14a2ba9c02297df8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8836015389747b33ae894559fd596dbd/9887a43f02012a1769470fcfa4230f09.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Saint Bernard",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Tigger — or as he would say, “T-I-double-guh-er! That spells Tigger!” 🐾\n\nThis 7-month-old Saint Bernard puppy absolutely lives up to his name with his goofy, bouncy personality. Tigger loves playing with our resident Bernese Mountain Dog and is happiest when he has a dog buddy to romp around with. Whether he’s tossing toys around by himself, chewing on a teething toy, or giving you a cheerful “Hoo-hoo-hoo-hoo!”, he’s always finding ways to keep life fun.\n\nTigger has a nice medium energy level for a giant-breed puppy. He enjoys 1–2 daily walks plus playtime with other dogs, but he’s also content entertaining himself and settling down for snuggles afterward. He rides well in the car, walks nicely on leash, sleeps quietly in his crate at night, and can stay crated during the workday without being destructive or vocal.\n\nLike many young dogs, Tigger is still learning about the world. He can be nervous around strangers and may bark when meeting new people, but he’s been making good progress with socialization and will need a patient adopter who can continue building his confidence. He’s also working through some separation anxiety and wants to be greeted with cuddles when his owner returns home, so consistency and routine will help him thrive. \n\nOne of Tigger’s funny quirks is that he tends to drink a LOT of water at once — which means he’ll usually need a couple potty breaks afterward. A home ready for typical puppy management and continued training will set him up for success.\n\nTigger would do best in a home that enjoys a playful, affectionate giant puppy and ideally has another friendly dog for him to “consider yourself pounced!” with. If you’re looking for a lovable goofball with a big heart, soft cuddles, and plenty of personality, Tigger may be your perfect match.\n“TTFN! Ta-ta for now!” — Tigger",
+      "LastIntakeUnixTime": "1778188553",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780058476"
     },
     {
       "ID": "3553",
@@ -3481,7 +3522,7 @@
       "Color": "Tan/White",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "Gilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\n\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.\n\nGilmore is the ultimate lover boy. He is always up for a cuddle, kiss, or belly rub. He loves humans and wants to be held or snuggled up. He does enjoy dogs and wants to play, but is learning appropriate play manners.\n\nGilmore does very well in his kennel, but sometimes needs a noise machine (he is currently being fostered in an apartment, and sometimes the outside noise he thinks is his people coming home).  Gilmore loves the outdoors, but is quick to need a rest after playing.  He loves sticks and chasing birds.\n",
+      "Description": "Gilmore is the ultimate lover boy. He is always up for a cuddle, kiss, or belly rub. He loves humans and wants to be held or snuggled up. He does enjoy dogs and wants to play, but is learning appropriate play manners.\n\nGilmore does very well in his kennel, but sometimes needs a noise machine (he is currently being fostered in an apartment, and sometimes the outside noise he thinks is his people coming home).  Gilmore loves the outdoors, but is quick to need a rest after playing.  He loves sticks and chasing birds.\n\nGilmore would be the perfect fit for any family.  He would do great as the only dog, or with other dogs.  He would do great with children, or just adults.  He is flexible as long as the people around him love him as much as he loves them.\n\nGilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\n\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.\n",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
         {
@@ -4237,16 +4278,16 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1773550800,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7f4107a6850e69ac3a2ddc45467c4374/bd4d1a41b43e2f0a7918510e60faffc4.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f4107a6850e69ac3a2ddc45467c4374/bd4d1a41b43e2f0a7918510e60faffc4.png",
         "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/baf00e7a701857f5815fa39aab700082/d65e9a4fd4791b5caf00fa7911040f08.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Labrador",
@@ -4256,7 +4297,7 @@
       "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
       "LastIntakeUnixTime": "1778952181",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1779852983"
+      "LastUpdatedUnixTime": "1780062359"
     },
     {
       "ID": "2774",
@@ -4383,36 +4424,6 @@
       "LastIntakeUnixTime": "1777729200",
       "Attributes": [],
       "LastUpdatedUnixTime": "1778124795"
-    },
-    {
-      "ID": "3549",
-      "Internal-ID": "213641251",
-      "Name": "Tigger",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "56.4",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1759294800,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8836015389747b33ae894559fd596dbd/9887a43f02012a1769470fcfa4230f09.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Saint Bernard",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Tigger — or as he would say, “T-I-double-guh-er! That spells Tigger!” 🐾\n\nThis 7-month-old Saint Bernard puppy absolutely lives up to his name with his goofy, bouncy personality. Tigger loves playing with our resident Bernese Mountain Dog and is happiest when he has a dog buddy to romp around with. Whether he’s tossing toys around by himself, chewing on a teething toy, or giving you a cheerful “Hoo-hoo-hoo-hoo!”, he’s always finding ways to keep life fun.\n\nTigger has a nice medium energy level for a giant-breed puppy. He enjoys 1–2 daily walks plus playtime with other dogs, but he’s also content entertaining himself and settling down for snuggles afterward. He rides well in the car, walks nicely on leash, sleeps quietly in his crate at night, and can stay crated during the workday without being destructive or vocal.\n\nLike many young dogs, Tigger is still learning about the world. He can be nervous around strangers and may bark when meeting new people, but he’s been making good progress with socialization and will need a patient adopter who can continue building his confidence. He’s also working through some separation anxiety and wants to be greeted with cuddles when his owner returns home, so consistency and routine will help him thrive. \n\nOne of Tigger’s funny quirks is that he tends to drink a LOT of water at once — which means he’ll usually need a couple potty breaks afterward. A home ready for typical puppy management and continued training will set him up for success.\n\nTigger would do best in a home that enjoys a playful, affectionate giant puppy and ideally has another friendly dog for him to “consider yourself pounced!” with. If you’re looking for a lovable goofball with a big heart, soft cuddles, and plenty of personality, Tigger may be your perfect match.\n“TTFN! Ta-ta for now!” — Tigger",
-      "LastIntakeUnixTime": "1778188553",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1780028550"
     },
     {
       "ID": "3556",
@@ -4780,16 +4791,22 @@
       "Altered": "No",
       "DOBUnixTime": 1741413600,
       "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/759eedee0e312518cf37527b9788824b/8e529a51e76dc18acf3049d886f04a7a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f48523510d91729d034dcad1473d107b/80d2c24d3e84edd246084efd80cdf205.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/759eedee0e312518cf37527b9788824b/8e529a51e76dc18acf3049d886f04a7a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f48523510d91729d034dcad1473d107b/80d2c24d3e84edd246084efd80cdf205.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/40c24b80914f4443ac7a2bb8bd76a1ce/d504e0092ca103421360d4a154682d94.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/45d911d14cc5743eac53739edeff4e58/a0455bc281bbe6d0548a05e51c2e77de.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4849be086db957ebb790fde0ac6b69b8/271c42d8718429aedb8545ce443a89c3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ed762054e20954d86d7ae9610fe27cee/e05e25ebffab4ca0ac73ba00cc573672.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3a2614c86fa3449980b13eeadf0c9d55/4c210e2a2f5d9a68ca3fda5805e15602.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/759eedee0e312518cf37527b9788824b/8e529a51e76dc18acf3049d886f04a7a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2c7d3e5ee3a7669f62792b09096bdb12/8a85dd5c071fa80508e00c5dfec19dd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77dea63941e91900200c2c504ab50eeb/0e2fd6888d219a4e2615754d4db36fcf.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/77dea63941e91900200c2c504ab50eeb/0e2fd6888d219a4e2615754d4db36fcf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/51a7c5833e777a6bc13a126673514359/d0f71c2ea836d04744b3746d8619ff95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3e68a1fc0178a7e434429a1b030475c2/f43ff943cd074c29703c89392016f692.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/49209fb9a53a48c1d989aa1cee95f153/4816b1a901ae11a9af67accec56f18fa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a62881afa80257e4ee1a7ad0c82d7ce1/368f9e61863be2465aba0dfe1dafc2ec.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f1d570ae2c6c6b5eb960f4e436f91ccb/67f74a7581c9e01c384edece3308b9ee.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Golden/Poodle, Miniature",
@@ -4802,14 +4819,9 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Penelope is a delightful little poodle mix who would love to join your family, follow you everywhere, and sit on your lap whenever possible.  \n\nPenelope is still full of youthful energy. She loves toys-both playing fetch and chewing them into destruction.  She’s satisfied with 2-3 play sessions and 3-4 walks a day.  She does some pulling on leash, but that usually stops about a quarter of the way into our walk. She has interest in squirrels robins, rabbits and ducks, and will pull to try to get to them, but can be easily persuaded to continue on with the walk.\n\nPenelope is a relatively quiet dog in the house. Our resident dog barks at anything that walks by and she just runs to the window and watches without adding her voice to the commotion. She will bark if she’s on a leash and she can’t get to me or my husband or a random neighbor that she’s sure will be her new best friend. \n\nPenelope is  doing well with my resident dog who is twice her size.  She will appropriately bark/bite at him when he’s overbearing but then as soon as he backs off, she is fine.  She’s learning how to play with him and hold her own in a game of tug.  She’s met neighborhood dogs on walks and is submissive at first and then joins in the typical dog greeting of butt, sniffing and circling.  We don’t own any cats, but the person she lived with for about a month said she didn’t do well with her cats.\n\nPenelope spent her first year of life in a family with two young children. We do not have young children in our lives, so we have not personally seen her interact with kids. \n\nPenelope knew her name when she arrived and she knew to do her business outside. She has had no accidents in the house!  Other than that she was a blank slate.  She’s a quick learner and is making progress on sit, lie down, wait, stay, touch, and kennel up.  I see great potential for trick training with a future circus career.  \n\nPenelope likes to jump up and thinks that’s the best way to get attention. We’re working at teaching her to keep all 4 feet on the ground in order to get the pets and attention that she wants.  She’s making a little bit of progress, but it’s so hard to keep all 4 feet on the ground! \n\nPenelope sleeps quietly in a kennel in our bedroom overnight- though she believes that the night ends between 5-6am!  She stays in a kennel, in our dining room, when we leave the house. She will also stay in that kennel when we are home, which I do for brief periods each day, to teach her that she can be content there even when we are around. She puts up a little bit of racket when she first goes in but then settles nicely. \n\nPenelope arrived in our care badly matted. We had her groomed this week and she has very short hair now and is even shaved in certain spots. Her ears and head and tail are still long and she still looks adorable. She will require regular grooming and brushing between grooming sessions to prevent matting.  \n\nPenelope is a delight. I have no doubt that she will be a wonderful addition to the lucky family that welcomes her. ",
       "LastIntakeUnixTime": "1779333322",
       "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -4818,6 +4830,11 @@
         {
           "Internal-ID": "294302",
           "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
           "Publish": "Yes"
         },
         {
@@ -4846,7 +4863,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779938072"
+      "LastUpdatedUnixTime": "1780086364"
     },
     {
       "ID": "3590",
@@ -4999,6 +5016,345 @@
         }
       ],
       "LastUpdatedUnixTime": "1779927058"
+    },
+    {
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "49.6",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1676959200,
+      "Age": 39,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7bca9f3e03b031eb2dac5e609564d078/77c6e34074df1788c68b35d0a64bc8c3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7bca9f3e03b031eb2dac5e609564d078/77c6e34074df1788c68b35d0a64bc8c3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780065508"
+    },
+    {
+      "ID": "3593",
+      "Internal-ID": "213786017",
+      "Name": "Mary Pup 1 ",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777093200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780065508"
+    },
+    {
+      "ID": "3594",
+      "Internal-ID": "213786019",
+      "Name": "Mary Pup 2 ",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777093200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0e2eaa2fdfd485bba6cda8baac1fba92/0469b9337797554e504a7995960a2f57.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/0e2eaa2fdfd485bba6cda8baac1fba92/0469b9337797554e504a7995960a2f57.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780065508"
+    },
+    {
+      "ID": "3595",
+      "Internal-ID": "213786020",
+      "Name": "Mary pup 3 ",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777093200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/37867ee4de0c08dc415fc8f58a94ac4a/1927aa3ad6b2b5a68b855119089369c5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/37867ee4de0c08dc415fc8f58a94ac4a/1927aa3ad6b2b5a68b855119089369c5.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780065508"
+    },
+    {
+      "ID": "3596",
+      "Internal-ID": "213786021",
+      "Name": "Mary Pup 4",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777093200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780065507"
+    },
+    {
+      "ID": "3597",
+      "Internal-ID": "213786022",
+      "Name": "Mary Pup 5",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777093200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9d52ddcc0e64b280ec6848800b59f9f9/e9325a051bf05efda4b0a4bc73f9d329.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9d52ddcc0e64b280ec6848800b59f9f9/e9325a051bf05efda4b0a4bc73f9d329.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780065507"
+    },
+    {
+      "ID": "3598",
+      "Internal-ID": "213786023",
+      "Name": "Basil",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775019600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c06b1f1936b68e8eeda78fd81fca55f/bed9c0a9bbe098f184aa9795aba19175.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ef229ad9119e5ea462574e8493a23ea/99ca47abcd6e5d8b2be884e4dc1edf0e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3bcdd70b1b05d13b0d732cb9da016299/f465de47a2f1a9a923127bb7329b46f0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f1d41a2d9bb23d0d55a6814cc236915/db1a9f1d4c292897e6a53a2ca24a2d9d.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780088477"
+    },
+    {
+      "ID": "3599",
+      "Internal-ID": "213786024",
+      "Name": "Sage",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775019600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b8ac3ee8ad012db25668439c8f7901f0/1750b4e6a9c860e858df6e53501c47ec.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b8ac3ee8ad012db25668439c8f7901f0/1750b4e6a9c860e858df6e53501c47ec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f82f706b91e2622a06ccae251f0d991/77818bd700faf25156d5a01c6064e6d4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b13ffdad49fa1c67325fce44f3f77f1b/46487355b5539df990f3e7f3b36659e8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/257b85dd134f3db10fa355a2912ba734/ffcbc86441ffe15c8df2910a52b28948.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a7ce76e4a8a2cde68a73ad04795ad73a/7bc6334e56109925837f369a5de736f1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f223660f1d491c803e2ced5ac5df054/2a4da991571aefe129914176c3ad9249.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e49a5adf66ec003c3e2cc674de806f18/33567b69757a446eaa454f7ec996a271.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a13ffac18ac61813434452cd0e78fb3/2d5c6e63c01ec10aa1fe3465e2429c16.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780088501"
+    },
+    {
+      "ID": "3600",
+      "Internal-ID": "213786025",
+      "Name": "Joe Pye",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "15.5",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775019600,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ed0d715b88647c28e43f0282bfe47b7b/4b208a5ab70317abd33e2251c586faa1.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ed0d715b88647c28e43f0282bfe47b7b/4b208a5ab70317abd33e2251c586faa1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/85d6630207fda1cb2b82536bf38905ea/25f051745e566df5ebf717ad1de1ca06.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e56ff5fc004161e365eb74b6f6f72d7e/1a65fdd67c7084a143effbaf496fa5e0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/02d583370f917f0a3292084c502074c5/2ad262ea946482098c6e8ed1c7b64ca2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f1321727d392725150523d9e6034f13/c7f13f34cca09bb71256ef1edba473cd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4904bfc88c78aa8e5e5b794b420fc67a/ee087ef4538effde896e892f039efe16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/43ea85e0656ddabac49f1a2566ca5e4e/ac3cbf1fc8f24237c1d4a2cb82ae2455.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9329fcfe511316fd15f63a87d179816/af7a41560e75ebb9e7ebc3a25717fe1f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fef41b0896fcad746c2c2eaed9653dad/79481553fd5b725e16bbc670c23ab189.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a4761859f4d38cfd54dc1f65359a0940/50e3e6c23f359c95389495f78bc197ec.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1780088529"
+    },
+    {
+      "ID": "3601",
+      "Internal-ID": "213786026",
+      "Name": "Rowena",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "13",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1774538279,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d915f51148c8f98c31fb8aa6ee1c9be5/464ed1fb5bcd6a2755d99145ffde202d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa6477c585cebcece52c60d45d030195/a253c8dbdc44829471bacc9caa4a93ed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7230d9943912bd1230c711341f23acb7/df2331b1d7b1b67446dee2e529b098d1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a63ef6ac3f21710312dd246b6767df3/1d1979c1c148dd5dbbeb5c2a71334b73.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f65a6e28fde1422afde163b243121450/2f117db0edd90e230aa8895b7f3a5bdd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e271cab2001b66e4973836d2e6251fd/e8304cfd712aabee67c9eb0879a32487.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4b757021f4d35b94377a7585a0a8ea6/b105f357ed259d5fd1a09c5819227635.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "u8ECY1sbR-o",
+          "EmbedUrl": "//www.youtube.com/embed/u8ECY1sbR-o?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=u8ECY1sbR-o",
+          "ThumbUrl": "https://img.youtube.com/vi/u8ECY1sbR-o/0.jpg"
+        },
+        {
+          "VideoId": "T1miqcaK_AI",
+          "EmbedUrl": "//www.youtube.com/embed/T1miqcaK_AI?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=T1miqcaK_AI",
+          "ThumbUrl": "https://img.youtube.com/vi/T1miqcaK_AI/0.jpg"
+        }
+      ],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Beige",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "✨🖤 Meet Rowena 🖤✨\nRowena may have been found all alone in the middle of the road, scruffy and mangy and far too tiny to be fending for herself — but somehow this little fluffball still decided the world was worth trusting. And honestly? She’s been proving every single day what an incredible puppy she is. 🥹\nFirst of all, Rowena is ridiculously smart. Like… suspiciously smart for such a tiny fuzzy creature. Despite being just a baby, she already keeps her space clean and has been going potty in her designated area like a little professional roommate. No accidents. No chaos. No tiny gremlin behavior. Honestly, she’s giving “straight-A student who reminds the teacher about homework” energy.\nShe’s also wonderfully well balanced — playful and curious without being wild, affectionate without being clingy, and sweet without being demanding. She doesn’t spend her day whining or fussing; she’s content to snuggle up nearby, quietly observe the world, and occasionally bounce around with her adorable puppy energy when the mood strikes.\nAnd can we discuss the fluff? Because Rowena currently looks like a tiny woodland creature who got caught in a rainstorm and still somehow came out cute. Underneath the mange and rough start is an absolutely precious little puppy who is only going to get more beautiful as she heals and grows.\nMost importantly, Rowena is ready for a life where she never has to be alone again. A soft bed, kind people, toys, snacks, and someone to tell her every day that she’s safe now. 🖤🐾",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780065118"
     },
     {
       "ID": "492",
