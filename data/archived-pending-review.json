@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T20:37:26Z",
+  "updated": "2026-05-30T07:50:00Z",
   "animals": [
     {
       "ID": "3458",
@@ -333,6 +333,15 @@
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-27T20:37:26Z",
       "status": "adopted"
+    },
+    {
+      "ID": "3583",
+      "Name": "Ladybug",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f409e65feb1e862cc364ffdf7092ee94/27bd777264d0af8e5312c6dd0211e691.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-30T07:50:00Z",
+      "status": "pending"
     }
   ]
 }
