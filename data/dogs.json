@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T07:50:00Z",
-  "count": 93,
+  "updated": "2026-05-30T12:01:08Z",
+  "count": 92,
   "animals": [
     {
       "ID": "2754",
@@ -803,85 +803,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779938633"
-    },
-    {
-      "ID": "740",
-      "Internal-ID": "213180800",
-      "Name": "Emmett",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "23",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728190800,
-      "Age": 19,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/efee8e4a2c6f0ba2099d68f2386724b2/2bbbb64b4bf3a21745fcac8cb34fdaa1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/efee8e4a2c6f0ba2099d68f2386724b2/2bbbb64b4bf3a21745fcac8cb34fdaa1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/23b057b20bce755471141f575e93e244/dc73afb3d84c2e8f4903998e0a36716d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/572ccc65ba0207a1e936ac53a48b6a01/2a4e6760cb41bbd8c9f758fb8e5757b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b812119b410398cac451df095dc6408c/e08a093436ed36f9cc2e89cc0476897f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6dc4edece541ee77eec54488e00c0bc4/ab99c29e968814603c006689a8dc914e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1ad71575e9ac83f874a24f9ad4d63ffd/900f8af560395777288bd982cb9a0946.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5dd0f804bf03eb765e6926b1fc874b17/120679fdb9a668f995d7c044e25351b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4d78dd67881fc3a3848c8921e3681e7/3166be7ea84d6f8efaf832baf93c9787.png",
-        "https://new-s3.shelterluv.com/profile-pictures/781388ced836285edbea06f7f6c897d0/5fbd16a195e384c6d2594c3fa23b1f15.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Jack Russell",
-      "Color": "Black/Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Emmett!\n\nEmmett is a one-year-old Jack Russell mix with a big personality packed into his 20 pound frame! This sweet boy is equal parts snuggly companion and curious explorer. He loves nothing more than curling up in cozy blankets after a good walk or play session.\n\nEmmett is full of puppy energy and would love an active family ready to take him on daily adventures—he’s happiest when he can stretch his legs on long walks (a few miles a day is ideal for this energetic guy!).\n\nLike many young pups, Emmett is still learning his manners. He can be a little mouthy when he wants attention and has a habit of weaving between your feet—but he’s smart, eager to please, and learning quickly with consistent guidance.\n\nEmmett will do well as an only dog OR have a family that has experience with slow introductions and some reactivity.\n\nEmmett has been making great progress each week as he learns skills that help him manage his reactivity, including loose-leash walking, recall, “place,” and disengagement. He’s very food-motivated, so using his kibble works perfectly for training sessions. Emmett is a smart cookie who enjoys learning and thrives when given the chance to practice new skills. \n\nAt heart, Emmett is an affectionate, loving boy who just wants to be close to his people. If you’re looking for a loyal, lively companion who will make you laugh and keep you moving, Emmett might just be your perfect match!",
-      "LastIntakeUnixTime": "1759899600",
-      "Attributes": [
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780110109"
     },
     {
       "ID": "3451",
