@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T19:52:38Z",
+  "updated": "2026-05-31T23:44:42Z",
   "animals": [
     {
       "ID": "3458",
@@ -359,6 +359,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-05-31T19:52:38Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3534",
+      "Name": "Arthur",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-05-31T23:44:42Z",
       "status": "pending"
     }
   ]

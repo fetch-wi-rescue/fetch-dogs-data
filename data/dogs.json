@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T19:52:38Z",
-  "count": 91,
+  "updated": "2026-05-31T23:44:42Z",
+  "count": 90,
   "animals": [
     {
       "ID": "2754",
@@ -2851,20 +2851,12 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/37a670fc988b60c08941a06aaa4f81e5/6b18228b98540dcb2c71d6a9a53168f3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/840d877d56d2ed1da6205e91d6508b9b/fd1aa0c5305678e76d83d24d6bcf4d52.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/aed5f2d20c683025643cd54ce6495d9f/b496fe4f719e423f82bd267dc988dfdd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/df1060b08ac9470af66ddd0d9b9c0584/ba99056b67bd4f3ead42e08c78faf9a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/04acbe69f76f8760d35915d6b1ebad04/39df1c47b03fa7bd75d090c1ee09c5bf.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/33b32b5f9a995a3982c34aff9e6c7319/48290c5be7fbed1cddc72bc9bc969663.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/03950e4cb045f82b93f0485d237710d1/81f3d030ab87b4351629b49f11d2f364.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ada0223e80f27700f5ef5be231451926/b1a25f14298667ebfd5688d2b4a80f0f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/627f0c21ffe6bab69809c741e749c79c/a1301a8f16943bed470cb7f4a3426513.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f1d10b6047b7574db038f9a6d89eb9b6/607c201fd4efd748615e051c66d06fb0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a5c7e0f0a29c011d446913048de337ce/0498d0a5b4a83193f5228635cf0538b3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b84f624e7df3d8714246b08bf1500445/11829caa8e7ea31b4417c62112533420.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c57d7238d9184650073405743860289a/a347f6e89485dc750f9fb6a765a4eae7.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/41b607dcb2aac9f29e4d83c92cb95817/d51f3bbeb79935c1250b1092ed18b0d0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/9cc44b0f071626c120a6ba7968a906d5/7a364a7d2d0f0f126e30b54bd86be552.jpg"
@@ -2969,7 +2961,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780113385"
+      "LastUpdatedUnixTime": "1780257473"
     },
     {
       "ID": "3533",
@@ -3726,7 +3718,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779930525"
+      "LastUpdatedUnixTime": "1780270988"
     },
     {
       "ID": "3579",
@@ -6544,50 +6536,6 @@
       "LastUpdatedUnixTime": "1780246241"
     },
     {
-      "ID": "3534",
-      "Internal-ID": "213587858",
-      "Name": "Arthur",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "36.6",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1683003600,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c4273117f82282c097c33d98ea5cc279/b2a12b933ac0ebc439a2fcfef5de7618.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9af14a3d6c37bf29807d52b18bf00554/1b4b34504470bba054595b2894099eb5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/02a3091ca70a5f8cc67b081af68cfa29/fd15baf65a7d8ac0e737196e977570a1.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Arthur 🐶\n\nThis handsome beagle is looking for a warm, consistent home where he can keep growing in confidence and enjoy life alongside other canine  companions. He’s available for adoption after 5/26/2026.\n\nArthur is a big-hearted boy — big in personality, and honestly just big in general (he’s on the larger side for a beagle at nearly 40 pounds, which just means there’s more of him to love). He slid into his foster family’s dog pack without missing a beat, getting along beautifully with dogs of all ages and energy levels and reading social cues like a pro. A home with another dog would be ideal, giving him a built-in mentor to help him continue to blossom — we call him “brave Arthur,” and every day he earns that name a little more.\n\nArthur is a medium-energy guy who loves a good walk or a spirited game of fetch, but he’s equally happy to declare victory and spend the rest of the afternoon cuddled up on the couch with his humans or doggy housemates. He’s a stuffed-toy and tennis-ball enthusiast — and in a funny twist for a beagle, he’s somehow not very treat-motivated. He just loves to play and loves to be close to his people.\n\nHe’s a perceptive, observant soul who notices everything around him. New or unexpected things can still give him pause, but he works through it and comes out the other side more confident each time. Car rides aren’t his favorite yet — he tends to tuck himself quietly at the foot of the back seat — but even that is just Arthur doing his best, and his best keeps getting better.\n\nArthur is still working on leash manners and reliable potty training, but he’s smart and making steady progress. He’ll thrive with an adopter who can offer patience, routine, and consistency to keep that positive momentum going.\nWhat Arthur brings in return is so worth it: loyalty, playfulness, snuggles, and the joy of watching a dog step fully into himself.\nIf you have a steady home, another dog to show him the ropes, and a couch with room for this snugglemuffin, brave Arthur might just be waiting for you. 🐾",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780247425"
-    },
-    {
       "ID": "3544",
       "Internal-ID": "213603731",
       "Name": "Barkeley",
@@ -7002,7 +6950,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780246376"
+      "LastUpdatedUnixTime": "1780270468"
     },
     {
       "ID": "3587",
