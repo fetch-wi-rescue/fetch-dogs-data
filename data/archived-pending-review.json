@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T19:30:06Z",
+  "updated": "2026-06-02T00:00:08Z",
   "animals": [
     {
       "ID": "3458",
@@ -377,6 +377,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-01T19:30:06Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3586",
+      "Name": "Otto",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31b66c031e91e9440ec2a81b8497754d/86ae6ff01068f26358768e254855a5ae.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-02T00:00:08Z",
       "status": "pending"
     }
   ]
