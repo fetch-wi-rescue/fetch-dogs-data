@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T13:00:50Z",
+  "updated": "2026-06-02T22:25:42Z",
   "animals": [
     {
       "ID": "3458",
@@ -404,6 +404,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-02T13:00:50Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3036",
+      "Name": "Duke",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/75edd2af4cd295274013fbf518964168/00b1a5e50ba1f2acf2fe7b64c00008a2.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-06-02T22:25:42Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3494",
+      "Name": "Maverick",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d32b487a2da6dc9108fa8f9a64eaa196/2b71888cefbf89743f463c88fc0498ed.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-02T22:25:42Z",
       "status": "pending"
     }
   ]
