@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T00:00:08Z",
+  "updated": "2026-06-02T13:00:50Z",
   "animals": [
     {
       "ID": "3458",
@@ -386,6 +386,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-02T00:00:08Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3482",
+      "Name": "Lavender",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5e3945296c100b92a38b514c6c96d6e2/8dd84dd6bcd0ba3f85da6d1d37c7ea48.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-02T13:00:50Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3585",
+      "Name": "Koda",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0aa1fd05bd87e37376a0d0bc91b4b66a/a58bdb9e25fa09997d431353ad6d46a0.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-02T13:00:50Z",
       "status": "pending"
     }
   ]
