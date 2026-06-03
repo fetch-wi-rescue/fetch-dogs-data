@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T22:25:42Z",
-  "count": 84,
+  "updated": "2026-06-03T16:03:33Z",
+  "count": 85,
   "animals": [
     {
       "ID": "2754",
@@ -345,7 +345,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780358888"
+      "LastUpdatedUnixTime": "1780488701"
     },
     {
       "ID": "2350",
@@ -947,107 +947,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1780180606"
-    },
-    {
-      "ID": "3453",
-      "Internal-ID": "213344907",
-      "Name": "Sunday",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.4",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773378000,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bbc59506dd85f1402c0f73c4b401a328/54f5021d6ffee5e08f4a9fe03f6c6f69.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bbc59506dd85f1402c0f73c4b401a328/54f5021d6ffee5e08f4a9fe03f6c6f69.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/69e0bcea36de56d4f48f32de66e3e0f2/534b7eee10afb675945d62afc53484be.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bcd985e001ccd2fef4cfa3b0b63e3d3c/d8dceb560d9384fdb6851a132b955464.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2d698822470b40d7011720e140bb9ab2/12782631f6f9743cc0a610a6d86cbd4d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b012ad73f5ac77c26a214b3324380a35/f15d29ac5f8a005b87e54759b49b3f11.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc0c100d90135b92c3125f89be5f5601/6a95ac74b750fa1a8c6770e69994bce1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c9e64453ef4835c90041a3226eb9a40/73f00c675ab463abfc24df01b86a1bbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d1580d1fbbfc3e92dcf467a3f685934/99e7e4a06a0bdd848501e1d7ccf8efdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d25f0185caa4308058146d86a2ccceeb/d68a71c6efd919241120cfb223e736ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d0ada41d08bd1d477fa78ffd928ffde0/d7faf62c7ab7f8f5dd1e7a8bbc1ab575.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53823129fed9e4ac98c580ac4fb45302/aba91e2e94e0be9d2d0b2699cf49c3a1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/13abd164f4d3bdb9c76fd88ae176d3e3/bd9c9c8d4a40f944b8668cd45bd511b0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8db5ce2aa6c206a8629904ccdab73f48/4514977dcc736ffe5e715c17a1122b7d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/138d86f511279410f1fa0af5e19b8f71/43da9f97fb68b7ec4da06b68763eeef8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d61690df0546ee1d38688e320e029338/11fba653342ad639703edaaa9f2a683b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c08fa095a86f84b3dd8104eb4bbbc109/3b54dbc8bd42e95abdad0ebff6381b69.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33f6a9cc94d2444d34a43d896b50597f/76a5eb0c5296fce54ec8b7fcfc383ab4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/375b3001b59e42a454721e87f8d1c611/1a60244708ccf4dff7c56d82079d6bdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cac144713a7058fa94f4ff8eba488733/77d5666efee7d367de839972513d75f1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d919f559501649baf94bafeed325ed7/52645bf7c19dda936e30787c5fc5e7f8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/80e5a12cf4521637b320ad585db5eaff/e72415cb8e5066ef171e7f9d44c98a73.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06b845bf5dfca06fe3d26e7331a266f6/83507df04a3e708f7ac674001450d631.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7b9fff944b4d2e0bac242ee55a3c2807/3d9a9f75d1a28435446155295ce9ef4d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1650d5c71188f87497ca7d1f042431c0/4a31049a0cf62015d298a317f1731e0a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8b5247e10d7d9b66bccf973b83528eb/b2ba51d4f9ed085cf6daed82465fd418.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one. She's well on her way to mastering house training, stays close on walks, and enthusiastically enjoys trading treats for tricks, yet eats like a lady.  Sunday sleeps quietly in her crate at night for 7-8 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately. Sunday is easy to read, telling you when she needs to go out, when she's thirsty, when she's ready to sleep, or fired up to play.\n\nThis smarty pants has learned tricks quickly. She's already a pro at crossing the street with Place (\"here\" with a pointed finger), Sit (\"sit\" with hand gesture), Stay (\"stay\" with a stop sign hand), Come (\"let's go!\" with a fast walk across the street next to me). I'm so proud of her very mature tendencies at only 11 weeks! No accidents so far and gives very clear cues when she needs something.\n\nNo idea what breed this little tyke is, but I sure don't see her getting real big. Although I will say she sports a big girl “woof” and not a little dog “arf arf”. Don't let her current size fool you. Her legs are stretching out and she will go with you anywhere any time on any terrain for as long as you want.\n\nI imagine Sunday would be equally thrilled being in a home with only humans or with canine or feline companions.\n\nShe still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time. She is most content just hanging out in the yard or surrounded by kitchen activity. She will also make herself available to nap any time, just say the word.\n\nShe's currently eating two meals a day with chewy and crunchy treats in between.\n\nIf you're looking for a gorgeous, loyal and smart sidekick to grow with, Sunday is your match.",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779902276"
+      "LastUpdatedUnixTime": "1780497821"
     },
     {
       "ID": "3459",
@@ -1767,103 +1667,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779989415"
-    },
-    {
-      "ID": "3495",
-      "Internal-ID": "213450891",
-      "Name": "Ranger",
-      "LitterGroupId": 9489851,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "27",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1766124000,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
-        "https://new-s3.shelterluv.com/profile-pictures/df848b367f250b87dab0cba2eb5704dd/24e56235c755bcff8b0c4e6bf0bc2209.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa3862d5b4f695b259b41c77923022cb/145927fa61aa1ff01014dc1f3e70f010.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2baf8ca8621db08e211ba6389d3b64c/3f94f8409bb585185ffe46e9ce634ccd.png",
-        "https://new-s3.shelterluv.com/profile-pictures/5db83bd2713eff9d9fabea5d4d7bf35e/956b374ed7289cad35d315b0ffcc0329.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/af51e4195964dccfabf95e4c0605e787/dc063d2a71e3f2b0ca3a11de58297a79.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aaac858977696f8fb3552fcd207902b6/b739f5a62968742bf3b63e37edf15f02.png",
-        "https://new-s3.shelterluv.com/profile-pictures/b3fe4941698f9d936d985d80c1f6c368/55ac820a0f4158a16a1e3fca634cc8ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f0eedc5b6b111048d0d4ce794261d3/fb785b2302cbe49a2afb09da2a092a0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95aa66887ba20ccd159e84239644303b/df14d7496d5323654ae382686c0ed0db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8ec47fc754fdbc12edee6b5df5e73361/2500649e222d9a78e10c00adc2442247.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
-      "Color": "Grey/Cream",
-      "Pattern": "Badger",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Ranger is the goofiest guy you might ever meet! He is a rambunctious, curious, truly hilarious, and zany guy. On one hand, he is a TOTAL husky, and on the other... he's completely different!\nIn husky form: he really does not like to be confined. This guy wants free range of the house, believes he knows what's best at all times, is vocal (you'll never to struggle to understand what he's wanting), and is down for every adventure. He is active and also wildly intelligent.\nIn non-husky form: He has INCREDIBLE recall off-leash, wants to follow you everywhere, oversee every task (or actually just do it for you?), and most certainly wants to ensure no one ever intrudes!\nRanger has been getting kennel trained, but realistically he hates it (see: total husky). He does not want to be a kennel guy, and is working on building up house manners (and the humans' trust) to be left unkenneled during the day and while sleeping at night. He is mostly house trained and has gotten great at signaling when he needs to go out. He loves to learn new tricks/commands, and he does so quickly! He lives in a house with other dogs and cats, and would really love to live in a house with other dogs when he's adopted, but could be an only dog with the right family. He occasionally BORKS at the cats, but has not shown any interest or drive to try to hurt them, though the same is not true for the mice in the garage or the moles in the yard (though he was very proud to present them to us). He lives in a house with a fenced in yard and while that would also be his preference in a forever home, could also do okay otherwise with the right people. \nRanger has met several kids at a wide variety of ages and has done well with them. Occasionally in new settings he can be shy or suspicious of new people, and he watches his humans or foster dog siblings for cues on how to behave. \nRanger's ideal home would be one where he could be active, could have a confident leader (human and/or dog!), and could have his intelligent little brain engaged. He is a loyal, tenacious little guy who can't wait to find his hoomans!",
-      "LastIntakeUnixTime": "1776389611",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779760153"
     },
     {
       "ID": "3498",
@@ -2676,110 +2479,6 @@
       "LastUpdatedUnixTime": "1780366549"
     },
     {
-      "ID": "3527",
-      "Internal-ID": "213534590",
-      "Name": "Edmond",
-      "LitterGroupId": 9497863,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "37.1",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2fdbf1ea2fb1046c35e8d7d755e8ce54/472b3f1b41e1cdaed277b4d1631a4f92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/71270f9cf895b6049fb347ea912756a6/1bc154bb460a3ee2ada0fbe1f4572af8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/521de84de1a1e35caeba017d76864d0c/99cd17fab265ea8433e607c342eaed09.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94ba8996069e0fff7e46cff57d69c671/54deaf1de87e5813b6fc577499bbad74.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a7f51bbb9c7db3aba39f10a6f1925c6/6a94351c2343708a02ee97683bb92518.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/261d1ce7c4543586b287ddedbc9d7422/30fd27420016f1bb3331478497a0c1f8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e920ec6db18f5fd9cf4c9f29f3b94089/c6ad48dfd051dd4390a211e60a905298.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7fe7c80d3a0a01a451fc01b329a523e9/3c73a2de535bd639ce4cc874b13b484f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/34c0a67d1e1c77bd4b52cdec1cc835d9/c0da727ab2788ea3b99ef0f42bd2604e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a4d2bdce130f64759cca1e143ec0ce9/5ebf956798b9e56cdc28e4f6a1b213dc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e30618cc1ad11d43a9b715c082ad998c/c0ed8fb54cc50a1b33d7234dd05efd45.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e40026ca33b8758a10516bdf6c74611/bafae3732b2e520354662e0fa4544d31.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c94e3fcae2abd3b7a8deec2a6d5bd134/2ac2fe8f424f05dec51f8215c2f9702e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Hound/Mixed Breed (Large)",
-      "Color": "Black/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Edmond, a tender‑hearted hound mix who’s discovering the world at his own quiet pace. He’s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you’re someone he can trust. Once he does, you’ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond’s ideal home is one that understands the beauty of patience. Loud chaos isn’t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he’s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you’re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
-      "LastIntakeUnixTime": "1777143060",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780348309"
-    },
-    {
       "ID": "3528",
       "Internal-ID": "213534591",
       "Name": "Natalia",
@@ -2912,7 +2611,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780281413"
+      "LastUpdatedUnixTime": "1780464026"
     },
     {
       "ID": "3541",
@@ -3077,7 +2776,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1780493830"
     },
     {
       "ID": "3543",
@@ -3267,7 +2966,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780251211"
+      "LastUpdatedUnixTime": "1780451309"
     },
     {
       "ID": "3553",
@@ -3463,7 +3162,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780413889"
+      "LastUpdatedUnixTime": "1780502557"
     },
     {
       "ID": "3579",
@@ -4829,11 +4528,12 @@
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714712400,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png"
       ],
       "Videos": [],
       "Breed": "Chihuahua",
@@ -4849,7 +4549,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1780500028"
     },
     {
       "ID": "3557",
@@ -5006,8 +4706,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
         "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg"
       ],
       "Videos": [],
@@ -5024,7 +4725,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226132"
+      "LastUpdatedUnixTime": "1780499970"
     },
     {
       "ID": "3562",
@@ -5041,8 +4742,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
         "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
       ],
       "Videos": [],
@@ -5059,7 +4761,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226132"
+      "LastUpdatedUnixTime": "1780499866"
     },
     {
       "ID": "3578",
@@ -5355,7 +5057,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780403570"
+      "LastUpdatedUnixTime": "1780485680"
     },
     {
       "ID": "3591",
@@ -5684,6 +5386,106 @@
       "LastUpdatedUnixTime": "1779738234"
     },
     {
+      "ID": "3453",
+      "Internal-ID": "213344907",
+      "Name": "Sunday",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.4",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1773378000,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bbc59506dd85f1402c0f73c4b401a328/54f5021d6ffee5e08f4a9fe03f6c6f69.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bbc59506dd85f1402c0f73c4b401a328/54f5021d6ffee5e08f4a9fe03f6c6f69.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/69e0bcea36de56d4f48f32de66e3e0f2/534b7eee10afb675945d62afc53484be.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcd985e001ccd2fef4cfa3b0b63e3d3c/d8dceb560d9384fdb6851a132b955464.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2d698822470b40d7011720e140bb9ab2/12782631f6f9743cc0a610a6d86cbd4d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b012ad73f5ac77c26a214b3324380a35/f15d29ac5f8a005b87e54759b49b3f11.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc0c100d90135b92c3125f89be5f5601/6a95ac74b750fa1a8c6770e69994bce1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c9e64453ef4835c90041a3226eb9a40/73f00c675ab463abfc24df01b86a1bbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d1580d1fbbfc3e92dcf467a3f685934/99e7e4a06a0bdd848501e1d7ccf8efdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d25f0185caa4308058146d86a2ccceeb/d68a71c6efd919241120cfb223e736ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0ada41d08bd1d477fa78ffd928ffde0/d7faf62c7ab7f8f5dd1e7a8bbc1ab575.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53823129fed9e4ac98c580ac4fb45302/aba91e2e94e0be9d2d0b2699cf49c3a1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/474a54b8cfdc8d4a77f1dee34798e01c/1a82de12504239335dc13a65edb70276.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/13abd164f4d3bdb9c76fd88ae176d3e3/bd9c9c8d4a40f944b8668cd45bd511b0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8db5ce2aa6c206a8629904ccdab73f48/4514977dcc736ffe5e715c17a1122b7d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/138d86f511279410f1fa0af5e19b8f71/43da9f97fb68b7ec4da06b68763eeef8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d61690df0546ee1d38688e320e029338/11fba653342ad639703edaaa9f2a683b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c08fa095a86f84b3dd8104eb4bbbc109/3b54dbc8bd42e95abdad0ebff6381b69.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33f6a9cc94d2444d34a43d896b50597f/76a5eb0c5296fce54ec8b7fcfc383ab4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/375b3001b59e42a454721e87f8d1c611/1a60244708ccf4dff7c56d82079d6bdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cac144713a7058fa94f4ff8eba488733/77d5666efee7d367de839972513d75f1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d919f559501649baf94bafeed325ed7/52645bf7c19dda936e30787c5fc5e7f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/80e5a12cf4521637b320ad585db5eaff/e72415cb8e5066ef171e7f9d44c98a73.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06b845bf5dfca06fe3d26e7331a266f6/83507df04a3e708f7ac674001450d631.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7b9fff944b4d2e0bac242ee55a3c2807/3d9a9f75d1a28435446155295ce9ef4d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1650d5c71188f87497ca7d1f042431c0/4a31049a0cf62015d298a317f1731e0a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8b5247e10d7d9b66bccf973b83528eb/b2ba51d4f9ed085cf6daed82465fd418.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Sunday is a typically cute and snuggly puppy but an atypically easy one. She's well on her way to mastering house training, stays close on walks, and enthusiastically enjoys trading treats for tricks, yet eats like a lady.  Sunday sleeps quietly in her crate at night for 7-8 hours, loves her chew toys, and has never met a human or dog that she doesn't love immediately. Sunday is easy to read, telling you when she needs to go out, when she's thirsty, when she's ready to sleep, or fired up to play.\n\nThis smarty pants has learned tricks quickly. She's already a pro at crossing the street with Place (\"here\" with a pointed finger), Sit (\"sit\" with hand gesture), Stay (\"stay\" with a stop sign hand), Come (\"let's go!\" with a fast walk across the street next to me). I'm so proud of her very mature tendencies at only 11 weeks! No accidents so far and gives very clear cues when she needs something.\n\nNo idea what breed this little tyke is, but I sure don't see her getting real big. Although I will say she sports a big girl “woof” and not a little dog “arf arf”. Don't let her current size fool you. Her legs are stretching out and she will go with you anywhere any time on any terrain for as long as you want.\n\nI imagine Sunday would be equally thrilled being in a home with only humans or with canine or feline companions.\n\nShe still naps around 5-6 times a day intermixed with indoor and lots of outdoor play time. She is most content just hanging out in the yard or surrounded by kitchen activity. She will also make herself available to nap any time, just say the word.\n\nShe's currently eating two meals a day with chewy and crunchy treats in between.\n\nIf you're looking for a gorgeous, loyal and smart sidekick to grow with, Sunday is your match.",
+      "LastIntakeUnixTime": "1773435600",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780457761"
+    },
+    {
       "ID": "3464",
       "Internal-ID": "213355169",
       "Name": "Hannah",
@@ -5998,59 +5800,49 @@
       "LastUpdatedUnixTime": "1780338761"
     },
     {
-      "ID": "3504",
-      "Internal-ID": "213468574",
-      "Name": "Bongo ",
-      "LitterGroupId": null,
+      "ID": "3495",
+      "Internal-ID": "213450891",
+      "Name": "Ranger",
+      "LitterGroupId": 9489851,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "104",
-      "Size": "",
+      "CurrentWeightPounds": "27",
+      "Size": "Large (60-99)",
       "Altered": "Yes",
-      "DOBUnixTime": 1522990800,
-      "Age": 97,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1a2b5695b400d8cb7d48488cff13070e/cb392e07a84f4d2185a4cf5b23ec158f.JPG",
+      "DOBUnixTime": 1766124000,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1a2b5695b400d8cb7d48488cff13070e/cb392e07a84f4d2185a4cf5b23ec158f.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/60caa5603f37e42cf957d235f51cbe01/3cc4c1f5420951c7440cd61407f7200c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/14a9f40199a146a554dace27486fa33b/3015858b3c6503ba38ce14730678ec46.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/607aee8082777afc955cd22e5825263e/17154029fb5af590abde5d4a53a8f4b0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/69460b8d1440c90ea6a5190eb07fb19c/363a97b9ac39d4089f8ae039b5428994.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fe3b582f9e04e0ea7a53cea8e7218911/ff80f078bb70ac2559ae4842f01a9923.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/94a0f9f65fe84c8fdf7a8e9e1ebfbe5c/ca539ceb37c798f23f0fe95deab0069d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c7c47e0e78f17eab11101326801a5ef/2faaa04185c1f3d1f68cb4d72c20260a.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/52aa85142f53311370c940b40559224f/23eae9ec6df008f42b64798e0a0b3619.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3759b8490c16878894480c8733079ec3/161c2c75e48c417b725bb210f546bdca.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c6a81416484279425495eb37a4dc05f4/539c1c9a3abb1480fce6b27903908808.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f8b34c241c2c2711a9511adac570fd34/64c274f24e4085c39817e792db7d66bd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/15f7976b5245964648572219af995b2f/1b4f198ad70a86d3bc0b93b933bc2c8b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/edd45c0ea2b1ab111baee1cc78417091/0f3f2b525fe2d0d6616ff44559377e1b.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/bd9c9d1361786f21ae29aad56af487ce/447cd35511428758ac47fbaff69a5f7d.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/3e39423670f7166a76d2cd4023084671/dc79848d3171746307623a281d82a28f.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/e2faeb14a3b95725b4ecc135541f6f4d/cc74d5612e76244dee72a5afc3555f6d.JPG"
+        "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
+        "https://new-s3.shelterluv.com/profile-pictures/df848b367f250b87dab0cba2eb5704dd/24e56235c755bcff8b0c4e6bf0bc2209.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa3862d5b4f695b259b41c77923022cb/145927fa61aa1ff01014dc1f3e70f010.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b2baf8ca8621db08e211ba6389d3b64c/3f94f8409bb585185ffe46e9ce634ccd.png",
+        "https://new-s3.shelterluv.com/profile-pictures/5db83bd2713eff9d9fabea5d4d7bf35e/956b374ed7289cad35d315b0ffcc0329.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/af51e4195964dccfabf95e4c0605e787/dc063d2a71e3f2b0ca3a11de58297a79.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aaac858977696f8fb3552fcd207902b6/b739f5a62968742bf3b63e37edf15f02.png",
+        "https://new-s3.shelterluv.com/profile-pictures/b3fe4941698f9d936d985d80c1f6c368/55ac820a0f4158a16a1e3fca634cc8ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c2f0eedc5b6b111048d0d4ce794261d3/fb785b2302cbe49a2afb09da2a092a0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/95aa66887ba20ccd159e84239644303b/df14d7496d5323654ae382686c0ed0db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8ec47fc754fdbc12edee6b5df5e73361/2500649e222d9a78e10c00adc2442247.jpeg"
       ],
       "Videos": [],
-      "Breed": "Great Dane/Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "None",
+      "Breed": "Husky/Mixed Breed (Large)",
+      "Color": "Grey/Cream",
+      "Pattern": "Badger",
       "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Meet Bongo\nBongo is a Great Dane, and at first you notice his size. But very quickly, what stands out is the feeling he brings into a space. He has a calm, grounded presence that softens a room and makes it feel lived in and warm. He does not overwhelm a home. He settles into it, and somehow makes it feel more whole.\nHe is deeply connected to his person and happiest when he is nearby, part of whatever you are doing. There is an ease to him that makes daily life feel more settled.\n\nWhat makes Bongo special is the balance he brings. Outside, he is joyful and full of life. Walks are his favorite thing. He gets genuinely excited, loves being outside, and takes in the world with curiosity and energy. Inside, he shifts completely. He is calm, quiet, and content to just be near you. He is not a high-energy, toy-driven dog. His energy shows up as happiness on a walk and steady presence at home.\n\nHe is wonderful with people of all ages and always gentle. He enjoys attention but is not pushy, and there is no aggression in him at all. In public, he is relaxed and easy to be around. People naturally gravitate toward him, and when they do, he melts, rolling onto his back and offering his belly. He brings smiles everywhere he goes.\n\nAt home, he is incredibly easy. He is respectful, does not get into things, and has shown no interest in getting on furniture. He just wants to be near you.\n\nBongo is 8 years old, healthy, and happy. With a simple routine of joint supplements, a senior diet, and fish oil, he is thriving. He loves long walks and being outside just as much as he loves being home with his person.\n\nHe does have separation anxiety, so he needs a home where someone is around most of the time. He is not destructive, just deeply devoted and most comfortable when he knows where his person is.\n\nBongo is the right dog for a home that:\n- Has someone around most of the day\n- Wants a close, affectionate companion\n- Values calm, steady energy with joyful moments outside\n\nBongo is not just a dog you come home to. He is a dog you live life alongside.",
-      "LastIntakeUnixTime": "1776130680",
+      "Description": "Ranger is the goofiest guy you might ever meet! He is a rambunctious, curious, truly hilarious, and zany guy. On one hand, he is a TOTAL husky, and on the other... he's completely different!\nIn husky form: he really does not like to be confined. This guy wants free range of the house, believes he knows what's best at all times, is vocal (you'll never to struggle to understand what he's wanting), and is down for every adventure. He is active and also wildly intelligent.\nIn non-husky form: He has INCREDIBLE recall off-leash, wants to follow you everywhere, oversee every task (or actually just do it for you?), and most certainly wants to ensure no one ever intrudes!\nRanger has been getting kennel trained, but realistically he hates it (see: total husky). He does not want to be a kennel guy, and is working on building up house manners (and the humans' trust) to be left unkenneled during the day and while sleeping at night. He is mostly house trained and has gotten great at signaling when he needs to go out. He loves to learn new tricks/commands, and he does so quickly! He lives in a house with other dogs and cats, and would really love to live in a house with other dogs when he's adopted, but could be an only dog with the right family. He occasionally BORKS at the cats, but has not shown any interest or drive to try to hurt them, though the same is not true for the mice in the garage or the moles in the yard (though he was very proud to present them to us). He lives in a house with a fenced in yard and while that would also be his preference in a forever home, could also do okay otherwise with the right people. \nRanger has met several kids at a wide variety of ages and has done well with them. Occasionally in new settings he can be shy or suspicious of new people, and he watches his humans or foster dog siblings for cues on how to behave. \nRanger's ideal home would be one where he could be active, could have a confident leader (human and/or dog!), and could have his intelligent little brain engaged. He is a loyal, tenacious little guy who can't wait to find his hoomans!",
+      "LastIntakeUnixTime": "1776389611",
       "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -6067,16 +5859,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
@@ -6087,8 +5869,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
           "Publish": "Yes"
         },
         {
@@ -6102,18 +5884,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
           "Publish": "Yes"
         },
         {
@@ -6122,7 +5894,111 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780246241"
+      "LastUpdatedUnixTime": "1780439873"
+    },
+    {
+      "ID": "3527",
+      "Internal-ID": "213534590",
+      "Name": "Edmond",
+      "LitterGroupId": 9497863,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "37.1",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fdbf1ea2fb1046c35e8d7d755e8ce54/472b3f1b41e1cdaed277b4d1631a4f92.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/71270f9cf895b6049fb347ea912756a6/1bc154bb460a3ee2ada0fbe1f4572af8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/521de84de1a1e35caeba017d76864d0c/99cd17fab265ea8433e607c342eaed09.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94ba8996069e0fff7e46cff57d69c671/54deaf1de87e5813b6fc577499bbad74.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a7f51bbb9c7db3aba39f10a6f1925c6/6a94351c2343708a02ee97683bb92518.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/261d1ce7c4543586b287ddedbc9d7422/30fd27420016f1bb3331478497a0c1f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e920ec6db18f5fd9cf4c9f29f3b94089/c6ad48dfd051dd4390a211e60a905298.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7fe7c80d3a0a01a451fc01b329a523e9/3c73a2de535bd639ce4cc874b13b484f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/34c0a67d1e1c77bd4b52cdec1cc835d9/c0da727ab2788ea3b99ef0f42bd2604e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a4d2bdce130f64759cca1e143ec0ce9/5ebf956798b9e56cdc28e4f6a1b213dc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e30618cc1ad11d43a9b715c082ad998c/c0ed8fb54cc50a1b33d7234dd05efd45.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e40026ca33b8758a10516bdf6c74611/bafae3732b2e520354662e0fa4544d31.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c94e3fcae2abd3b7a8deec2a6d5bd134/2ac2fe8f424f05dec51f8215c2f9702e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Hound/Mixed Breed (Large)",
+      "Color": "Black/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Edmond, a tender‑hearted hound mix who’s discovering the world at his own quiet pace. He’s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you’re someone he can trust. Once he does, you’ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond’s ideal home is one that understands the beauty of patience. Loud chaos isn’t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he’s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you’re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
+      "LastIntakeUnixTime": "1777143060",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780454948"
     },
     {
       "ID": "3538",
@@ -6214,7 +6090,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780421776"
+      "LastUpdatedUnixTime": "1780450666"
     },
     {
       "ID": "3539",
@@ -6281,29 +6157,31 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780329141"
+      "LastUpdatedUnixTime": "1780450771"
     },
     {
-      "ID": "3544",
-      "Internal-ID": "213603731",
-      "Name": "Barkeley",
+      "ID": "3547",
+      "Internal-ID": "213603747",
+      "Name": "Doug",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "20.8",
+      "CurrentWeightPounds": "23",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1714798800,
       "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/333cdd9870dde748290af425195c6f0e/dd69e16d9c1c5e916d84704254b07709.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b457b7f6e8bd7db21a6472f4c3a36411/184c397175260ca6efabd02d25b48683.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa531a8bd2fbbecceb27fd484fa347ca/00f2090c047c74add8e39e3766db22e0.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7283880c21dc66f88e28e867f289442b/aae3281abff7da7db80342c48c7ed6ec.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5079d3537b57006a870adff7a96a08bf/5003e1858977e03869bff53aa839d004.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1fa7b38436aacd4af22df92e0a60f13/c197dbcf04f3548afec7741aa5dbbbce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9fd8c79726799c0087b91ded687a1ab/66d37cb78ba2ee8bc4dcb6c036636b39.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d6bb5b0d975b58df9cce172ebaa3952/82e5ef41497d174b18455c18956344c2.jpeg"
       ],
       "Videos": [],
       "Breed": "Beagle",
@@ -6316,17 +6194,22 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Meet and Greets welcome!",
+      "Description": "Doug is available to adopt after 5/27!\n\nDoug is a 23-pound beagle with a joyful spirit and a love for life that shows in everything he does. He’s a happy, playful pup who approaches each day like a new adventure, whether that means exploring his surroundings, chasing a toy, or making a new friend.\n\nDoug sleeps quietly through the night. He’s brave, curious, and a true adventurer with an upbeat personality that makes him a joy to be around.\n\nDoug currently lives with multiple dogs and absolutely loves to play, making him a great fit for a home with other canine companions. One of his most charming traits is his friendly nature—he truly believes everyone is his friend. He does well in a home with cats, he assumes they’re just fellow dogs and endearingly try to engage them in playtime.\n\nDoug would be a wonderful companion for someone looking for a friendly, chill dog who’s ready to bring plenty of happiness into a home.",
       "LastIntakeUnixTime": "1777945841",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
           "Publish": "Yes"
         },
         {
@@ -6335,28 +6218,18 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
           "Publish": "Yes"
         },
         {
@@ -6365,12 +6238,12 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780247360"
+      "LastUpdatedUnixTime": "1780498087"
     },
     {
       "ID": "3580",
@@ -6605,6 +6478,133 @@
       "LastUpdatedUnixTime": "1780420268"
     },
     {
+      "ID": "3504",
+      "Internal-ID": "213468574",
+      "Name": "Bongo ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "104",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1522990800,
+      "Age": 97,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1a2b5695b400d8cb7d48488cff13070e/cb392e07a84f4d2185a4cf5b23ec158f.JPG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1a2b5695b400d8cb7d48488cff13070e/cb392e07a84f4d2185a4cf5b23ec158f.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/60caa5603f37e42cf957d235f51cbe01/3cc4c1f5420951c7440cd61407f7200c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/14a9f40199a146a554dace27486fa33b/3015858b3c6503ba38ce14730678ec46.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/607aee8082777afc955cd22e5825263e/17154029fb5af590abde5d4a53a8f4b0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/69460b8d1440c90ea6a5190eb07fb19c/363a97b9ac39d4089f8ae039b5428994.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fe3b582f9e04e0ea7a53cea8e7218911/ff80f078bb70ac2559ae4842f01a9923.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/94a0f9f65fe84c8fdf7a8e9e1ebfbe5c/ca539ceb37c798f23f0fe95deab0069d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c7c47e0e78f17eab11101326801a5ef/2faaa04185c1f3d1f68cb4d72c20260a.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/52aa85142f53311370c940b40559224f/23eae9ec6df008f42b64798e0a0b3619.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3759b8490c16878894480c8733079ec3/161c2c75e48c417b725bb210f546bdca.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c6a81416484279425495eb37a4dc05f4/539c1c9a3abb1480fce6b27903908808.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8b34c241c2c2711a9511adac570fd34/64c274f24e4085c39817e792db7d66bd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/15f7976b5245964648572219af995b2f/1b4f198ad70a86d3bc0b93b933bc2c8b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/edd45c0ea2b1ab111baee1cc78417091/0f3f2b525fe2d0d6616ff44559377e1b.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/bd9c9d1361786f21ae29aad56af487ce/447cd35511428758ac47fbaff69a5f7d.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/3e39423670f7166a76d2cd4023084671/dc79848d3171746307623a281d82a28f.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/e2faeb14a3b95725b4ecc135541f6f4d/cc74d5612e76244dee72a5afc3555f6d.JPG"
+      ],
+      "Videos": [],
+      "Breed": "Great Dane/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Bongo\nBongo is a Great Dane, and at first you notice his size. But very quickly, what stands out is the feeling he brings into a space. He has a calm, grounded presence that softens a room and makes it feel lived in and warm. He does not overwhelm a home. He settles into it, and somehow makes it feel more whole.\nHe is deeply connected to his person and happiest when he is nearby, part of whatever you are doing. There is an ease to him that makes daily life feel more settled.\n\nWhat makes Bongo special is the balance he brings. Outside, he is joyful and full of life. Walks are his favorite thing. He gets genuinely excited, loves being outside, and takes in the world with curiosity and energy. Inside, he shifts completely. He is calm, quiet, and content to just be near you. He is not a high-energy, toy-driven dog. His energy shows up as happiness on a walk and steady presence at home.\n\nHe is wonderful with people of all ages and always gentle. He enjoys attention but is not pushy, and there is no aggression in him at all. In public, he is relaxed and easy to be around. People naturally gravitate toward him, and when they do, he melts, rolling onto his back and offering his belly. He brings smiles everywhere he goes.\n\nAt home, he is incredibly easy. He is respectful, does not get into things, and has shown no interest in getting on furniture. He just wants to be near you.\n\nBongo is 8 years old, healthy, and happy. With a simple routine of joint supplements, a senior diet, and fish oil, he is thriving. He loves long walks and being outside just as much as he loves being home with his person.\n\nHe does have separation anxiety, so he needs a home where someone is around most of the time. He is not destructive, just deeply devoted and most comfortable when he knows where his person is.\n\nBongo is the right dog for a home that:\n- Has someone around most of the day\n- Wants a close, affectionate companion\n- Values calm, steady energy with joyful moments outside\n\nBongo is not just a dog you come home to. He is a dog you live life alongside.",
+      "LastIntakeUnixTime": "1776130680",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780440338"
+    },
+    {
       "ID": "3533",
       "Internal-ID": "213587856",
       "Name": "Indie",
@@ -6681,7 +6681,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780408219"
+      "LastUpdatedUnixTime": "1780498056"
     },
     {
       "ID": "3540",
@@ -6768,6 +6768,95 @@
         }
       ],
       "LastUpdatedUnixTime": "1780427596"
+    },
+    {
+      "ID": "3544",
+      "Internal-ID": "213603731",
+      "Name": "Barkeley",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "20.8",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1714798800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/333cdd9870dde748290af425195c6f0e/dd69e16d9c1c5e916d84704254b07709.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b457b7f6e8bd7db21a6472f4c3a36411/184c397175260ca6efabd02d25b48683.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa531a8bd2fbbecceb27fd484fa347ca/00f2090c047c74add8e39e3766db22e0.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet and Greets welcome!",
+      "LastIntakeUnixTime": "1777945841",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780440276"
     },
     {
       "ID": "1395",
@@ -6984,7 +7073,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1698987600,
-      "Age": 30,
+      "Age": 31,
       "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/51937d20e88c963d64bc3ab2454d6827/bfaece89e21037ece20eb4a93a834edc.jpeg",
