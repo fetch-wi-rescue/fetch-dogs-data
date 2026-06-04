@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T16:03:33Z",
+  "updated": "2026-06-04T11:27:10Z",
   "count": 85,
   "animals": [
     {
@@ -182,7 +182,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779938238"
+      "LastUpdatedUnixTime": "1780541264"
     },
     {
       "ID": "1099",
@@ -345,7 +345,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780488701"
+      "LastUpdatedUnixTime": "1780541504"
     },
     {
       "ID": "2350",
@@ -802,7 +802,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779938633"
+      "LastUpdatedUnixTime": "1780541221"
     },
     {
       "ID": "3451",
@@ -1178,9 +1178,9 @@
       "Altered": "No",
       "DOBUnixTime": 1772265600,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ff641e79dcb71b25a067fce135511159/48659f486d809b85b5e034edac165f4f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/47a588ee8873de0b39ae7738fee98143/e622b98c1824580994c5cb98ec4a2dd6.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8e4f77a3120343e653ae066c224140a9/ecfb8b7909f457f66d128daa7f6b57d7.jpg",
@@ -1188,13 +1188,14 @@
         "https://new-s3.shelterluv.com/profile-pictures/bef9d3d5091d3704ab2f0f603b0a1c8f/aecc0c0dd661455de8cc8cd97add64eb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0a259272eb9e1484d36635f19535bb1d/8a2a87ee09fd170d789342f82b0f8c2a.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/565b68638d02f69188c1959e4bd2b19f/977ef01580121056331e6f7ef3a49747.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/35fa71e65ea67f5258f41102aa6e06ef/771d1b072969fe1eef6bbaa47eb711a6.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5616240e238c3c197373749ac1be7e9e/b3c5c7316a70d8a50a3aaaef3daa9194.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e6dad3a726f24553e4c9c718326cf001/ce2f072c9c3150c9e7b116ffc78cf1fd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6213e476b74daaafd26c9dc3e6d85d80/3dd6a7a5117ef513b2bed4751a38bc77.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/61c1f1024575e3da4fd2da740c83d3bc/26daa244a45ee688371e3370c453708a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0645974af5e8db0fb6224efdc2f274d7/9874329d4d91ba7996169c46b405e49c.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/0645974af5e8db0fb6224efdc2f274d7/9874329d4d91ba7996169c46b405e49c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b7da15d9b74d2ddf2473a2ec8c8cee2/f6528123143bf89d3e70b3cbbefa6d2a.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd, Australian/Mixed Breed (Medium)",
@@ -1271,7 +1272,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780368911"
+      "LastUpdatedUnixTime": "1780513819"
     },
     {
       "ID": "3475",
@@ -1792,7 +1793,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780110523"
+      "LastUpdatedUnixTime": "1780541481"
     },
     {
       "ID": "3500",
@@ -3407,6 +3408,67 @@
       "LastUpdatedUnixTime": "1780369580"
     },
     {
+      "ID": "3588",
+      "Internal-ID": "213719620",
+      "Name": "Pancake",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "21",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1663563600,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Cardigan Welsh",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "This pancake doesn’t need any syrup to be sweet.  She has been a joy to have in our home.  At almost 4 years old, she is a wonderful mix of playful and calm.  She loves to play fetch with a tennis ball.  She is happy to have someone throw it, but also happy to toss the ball to herself.  She loves a good walk to find new smells, critters to chase, and people to meet.\nCurrently, Pancake starts her day around 6 with a quick potty break and then in for breakfast by 7.  If you have another dog it is best to feed her separate since she likes to help herself to any food available.  It doesn’t matter if another dog’s head is in the way. She also likes to take treats so should be watched with other dogs that have a problem with that. She usually gets a walk or let outside every 3 hours for a potty break.  When I leave for short trips, I take her in the car.  If I’m gone for hours then she goes in the kennel.  She doesn’t love it but tolerates being put in there.  Last potty break is around 9-9:30. She prefers to sleep outside the kennel at night.  She has slept in our room the past few nights with the door shut.  She doesn’t make a peep.   \nShe doesn’t bark a lot but will bark some in the kennel or when playing with a doggie friend.\nShe is great with my 11 and 14 year old kids.  She jumps occasionally and so that might bother a smaller child.  She doesn’t do it often though.  \nIf you show her love and devote time to her, she will make a great companion for most any person or family. \n",
+      "LastIntakeUnixTime": "1779121345",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780570962"
+    },
+    {
       "ID": "3593",
       "Internal-ID": "213786017",
       "Name": "Daisy",
@@ -3419,8 +3481,8 @@
       "CurrentWeightPounds": "10.8",
       "Size": "",
       "Altered": "No",
-      "DOBUnixTime": 1777093200,
-      "Age": 1,
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
@@ -3512,7 +3574,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780370661"
+      "LastUpdatedUnixTime": "1780506254"
     },
     {
       "ID": "3594",
@@ -3624,7 +3686,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780283176"
+      "LastUpdatedUnixTime": "1780506104"
     },
     {
       "ID": "3595",
@@ -3729,7 +3791,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780278978"
+      "LastUpdatedUnixTime": "1780506078"
     },
     {
       "ID": "3596",
@@ -3834,7 +3896,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780373071"
+      "LastUpdatedUnixTime": "1780506163"
     },
     {
       "ID": "3597",
@@ -3942,7 +4004,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780199741"
+      "LastUpdatedUnixTime": "1780506023"
     },
     {
       "ID": "3598",
@@ -3959,9 +4021,9 @@
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/09aa82a771c152c4adea1bcc45f4b236/becee0be1db9eadee555b74edbc17083.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5e2272ffb981ccb8cccc4329f637face/fd4b6bfe2fc1b3075ec246b0cd7cea92.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/09aa82a771c152c4adea1bcc45f4b236/becee0be1db9eadee555b74edbc17083.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e2272ffb981ccb8cccc4329f637face/fd4b6bfe2fc1b3075ec246b0cd7cea92.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
@@ -3969,9 +4031,15 @@
         "https://new-s3.shelterluv.com/profile-pictures/6ef229ad9119e5ea462574e8493a23ea/99ca47abcd6e5d8b2be884e4dc1edf0e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/3bcdd70b1b05d13b0d732cb9da016299/f465de47a2f1a9a923127bb7329b46f0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2f1d41a2d9bb23d0d55a6814cc236915/db1a9f1d4c292897e6a53a2ca24a2d9d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/09aa82a771c152c4adea1bcc45f4b236/becee0be1db9eadee555b74edbc17083.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/066fb12cb0ec6e4f46fdf3e0c793dbe2/7bc6a3cbe02d5c680e505a8f37d9f7a1.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/489c70e151fae34aced949eb31f62764/2a1499e01d696017decc726bb8a310ff.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/698c38564ad5a137aa68cacb86e72104/be626fd07ad0768a5c7d8bcddd6544d9.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/698c38564ad5a137aa68cacb86e72104/be626fd07ad0768a5c7d8bcddd6544d9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4c49d80c146570dde2ed54d262179c69/af365c455cf0a170ab0d9a47c987ed0f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3431df74fac40acbffa443299056820/570043557eb11d234d9a23e11208cc88.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c57b5b94fc49ecfd51f59361d0eb60d1/b5705aa6090d7428da51f4b6b720f493.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -4048,7 +4116,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780373470"
+      "LastUpdatedUnixTime": "1780535861"
     },
     {
       "ID": "3599",
@@ -4155,7 +4223,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780199148"
+      "LastUpdatedUnixTime": "1780505988"
     },
     {
       "ID": "3600",
@@ -4265,7 +4333,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780202130"
+      "LastUpdatedUnixTime": "1780506053"
     },
     {
       "ID": "3601",
@@ -4566,8 +4634,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f8aae8c8ef95900ec23c2675400dd18d/681042a91e230ca21fb81ccd34718e6c.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cbf37e9671d4375182de8e06335bc041/6195d9c5cda64c8ed5629dbb2bb14bc0.png",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cbf37e9671d4375182de8e06335bc041/6195d9c5cda64c8ed5629dbb2bb14bc0.png",
         "https://new-s3.shelterluv.com/profile-pictures/f8aae8c8ef95900ec23c2675400dd18d/681042a91e230ca21fb81ccd34718e6c.jpeg"
       ],
       "Videos": [],
@@ -4584,7 +4653,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1780512076"
     },
     {
       "ID": "3558",
@@ -4601,8 +4670,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
         "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
       ],
       "Videos": [],
@@ -4619,7 +4689,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1780512048"
     },
     {
       "ID": "3559",
@@ -4636,8 +4706,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30817e6b4088f590e6be4f84aad927f7/35c70b4cfb076aeec3cc208268fcd14e.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
         "https://new-s3.shelterluv.com/profile-pictures/30817e6b4088f590e6be4f84aad927f7/35c70b4cfb076aeec3cc208268fcd14e.jpeg"
       ],
       "Videos": [],
@@ -4654,7 +4725,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1780512000"
     },
     {
       "ID": "3560",
@@ -4671,8 +4742,9 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
         "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg"
       ],
       "Videos": [],
@@ -4689,7 +4761,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779930211"
+      "LastUpdatedUnixTime": "1780512155"
     },
     {
       "ID": "3561",
@@ -4817,67 +4889,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779929689"
-    },
-    {
-      "ID": "3588",
-      "Internal-ID": "213719620",
-      "Name": "Pancake",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "21.1",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1663563600,
-      "Age": 44,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Corgi, Cardigan Welsh",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "This pancake doesn’t need any syrup to be sweet.  She has been a joy to have in our home.  At almost 4 years old, she is a wonderful mix of playful and calm.  She loves to play fetch with a tennis ball.  She is happy to have someone throw it, but also happy to toss the ball to herself.  She loves a good walk to find new smells, critters to chase, and people to meet.\nCurrently, Pancake starts her day around 6 with a quick potty break and then in for breakfast by 7.  If you have another dog it is best to feed her separate since she likes to help herself to any food available.  It doesn’t matter if another dog’s head is in the way. She also likes to take treats so should be watched with other dogs that have a problem with that. She usually gets a walk or let outside every 3 hours for a potty break.  When I leave for short trips, I take her in the car.  If I’m gone for hours then she goes in the kennel.  She doesn’t love it but tolerates being put in there.  Last potty break is around 9-9:30. She prefers to sleep outside the kennel at night.  She has slept in our room the past few nights with the door shut.  She doesn’t make a peep.   \nShe doesn’t bark a lot but will bark some in the kennel or when playing with a doggie friend.\nShe is great with my 11 and 14 year old kids.  She jumps occasionally and so that might bother a smaller child.  She doesn’t do it often though.  \nIf you show her love and devote time to her, she will make a great companion for most any person or family. \n",
-      "LastIntakeUnixTime": "1779121345",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780403315"
     },
     {
       "ID": "3589",
@@ -5057,7 +5068,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780485680"
+      "LastUpdatedUnixTime": "1780571713"
     },
     {
       "ID": "3591",
@@ -5135,15 +5146,15 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1676959200,
       "Age": 39,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b2b51177ecd521ab5f9ed72031a5cf39/4f8924a9d10a985633d2ce0636f1db41.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b2b51177ecd521ab5f9ed72031a5cf39/4f8924a9d10a985633d2ce0636f1db41.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png",
         "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b2b51177ecd521ab5f9ed72031a5cf39/4f8924a9d10a985633d2ce0636f1db41.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d9fbced8975b8fd47be751a99d5126cb/2b5cbcf333ed4d15f20f2bbe715cc4bb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2f190ba6dcca2d62b66e3d836b88f949/52418fce9132607f7d20b426fac2d80e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3437668bce379d864610e14f8082f36/6829d56c88736fbf251ea20377de8a88.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png"
+        "https://new-s3.shelterluv.com/profile-pictures/e3437668bce379d864610e14f8082f36/6829d56c88736fbf251ea20377de8a88.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Staffordshire Bull/Mix",
@@ -5159,7 +5170,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780116578"
+      "LastUpdatedUnixTime": "1780516500"
     },
     {
       "ID": "492",
@@ -5240,7 +5251,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
@@ -5287,7 +5298,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
@@ -5339,7 +5350,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
@@ -6001,6 +6012,90 @@
       "LastUpdatedUnixTime": "1780454948"
     },
     {
+      "ID": "3534",
+      "Internal-ID": "213587858",
+      "Name": "Arthur",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "36.6",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1683003600,
+      "Age": 37,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c4273117f82282c097c33d98ea5cc279/b2a12b933ac0ebc439a2fcfef5de7618.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9af14a3d6c37bf29807d52b18bf00554/1b4b34504470bba054595b2894099eb5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/02a3091ca70a5f8cc67b081af68cfa29/fd15baf65a7d8ac0e737196e977570a1.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 36570,
+        "Name": "Fee Waived Adoption",
+        "Price": 350,
+        "Discount": 350,
+        "Tax": 0
+      },
+      "Description": "Meet Arthur 🐶\n\nThis handsome beagle is looking for a warm, consistent home where he can keep growing in confidence and enjoy life alongside other canine  companions. He’s available for adoption after 5/26/2026.\n\nArthur is a big-hearted boy — big in personality, and honestly just big in general (he’s on the larger side for a beagle at nearly 40 pounds, which just means there’s more of him to love). He slid into his foster family’s dog pack without missing a beat, getting along beautifully with dogs of all ages and energy levels and reading social cues like a pro. A home with another dog would be ideal, giving him a built-in mentor to help him continue to blossom — we call him “brave Arthur,” and every day he earns that name a little more.\n\nArthur is a medium-energy guy who loves a good walk or a spirited game of fetch, but he’s equally happy to declare victory and spend the rest of the afternoon cuddled up on the couch with his humans or doggy housemates. He’s a stuffed-toy and tennis-ball enthusiast — and in a funny twist for a beagle, he’s somehow not very treat-motivated. He just loves to play and loves to be close to his people.\n\nHe’s a perceptive, observant soul who notices everything around him. New or unexpected things can still give him pause, but he works through it and comes out the other side more confident each time. Car rides aren’t his favorite yet — he tends to tuck himself quietly at the foot of the back seat — but even that is just Arthur doing his best, and his best keeps getting better.\n\nArthur is still working on leash manners and reliable potty training, but he’s smart and making steady progress. He’ll thrive with an adopter who can offer patience, routine, and consistency to keep that positive momentum going.\nWhat Arthur brings in return is so worth it: loyalty, playfulness, snuggles, and the joy of watching a dog step fully into himself.\nIf you have a steady home, another dog to show him the ropes, and a couch with room for this snugglemuffin, brave Arthur might just be waiting for you. 🐾",
+      "LastIntakeUnixTime": "1777687620",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780515456"
+    },
+    {
       "ID": "3538",
       "Internal-ID": "213591745",
       "Name": "Milo",
@@ -6107,8 +6202,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1642744800,
       "Age": 52,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ff73e67509d1f25a39c3c2317714311e/b06a3fb0568d928e3f8be3e4ef825aa9.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ff73e67509d1f25a39c3c2317714311e/b06a3fb0568d928e3f8be3e4ef825aa9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4883950f9a4d9f8958ac780cb33704cd/82f504ef3ead4267b9daddaf52e217d6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a784a7c90595b137bd2459da5efdaca7/8a9ba6b824a9382384695be5f04d1748.jpeg"
@@ -6118,7 +6214,7 @@
       "Color": "Blond",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Larry was surrendered from an Amish farm where he was used for breeding. He was very matted when we got him (see photo) so he had to be completely shaved, but when his hair grows out he will be really cute and fluffy! Larry is shy at first but very sweet. Even when he is scared and cowering away from people, his tail wags nonstop. He loves playing with other dogs, especially his buddy Milo. He previously lived in a kennel building so is just now learning potty training and leash training, but he’s doing so well! He already knows to go straight to the back door to go outside when he gets out of his crate.",
+      "Description": "Larry was surrendered from an Amish farm where he was rused for breeding. He was very matted when we got him (see photo) so he had to be completely shaved, but when his hair grows out he will be really cute and fluffy! Larry is shy at first but very sweet. Even when he is scared and cowering away from people, his tail wags nonstop. He loves playing with other dogs, especially his buddy Milo. He previously lived in a kennel building so is just now learning potty training and leash training, but he’s doing so well! He is already almost perfect on a leash and has not had any accidents indoors in a couple weeks. He still has not managed to figure out stairs so he needs to be carried up and down stairs.",
       "LastIntakeUnixTime": "1777707300",
       "Attributes": [
         {
@@ -6157,7 +6253,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780450771"
+      "LastUpdatedUnixTime": "1780519261"
     },
     {
       "ID": "3547",
@@ -6173,7 +6269,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1714798800,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
@@ -6605,85 +6701,6 @@
       "LastUpdatedUnixTime": "1780440338"
     },
     {
-      "ID": "3533",
-      "Internal-ID": "213587856",
-      "Name": "Indie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "27.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1683003600,
-      "Age": 37,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/957667f8526d089a28e7c56d4459a5d2/4caecd1dbee7ec440d8856f97b645182.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/957667f8526d089a28e7c56d4459a5d2/4caecd1dbee7ec440d8856f97b645182.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/81871ee12a3af6cbc01b7a21496b0707/9b86d291378c7bdce17d82ebef8cbddd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f9bd0287780f276370ae5453b1a79f7/4934a414840853753add4acea57c548a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e6d3c1ce35d4fd98bf06facbf9c52c63/12d01c54fed135a54817442b1433d367.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Introducing Indie!\n\nThis sweet boy is a rescue from Ridglan Farms and is slowly soaking up all the new experiences.  \n\nIndie is very shy but learning to trust a little more every day. Noises, movement, people and nearly everything else is new to him so he is understandably unsure but also very curious. \n\nIndie is a great security guard, he loves walking the perimeter on the inside as well as an outside fenced area. He loves to watch his humans and dog sibling, and he soaks in all that they do.\n\nHe is very unsure of outside and will need immense patience with potty training as he gets accustomed to grass, wind and feeling safe enough to know it’s his spot.\n\nIndie is a great eater and happily eats his food as soon as it is put out. He is loving cheese treats and also really enjoys bully sticks and cheese chews. \n\nHis favorite spot is sitting in his dog bed and looking outside, that is where you will likely find him unless he is on his perimeter patrol.  \n\nIndie will do best in a home that is calm, quiet and predictable. He would benefit from a confident, unbothered dog who lets Indie be himself but also shows him the ropes. A fenced in yard would be ideal for him as he learns and feels safe. \n\nIndie will be a fantastic companion for someone who has the patience, understanding and love to give him.",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780498056"
-    },
-    {
       "ID": "3540",
       "Internal-ID": "213591751",
       "Name": "Pearl",
@@ -6783,7 +6800,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714798800,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",

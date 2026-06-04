@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T22:25:42Z",
+  "updated": "2026-06-04T11:27:10Z",
   "animals": [
     {
       "ID": "3458",
@@ -362,15 +362,6 @@
       "status": "pending"
     },
     {
-      "ID": "3534",
-      "Name": "Arthur",
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-      "Status": "M&G",
-      "reason": "likely_adopted",
-      "disappearedDate": "2026-05-31T23:44:42Z",
-      "status": "pending"
-    },
-    {
       "ID": "3586",
       "Name": "Otto",
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31b66c031e91e9440ec2a81b8497754d/86ae6ff01068f26358768e254855a5ae.jpg",
@@ -413,6 +404,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-02T22:25:42Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3533",
+      "Name": "Indie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/957667f8526d089a28e7c56d4459a5d2/4caecd1dbee7ec440d8856f97b645182.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-04T11:27:10Z",
       "status": "pending"
     }
   ]
