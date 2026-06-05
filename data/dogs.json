@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T22:08:46Z",
+  "updated": "2026-06-05T22:20:37Z",
   "count": 81,
   "animals": [
     {
@@ -2915,6 +2915,222 @@
       "LastUpdatedUnixTime": "1780691761"
     },
     {
+      "ID": "3557",
+      "Internal-ID": "213684445",
+      "Name": "Callie",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cbf37e9671d4375182de8e06335bc041/6195d9c5cda64c8ed5629dbb2bb14bc0.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cbf37e9671d4375182de8e06335bc041/6195d9c5cda64c8ed5629dbb2bb14bc0.png",
+        "https://new-s3.shelterluv.com/profile-pictures/f8aae8c8ef95900ec23c2675400dd18d/681042a91e230ca21fb81ccd34718e6c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brown/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780697973"
+    },
+    {
+      "ID": "3558",
+      "Internal-ID": "213684446",
+      "Name": "Breezy",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2.58",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
+        "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brown/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780698025"
+    },
+    {
+      "ID": "3559",
+      "Internal-ID": "213684447",
+      "Name": "Chip",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2.46",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
+        "https://new-s3.shelterluv.com/profile-pictures/30817e6b4088f590e6be4f84aad927f7/35c70b4cfb076aeec3cc208268fcd14e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780697899"
+    },
+    {
+      "ID": "3560",
+      "Internal-ID": "213684448",
+      "Name": "Rory",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2.4",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
+        "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780697990"
+    },
+    {
+      "ID": "3561",
+      "Internal-ID": "213684449",
+      "Name": "Bogey",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2.52",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
+        "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780697909"
+    },
+    {
+      "ID": "3562",
+      "Internal-ID": "213684450",
+      "Name": "Augusta",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2.86",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+        "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780697940"
+    },
+    {
       "ID": "3579",
       "Internal-ID": "213704415",
       "Name": "Stacy (bonded to Ruthie)",
@@ -4306,222 +4522,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780500028"
-    },
-    {
-      "ID": "3557",
-      "Internal-ID": "213684445",
-      "Name": "Callie",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cbf37e9671d4375182de8e06335bc041/6195d9c5cda64c8ed5629dbb2bb14bc0.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cbf37e9671d4375182de8e06335bc041/6195d9c5cda64c8ed5629dbb2bb14bc0.png",
-        "https://new-s3.shelterluv.com/profile-pictures/f8aae8c8ef95900ec23c2675400dd18d/681042a91e230ca21fb81ccd34718e6c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Brown/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780598734"
-    },
-    {
-      "ID": "3558",
-      "Internal-ID": "213684446",
-      "Name": "Breezy",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.58",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
-        "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Brown/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780598755"
-    },
-    {
-      "ID": "3559",
-      "Internal-ID": "213684447",
-      "Name": "Chip",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.46",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
-        "https://new-s3.shelterluv.com/profile-pictures/30817e6b4088f590e6be4f84aad927f7/35c70b4cfb076aeec3cc208268fcd14e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780598851"
-    },
-    {
-      "ID": "3560",
-      "Internal-ID": "213684448",
-      "Name": "Rory",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.4",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
-        "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780598829"
-    },
-    {
-      "ID": "3561",
-      "Internal-ID": "213684449",
-      "Name": "Bogey",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.52",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
-        "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780598805"
-    },
-    {
-      "ID": "3562",
-      "Internal-ID": "213684450",
-      "Name": "Augusta",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.86",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
-        "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780598781"
     },
     {
       "ID": "3578",
