@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T19:36:42Z",
-  "count": 85,
+  "updated": "2026-06-05T11:52:21Z",
+  "count": 83,
   "animals": [
     {
       "ID": "2754",
@@ -1051,7 +1051,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780430439"
+      "LastUpdatedUnixTime": "1780602819"
     },
     {
       "ID": "3461",
@@ -1904,7 +1904,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780275423"
+      "LastUpdatedUnixTime": "1780602358"
     },
     {
       "ID": "3501",
@@ -2019,7 +2019,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780598763"
+      "LastUpdatedUnixTime": "1780602383"
     },
     {
       "ID": "3502",
@@ -2130,7 +2130,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780598467"
+      "LastUpdatedUnixTime": "1780602423"
     },
     {
       "ID": "3503",
@@ -2241,7 +2241,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780110850"
+      "LastUpdatedUnixTime": "1780602329"
     },
     {
       "ID": "3513",
@@ -3073,7 +3073,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780180073"
+      "LastUpdatedUnixTime": "1780602088"
     },
     {
       "ID": "3554",
@@ -3167,7 +3167,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780600796"
+      "LastUpdatedUnixTime": "1780602220"
     },
     {
       "ID": "3579",
@@ -3410,67 +3410,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780369580"
-    },
-    {
-      "ID": "3588",
-      "Internal-ID": "213719620",
-      "Name": "Pancake",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "21",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1663563600,
-      "Age": 44,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Corgi, Cardigan Welsh",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "This pancake doesn’t need any syrup to be sweet.  She has been a joy to have in our home.  At almost 4 years old, she is a wonderful mix of playful and calm.  She loves to play fetch with a tennis ball.  She is happy to have someone throw it, but also happy to toss the ball to herself.  She loves a good walk to find new smells, critters to chase, and people to meet.\nCurrently, Pancake starts her day around 6 with a quick potty break and then in for breakfast by 7.  If you have another dog it is best to feed her separate since she likes to help herself to any food available.  It doesn’t matter if another dog’s head is in the way. She also likes to take treats so should be watched with other dogs that have a problem with that. She usually gets a walk or let outside every 3 hours for a potty break.  When I leave for short trips, I take her in the car.  If I’m gone for hours then she goes in the kennel.  She doesn’t love it but tolerates being put in there.  Last potty break is around 9-9:30. She prefers to sleep outside the kennel at night.  She has slept in our room the past few nights with the door shut.  She doesn’t make a peep.   \nShe doesn’t bark a lot but will bark some in the kennel or when playing with a doggie friend.\nShe is great with my 11 and 14 year old kids.  She jumps occasionally and so that might bother a smaller child.  She doesn’t do it often though.  \nIf you show her love and devote time to her, she will make a great companion for most any person or family. \n",
-      "LastIntakeUnixTime": "1779121345",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780596557"
     },
     {
       "ID": "3593",
@@ -5072,7 +5011,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780571713"
+      "LastUpdatedUnixTime": "1780629432"
     },
     {
       "ID": "3591",
@@ -5174,7 +5113,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780516500"
+      "LastUpdatedUnixTime": "1780626529"
     },
     {
       "ID": "492",
@@ -5722,7 +5661,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780320644"
+      "LastUpdatedUnixTime": "1780602670"
     },
     {
       "ID": "3490",
@@ -6014,90 +5953,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780454948"
-    },
-    {
-      "ID": "3534",
-      "Internal-ID": "213587858",
-      "Name": "Arthur",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "36.6",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1683003600,
-      "Age": 37,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c4273117f82282c097c33d98ea5cc279/b2a12b933ac0ebc439a2fcfef5de7618.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9af14a3d6c37bf29807d52b18bf00554/1b4b34504470bba054595b2894099eb5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/02a3091ca70a5f8cc67b081af68cfa29/fd15baf65a7d8ac0e737196e977570a1.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 36570,
-        "Name": "Fee Waived Adoption",
-        "Price": 350,
-        "Discount": 350,
-        "Tax": 0
-      },
-      "Description": "Meet Arthur 🐶\n\nThis handsome beagle is looking for a warm, consistent home where he can keep growing in confidence and enjoy life alongside other canine  companions. He’s available for adoption after 5/26/2026.\n\nArthur is a big-hearted boy — big in personality, and honestly just big in general (he’s on the larger side for a beagle at nearly 40 pounds, which just means there’s more of him to love). He slid into his foster family’s dog pack without missing a beat, getting along beautifully with dogs of all ages and energy levels and reading social cues like a pro. A home with another dog would be ideal, giving him a built-in mentor to help him continue to blossom — we call him “brave Arthur,” and every day he earns that name a little more.\n\nArthur is a medium-energy guy who loves a good walk or a spirited game of fetch, but he’s equally happy to declare victory and spend the rest of the afternoon cuddled up on the couch with his humans or doggy housemates. He’s a stuffed-toy and tennis-ball enthusiast — and in a funny twist for a beagle, he’s somehow not very treat-motivated. He just loves to play and loves to be close to his people.\n\nHe’s a perceptive, observant soul who notices everything around him. New or unexpected things can still give him pause, but he works through it and comes out the other side more confident each time. Car rides aren’t his favorite yet — he tends to tuck himself quietly at the foot of the back seat — but even that is just Arthur doing his best, and his best keeps getting better.\n\nArthur is still working on leash manners and reliable potty training, but he’s smart and making steady progress. He’ll thrive with an adopter who can offer patience, routine, and consistency to keep that positive momentum going.\nWhat Arthur brings in return is so worth it: loyalty, playfulness, snuggles, and the joy of watching a dog step fully into himself.\nIf you have a steady home, another dog to show him the ropes, and a couch with room for this snugglemuffin, brave Arthur might just be waiting for you. 🐾",
-      "LastIntakeUnixTime": "1777687620",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780515456"
     },
     {
       "ID": "3539",
@@ -6397,7 +6252,68 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780420268"
+      "LastUpdatedUnixTime": "1780602019"
+    },
+    {
+      "ID": "3588",
+      "Internal-ID": "213719620",
+      "Name": "Pancake",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "21",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1663563600,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Cardigan Welsh",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "This pancake doesn’t need any syrup to be sweet.  She has been a joy to have in our home.  At almost 4 years old, she is a wonderful mix of playful and calm.  She loves to play fetch with a tennis ball.  She is happy to have someone throw it, but also happy to toss the ball to herself.  She loves a good walk to find new smells, critters to chase, and people to meet.\nCurrently, Pancake starts her day around 6 with a quick potty break and then in for breakfast by 7.  If you have another dog it is best to feed her separate since she likes to help herself to any food available.  It doesn’t matter if another dog’s head is in the way. She also likes to take treats so should be watched with other dogs that have a problem with that. She usually gets a walk or let outside every 3 hours for a potty break.  When I leave for short trips, I take her in the car.  If I’m gone for hours then she goes in the kennel.  She doesn’t love it but tolerates being put in there.  Last potty break is around 9-9:30. She prefers to sleep outside the kennel at night.  She has slept in our room the past few nights with the door shut.  She doesn’t make a peep.   \nShe doesn’t bark a lot but will bark some in the kennel or when playing with a doggie friend.\nShe is great with my 11 and 14 year old kids.  She jumps occasionally and so that might bother a smaller child.  She doesn’t do it often though.  \nIf you show her love and devote time to her, she will make a great companion for most any person or family. \n",
+      "LastIntakeUnixTime": "1779121345",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780626821"
     },
     {
       "ID": "3504",
@@ -6525,98 +6441,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780440338"
-    },
-    {
-      "ID": "3538",
-      "Internal-ID": "213591745",
-      "Name": "Milo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "15.8",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1617339600,
-      "Age": 62,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2e519c6bc7c8edb67e321630df66597f/73a9f3bfbeb853c757e63a732a4bce6b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2e519c6bc7c8edb67e321630df66597f/73a9f3bfbeb853c757e63a732a4bce6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9787ef7bad2efbae26523a017d9ec2bb/6e7d48eadb27338320357040fed25cd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b06b58d22e58c5d98d8a52d259ec9ac4/83d1a616290f1962211cbd94b49241b3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Milo was surrendered from an Amish farm where he was used for breeding. He was a little shy for the first day, but now he is a friendly, derpy little guy who loves to follow us around and give kisses. We love to pick him up and hold him like a baby while he makes little piggy grunts. He loves other dogs and will play and jump around with his buddy Larry and my other dogs. Milo was previously kept in a kennel building so he is still learning house training and how to walk on a leash. He has been doing all his potties outside in my fenced yard but is still very hesitant about pottying on a leash, so would ideally go to a home with a fenced yard. I'm sure he could learn to potty on a leash but it would take a little time. He has learned to go up stairs but still is not confident about going down stairs. Right now he will throw himself down like a flying squirrel and hope for the best.\n\nMilo is a sweetheart who will bring you lots of love in exchange for lots of pets and belly rubs!",
-      "LastIntakeUnixTime": "1777706760",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780599595"
     },
     {
       "ID": "3540",
@@ -6803,7 +6627,7 @@
       "Sex": "Male",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "23",
+      "CurrentWeightPounds": "23.2",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1714798800,
@@ -6882,7 +6706,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780587101"
+      "LastUpdatedUnixTime": "1780621375"
     },
     {
       "ID": "1395",

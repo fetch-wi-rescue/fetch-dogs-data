@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T11:27:10Z",
+  "updated": "2026-06-05T11:52:21Z",
   "animals": [
     {
       "ID": "3458",
@@ -413,6 +413,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-04T11:27:10Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3534",
+      "Name": "Arthur",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1f5fdc3f19eed6571c3b0928bc1af49/59ceee4ff4b033f81cdba92e9e69f94b.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-05T11:52:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3538",
+      "Name": "Milo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2e519c6bc7c8edb67e321630df66597f/73a9f3bfbeb853c757e63a732a4bce6b.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-05T11:52:21Z",
       "status": "pending"
     }
   ]
