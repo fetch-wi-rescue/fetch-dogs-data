@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T18:30:26Z",
-  "count": 82,
+  "updated": "2026-06-05T22:08:46Z",
+  "count": 81,
   "animals": [
     {
       "ID": "2754",
@@ -2836,15 +2836,17 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c31708d813b1f4c37182137fbe61767b/9e2b04c9c686a62f0ab2515796a82bc2.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/c31708d813b1f4c37182137fbe61767b/9e2b04c9c686a62f0ab2515796a82bc2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98dea7bc88e225a9aa1fec2e5e37933c/19e4ca7e3502a549df24fb37fc1f93ac.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ff98c4c4484b891baffe25287f6f444a/aca50db77f71f7198b917612a509e030.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/398bdf87d9cbdfa2fdccbed1b9ec9a88/3dccef31b80a1a3863ca3584af102a03.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94c5a7b1bad26343a2976028cb6f1d01/6fb2640ec3969c1504fa8946063a33af.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c512bd7ecf8c26ffe60f061e94136848/396b486c285bce95f94b126d203f24df.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/a3a09f4eefc0d3d3737f9cce7f10cbdb/7ea34f5c166906149fc04b5f5424e096.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/500b7c4d53658a14bea4393747f5dce3/4151031d970e4795759b885ccd752dcc.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59a7716c180ecddcd04a29ef251bcfa5/badedcb70a022faf5f124fc49905b4b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1b9cd4f796e614832594954d318d57f/721e7a8fbdd752c53a6ee148502dcfad.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/d1b9cd4f796e614832594954d318d57f/721e7a8fbdd752c53a6ee148502dcfad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/600c25072ac4cef3da80d722a298956b/d2965bc6a958c3bcc74284535d5d6520.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/95f9c34c023540e289b3a576ae9f38d8/f336e464ee15bd07db270f539a956c41.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c2128e7989510e8e922ac3674d33a423/50e092245da43b0fdb66254b6fb4ecc4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4beaf37b92d9a564e0c4f49ebf4a2636/6a6a795f388158f837e7f874d5ec6ae3.jpeg"
       ],
       "Videos": [],
       "Breed": "Boxer/Mixed Breed (Medium)",
@@ -2910,7 +2912,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780680421"
+      "LastUpdatedUnixTime": "1780691761"
     },
     {
       "ID": "3579",
@@ -4827,7 +4829,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "49.6",
+      "CurrentWeightPounds": "60",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1676959200,
@@ -4856,7 +4858,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780626529"
+      "LastUpdatedUnixTime": "1780695574"
     },
     {
       "ID": "492",
@@ -5181,116 +5183,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780598968"
-    },
-    {
-      "ID": "3461",
-      "Internal-ID": "213355160",
-      "Name": "Maple",
-      "LitterGroupId": 9483955,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1766901600,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2ebe442995f42b837ad6e30e97ec655/777d1df8d921b57cd5f50fb35c2ecc9d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b649ae03791b50cdd190a5504881fc5/dcf267cb5943fa639bf4c50c595095d4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd472be3506c14066e0e29fa520dfe31/7794590d3f3748aaf2bb5a6c5f7babab.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6e728e959c31c5fc6725c058d8bb0abc/0eca266fb9c9ec08d8e74b6704333b12.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b40f24412b2e2fff641b63d8595b2bd1/d4651e4cf981b975d8affa0144dc9a2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a25c827533d380645d418a19c9ef8a2/11df12ea11d5bc417e34416b2481c77c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a972387560e31c34b0d1c1f05892d0b9/bf5fcc23c356ea926ee5aad76c67086c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f10734758fb59b2ab9cbaf28187e799/27dac41816ce8713593cd3772311be1a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc5efae62500f23da41f5187c5c5de31/375b7a1a0a673026f2b20be932014cdd.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Maple is such a sweet puppy. She currently lives with her sisters Mocha and Cookie. She also lives with 2 adult dogs. One of the adult dogs loves playing with the puppies and the older adult dog helps teach the puppies manners.\n\nMaple won our hearts over as she is a cuddle bug. She is very outgoing and wins everyone over immediately. She is independent and sleeps through the night in a crate either alone or with one of her sisters. Being still a puppy, potty training is ongoing. She has a fenced in yard and goes out regularly to avoid accidents in the house.",
-      "LastIntakeUnixTime": "1774754849",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637008",
-          "AttributeName": "Good around horses",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780680171"
     },
     {
       "ID": "3464",
@@ -6329,7 +6221,7 @@
       "Sex": "Male",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "104",
+      "CurrentWeightPounds": "104.4",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1522990800,
@@ -6444,7 +6336,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780670585"
+      "LastUpdatedUnixTime": "1780685117"
     },
     {
       "ID": "3540",
