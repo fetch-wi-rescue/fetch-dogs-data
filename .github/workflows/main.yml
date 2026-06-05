@@ -147,7 +147,7 @@ jobs:
             mv data/archived-pending-review.tmp.json data/archived-pending-review.json
           fi
       
-      - - name: Commit updated data
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
