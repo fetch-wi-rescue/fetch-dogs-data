@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T11:52:21Z",
+  "updated": "2026-06-05T18:30:26Z",
   "animals": [
     {
       "ID": "3458",
@@ -431,6 +431,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-05T11:52:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3547",
+      "Name": "Doug",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/60423441f0b75269427d0d4919540333/0e516063d48b85b5ee0a995aed952629.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-05T18:30:26Z",
       "status": "pending"
     }
   ]
