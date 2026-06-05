@@ -147,10 +147,21 @@ jobs:
             mv data/archived-pending-review.tmp.json data/archived-pending-review.json
           fi
       
-      - name: Commit updated data
+      - - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/dogs.json data/archived-pending-review.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "Update dog data and archive"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update dog data and archive"
+            # Retry push with pull-rebase in case another run committed in parallel
+            for i in 1 2 3; do
+              if git push; then
+                exit 0
+              fi
+              echo "Push failed, pulling and retrying (attempt $i)..."
+              git pull --rebase origin main
+            done
+            echo "Push failed after 3 retries"
+            exit 1
+          fi
