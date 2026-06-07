@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T23:05:50Z",
-  "count": 80,
+  "updated": "2026-06-07T01:35:31Z",
+  "count": 81,
   "animals": [
     {
       "ID": "2754",
@@ -1185,7 +1185,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.6",
+      "CurrentWeightPounds": "7.12",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -1324,7 +1324,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780406384"
+      "LastUpdatedUnixTime": "1780788230"
     },
     {
       "ID": "3479",
@@ -1884,7 +1884,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780754325"
+      "LastUpdatedUnixTime": "1780789528"
     },
     {
       "ID": "3503",
@@ -4321,7 +4321,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "14.8",
+      "CurrentWeightPounds": "14",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1774538279,
@@ -4430,7 +4430,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780772841"
+      "LastUpdatedUnixTime": "1780788250"
     },
     {
       "ID": "2774",
@@ -6876,6 +6876,73 @@
         }
       ],
       "LastUpdatedUnixTime": "1778859848"
+    },
+    {
+      "ID": "3602",
+      "Internal-ID": "213838881",
+      "Name": "Apollo ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "36.5",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1684990800,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f78a1daf8b76955c9340ef03ce201a53/f6c73c89b34e2530cc152ea9991651bb.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f78a1daf8b76955c9340ef03ce201a53/f6c73c89b34e2530cc152ea9991651bb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce342d3e15b13e6a14061a25d7311970/3bf18e6d0b4a0de15ac3dccec6babc4e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d1d550f03b3163e2b02ffe7c5cb551a/2691abd1cd545f673d5ee73abb27a5d8.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Apollo! 🐾\n\nApollo is a lovable 3-year-old pup who celebrated his birthday on May 25th. While his exact breed is unknown, he’s the perfect mix of affection, energy, and fun.\n\nApollo loves squeaky toys, fetch, dog park adventures, and long walks with his favorite people. He’s fully house-trained, listens well, and is eager to please. He’s still polishing his leash manners and can get excited when he spots a squirrel, but he’s making great progress.\n\nA home with a fenced yard would be ideal so Apollo can run, play, and enjoy his zoomies. He’s friendly with other animals, including cats, and enjoys meeting new friends.\n\nWhen greeting new people, Apollo may offer an enthusiastic jump and a few kisses. He’s not aggressive—just very people-oriented and affectionate. His playful personality and loyal heart make him a wonderful companion.\n\nApollo is ready for a loving forever home. If you’re looking for a dog who will bring joy, adventure, and unconditional love to your life, come meet Apollo today.",
+      "LastIntakeUnixTime": "1780792226",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780792816"
     }
   ]
 }
