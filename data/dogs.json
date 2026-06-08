@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T09:59:57Z",
+  "updated": "2026-06-08T14:14:32Z",
   "count": 81,
   "animals": [
     {
@@ -961,6 +961,109 @@
       "LastUpdatedUnixTime": "1780761806"
     },
     {
+      "ID": "3462",
+      "Internal-ID": "213355162",
+      "Name": "Cookie",
+      "LitterGroupId": 9483955,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "31.2",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1769666400,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13e483488a2686859a3d1b2c5f9cfa40/e0b90812217a14978e7af8f75710b77c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/13e483488a2686859a3d1b2c5f9cfa40/e0b90812217a14978e7af8f75710b77c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1aead1038d9b07bcb1a9a126bbf34c35/f11ff54ba0d101fe7120d9c24aa0a0c4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e6d5431323adcd2afc349d7cebc1238a/ca397e7b7d465d93d9f213214846f9a3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40754cc228d2ed78a6f98e3a4a8a31ac/788b6500c13ee15ca9672da343cbc844.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/726e8d5501a498fb8ba792474c9c88b5/672bf08b3643e6f6cff226ff6e267009.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/92fbf6fac97dccc7cc834ec59f78a2cc/3f63cf8f9e69149ee264426207b6d1fa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d4db32af229e54225d49dd4a39fb648/74a8c7e23f757b7b10ab8da1c9dc45e6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae66d9bbc307ee3b8feaf8f4bec4f001/09aa5e0b3b8d0fb70b3bfe0fd55dd60b.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Tan/White",
+      "Pattern": "Badger",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Cookie is a typical puppy and loves to cuddle. She currently lives with her sisters Maple and Mocha. She also lives with 2 adult dogs. One of the adult dogs loves playing with the puppies and the older adult dog helps teach the puppies manners.\n\nCookie is a little shy at first, but once she knows you, she is a cuddle bug. She is independent and sleeps through the night in a crate either alone or with one of her sisters. Being still a puppy, potty training is ongoing. She has a fenced in yard and goes out regularly to avoid accidents in the house.",
+      "LastIntakeUnixTime": "1780918740",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637008",
+          "AttributeName": "Good around horses",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780921239"
+    },
+    {
       "ID": "3474",
       "Internal-ID": "213392423",
       "Name": "Rocco",
@@ -1431,120 +1534,6 @@
       "LastUpdatedUnixTime": "1780602383"
     },
     {
-      "ID": "3502",
-      "Internal-ID": "213465535",
-      "Name": "Deva",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12.2",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1774587600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb6577294da62105d92d2eb4278f23b5/a613270a0bce21e88426a0d088b6a201.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cb6577294da62105d92d2eb4278f23b5/a613270a0bce21e88426a0d088b6a201.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e064d84c45684c7a61be16ff273210a0/77f6c5e0dbf24276d21a5b93762475a7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3e30f1431921637cf2c9998a321b87d0/94a3c2c62c09d332258430cc8c8e020b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46e69fb124c914a3b0dd8109a2a9a9ec/146b5d5739c88c50dfaa04fc17d3449d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/246e03d84e515a6912078a9fa6572fbb/16ce28088bf1518770bae491d7cfac6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/384be99c7e6c75c971ddfea819edd59e/457a4712998cfaacb86cc97610047981.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d6f6882265e56c8e20021088924168fb/66cf43bdf500685047ea74a568504288.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/793f83889cc16164f6d1f88ee17d6914/98bad056af69917c560e99f0b62ea509.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd9eadca717a1926fa1ad554d8d354c0/59286507432f8758e7acf23a2d52b9e4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "A fiery redhead that’s true to her name, Deva is the star, the big sister, and the representative of her siblings.  She’s brave, adventurous, and not afraid to tell you what she thinks. When her big sister work is done, she's in your lap being the perfect cuddle bug.\n\nSister to Nola, Lucas, and Kai!",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780885753"
-    },
-    {
       "ID": "3503",
       "Internal-ID": "213465538",
       "Name": "Nola",
@@ -1860,6 +1849,110 @@
       "LastUpdatedUnixTime": "1780246923"
     },
     {
+      "ID": "3527",
+      "Internal-ID": "213534590",
+      "Name": "Edmond",
+      "LitterGroupId": 9497863,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "37.1",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fdbf1ea2fb1046c35e8d7d755e8ce54/472b3f1b41e1cdaed277b4d1631a4f92.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/71270f9cf895b6049fb347ea912756a6/1bc154bb460a3ee2ada0fbe1f4572af8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/521de84de1a1e35caeba017d76864d0c/99cd17fab265ea8433e607c342eaed09.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94ba8996069e0fff7e46cff57d69c671/54deaf1de87e5813b6fc577499bbad74.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a7f51bbb9c7db3aba39f10a6f1925c6/6a94351c2343708a02ee97683bb92518.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/261d1ce7c4543586b287ddedbc9d7422/30fd27420016f1bb3331478497a0c1f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e920ec6db18f5fd9cf4c9f29f3b94089/c6ad48dfd051dd4390a211e60a905298.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7fe7c80d3a0a01a451fc01b329a523e9/3c73a2de535bd639ce4cc874b13b484f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/34c0a67d1e1c77bd4b52cdec1cc835d9/c0da727ab2788ea3b99ef0f42bd2604e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a4d2bdce130f64759cca1e143ec0ce9/5ebf956798b9e56cdc28e4f6a1b213dc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e30618cc1ad11d43a9b715c082ad998c/c0ed8fb54cc50a1b33d7234dd05efd45.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e40026ca33b8758a10516bdf6c74611/bafae3732b2e520354662e0fa4544d31.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c94e3fcae2abd3b7a8deec2a6d5bd134/2ac2fe8f424f05dec51f8215c2f9702e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Hound/Mixed Breed (Large)",
+      "Color": "Black/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Edmond, a tender‑hearted hound mix who’s discovering the world at his own quiet pace. He’s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you’re someone he can trust. Once he does, you’ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond’s ideal home is one that understands the beauty of patience. Loud chaos isn’t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he’s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you’re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
+      "LastIntakeUnixTime": "1777143060",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780919236"
+    },
+    {
       "ID": "3528",
       "Internal-ID": "213534591",
       "Name": "Natalia",
@@ -1993,6 +2086,74 @@
         }
       ],
       "LastUpdatedUnixTime": "1780464026"
+    },
+    {
+      "ID": "3539",
+      "Internal-ID": "213591750",
+      "Name": "Larry",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "16.2",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1642744800,
+      "Age": 52,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff73e67509d1f25a39c3c2317714311e/b06a3fb0568d928e3f8be3e4ef825aa9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4883950f9a4d9f8958ac780cb33704cd/82f504ef3ead4267b9daddaf52e217d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a784a7c90595b137bd2459da5efdaca7/8a9ba6b824a9382384695be5f04d1748.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Larry was surrendered from an Amish farm where he was rused for breeding. He was very matted when we got him (see photo) so he had to be completely shaved, but when his hair grows out he will be really cute and fluffy! Larry is shy at first but very sweet. Even when he is scared and cowering away from people, his tail wags nonstop. He loves playing with other dogs, especially his buddy Milo. He previously lived in a kennel building so is just now learning potty training and leash training, but he’s doing so well! He is already almost perfect on a leash and has not had any accidents indoors in a couple weeks. He still has not managed to figure out stairs so he needs to be carried up and down stairs.",
+      "LastIntakeUnixTime": "1777707300",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780921934"
     },
     {
       "ID": "3541",
@@ -2249,7 +2410,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780080309"
+      "LastUpdatedUnixTime": "1780921785"
     },
     {
       "ID": "3549",
@@ -3329,14 +3490,14 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "11.11",
+      "CurrentWeightPounds": "13.6",
       "Size": "Large (60-99)",
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
@@ -3353,7 +3514,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/e3431df74fac40acbffa443299056820/570043557eb11d234d9a23e11208cc88.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c57b5b94fc49ecfd51f59361d0eb60d1/b5705aa6090d7428da51f4b6b720f493.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -3430,7 +3594,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780859607"
+      "LastUpdatedUnixTime": "1780921563"
     },
     {
       "ID": "3599",
@@ -4963,6 +5127,120 @@
       "LastUpdatedUnixTime": "1780681263"
     },
     {
+      "ID": "3502",
+      "Internal-ID": "213465535",
+      "Name": "Deva",
+      "LitterGroupId": 9491380,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "12.2",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1774587600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb6577294da62105d92d2eb4278f23b5/a613270a0bce21e88426a0d088b6a201.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cb6577294da62105d92d2eb4278f23b5/a613270a0bce21e88426a0d088b6a201.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e064d84c45684c7a61be16ff273210a0/77f6c5e0dbf24276d21a5b93762475a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3e30f1431921637cf2c9998a321b87d0/94a3c2c62c09d332258430cc8c8e020b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46e69fb124c914a3b0dd8109a2a9a9ec/146b5d5739c88c50dfaa04fc17d3449d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/246e03d84e515a6912078a9fa6572fbb/16ce28088bf1518770bae491d7cfac6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/384be99c7e6c75c971ddfea819edd59e/457a4712998cfaacb86cc97610047981.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d6f6882265e56c8e20021088924168fb/66cf43bdf500685047ea74a568504288.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/793f83889cc16164f6d1f88ee17d6914/98bad056af69917c560e99f0b62ea509.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd9eadca717a1926fa1ad554d8d354c0/59286507432f8758e7acf23a2d52b9e4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "A fiery redhead that’s true to her name, Deva is the star, the big sister, and the representative of her siblings.  She’s brave, adventurous, and not afraid to tell you what she thinks. When her big sister work is done, she's in your lap being the perfect cuddle bug.\n\nSister to Nola, Lucas, and Kai!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1780919308"
+    },
+    {
       "ID": "3523",
       "Internal-ID": "213502312",
       "Name": "Ginger",
@@ -4997,178 +5275,6 @@
       "LastIntakeUnixTime": "1776519588",
       "Attributes": [],
       "LastUpdatedUnixTime": "1780698771"
-    },
-    {
-      "ID": "3527",
-      "Internal-ID": "213534590",
-      "Name": "Edmond",
-      "LitterGroupId": 9497863,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "37.1",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2fdbf1ea2fb1046c35e8d7d755e8ce54/472b3f1b41e1cdaed277b4d1631a4f92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/71270f9cf895b6049fb347ea912756a6/1bc154bb460a3ee2ada0fbe1f4572af8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/521de84de1a1e35caeba017d76864d0c/99cd17fab265ea8433e607c342eaed09.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94ba8996069e0fff7e46cff57d69c671/54deaf1de87e5813b6fc577499bbad74.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a7f51bbb9c7db3aba39f10a6f1925c6/6a94351c2343708a02ee97683bb92518.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/261d1ce7c4543586b287ddedbc9d7422/30fd27420016f1bb3331478497a0c1f8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e920ec6db18f5fd9cf4c9f29f3b94089/c6ad48dfd051dd4390a211e60a905298.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7fe7c80d3a0a01a451fc01b329a523e9/3c73a2de535bd639ce4cc874b13b484f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/34c0a67d1e1c77bd4b52cdec1cc835d9/c0da727ab2788ea3b99ef0f42bd2604e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a4d2bdce130f64759cca1e143ec0ce9/5ebf956798b9e56cdc28e4f6a1b213dc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e30618cc1ad11d43a9b715c082ad998c/c0ed8fb54cc50a1b33d7234dd05efd45.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e40026ca33b8758a10516bdf6c74611/bafae3732b2e520354662e0fa4544d31.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c94e3fcae2abd3b7a8deec2a6d5bd134/2ac2fe8f424f05dec51f8215c2f9702e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Hound/Mixed Breed (Large)",
-      "Color": "Black/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Edmond, a tender‑hearted hound mix who’s discovering the world at his own quiet pace. He’s a shy soul, the kind of dog who watches first, thinks second, and then slowly leans in when he realizes you’re someone he can trust. Once he does, you’ll see the sweetest transformation - soft tail wags, gentle eye contact, and a pup who wants nothing more than to be close to his person.\nEdmond’s ideal home is one that understands the beauty of patience. Loud chaos isn’t his style; he thrives in calm spaces with kind humans who let him bloom on his own timeline. He enjoys peaceful walks, cozy corners, and the comfort of a steady routine.\nUnderneath his timid exterior is a deeply loving dog who just needs someone to show him he’s safe. With time, consistency, and compassion, Edmond will reward his family with quiet loyalty, soft affection, and the kind of bond that feels truly earned.\nIf you’re looking for a gentle companion who will blossom with love, Edmond is ready to take those first brave steps with you.",
-      "LastIntakeUnixTime": "1777143060",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780454948"
-    },
-    {
-      "ID": "3539",
-      "Internal-ID": "213591750",
-      "Name": "Larry",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1642744800,
-      "Age": 52,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff73e67509d1f25a39c3c2317714311e/b06a3fb0568d928e3f8be3e4ef825aa9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4883950f9a4d9f8958ac780cb33704cd/82f504ef3ead4267b9daddaf52e217d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a784a7c90595b137bd2459da5efdaca7/8a9ba6b824a9382384695be5f04d1748.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Larry was surrendered from an Amish farm where he was rused for breeding. He was very matted when we got him (see photo) so he had to be completely shaved, but when his hair grows out he will be really cute and fluffy! Larry is shy at first but very sweet. Even when he is scared and cowering away from people, his tail wags nonstop. He loves playing with other dogs, especially his buddy Milo. He previously lived in a kennel building so is just now learning potty training and leash training, but he’s doing so well! He is already almost perfect on a leash and has not had any accidents indoors in a couple weeks. He still has not managed to figure out stairs so he needs to be carried up and down stairs.",
-      "LastIntakeUnixTime": "1777707300",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780519261"
     },
     {
       "ID": "3587",
@@ -6109,92 +6215,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780797043"
-    },
-    {
-      "ID": "3540",
-      "Internal-ID": "213591751",
-      "Name": "Pearl",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1516428000,
-      "Age": 100,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dee8b61b8fc292153571064c7e1c2348/64a1b3a07cc5b09306a8e8929e601562.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dee8b61b8fc292153571064c7e1c2348/64a1b3a07cc5b09306a8e8929e601562.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Pearl was surrendered from an Amish farm where she was used for breeding. She is living in a house for the first time and is blossoming so well! She is very shy at first and will hide from new people but as she gets to know us, she is becoming more and more affectionate. She has never growled or shown any aggression, even when scared. She loves to be around other small dogs but is a little scared of big dogs and will run away from them. She is learning to walk on a leash and potty outside for the first time but she makes progress every day. When indoors, she mostly likes to stay in her pen or crate. We sit with her and give her pets and she will gently lick our hands.\n\nPearl is a nonshedding dog and will require regular haircuts. She gets carsick in the car so she would prefer not to be your roadtrip buddy. Otherwise, she is a perfect little girl!",
-      "LastIntakeUnixTime": "1777708320",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780427596"
     },
     {
       "ID": "3544",
