@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T14:14:32Z",
+  "updated": "2026-06-08T20:04:49Z",
   "animals": [
     {
       "ID": "3458",
@@ -458,6 +458,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-08T14:14:32Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3472",
+      "Name": "Bix",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ac9f691820eebb8f7c84c8adb50a294b/d40d86737529aa9f1194656f01d25a30.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-08T20:04:49Z",
       "status": "pending"
     }
   ]
