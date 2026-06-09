@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T16:27:35Z",
+  "updated": "2026-06-09T18:30:01Z",
   "count": 80,
   "animals": [
     {
@@ -1004,117 +1004,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780936521"
-    },
-    {
-      "ID": "3474",
-      "Internal-ID": "213392423",
-      "Name": "Rocco",
-      "LitterGroupId": 9485946,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.4",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1772265600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff641e79dcb71b25a067fce135511159/48659f486d809b85b5e034edac165f4f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47a588ee8873de0b39ae7738fee98143/e622b98c1824580994c5cb98ec4a2dd6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e4f77a3120343e653ae066c224140a9/ecfb8b7909f457f66d128daa7f6b57d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/33de3482ed9e2e6218caf9283419c57b/d168f88473f06214a58f4a3d439d584d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bef9d3d5091d3704ab2f0f603b0a1c8f/aecc0c0dd661455de8cc8cd97add64eb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a259272eb9e1484d36635f19535bb1d/8a2a87ee09fd170d789342f82b0f8c2a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/565b68638d02f69188c1959e4bd2b19f/977ef01580121056331e6f7ef3a49747.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/35fa71e65ea67f5258f41102aa6e06ef/771d1b072969fe1eef6bbaa47eb711a6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5616240e238c3c197373749ac1be7e9e/b3c5c7316a70d8a50a3aaaef3daa9194.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e6dad3a726f24553e4c9c718326cf001/ce2f072c9c3150c9e7b116ffc78cf1fd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6213e476b74daaafd26c9dc3e6d85d80/3dd6a7a5117ef513b2bed4751a38bc77.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/61c1f1024575e3da4fd2da740c83d3bc/26daa244a45ee688371e3370c453708a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0645974af5e8db0fb6224efdc2f274d7/9874329d4d91ba7996169c46b405e49c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b7da15d9b74d2ddf2473a2ec8c8cee2/f6528123143bf89d3e70b3cbbefa6d2a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Australian/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Rocco is the steady, self‑assured pup of the group. He’s brave, curious, and always the first to check out something new. He loves playtime, training, and being near his people. Rocco will grow into a loyal, confident companion who thrives with structure and engagement.",
-      "LastIntakeUnixTime": "1775302440",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780959254"
     },
     {
       "ID": "3479",
@@ -2925,98 +2814,6 @@
       "LastUpdatedUnixTime": "1780369580"
     },
     {
-      "ID": "3587",
-      "Internal-ID": "213704424",
-      "Name": "Plum",
-      "LitterGroupId": 9513102,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773550800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
-      "LastIntakeUnixTime": "1778952181",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781009161"
-    },
-    {
       "ID": "3590",
       "Internal-ID": "213765756",
       "Name": "Cash",
@@ -4339,7 +4136,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1779929689"
+      "LastUpdatedUnixTime": "1781025067"
     },
     {
       "ID": "3589",
@@ -4559,7 +4356,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781020692"
+      "LastUpdatedUnixTime": "1781025917"
     },
     {
       "ID": "3604",
@@ -4584,11 +4381,17 @@
       "Breed": "Shih Tzu",
       "Color": "Tan/Black",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1781020709",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781020732"
+      "LastUpdatedUnixTime": "1781025897"
     },
     {
       "ID": "3605",
@@ -4617,7 +4420,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781020601"
+      "LastUpdatedUnixTime": "1781025877"
     },
     {
       "ID": "3606",
@@ -4646,7 +4449,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781020601"
+      "LastUpdatedUnixTime": "1781025940"
     },
     {
       "ID": "492",
@@ -5090,6 +4893,117 @@
       "LastUpdatedUnixTime": "1779932790"
     },
     {
+      "ID": "3474",
+      "Internal-ID": "213392423",
+      "Name": "Rocco",
+      "LitterGroupId": 9485946,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.4",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1772265600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff641e79dcb71b25a067fce135511159/48659f486d809b85b5e034edac165f4f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47a588ee8873de0b39ae7738fee98143/e622b98c1824580994c5cb98ec4a2dd6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e4f77a3120343e653ae066c224140a9/ecfb8b7909f457f66d128daa7f6b57d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/33de3482ed9e2e6218caf9283419c57b/d168f88473f06214a58f4a3d439d584d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bef9d3d5091d3704ab2f0f603b0a1c8f/aecc0c0dd661455de8cc8cd97add64eb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a259272eb9e1484d36635f19535bb1d/8a2a87ee09fd170d789342f82b0f8c2a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/565b68638d02f69188c1959e4bd2b19f/977ef01580121056331e6f7ef3a49747.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/35fa71e65ea67f5258f41102aa6e06ef/771d1b072969fe1eef6bbaa47eb711a6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5616240e238c3c197373749ac1be7e9e/b3c5c7316a70d8a50a3aaaef3daa9194.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e6dad3a726f24553e4c9c718326cf001/ce2f072c9c3150c9e7b116ffc78cf1fd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6213e476b74daaafd26c9dc3e6d85d80/3dd6a7a5117ef513b2bed4751a38bc77.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/61c1f1024575e3da4fd2da740c83d3bc/26daa244a45ee688371e3370c453708a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0645974af5e8db0fb6224efdc2f274d7/9874329d4d91ba7996169c46b405e49c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47942238f2f32614abbc88c4edda9735/302c04b814e85b75ed8e29cf3d58c3a8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b7da15d9b74d2ddf2473a2ec8c8cee2/f6528123143bf89d3e70b3cbbefa6d2a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Australian/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Rocco is the steady, self‑assured pup of the group. He’s brave, curious, and always the first to check out something new. He loves playtime, training, and being near his people. Rocco will grow into a loyal, confident companion who thrives with structure and engagement.",
+      "LastIntakeUnixTime": "1775302440",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781025345"
+    },
+    {
       "ID": "3475",
       "Internal-ID": "213392424",
       "Name": "Jaxen",
@@ -5099,7 +5013,7 @@
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "7.12",
+      "CurrentWeightPounds": "7.4",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -5233,7 +5147,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780974543"
+      "LastUpdatedUnixTime": "1781028202"
     },
     {
       "ID": "3490",
@@ -5672,7 +5586,7 @@
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "17",
+      "CurrentWeightPounds": "21.4",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1766780637,
@@ -5751,7 +5665,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780972532"
+      "LastUpdatedUnixTime": "1781028025"
     },
     {
       "ID": "3523",
@@ -5886,6 +5800,98 @@
         }
       ],
       "LastUpdatedUnixTime": "1781021497"
+    },
+    {
+      "ID": "3587",
+      "Internal-ID": "213704424",
+      "Name": "Plum",
+      "LitterGroupId": 9513102,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1773550800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
+      "LastIntakeUnixTime": "1778952181",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781022575"
     },
     {
       "ID": "3588",
