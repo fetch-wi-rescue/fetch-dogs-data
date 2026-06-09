@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T22:08:20Z",
+  "updated": "2026-06-09T06:32:42Z",
   "animals": [
     {
       "ID": "3458",
@@ -476,6 +476,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-08T22:08:20Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3459",
+      "Name": "Fudge",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b79780c5dab48e55b2fb0a14974af34a/439089c58589b2954edf65b4971488d7.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-09T06:32:42Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3544",
+      "Name": "Barkeley",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ee6178f40885c4c046bda9230e8cb8/161d386f64e314583bd97779611e47c3.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-09T06:32:42Z",
       "status": "pending"
     }
   ]
