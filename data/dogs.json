@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T13:39:45Z",
-  "count": 76,
+  "updated": "2026-06-09T16:27:35Z",
+  "count": 80,
   "animals": [
     {
       "ID": "2754",
@@ -2262,104 +2262,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780929260"
-    },
-    {
-      "ID": "3549",
-      "Internal-ID": "213641251",
-      "Name": "Tigger",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "56.4",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1759294800,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/310eed76c06e46c7090ec9a1e2468b10/ed0f254e97edf93c1de6d9e556cb5344.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d07da9df51a726152f8fd90e4dd2a73/610bdf64d8a9ca9e9d0af05ff4f3c77d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6adf07672e54411191006c53cea22834/859d8edacd6704ef2a9da6b5985d4919.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8cc99979a10a596f1d847db10875e7e1/5c3f6a894577be5cb720a27fb66a5591.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3234e373fbd469be623deb7daef8f8b2/817e68157a85f38b6c78e34ab33e767e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8fd873f7d6efd853c8a286b32c3a0f96/53d27e54b4cd87bd6288f62c229f6629.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e7a4b3eed69d68878b25d1b2bf615fbe/3156779588b626bf14a2ba9c02297df8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8836015389747b33ae894559fd596dbd/9887a43f02012a1769470fcfa4230f09.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Saint Bernard",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Tigger — or as he would say, “T-I-double-guh-er! That spells Tigger!” 🐾\n\nThis 7-month-old Saint Bernard puppy absolutely lives up to his name with his goofy, bouncy personality. Tigger loves playing with our resident Bernese Mountain Dog and is happiest when he has a dog buddy to romp around with. Whether he’s tossing toys around by himself, chewing on a teething toy, or giving you a cheerful “Hoo-hoo-hoo-hoo!”, he’s always finding ways to keep life fun.\n\nTigger has a nice medium energy level for a giant-breed puppy. He enjoys 1–2 daily walks plus playtime with other dogs, but he’s also content entertaining himself and settling down for snuggles afterward. He rides well in the car, walks nicely on leash, sleeps quietly in his crate at night, and can stay crated during the workday without being destructive or vocal.\n\nLike many young dogs, Tigger is still learning about the world. He can be nervous around strangers and may bark when meeting new people, but he’s been making good progress with socialization and will need a patient adopter who can continue building his confidence. He’s also working through some separation anxiety and wants to be greeted with cuddles when his owner returns home, so consistency and routine will help him thrive. \n\nOne of Tigger’s funny quirks is that he tends to drink a LOT of water at once — which means he’ll usually need a couple potty breaks afterward. A home ready for typical puppy management and continued training will set him up for success.\n\nTigger would do best in a home that enjoys a playful, affectionate giant puppy and ideally has another friendly dog for him to “consider yourself pounced!” with. If you’re looking for a lovable goofball with a big heart, soft cuddles, and plenty of personality, Tigger may be your perfect match.\n“TTFN! Ta-ta for now!” — Tigger",
-      "LastIntakeUnixTime": "1778188553",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780959787"
     },
     {
       "ID": "3553",
@@ -4631,6 +4533,122 @@
       "LastUpdatedUnixTime": "1780959843"
     },
     {
+      "ID": "3603",
+      "Internal-ID": "213855262",
+      "Name": "Sheila",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.6",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1747761154,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1781020646",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781020692"
+    },
+    {
+      "ID": "3604",
+      "Internal-ID": "213855265",
+      "Name": "Sarah",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1747761414,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9ff13e8ddd3d0367a296eec9c403ea0/cca526cedae7b0e46d7dbfed7a8db720.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f9ff13e8ddd3d0367a296eec9c403ea0/cca526cedae7b0e46d7dbfed7a8db720.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1781020709",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781020732"
+    },
+    {
+      "ID": "3605",
+      "Internal-ID": "213855266",
+      "Name": "Skip",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.2",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1747769699,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1781020577",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781020601"
+    },
+    {
+      "ID": "3606",
+      "Internal-ID": "213855267",
+      "Name": "Sunrise",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12.7",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1747769823,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ac6c38876de5a3b7ab8750acd025bf9e/1a11edb3d0da7dddb9c904f99c288ed5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ac6c38876de5a3b7ab8750acd025bf9e/1a11edb3d0da7dddb9c904f99c288ed5.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1781020577",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781020601"
+    },
+    {
       "ID": "492",
       "Internal-ID": "213180709",
       "Name": "Dallas",
@@ -5770,6 +5788,104 @@
       "LastIntakeUnixTime": "1776519588",
       "Attributes": [],
       "LastUpdatedUnixTime": "1780698771"
+    },
+    {
+      "ID": "3549",
+      "Internal-ID": "213641251",
+      "Name": "Tigger",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "56.4",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1759294800,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/310eed76c06e46c7090ec9a1e2468b10/ed0f254e97edf93c1de6d9e556cb5344.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d07da9df51a726152f8fd90e4dd2a73/610bdf64d8a9ca9e9d0af05ff4f3c77d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6adf07672e54411191006c53cea22834/859d8edacd6704ef2a9da6b5985d4919.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8cc99979a10a596f1d847db10875e7e1/5c3f6a894577be5cb720a27fb66a5591.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3234e373fbd469be623deb7daef8f8b2/817e68157a85f38b6c78e34ab33e767e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8fd873f7d6efd853c8a286b32c3a0f96/53d27e54b4cd87bd6288f62c229f6629.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7a4b3eed69d68878b25d1b2bf615fbe/3156779588b626bf14a2ba9c02297df8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8836015389747b33ae894559fd596dbd/9887a43f02012a1769470fcfa4230f09.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Saint Bernard",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Tigger — or as he would say, “T-I-double-guh-er! That spells Tigger!” 🐾\n\nThis 7-month-old Saint Bernard puppy absolutely lives up to his name with his goofy, bouncy personality. Tigger loves playing with our resident Bernese Mountain Dog and is happiest when he has a dog buddy to romp around with. Whether he’s tossing toys around by himself, chewing on a teething toy, or giving you a cheerful “Hoo-hoo-hoo-hoo!”, he’s always finding ways to keep life fun.\n\nTigger has a nice medium energy level for a giant-breed puppy. He enjoys 1–2 daily walks plus playtime with other dogs, but he’s also content entertaining himself and settling down for snuggles afterward. He rides well in the car, walks nicely on leash, sleeps quietly in his crate at night, and can stay crated during the workday without being destructive or vocal.\n\nLike many young dogs, Tigger is still learning about the world. He can be nervous around strangers and may bark when meeting new people, but he’s been making good progress with socialization and will need a patient adopter who can continue building his confidence. He’s also working through some separation anxiety and wants to be greeted with cuddles when his owner returns home, so consistency and routine will help him thrive. \n\nOne of Tigger’s funny quirks is that he tends to drink a LOT of water at once — which means he’ll usually need a couple potty breaks afterward. A home ready for typical puppy management and continued training will set him up for success.\n\nTigger would do best in a home that enjoys a playful, affectionate giant puppy and ideally has another friendly dog for him to “consider yourself pounced!” with. If you’re looking for a lovable goofball with a big heart, soft cuddles, and plenty of personality, Tigger may be your perfect match.\n“TTFN! Ta-ta for now!” — Tigger",
+      "LastIntakeUnixTime": "1778188553",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295161",
+          "AttributeName": "Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781021497"
     },
     {
       "ID": "3588",
