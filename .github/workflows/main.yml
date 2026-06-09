@@ -27,7 +27,16 @@ jobs:
           while true; do
             RESPONSE=$(curl -s -H "Authorization: Bearer $API_KEY" \
               "https://new.shelterluv.com/api/v1/animals?status_type=in%20custody&limit=$LIMIT&offset=$OFFSET")
-            
+
+            # Validate response is JSON before parsing
+            if ! echo "$RESPONSE" | jq empty 2>/dev/null; then
+              echo "ERROR: ShelterLuv API returned non-JSON response:"
+              echo "$RESPONSE" | head -c 500
+              echo ""
+              echo "Exiting to prevent corrupt data."
+              exit 5
+            fi
+
             ANIMALS=$(echo "$RESPONSE" | jq '.animals // []')
             HAS_MORE=$(echo "$RESPONSE" | jq -r '.has_more // false')
             
