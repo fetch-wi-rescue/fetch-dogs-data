@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T06:32:42Z",
+  "updated": "2026-06-09T13:39:46Z",
   "animals": [
     {
       "ID": "3458",
@@ -494,6 +494,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-09T06:32:42Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3545",
+      "Name": "Freddie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-09T13:39:46Z",
       "status": "pending"
     }
   ]

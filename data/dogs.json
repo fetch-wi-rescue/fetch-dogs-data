@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T10:30:20Z",
-  "count": 77,
+  "updated": "2026-06-09T13:39:45Z",
+  "count": 76,
   "animals": [
     {
       "ID": "2754",
@@ -3023,6 +3023,98 @@
       "LastUpdatedUnixTime": "1780369580"
     },
     {
+      "ID": "3587",
+      "Internal-ID": "213704424",
+      "Name": "Plum",
+      "LitterGroupId": 9513102,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1773550800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
+      "LastIntakeUnixTime": "1778952181",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781009161"
+    },
+    {
       "ID": "3590",
       "Internal-ID": "213765756",
       "Name": "Cash",
@@ -3118,6 +3210,331 @@
         }
       ],
       "LastUpdatedUnixTime": "1780761368"
+    },
+    {
+      "ID": "3593",
+      "Internal-ID": "213786017",
+      "Name": "Daisy",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.8",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/73beb8ed39c0a6a519d672102c289c5d/8375cde231dc59e4b0cdbedd46d7b21e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a9956dd703d80d22cd71ea327eed2a4/916991026a3230dc6190f1642867bff3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f393aa4fc4e13807389d7a5a37a63445/8df75d2764ba2665babdc29806d2c101.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0abc0391c0511dd94e4916b54f1b46e8/de15a29f503771a8a5cb270fc943dcaa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/66c22cc4161493a19c58424260aee124/c22c6bb4486260fc77953fa60a92ff28.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fa378e1d98e6646e10a7d809638a5ac/b8a0cfbe2e6c5b67c3fa43a9ec901735.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e12c0463f8bc6669f2f8708f5fd91124/fddb7972a9231a6204879e6673f53b2f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/edf8c9637c949ae813dd7eea57063072/f22d9bf392119a88d4ea8f4126af55e7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5574ca5e0d8bc455e60a9c2f0b7925d/6b2a23fc46f1002631020595ba0124a1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b717cd791680ce295938dd62c66c32b/fa57fa2549c7eabf9b6136b249b7ce1b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Daisy is a tiny firecracker with a whole lot of attitude and even more love to give! Daisy is the definition of personality:  confident, opinionated, and absolutely convinced the world looks better when she’s in charge of it. She’s playful, clever, and always ready to add a little extra “zing” to your day.\n\nDaisy adores attention, thrives on interaction, and isn’t shy about telling you exactly how she feels - whether that’s demanding snacks, announcing her presence, or reminding you that she is, in fact, the star of the show. Under all that sass though is a sweetheart who bonds deeply and loves fiercely.\n\nShe’s looking for a home that appreciates a companion with flair, humor, and a dash of drama. If you’re ready for a lively little sidekick who will keep you laughing and, on your toes, Daisy is your girl.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781009120"
+    },
+    {
+      "ID": "3594",
+      "Internal-ID": "213786019",
+      "Name": "Fern",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.12",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b9a23a1d882cbd7a10457b5bf209bd2/9f257311a506108cdf5792905475e067.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c324a51c22aad53eb3350f5a3ff0f5c4/69456b32b07f8ff86f0f0871fc15fc7b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/80a3a3b3bc5e6da4bd978dd489c3538b/e46b86acf5945590677cb6752c9a847a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/12f5f6132898a1e75cafc87b9de33922/88b8e6d545708c864f87f3d7b9a150a0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e2eaa2fdfd485bba6cda8baac1fba92/0469b9337797554e504a7995960a2f57.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cffed21926d24c54c61dfebe7af72158/b32fd6fe3a45c981c3f05a03863968ae.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcdcd07ef4ee77623b1bdbb48d8db02e/7870fb5db74ccc6e24466d833579329a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9cf0f96344c45da697e2c8c20dde0d04/e2aea027fc23b79797e9c01f3c343f33.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0adfe78ec22e9ed13769eab8b6717f05/76b52c7ac57c39f7ec4afef0f368f2a9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/29a5e67018ea69355afab0e1199974ff/92988c0c338949a568b8ea8455b7ed9e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/08c0cfe809db1cd9d3421c669815cff5/0b3547c38e369933a4a49a05e0f2852b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dc1cdad03a1603f33a34686f1f140c9/fa27091f0d33cf07b27a5509caf1e372.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/36c64c892ee0b3b2448bafd3d0eaa234/c80f4c8efe82d751e47cbd0158127164.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/41e1fb22ca8e7b0c45a582fe165e9e0a/b4117747c0026001d0a077981d737121.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9c3a1f304c6137975c423a9f71bff22/ce75d7b0f9805830b9cb6d5becddedda.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/605ce4677037714a9454584bebe54fa9/6482cd0526796189e698a8ac75e6c2ce.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Fern is a bright, spirited little gal who brings joy everywhere she goes. Fern is the perfect blend of sweetness and fun - she loves affection, cozy naps, and being close to her people, but she’s just as excited to play, explore, and turn ordinary moments into tiny adventures. Her goofy charm, love of toys, and curious nature make her a constant source of smiles.\n\nFern is looking for a loving home that appreciates a companion with both heart and personality. She’s ready to bring warmth, laughter, and a whole lot of life into her new family. If you’re hoping for a friend who will keep you entertained and adored in equal measure, Fern is ready to bloom with you.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781009104"
+    },
+    {
+      "ID": "3595",
+      "Internal-ID": "213786020",
+      "Name": "Holly",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.14",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8bad60d3f8d568e8692ff09ac559cb7/34319260882c7179cb716254690c3f58.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b65f4434d478b949f72fe85377541370/54671a27be1be13b30d3b923c3cbc719.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a6cbb3b71b54037c05956e993a490d10/db5f2f5224e785772bfff9078ddea3aa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/37867ee4de0c08dc415fc8f58a94ac4a/1927aa3ad6b2b5a68b855119089369c5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3bb9ffdb1bf5e3fa560933f6fca5f68/10afdfdabe64cd5a67c3d1ac1dc48bf4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa0570a81e5816a8d09fc18aa3639960/f38aebdbe1dffcec4b1dfd457bbde7b1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/917903edf8faa917d39ec4c092cb6548/57e770b3cc8e70609254d1492c323b71.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/95b0d1684515de674a060825cfb637b2/f7190e35d6761eb2bd35140720cc974f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Holly is the perfect mix of sweet, curious, and delightfully spunky. Holly loves exploring her world, batting at toys, and wiggling her way into your arms - but she’s just as happy to curl up for a warm, cozy nap on your lap.\n\nShe’s already showing her affectionate personality, leaning into snuggles and soaking up every bit of love she can get. Whether she’s practicing her playful pounces or melting into your arms for cuddle time, Holly brings sunshine to every moment.\n\nThis little sweetheart is ready to grow, learn, and thrive with a family who will cherish her gentle spirit and playful spark. If you’re looking for a tiny companion who will fill your home with love, Holly is waiting to meet you.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781009085"
     },
     {
       "ID": "3596",
@@ -3386,7 +3803,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Basil came into the world on April 1st, and while his birthday is famous for tricks, there's nothing tricky about this boy. What you see is what you get: a sweet, curious puppy with a whole lot of life ahead of him and zero idea just how lucky his future family is going to feel.\n\nHe's got that wonderful puppy balance - enough energy to keep things interesting, enough calm to curl up and just be. He reads the room well for someone so young, matching the energy around him rather than bulldozing it. Active household? He's in. Quiet evenings on the couch? Also yes. Basil doesn't need the world to revolve around him; he just wants to be part of yours.",
+      "Description": "Basil came into the world on April 1st, and while his birthday is famous for tricks, there's nothing tricky about this boy. What you see is what you get: a sweet, curious puppy with a whole lot of life ahead of him and zero idea just how lucky his future family is going to feel.\n\nHe’s a spunky guy who loves toys, other dogs, and his foster parents. Basil enjoys lounging in the sunshine, sniffing around the yard, and an occasional zoomie. He LOVES to play fetch and enjoys choosing which soft toy to chase. He is incredibly food motivated and catches on to new things quickly. He is doing well with both crate and potty training if you are consistent. He knows his name, “sit”, and is working on “lay down”. \n\nBasil adores people but also loves his canine foster siblings. He is currently fostered with three other dogs and does well with all of them. Basil would love to spend the summer with his forever family and can’t wait to find them!\n",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
@@ -3450,7 +3867,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780921563"
+      "LastUpdatedUnixTime": "1781007572"
     },
     {
       "ID": "3599",
@@ -3678,6 +4095,131 @@
         }
       ],
       "LastUpdatedUnixTime": "1780959684"
+    },
+    {
+      "ID": "3601",
+      "Internal-ID": "213786026",
+      "Name": "Rowena",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "14",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1774538279,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d915f51148c8f98c31fb8aa6ee1c9be5/464ed1fb5bcd6a2755d99145ffde202d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa6477c585cebcece52c60d45d030195/a253c8dbdc44829471bacc9caa4a93ed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7230d9943912bd1230c711341f23acb7/df2331b1d7b1b67446dee2e529b098d1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a63ef6ac3f21710312dd246b6767df3/1d1979c1c148dd5dbbeb5c2a71334b73.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f65a6e28fde1422afde163b243121450/2f117db0edd90e230aa8895b7f3a5bdd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e271cab2001b66e4973836d2e6251fd/e8304cfd712aabee67c9eb0879a32487.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4b757021f4d35b94377a7585a0a8ea6/b105f357ed259d5fd1a09c5819227635.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3128b25d661475b24b8f4c9a17ea9060/512b79de9829287656821955aedb96af.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3cfc231f473c60de50d1cf83958cc969/870769d2be5be6239476b180a39bd2d6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/53acd15585ed2c84baf7304538b690b1/b56f5b12f56b3f991f2550187c376cd5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/41204673f625539e0983b40e7f33e48a/d97498ca97d6ff923e7a82e486b7eec4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a164aaa472a89b2d9fce3f186fb6cfcf/97e76e0bce9cac9fad7b49b750c4e2f7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ba2351a4965484bbb790abc418fd5e39/18a51be2c106acd3b1d38e77ca6e644d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa9b584172ae4e68bc573ac3d7c9141b/6af188b04562639fe31c9e136e40007e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/484655e9929443f508a8602113783311/37fa9e7dbdf3680fe3b3873143762a51.jpg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "u8ECY1sbR-o",
+          "EmbedUrl": "//www.youtube.com/embed/u8ECY1sbR-o?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=u8ECY1sbR-o",
+          "ThumbUrl": "https://img.youtube.com/vi/u8ECY1sbR-o/0.jpg"
+        },
+        {
+          "VideoId": "T1miqcaK_AI",
+          "EmbedUrl": "//www.youtube.com/embed/T1miqcaK_AI?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=T1miqcaK_AI",
+          "ThumbUrl": "https://img.youtube.com/vi/T1miqcaK_AI/0.jpg"
+        }
+      ],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Beige/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Rowena - a girl who's already been through more in her first weeks of life than most dogs face in a lifetime and is coming out the other side with her tail held high.\n\nShortly after Rowena arrived in the world, she was found abandoned, alone, and standing in the middle of the highway, clearly trying to fend for herself. She came to us battling mange, and while she's well on her way to a full recovery, she's still growing her coat back in - a little patchy, a little scruffy, and completely, utterly endearing. She's the kind of puppy who makes you root for her the moment you see her.\n\nBut here's the thing about Rowena: she has no idea she's been through anything hard. She isn't timid or withdrawn - she's just a puppy, doing puppy things, soaking up every good moment her foster home has to offer. She's got a lovely balance to her - playful when the moment calls for it, content to settle in and just be when it doesn't. She reads her people well and adapts easily, which means she'll fit into just about any household that's ready to love her.\n\nBy the time Rowena finds her forever home, that coat is going to be coming in beautifully - and her adopter will have the joy of watching that transformation happen in real time. A puppy who grows into herself, right before your eyes.\n\nRowena has already shown us who she is: resilient, sweet, and ready. Now she just needs someone to show her, and her favorite chair, where home is.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781009044"
     },
     {
       "ID": "2774",
@@ -4152,53 +4694,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780403698"
-    },
-    {
-      "ID": "3545",
-      "Internal-ID": "213603738",
-      "Name": "Freddie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714798800,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c17ad692b96f79df02eb6ae9c2af7c22/cf7a0854583367076f4626ba5ceab1af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f965bb38018f3d3fe26d62f0f3a033d2/3a76443feb4f2ca0f24d72ceb43a447b.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Chocolate/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1777945841",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780961521"
     },
     {
       "ID": "3546",
@@ -5277,98 +5772,6 @@
       "LastUpdatedUnixTime": "1780698771"
     },
     {
-      "ID": "3587",
-      "Internal-ID": "213704424",
-      "Name": "Plum",
-      "LitterGroupId": 9513102,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773550800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
-      "LastIntakeUnixTime": "1778952181",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780602019"
-    },
-    {
       "ID": "3588",
       "Internal-ID": "213719620",
       "Name": "Pancake",
@@ -5432,456 +5835,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780674982"
-    },
-    {
-      "ID": "3593",
-      "Internal-ID": "213786017",
-      "Name": "Daisy",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.8",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/73beb8ed39c0a6a519d672102c289c5d/8375cde231dc59e4b0cdbedd46d7b21e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a9956dd703d80d22cd71ea327eed2a4/916991026a3230dc6190f1642867bff3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f393aa4fc4e13807389d7a5a37a63445/8df75d2764ba2665babdc29806d2c101.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0abc0391c0511dd94e4916b54f1b46e8/de15a29f503771a8a5cb270fc943dcaa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/66c22cc4161493a19c58424260aee124/c22c6bb4486260fc77953fa60a92ff28.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2fa378e1d98e6646e10a7d809638a5ac/b8a0cfbe2e6c5b67c3fa43a9ec901735.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e12c0463f8bc6669f2f8708f5fd91124/fddb7972a9231a6204879e6673f53b2f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/edf8c9637c949ae813dd7eea57063072/f22d9bf392119a88d4ea8f4126af55e7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5574ca5e0d8bc455e60a9c2f0b7925d/6b2a23fc46f1002631020595ba0124a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b717cd791680ce295938dd62c66c32b/fa57fa2549c7eabf9b6136b249b7ce1b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Daisy is a tiny firecracker with a whole lot of attitude and even more love to give! Daisy is the definition of personality:  confident, opinionated, and absolutely convinced the world looks better when she’s in charge of it. She’s playful, clever, and always ready to add a little extra “zing” to your day.\n\nDaisy adores attention, thrives on interaction, and isn’t shy about telling you exactly how she feels - whether that’s demanding snacks, announcing her presence, or reminding you that she is, in fact, the star of the show. Under all that sass though is a sweetheart who bonds deeply and loves fiercely.\n\nShe’s looking for a home that appreciates a companion with flair, humor, and a dash of drama. If you’re ready for a lively little sidekick who will keep you laughing and, on your toes, Daisy is your girl.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780884825"
-    },
-    {
-      "ID": "3594",
-      "Internal-ID": "213786019",
-      "Name": "Fern",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.12",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b9a23a1d882cbd7a10457b5bf209bd2/9f257311a506108cdf5792905475e067.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c324a51c22aad53eb3350f5a3ff0f5c4/69456b32b07f8ff86f0f0871fc15fc7b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/80a3a3b3bc5e6da4bd978dd489c3538b/e46b86acf5945590677cb6752c9a847a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/12f5f6132898a1e75cafc87b9de33922/88b8e6d545708c864f87f3d7b9a150a0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e2eaa2fdfd485bba6cda8baac1fba92/0469b9337797554e504a7995960a2f57.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cffed21926d24c54c61dfebe7af72158/b32fd6fe3a45c981c3f05a03863968ae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bcdcd07ef4ee77623b1bdbb48d8db02e/7870fb5db74ccc6e24466d833579329a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9cf0f96344c45da697e2c8c20dde0d04/e2aea027fc23b79797e9c01f3c343f33.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0adfe78ec22e9ed13769eab8b6717f05/76b52c7ac57c39f7ec4afef0f368f2a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/29a5e67018ea69355afab0e1199974ff/92988c0c338949a568b8ea8455b7ed9e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/08c0cfe809db1cd9d3421c669815cff5/0b3547c38e369933a4a49a05e0f2852b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dc1cdad03a1603f33a34686f1f140c9/fa27091f0d33cf07b27a5509caf1e372.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/36c64c892ee0b3b2448bafd3d0eaa234/c80f4c8efe82d751e47cbd0158127164.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41e1fb22ca8e7b0c45a582fe165e9e0a/b4117747c0026001d0a077981d737121.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9c3a1f304c6137975c423a9f71bff22/ce75d7b0f9805830b9cb6d5becddedda.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/605ce4677037714a9454584bebe54fa9/6482cd0526796189e698a8ac75e6c2ce.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fern is a bright, spirited little gal who brings joy everywhere she goes. Fern is the perfect blend of sweetness and fun - she loves affection, cozy naps, and being close to her people, but she’s just as excited to play, explore, and turn ordinary moments into tiny adventures. Her goofy charm, love of toys, and curious nature make her a constant source of smiles.\n\nFern is looking for a loving home that appreciates a companion with both heart and personality. She’s ready to bring warmth, laughter, and a whole lot of life into her new family. If you’re hoping for a friend who will keep you entertained and adored in equal measure, Fern is ready to bloom with you.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780884805"
-    },
-    {
-      "ID": "3595",
-      "Internal-ID": "213786020",
-      "Name": "Holly",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.14",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8bad60d3f8d568e8692ff09ac559cb7/34319260882c7179cb716254690c3f58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b65f4434d478b949f72fe85377541370/54671a27be1be13b30d3b923c3cbc719.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a6cbb3b71b54037c05956e993a490d10/db5f2f5224e785772bfff9078ddea3aa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/37867ee4de0c08dc415fc8f58a94ac4a/1927aa3ad6b2b5a68b855119089369c5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3bb9ffdb1bf5e3fa560933f6fca5f68/10afdfdabe64cd5a67c3d1ac1dc48bf4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa0570a81e5816a8d09fc18aa3639960/f38aebdbe1dffcec4b1dfd457bbde7b1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/917903edf8faa917d39ec4c092cb6548/57e770b3cc8e70609254d1492c323b71.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/95b0d1684515de674a060825cfb637b2/f7190e35d6761eb2bd35140720cc974f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Holly is the perfect mix of sweet, curious, and delightfully spunky. Holly loves exploring her world, batting at toys, and wiggling her way into your arms - but she’s just as happy to curl up for a warm, cozy nap on your lap.\n\nShe’s already showing her affectionate personality, leaning into snuggles and soaking up every bit of love she can get. Whether she’s practicing her playful pounces or melting into your arms for cuddle time, Holly brings sunshine to every moment.\n\nThis little sweetheart is ready to grow, learn, and thrive with a family who will cherish her gentle spirit and playful spark. If you’re looking for a tiny companion who will fill your home with love, Holly is waiting to meet you.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780884843"
-    },
-    {
-      "ID": "3601",
-      "Internal-ID": "213786026",
-      "Name": "Rowena",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "14",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1774538279,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d915f51148c8f98c31fb8aa6ee1c9be5/464ed1fb5bcd6a2755d99145ffde202d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa6477c585cebcece52c60d45d030195/a253c8dbdc44829471bacc9caa4a93ed.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7230d9943912bd1230c711341f23acb7/df2331b1d7b1b67446dee2e529b098d1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a63ef6ac3f21710312dd246b6767df3/1d1979c1c148dd5dbbeb5c2a71334b73.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f65a6e28fde1422afde163b243121450/2f117db0edd90e230aa8895b7f3a5bdd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e271cab2001b66e4973836d2e6251fd/e8304cfd712aabee67c9eb0879a32487.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4b757021f4d35b94377a7585a0a8ea6/b105f357ed259d5fd1a09c5819227635.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3128b25d661475b24b8f4c9a17ea9060/512b79de9829287656821955aedb96af.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3cfc231f473c60de50d1cf83958cc969/870769d2be5be6239476b180a39bd2d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53acd15585ed2c84baf7304538b690b1/b56f5b12f56b3f991f2550187c376cd5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41204673f625539e0983b40e7f33e48a/d97498ca97d6ff923e7a82e486b7eec4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a164aaa472a89b2d9fce3f186fb6cfcf/97e76e0bce9cac9fad7b49b750c4e2f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ba2351a4965484bbb790abc418fd5e39/18a51be2c106acd3b1d38e77ca6e644d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa9b584172ae4e68bc573ac3d7c9141b/6af188b04562639fe31c9e136e40007e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/484655e9929443f508a8602113783311/37fa9e7dbdf3680fe3b3873143762a51.jpg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "u8ECY1sbR-o",
-          "EmbedUrl": "//www.youtube.com/embed/u8ECY1sbR-o?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=u8ECY1sbR-o",
-          "ThumbUrl": "https://img.youtube.com/vi/u8ECY1sbR-o/0.jpg"
-        },
-        {
-          "VideoId": "T1miqcaK_AI",
-          "EmbedUrl": "//www.youtube.com/embed/T1miqcaK_AI?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=T1miqcaK_AI",
-          "ThumbUrl": "https://img.youtube.com/vi/T1miqcaK_AI/0.jpg"
-        }
-      ],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Beige/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Rowena - a girl who's already been through more in her first weeks of life than most dogs face in a lifetime and is coming out the other side with her tail held high.\n\nShortly after Rowena arrived in the world, she was found abandoned, alone, and standing in the middle of the highway, clearly trying to fend for herself. She came to us battling mange, and while she's well on her way to a full recovery, she's still growing her coat back in - a little patchy, a little scruffy, and completely, utterly endearing. She's the kind of puppy who makes you root for her the moment you see her.\n\nBut here's the thing about Rowena: she has no idea she's been through anything hard. She isn't timid or withdrawn - she's just a puppy, doing puppy things, soaking up every good moment her foster home has to offer. She's got a lovely balance to her - playful when the moment calls for it, content to settle in and just be when it doesn't. She reads her people well and adapts easily, which means she'll fit into just about any household that's ready to love her.\n\nBy the time Rowena finds her forever home, that coat is going to be coming in beautifully - and her adopter will have the joy of watching that transformation happen in real time. A puppy who grows into herself, right before your eyes.\n\nRowena has already shown us who she is: resilient, sweet, and ready. Now she just needs someone to show her, and her favorite chair, where home is.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780957056"
     },
     {
       "ID": "3580",
