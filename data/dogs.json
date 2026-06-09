@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T22:08:36Z",
+  "updated": "2026-06-09T23:49:15Z",
   "count": 80,
   "animals": [
     {
@@ -3018,7 +3018,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781009120"
+      "LastUpdatedUnixTime": "1781043306"
     },
     {
       "ID": "3594",
@@ -3130,7 +3130,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781009104"
+      "LastUpdatedUnixTime": "1781043306"
     },
     {
       "ID": "3595",
@@ -3235,7 +3235,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781009085"
+      "LastUpdatedUnixTime": "1781043306"
     },
     {
       "ID": "3596",
@@ -3341,7 +3341,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780856963"
+      "LastUpdatedUnixTime": "1781043306"
     },
     {
       "ID": "3597",
@@ -3452,7 +3452,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780857170"
+      "LastUpdatedUnixTime": "1781043306"
     },
     {
       "ID": "3598",
@@ -3568,7 +3568,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781039004"
+      "LastUpdatedUnixTime": "1781043307"
     },
     {
       "ID": "3599",
@@ -3679,7 +3679,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780857388"
+      "LastUpdatedUnixTime": "1781043307"
     },
     {
       "ID": "3600",
@@ -3795,7 +3795,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780959684"
+      "LastUpdatedUnixTime": "1781043307"
     },
     {
       "ID": "3601",
@@ -4343,7 +4343,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "7.6",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1747761154,
       "Age": 12,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
@@ -4354,11 +4354,17 @@
       "Breed": "Shih Tzu",
       "Color": "Tan",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781025917"
+      "LastUpdatedUnixTime": "1781044920"
     },
     {
       "ID": "3604",
@@ -4393,7 +4399,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020709",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781025897"
+      "LastUpdatedUnixTime": "1781046342"
     },
     {
       "ID": "3605",
@@ -4422,7 +4428,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781025877"
+      "LastUpdatedUnixTime": "1781046367"
     },
     {
       "ID": "3606",
@@ -4451,7 +4457,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781025940"
+      "LastUpdatedUnixTime": "1781046354"
     },
     {
       "ID": "492",
