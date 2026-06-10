@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T13:39:46Z",
+  "updated": "2026-06-10T22:24:47Z",
   "animals": [
     {
       "ID": "3458",
@@ -503,6 +503,15 @@
       "Status": "Foster to Adopt",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-09T13:39:46Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3588",
+      "Name": "Pancake",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bc2e592d437f46904bba0debe353b524/fe2768251778366037fc6a5f939ca258.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-10T22:24:47Z",
       "status": "pending"
     }
   ]
