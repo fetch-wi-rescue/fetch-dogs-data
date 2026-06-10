@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T22:24:47Z",
-  "count": 79,
+  "updated": "2026-06-10T23:54:28Z",
+  "count": 78,
   "animals": [
     {
       "ID": "2754",
@@ -5737,96 +5737,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781120284"
-    },
-    {
-      "ID": "3481",
-      "Internal-ID": "213447550",
-      "Name": "Sally",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "38.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1735711200,
-      "Age": 17,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2b33db8b72fb3b7d06c92f5dd4c5ea6c/37da7f01423da82de78d2ec6c37b988f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2b33db8b72fb3b7d06c92f5dd4c5ea6c/37da7f01423da82de78d2ec6c37b988f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/730b71a594f6a89150346bfc364635e1/cb5699041df24987c8c4f64d4197757e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e2be0b9afc5f287576fe5304845b94d9/79f6a1e81f30f8ee887ac666e37940a8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/366b1761540632fbfb632dd6722d889b/fdae4ce44ac7d197185074d01f731847.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fcf6450cf2b6c06e062c6f49598884b1/56e297b971a290017f2c3dc5c76e0561.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/813701eb047b710f533858c8c523eb71/c74092903fe2e448e88875e0b6007eef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a9cb005483aeaa8a3f39602cad9e66c8/9624aa6ed62e255b3b37f57c433d6549.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d5a146865f1f9b38fc9c7803a9a69a0e/8bbc593a6b77acac632cd305a72989f6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/af72e3428d8efb0b55df356ee30b4254/6afc0b9d33e531a0b0fe5dc3561c09a9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/668b70d3ffe7f4774c32e39a885c7885/7bf2dbd77eebec2dc6eb5b4e591aa18e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Foxhound, American",
-      "Color": "Tan/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Sally is love with a hint of lime 🍋‍🟩🐾 💚. She is a petite foxhound, about 35 pounds, estimated to be a little over a year old. And while she is the consummate snuggle bug, don’t let her size and sweetness fool you! She is a problem solver through and through: her sweet adorable brain never stops puzzling - you can almost see her little gears turning while she tries to figure out her next big move. It makes sense – not only does her breeding lend itself to independent thinking, but her size and, likely the conditions she was born into, have required her to use that gift to full advantage. And so it is that Sally figures out how to get what she needs in life: whether it’s pets and cuddles, an extra treat or an escape hatch under the fence 😳. She does it all so totally and completely adorably (her secret weapon), that it is impossible to be upset with her...and the truth is that for Sally, life up to this point has been about survival. Like her two packmates who she was rescued with, she continues to work through hypervigilance to noises, people carrying things, taking food from a human hand and being left home alone. That said, there is just something about Sally, some little extra flame of playful curiosity that might either get her into trouble, OR…you just never know, with enough design and determination, might just land her the biggest prize in the whole shootin’ match 🧡",
-      "LastIntakeUnixTime": "1775756883",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781120636"
     },
     {
       "ID": "3580",

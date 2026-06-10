@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T22:24:47Z",
+  "updated": "2026-06-10T23:54:28Z",
   "animals": [
     {
       "ID": "3458",
@@ -512,6 +512,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-10T22:24:47Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3481",
+      "Name": "Sally",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2b33db8b72fb3b7d06c92f5dd4c5ea6c/37da7f01423da82de78d2ec6c37b988f.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-10T23:54:28Z",
       "status": "pending"
     }
   ]
