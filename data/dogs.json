@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T11:07:26Z",
+  "updated": "2026-06-10T14:34:03Z",
   "count": 80,
   "animals": [
     {
@@ -3571,7 +3571,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043307"
+      "LastUpdatedUnixTime": "1781095491"
     },
     {
       "ID": "3599",
@@ -3694,9 +3694,9 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "16.4",
+      "CurrentWeightPounds": "17",
       "Size": "Large (60-99)",
-      "Altered": "No",
+      "Altered": "Yes",
       "DOBUnixTime": 1775019600,
       "Age": 2,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
@@ -3798,7 +3798,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043307"
+      "LastUpdatedUnixTime": "1781095384"
     },
     {
       "ID": "3601",
@@ -4291,7 +4291,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779927058"
+      "LastUpdatedUnixTime": "1781095688"
     },
     {
       "ID": "3592",
@@ -4367,7 +4367,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781044920"
+      "LastUpdatedUnixTime": "1781094724"
     },
     {
       "ID": "3604",
@@ -4402,7 +4402,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020709",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781046342"
+      "LastUpdatedUnixTime": "1781094735"
     },
     {
       "ID": "3605",
@@ -4431,7 +4431,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781046367"
+      "LastUpdatedUnixTime": "1781094724"
     },
     {
       "ID": "3606",
@@ -4461,7 +4461,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781050256"
+      "LastUpdatedUnixTime": "1781094724"
     },
     {
       "ID": "492",
