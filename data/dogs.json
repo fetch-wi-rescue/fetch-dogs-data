@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T15:40:56Z",
+  "updated": "2026-06-11T18:42:41Z",
   "count": 77,
   "animals": [
     {
@@ -4136,7 +4136,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781064239"
+      "LastUpdatedUnixTime": "1781197702"
     },
     {
       "ID": "3603",
@@ -4445,64 +4445,6 @@
       "LastUpdatedUnixTime": "1780961337"
     },
     {
-      "ID": "873",
-      "Internal-ID": "213178888",
-      "Name": "Smilie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "89.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1601442000,
-      "Age": 68,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/55b6314750edaa7208a6ec81e849f97d/73dea80a00ca14c9fc502e0062334d3a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/35dfc9e58c707a311bcb1318e26c6a1d/9231044dbcdc208a8999174ac32aefa0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7e285e5b56762de409f445f49e8ee5e4/bb69904dfdc73bf552e934e321418a92.png"
-      ],
-      "Videos": [],
-      "Breed": "Pyrenees, Great",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Smilie! He's a chill affectionate big lug of a companion that will warm your heart with his big smiles and calm demeanor. He's crate trained and potty trained but can also free roam. He can be stubborn but does know sit and down.\n\nSmilie would do well in a home that has a fenced yard but would also likely do well in an apartment. He is pretty quiet but will bark to alert you to things.\n\nHe would do best in an adult home or with older kids as he struggled with young children in his previous home. He has met many children at events and done very well with those encounters.\n\nHe is also dog selective and prefers more mellow dogs. He has gotten along very well with our resident yellow lab mix who is fairly relaxed but they also enjoy wrestling together.\n\nOnce you meet Smilie, you'll be in love with him.",
-      "LastIntakeUnixTime": "1778798085",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780960189"
-    },
-    {
       "ID": "3453",
       "Internal-ID": "213344907",
       "Name": "Sunday",
@@ -4601,112 +4543,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780928910"
-    },
-    {
-      "ID": "3464",
-      "Internal-ID": "213355169",
-      "Name": "Hannah",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "38",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763013600,
-      "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/60f38f663021c1e710af1fb3f6aceff1/77c65de2d9b60e26180cf0b0e4861b0f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5a64459a734e850ca2fbd70557df4d0/3e4209975e5ade429e9ed89097f148ea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8d705078e8d53a9e006da8e07572f4c/0c9891c7016881e23e901a9639a73b9f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62660bf5bd5b213704b08e37d2e8ebfe/a6fb8c445ac9711353d26fcf02d798a9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/987e705f7a9cc64261380db7074b53cf/7689480580da51fb13633e928730fd55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8dad091ef1880d595b290e5cf0efd499/abd2c3186e0fca192d061824658c9be6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b64bfb4ae852d461b2683c79dfbb2d70/be6b256fa63ab728eaa6d96532b79e23.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/809a55806d46efe5ae1303a91b0a3e1c/b6f462f4e6a4058f98bb145c796db1f2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/34a69bc333ddbd871a1af9f514e09fa7/f4a784fbd1bf941ec8ec06194cb48b1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/215b89f08bbf92103d2cc42d39e47999/22f0892c4b4250bd7218ad19f265c404.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "White/Black",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Hannah 🐾\n\nHannah is a sweet, snuggly puppy who’s well on her way to becoming an amazing companion. She absolutely loves curling up close for cuddles and happily keeps herself busy with a good chew bone.\n\nHer favorite places are the couch and the bed, she would love to sleep with you, but also is fine sleeping near by. Her foster parents don’t let her sleep in bed during the night, so she often chooses the next closest place, sleeping under the bed.\n\nShe’s a smart girl who’s eager to learn—she already knows “sit” and is currently working on mastering “down.” Hannah is potty trained, sleeps through the night, and can be left out of a crate without getting into trouble (in fact, she’d prefer to skip the crate altogether!).\n\nHannah enjoys playing with other dogs and has been doing great with her two foster dog siblings. She’s still a puppy, but she’s growing into a good girl who will make a wonderful addition to a loving home.\n\nIf you’re looking for a playful cuddle buddy, Hannah might just be your perfect match.",
-      "LastIntakeUnixTime": "1776395511",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779932790"
     },
     {
       "ID": "3474",
@@ -5387,48 +5223,6 @@
       "LastUpdatedUnixTime": "1781028025"
     },
     {
-      "ID": "3523",
-      "Internal-ID": "213502312",
-      "Name": "Ginger",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "48.8",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1580018400,
-      "Age": 76,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0c965204b5a14dfde19f8c95917530ed/a7729410ee52792f51c05fbd164de9d0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/578889ea9f94b41f3d52a6f3be5f94eb/ce9bae70eab48893a424d2024f1a8d51.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e367010ba3af1cbfa34cf45b5e274ed/9c02f28ad37824f32a7a3e33bbd3693e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e170250c78a324a34cea256b7c789c9d/cc8a715cce7ea48a8ef06e159dbc5e48.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44cf8ad52039b75283616b34031152ea/ffa4818a765d743d3843ccd1f64c2cd7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/beeea011fd96c557ff1ede29597f8d31/90a0459f489236752d09aace067a15fe.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/71851ed62079922905abe43d429f569f/aabec36d5560d5d253dd5ef9a5fe9e86.jpg"
-      ],
-      "Videos": [],
-      "Breed": "",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Ginger is a sweetheart who loves hanging out with her people, going for long walks, and snuggling up in the coziest spots in the house.\n\nIn her foster home she lives with a large dog foster brother and 2 young kids and she does great with them. When Ginger gets excited she doesn't have great spatial awareness and may knock over toddlers/babies and people with mobility limitations, but generally she is very calm and gentle. Her interaction with cats is unknown at this time.\n\nGinger gets anxious during thunderstorms and likes hiding under a bed as her safe spot. She likes quietly observing animals outside and she hardly ever barks. She is working on not jumping when first meeting a person, but listens pretty well to commands. She will sit when getting her leash on/waiting to go outside.\n\nGinger walks well on a leash, can be left out to free roam inside the house, is potty trained, and does great in the car. She likes occasional play sessions with toys and checking out what everyone is doing, but spends most of her time resting around the house. She thinks she is a lap dog and loves cuddles. Ginger loves exploring and hanging out in the sunshine.",
-      "LastIntakeUnixTime": "1776519588",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1781123566"
-    },
-    {
       "ID": "3549",
       "Internal-ID": "213641251",
       "Name": "Tigger",
@@ -5742,6 +5536,212 @@
         }
       ],
       "LastUpdatedUnixTime": "1781120284"
+    },
+    {
+      "ID": "873",
+      "Internal-ID": "213178888",
+      "Name": "Smilie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "89.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1601442000,
+      "Age": 68,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/55b6314750edaa7208a6ec81e849f97d/73dea80a00ca14c9fc502e0062334d3a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/35dfc9e58c707a311bcb1318e26c6a1d/9231044dbcdc208a8999174ac32aefa0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7e285e5b56762de409f445f49e8ee5e4/bb69904dfdc73bf552e934e321418a92.png"
+      ],
+      "Videos": [],
+      "Breed": "Pyrenees, Great",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Smilie! He's a chill affectionate big lug of a companion that will warm your heart with his big smiles and calm demeanor. He's crate trained and potty trained but can also free roam. He can be stubborn but does know sit and down.\n\nSmilie would do well in a home that has a fenced yard but would also likely do well in an apartment. He is pretty quiet but will bark to alert you to things.\n\nHe would do best in an adult home or with older kids as he struggled with young children in his previous home. He has met many children at events and done very well with those encounters.\n\nHe is also dog selective and prefers more mellow dogs. He has gotten along very well with our resident yellow lab mix who is fairly relaxed but they also enjoy wrestling together.\n\nOnce you meet Smilie, you'll be in love with him.",
+      "LastIntakeUnixTime": "1778798085",
+      "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781199208"
+    },
+    {
+      "ID": "3464",
+      "Internal-ID": "213355169",
+      "Name": "Hannah",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "38",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763013600,
+      "Age": 6,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/60f38f663021c1e710af1fb3f6aceff1/77c65de2d9b60e26180cf0b0e4861b0f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5a64459a734e850ca2fbd70557df4d0/3e4209975e5ade429e9ed89097f148ea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8d705078e8d53a9e006da8e07572f4c/0c9891c7016881e23e901a9639a73b9f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62660bf5bd5b213704b08e37d2e8ebfe/a6fb8c445ac9711353d26fcf02d798a9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/987e705f7a9cc64261380db7074b53cf/7689480580da51fb13633e928730fd55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8dad091ef1880d595b290e5cf0efd499/abd2c3186e0fca192d061824658c9be6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b64bfb4ae852d461b2683c79dfbb2d70/be6b256fa63ab728eaa6d96532b79e23.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/809a55806d46efe5ae1303a91b0a3e1c/b6f462f4e6a4058f98bb145c796db1f2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/34a69bc333ddbd871a1af9f514e09fa7/f4a784fbd1bf941ec8ec06194cb48b1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/215b89f08bbf92103d2cc42d39e47999/22f0892c4b4250bd7218ad19f265c404.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "White/Black",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Hannah 🐾\n\nHannah is a sweet, snuggly puppy who’s well on her way to becoming an amazing companion. She absolutely loves curling up close for cuddles and happily keeps herself busy with a good chew bone.\n\nHer favorite places are the couch and the bed, she would love to sleep with you, but also is fine sleeping near by. Her foster parents don’t let her sleep in bed during the night, so she often chooses the next closest place, sleeping under the bed.\n\nShe’s a smart girl who’s eager to learn—she already knows “sit” and is currently working on mastering “down.” Hannah is potty trained, sleeps through the night, and can be left out of a crate without getting into trouble (in fact, she’d prefer to skip the crate altogether!).\n\nHannah enjoys playing with other dogs and has been doing great with her two foster dog siblings. She’s still a puppy, but she’s growing into a good girl who will make a wonderful addition to a loving home.\n\nIf you’re looking for a playful cuddle buddy, Hannah might just be your perfect match.",
+      "LastIntakeUnixTime": "1776395511",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781199393"
+    },
+    {
+      "ID": "3523",
+      "Internal-ID": "213502312",
+      "Name": "Ginger",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "47",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1580018400,
+      "Age": 76,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0c965204b5a14dfde19f8c95917530ed/a7729410ee52792f51c05fbd164de9d0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/578889ea9f94b41f3d52a6f3be5f94eb/ce9bae70eab48893a424d2024f1a8d51.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2e367010ba3af1cbfa34cf45b5e274ed/9c02f28ad37824f32a7a3e33bbd3693e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e170250c78a324a34cea256b7c789c9d/cc8a715cce7ea48a8ef06e159dbc5e48.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/44cf8ad52039b75283616b34031152ea/ffa4818a765d743d3843ccd1f64c2cd7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/beeea011fd96c557ff1ede29597f8d31/90a0459f489236752d09aace067a15fe.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/71851ed62079922905abe43d429f569f/aabec36d5560d5d253dd5ef9a5fe9e86.jpg"
+      ],
+      "Videos": [],
+      "Breed": "",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Ginger is a sweetheart who loves hanging out with her people, going for long walks, and snuggling up in the coziest spots in the house.\n\nIn her foster home she lives with a large dog foster brother and 2 young kids and she does great with them. When Ginger gets excited she doesn't have great spatial awareness and may knock over toddlers/babies and people with mobility limitations, but generally she is very calm and gentle. Her interaction with cats is unknown at this time.\n\nGinger gets anxious during thunderstorms and likes hiding under a bed as her safe spot. She likes quietly observing animals outside and she hardly ever barks. She is working on not jumping when first meeting a person, but listens pretty well to commands. She will sit when getting her leash on/waiting to go outside.\n\nGinger walks well on a leash, can be left out to free roam inside the house, is potty trained, and does great in the car. She likes occasional play sessions with toys and checking out what everyone is doing, but spends most of her time resting around the house. She thinks she is a lap dog and loves cuddles. Ginger loves exploring and hanging out in the sunshine.",
+      "LastIntakeUnixTime": "1776519588",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781200066"
     },
     {
       "ID": "3580",
