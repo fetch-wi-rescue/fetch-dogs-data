@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T18:42:41Z",
-  "count": 77,
+  "updated": "2026-06-11T21:15:07Z",
+  "count": 79,
   "animals": [
     {
       "ID": "2754",
@@ -824,7 +824,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "4.94",
+      "CurrentWeightPounds": "8.6",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1773378000,
@@ -900,7 +900,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1781140472"
+      "LastUpdatedUnixTime": "1781206407"
     },
     {
       "ID": "3462",
@@ -4150,7 +4150,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "7.6",
       "Size": "Small (0-24)",
-      "Altered": "Yes",
+      "Altered": "Unknown",
       "DOBUnixTime": 1747761154,
       "Age": 12,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
@@ -4171,7 +4171,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781094724"
+      "LastUpdatedUnixTime": "1781208122"
     },
     {
       "ID": "3604",
@@ -4266,6 +4266,142 @@
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
       "LastUpdatedUnixTime": "1781188938"
+    },
+    {
+      "ID": "3607",
+      "Internal-ID": "213879443",
+      "Name": "Uncle Waldrop",
+      "LitterGroupId": 9531464,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1519508563,
+      "Age": 99,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6882f8a231a8b6ee8fa2352afe8043f4/435fb977597bc2a32644e18e69d3411b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6882f8a231a8b6ee8fa2352afe8043f4/435fb977597bc2a32644e18e69d3411b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b81c3b092870a49c62841e4432a071a6/bd258fa3d137de3f09778b9622ad25a4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chow Chow",
+      "Color": "Red/Mahogany",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1781206136",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781206173"
+    },
+    {
+      "ID": "3608",
+      "Internal-ID": "213879445",
+      "Name": "Snickers",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "46.5",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751605200,
+      "Age": 11,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b6b14ba8a71a58210e7a907616395957/572770c5e3f21330f05055cfb064877e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Catahoula Leopard Dog",
+      "Color": "Tan/Brown",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1781206136",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629391",
+          "AttributeName": "Orthopedic Surgery Recovery Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781206306"
     },
     {
       "ID": "492",
@@ -6372,11 +6508,17 @@
       "Altered": "Yes",
       "DOBUnixTime": 1684990800,
       "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f78a1daf8b76955c9340ef03ce201a53/f6c73c89b34e2530cc152ea9991651bb.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a13a4bdbf1a20cfc741802176bfe85bb/b31c23744f356f3a16063237d5eae09e.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f78a1daf8b76955c9340ef03ce201a53/f6c73c89b34e2530cc152ea9991651bb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a13a4bdbf1a20cfc741802176bfe85bb/b31c23744f356f3a16063237d5eae09e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ce342d3e15b13e6a14061a25d7311970/3bf18e6d0b4a0de15ac3dccec6babc4e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d1d550f03b3163e2b02ffe7c5cb551a/2691abd1cd545f673d5ee73abb27a5d8.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/f78a1daf8b76955c9340ef03ce201a53/f6c73c89b34e2530cc152ea9991651bb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d1d550f03b3163e2b02ffe7c5cb551a/2691abd1cd545f673d5ee73abb27a5d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/508200e896e38f6e355c9bdc176dbc23/0d0f5f373cd5521add2eb137f8725d41.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bbd37ea43d80f6223d3b930933efb7c0/ba17ad01ab0eb3ad27f49a4fec85ec86.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b2667ebcf725e600fa511a1b492ce5c/16eb56f036419dce93d8a1408e30b624.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/865a253fab4e7ee41f0f7609f166f411/640a606067c64f4db76a7bb5df1cf888.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76af91000c2e33376e2569bda70d3573/494ff4f0d9b7360eb05cb84c099cff22.jpeg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Medium)",
@@ -6422,7 +6564,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1780792816"
+      "LastUpdatedUnixTime": "1781203640"
     }
   ]
 }
