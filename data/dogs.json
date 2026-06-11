@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T23:54:28Z",
-  "count": 78,
+  "updated": "2026-06-11T02:52:23Z",
+  "count": 76,
   "animals": [
     {
       "ID": "2754",
@@ -900,7 +900,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1780761806"
+      "LastUpdatedUnixTime": "1781140472"
     },
     {
       "ID": "3462",
@@ -1280,7 +1280,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780959436"
+      "LastUpdatedUnixTime": "1781140475"
     },
     {
       "ID": "3503",
@@ -1391,7 +1391,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780959221"
+      "LastUpdatedUnixTime": "1781140456"
     },
     {
       "ID": "3521",
@@ -2491,6 +2491,66 @@
         }
       ],
       "LastUpdatedUnixTime": "1780697940"
+    },
+    {
+      "ID": "3578",
+      "Internal-ID": "213704197",
+      "Name": "Amara",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "57",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751778000,
+      "Age": 11,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Rottweiler",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
+      "LastIntakeUnixTime": "1778898499",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781140811"
     },
     {
       "ID": "3579",
@@ -3880,61 +3940,6 @@
       "LastUpdatedUnixTime": "1780500028"
     },
     {
-      "ID": "3578",
-      "Internal-ID": "213704197",
-      "Name": "Amara",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "57.2",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1751778000,
-      "Age": 11,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Rottweiler",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
-      "LastIntakeUnixTime": "1778898499",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781030699"
-    },
-    {
       "ID": "3591",
       "Internal-ID": "213772138",
       "Name": "Moka",
@@ -4118,7 +4123,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "9.2",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1747769699,
       "Age": 12,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
@@ -4133,7 +4138,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781094724"
+      "LastUpdatedUnixTime": "1781141602"
     },
     {
       "ID": "3606",
@@ -4954,103 +4959,6 @@
       "LastUpdatedUnixTime": "1780884978"
     },
     {
-      "ID": "3495",
-      "Internal-ID": "213450891",
-      "Name": "Ranger",
-      "LitterGroupId": 9489851,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "34",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1766124000,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
-        "https://new-s3.shelterluv.com/profile-pictures/df848b367f250b87dab0cba2eb5704dd/24e56235c755bcff8b0c4e6bf0bc2209.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa3862d5b4f695b259b41c77923022cb/145927fa61aa1ff01014dc1f3e70f010.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2baf8ca8621db08e211ba6389d3b64c/3f94f8409bb585185ffe46e9ce634ccd.png",
-        "https://new-s3.shelterluv.com/profile-pictures/5db83bd2713eff9d9fabea5d4d7bf35e/956b374ed7289cad35d315b0ffcc0329.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/af51e4195964dccfabf95e4c0605e787/dc063d2a71e3f2b0ca3a11de58297a79.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aaac858977696f8fb3552fcd207902b6/b739f5a62968742bf3b63e37edf15f02.png",
-        "https://new-s3.shelterluv.com/profile-pictures/b3fe4941698f9d936d985d80c1f6c368/55ac820a0f4158a16a1e3fca634cc8ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f0eedc5b6b111048d0d4ce794261d3/fb785b2302cbe49a2afb09da2a092a0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95aa66887ba20ccd159e84239644303b/df14d7496d5323654ae382686c0ed0db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8ec47fc754fdbc12edee6b5df5e73361/2500649e222d9a78e10c00adc2442247.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
-      "Color": "Grey/Cream",
-      "Pattern": "Badger",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Ranger is the goofiest guy you might ever meet! He is a rambunctious, curious, truly hilarious, and zany guy. On one hand, he is a TOTAL husky, and on the other... he's completely different!\nIn husky form: he really does not like to be confined. This guy wants free range of the house, believes he knows what's best at all times, is vocal (you'll never to struggle to understand what he's wanting), and is down for every adventure. He is active and also wildly intelligent.\nIn non-husky form: He has INCREDIBLE recall off-leash, wants to follow you everywhere, oversee every task (or actually just do it for you?), and most certainly wants to ensure no one ever intrudes!\nRanger has been getting kennel trained, but realistically he hates it (see: total husky). He does not want to be a kennel guy, and is working on building up house manners (and the humans' trust) to be left unkenneled during the day and while sleeping at night. He is mostly house trained and has gotten great at signaling when he needs to go out. He loves to learn new tricks/commands, and he does so quickly! He lives in a house with other dogs and cats, and would really love to live in a house with other dogs when he's adopted, but could be an only dog with the right family. He occasionally BORKS at the cats, but has not shown any interest or drive to try to hurt them, though the same is not true for the mice in the garage or the moles in the yard (though he was very proud to present them to us). He lives in a house with a fenced in yard and while that would also be his preference in a forever home, could also do okay otherwise with the right people. \nRanger has met several kids at a wide variety of ages and has done well with them. Occasionally in new settings he can be shy or suspicious of new people, and he watches his humans or foster dog siblings for cues on how to behave. \nRanger's ideal home would be one where he could be active, could have a confident leader (human and/or dog!), and could have his intelligent little brain engaged. He is a loyal, tenacious little guy who can't wait to find his hoomans!",
-      "LastIntakeUnixTime": "1776389611",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781127455"
-    },
-    {
       "ID": "3498",
       "Internal-ID": "213462926",
       "Name": "Peaches",
@@ -5433,9 +5341,9 @@
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "56.4",
+      "CurrentWeightPounds": "63.8",
       "Size": "",
-      "Altered": "No",
+      "Altered": "Yes",
       "DOBUnixTime": 1759294800,
       "Age": 8,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/393bbab7d24df35e1b5795dbdea8bb9e/2adc231cf2780fce667d1faf977ab4f4.jpeg",
@@ -5519,7 +5427,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781021497"
+      "LastUpdatedUnixTime": "1781140654"
     },
     {
       "ID": "3587",
@@ -5877,95 +5785,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780762285"
-    },
-    {
-      "ID": "3589",
-      "Internal-ID": "213725774",
-      "Name": "Penelope ",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "24.11",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1741413600,
-      "Age": 15,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f48523510d91729d034dcad1473d107b/80d2c24d3e84edd246084efd80cdf205.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f48523510d91729d034dcad1473d107b/80d2c24d3e84edd246084efd80cdf205.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/40c24b80914f4443ac7a2bb8bd76a1ce/d504e0092ca103421360d4a154682d94.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/45d911d14cc5743eac53739edeff4e58/a0455bc281bbe6d0548a05e51c2e77de.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4849be086db957ebb790fde0ac6b69b8/271c42d8718429aedb8545ce443a89c3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed762054e20954d86d7ae9610fe27cee/e05e25ebffab4ca0ac73ba00cc573672.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3a2614c86fa3449980b13eeadf0c9d55/4c210e2a2f5d9a68ca3fda5805e15602.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/759eedee0e312518cf37527b9788824b/8e529a51e76dc18acf3049d886f04a7a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c7d3e5ee3a7669f62792b09096bdb12/8a85dd5c071fa80508e00c5dfec19dd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77dea63941e91900200c2c504ab50eeb/0e2fd6888d219a4e2615754d4db36fcf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/51a7c5833e777a6bc13a126673514359/d0f71c2ea836d04744b3746d8619ff95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3e68a1fc0178a7e434429a1b030475c2/f43ff943cd074c29703c89392016f692.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/49209fb9a53a48c1d989aa1cee95f153/4816b1a901ae11a9af67accec56f18fa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a62881afa80257e4ee1a7ad0c82d7ce1/368f9e61863be2465aba0dfe1dafc2ec.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f1d570ae2c6c6b5eb960f4e436f91ccb/67f74a7581c9e01c384edece3308b9ee.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Golden/Poodle, Miniature",
-      "Color": "Blond/Wheaten",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Penelope is a delightful little poodle mix who would love to join your family, follow you everywhere, and sit on your lap whenever possible.  \n\nPenelope is still full of youthful energy. She loves toys-both playing fetch and chewing them into destruction.  She’s satisfied with 2-3 play sessions and 3-4 walks a day.  She does some pulling on leash, but that usually stops about a quarter of the way into our walk. She has interest in squirrels robins, rabbits and ducks, and will pull to try to get to them, but can be easily persuaded to continue on with the walk.\n\nPenelope is a relatively quiet dog in the house. Our resident dog barks at anything that walks by and she just runs to the window and watches without adding her voice to the commotion. She will bark if she’s on a leash and she can’t get to me or my husband or a random neighbor that she’s sure will be her new best friend. \n\nPenelope is  doing well with my resident dog who is twice her size.  She will appropriately bark/bite at him when he’s overbearing but then as soon as he backs off, she is fine.  She’s learning how to play with him and hold her own in a game of tug.  She’s met neighborhood dogs on walks and is submissive at first and then joins in the typical dog greeting of butt, sniffing and circling.  We don’t own any cats, but the person she lived with for about a month said she didn’t do well with her cats.\n\nPenelope spent her first year of life in a family with two young children. We do not have young children in our lives, so we have not personally seen her interact with kids. \n\nPenelope knew her name when she arrived and she knew to do her business outside. She has had no accidents in the house!  Other than that she was a blank slate.  She’s a quick learner and is making progress on sit, lie down, wait, stay, touch, and kennel up.  I see great potential for trick training with a future circus career.  \n\nPenelope likes to jump up and thinks that’s the best way to get attention. We’re working at teaching her to keep all 4 feet on the ground in order to get the pets and attention that she wants.  She’s making a little bit of progress, but it’s so hard to keep all 4 feet on the ground! \n\nPenelope sleeps quietly in a kennel in our bedroom overnight- though she believes that the night ends between 5-6am!  She stays in a kennel, in our dining room, when we leave the house. She will also stay in that kennel when we are home, which I do for brief periods each day, to teach her that she can be content there even when we are around. She puts up a little bit of racket when she first goes in but then settles nicely. \n\nPenelope arrived in our care badly matted. We had her groomed this week and she has very short hair now and is even shaved in certain spots. Her ears and head and tail are still long and she still looks adorable. She will require regular grooming and brushing between grooming sessions to prevent matting.  \n\nPenelope is a delight. I have no doubt that she will be a wonderful addition to the lucky family that welcomes her. ",
-      "LastIntakeUnixTime": "1779333322",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "713609",
-          "AttributeName": "Has many approved adopters waiting to meet them!",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781128946"
     },
     {
       "ID": "1395",

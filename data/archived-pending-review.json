@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T23:54:28Z",
+  "updated": "2026-06-11T02:52:23Z",
   "animals": [
     {
       "ID": "3458",
@@ -521,6 +521,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-10T23:54:28Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3495",
+      "Name": "Ranger",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-11T02:52:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3589",
+      "Name": "Penelope ",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f48523510d91729d034dcad1473d107b/80d2c24d3e84edd246084efd80cdf205.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-11T02:52:23Z",
       "status": "pending"
     }
   ]
