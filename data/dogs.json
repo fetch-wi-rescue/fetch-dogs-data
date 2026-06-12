@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T06:27:59Z",
+  "updated": "2026-06-12T13:59:41Z",
   "count": 78,
   "animals": [
     {
@@ -782,6 +782,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
           "Publish": "Yes"
@@ -789,11 +794,6 @@
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
           "Publish": "Yes"
         },
         {
@@ -812,7 +812,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1781127045"
+      "LastUpdatedUnixTime": "1781268781"
     },
     {
       "ID": "3452",
@@ -2055,7 +2055,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781225010"
+      "LastUpdatedUnixTime": "1781267435"
     },
     {
       "ID": "3554",
@@ -3928,7 +3928,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.6",
+      "CurrentWeightPounds": "7.4",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1747761154,
@@ -3951,7 +3951,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781208122"
+      "LastUpdatedUnixTime": "1781269613"
     },
     {
       "ID": "3604",
@@ -4727,7 +4727,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "11",
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1712725200,
@@ -4805,7 +4805,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780884978"
+      "LastUpdatedUnixTime": "1781267665"
     },
     {
       "ID": "3502",
