@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T01:42:44Z",
+  "updated": "2026-06-12T06:27:59Z",
   "count": 78,
   "animals": [
     {
@@ -695,7 +695,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1647064800,
-      "Age": 50,
+      "Age": 51,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c3abeaaee006137a5dc370fb840d3dbe/6050bb92d9c0dfa317e38b0c8962a1d1.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/c3abeaaee006137a5dc370fb840d3dbe/6050bb92d9c0dfa317e38b0c8962a1d1.png",
@@ -1854,91 +1854,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1779842394"
-    },
-    {
-      "ID": "3542",
-      "Internal-ID": "213591754",
-      "Name": "Chloe",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "14.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 105,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
-      "LastIntakeUnixTime": "1777708800",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780725568"
     },
     {
       "ID": "3543",
@@ -5140,6 +5055,91 @@
         }
       ],
       "LastUpdatedUnixTime": "1781223045"
+    },
+    {
+      "ID": "3542",
+      "Internal-ID": "213591754",
+      "Name": "Chloe",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "14.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 105,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
+      "LastIntakeUnixTime": "1777708800",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781230096"
     },
     {
       "ID": "3549",
