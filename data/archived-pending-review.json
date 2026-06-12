@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T18:59:46Z",
+  "updated": "2026-06-12T22:54:52Z",
   "animals": [
     {
       "ID": "3458",
@@ -557,6 +557,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-12T18:59:46Z",
+      "status": "pending"
+    },
+    {
+      "ID": "873",
+      "Name": "Smilie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-12T22:54:52Z",
       "status": "pending"
     }
   ]

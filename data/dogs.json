@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T21:03:37Z",
-  "count": 77,
+  "updated": "2026-06-12T22:54:51Z",
+  "count": 76,
   "animals": [
     {
       "ID": "2754",
@@ -5344,64 +5344,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781120284"
-    },
-    {
-      "ID": "873",
-      "Internal-ID": "213178888",
-      "Name": "Smilie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "89.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1601442000,
-      "Age": 68,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/fbb17b6d371df46ddca50e5b3a7e9bfc/2365cfbaf5919fa2c5780466a0987441.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/55b6314750edaa7208a6ec81e849f97d/73dea80a00ca14c9fc502e0062334d3a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/35dfc9e58c707a311bcb1318e26c6a1d/9231044dbcdc208a8999174ac32aefa0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7e285e5b56762de409f445f49e8ee5e4/bb69904dfdc73bf552e934e321418a92.png"
-      ],
-      "Videos": [],
-      "Breed": "Pyrenees, Great",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Smilie! He's a chill affectionate big lug of a companion that will warm your heart with his big smiles and calm demeanor. He's crate trained and potty trained but can also free roam. He can be stubborn but does know sit and down.\n\nSmilie would do well in a home that has a fenced yard but would also likely do well in an apartment. He is pretty quiet but will bark to alert you to things.\n\nHe would do best in an adult home or with older kids as he struggled with young children in his previous home. He has met many children at events and done very well with those encounters.\n\nHe is also dog selective and prefers more mellow dogs. He has gotten along very well with our resident yellow lab mix who is fairly relaxed but they also enjoy wrestling together.\n\nOnce you meet Smilie, you'll be in love with him.",
-      "LastIntakeUnixTime": "1778798085",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781199208"
     },
     {
       "ID": "3464",
