@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T02:52:23Z",
+  "updated": "2026-06-12T01:42:44Z",
   "animals": [
     {
       "ID": "3458",
@@ -530,6 +530,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-11T02:52:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3523",
+      "Name": "Ginger",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-12T01:42:44Z",
       "status": "pending"
     }
   ]

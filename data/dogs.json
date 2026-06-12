@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T23:03:30Z",
-  "count": 79,
+  "updated": "2026-06-12T01:42:44Z",
+  "count": 78,
   "animals": [
     {
       "ID": "2754",
@@ -1708,141 +1708,6 @@
       "LastUpdatedUnixTime": "1780919236"
     },
     {
-      "ID": "3528",
-      "Internal-ID": "213534591",
-      "Name": "Natalia",
-      "LitterGroupId": 9497863,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "36.1",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9758767a0f3f9dffae825e57a6922ea/b93c07afe3ebd882eefa38266ab04682.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33b31195767c4c3acc5888513e33228d/6a0e8f88275ccdd8f1903f9e7373d1cc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aed5f2d20c683025643cd54ce6495d9f/b496fe4f719e423f82bd267dc988dfdd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de546201c84fb6ffaf3f03f4295f502b/63986e95c50d67f51548f4b460d658eb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f58a0f26598dbf75bb4a3e8a81f2ae7/29dc982e1f15fe42b4cf3066ca348e56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1da7b2ea8fb8b09eb3b81834e3719fb7/0d0e57fc3d99fdf4eb20f0d453100c87.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df1060b08ac9470af66ddd0d9b9c0584/ba99056b67bd4f3ead42e08c78faf9a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d314f9f5adc0a91b2bd49e8d700b4da9/e766e359ba46a73b86901c4810f296ea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57f074922eee719b55fc12c548c1f8ee/7576adcdda671153fbcdef73fa7a9fd5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/03950e4cb045f82b93f0485d237710d1/81f3d030ab87b4351629b49f11d2f364.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Hound/Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
-      "LastIntakeUnixTime": "1777143060",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780464026"
-    },
-    {
       "ID": "3539",
       "Internal-ID": "213591750",
       "Name": "Larry",
@@ -2275,7 +2140,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781000742"
+      "LastUpdatedUnixTime": "1781225010"
     },
     {
       "ID": "3554",
@@ -5028,132 +4893,6 @@
       "LastUpdatedUnixTime": "1780884978"
     },
     {
-      "ID": "3498",
-      "Internal-ID": "213462926",
-      "Name": "Peaches",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "21",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1696827600,
-      "Age": 32,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/251190bc8c08482a4cc937d33a51fd81/7232a5e5a09f9d859682368a82da0fb2.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/251190bc8c08482a4cc937d33a51fd81/7232a5e5a09f9d859682368a82da0fb2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a9829a3ab4024232b0114c9c8027460b/bae1b3f512728f95d03a6a00fd9d3150.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/22e7c722527fcf3d18548b052504a918/f6243e14edd0e328e9226f5d40388081.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7bdf88d74242458e3dfc93c366af7844/2c12106c8a4c234f47e2eefd8cb602db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/33f5acc5da338606b5a817ff3b3316b6/db44ddf603d681b65bfbab57179d55e1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7465e2a9cab881d171e761f27a0f87a3/5e2fb02137a4255cc85fba42274ea564.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b82a53864961d785059c1627e8968a7e/1a66d22e918efc2714ebe68ed21a9e91.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/331e68ebe0a1ba30d89c48ac6f25530f/6157223ecd67ab5f7cce54e9b7df492f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e07e61a1d0cd41fe54bb9e9d1697e69/6299a16efda4c1b8d6cc1b0668099dc4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/97aacb782bf043375a15bdfd7fe299f4/971f8e7012171ad170e74477920ea810.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1723e5417bb8e401efb98614313f5963/1093caa0958d575de9a887d729cdf4d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shiba Inu",
-      "Color": "Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Peaches is a sweet, playful, independent doggo with an adorable fox face and a tomboy streak. She loves playing fetch, tug of war and chasing rabbits around the backyard; sniffing (and marking) throughout the neighborhood. She is smart and food motivated, knows “sit” and “touch” and is working on “wait.”  As is typical for her breed, she is on the more independent side, preferring to come to you to snuggle when she feels like it. That said, she is very attuned with her humans, usually choosing to be near the action and often cuddling up against one of us on the couch or bed. She also enjoys grooming her people, licking and gently nibbling hands, legs and feet if allowed - she knows it’s important to keep her people clean!\n\nPeaches has gotten along well with other dogs and would love to play with most dogs she meets. Her previous owners stated she was cat-friendly, but we haven’t found her to be trustworthy with our cat. She generally warms up to new people quickly, especially if they give her a bit of space as she doesn’t seem to enjoy being petted by new people. She has not met any children while staying with us.\n\nHer day begins with a 20 minute walk followed by breakfast in a puzzle bowl and some cuddle time while one of her humans goes through their morning routine. She is home alone throughout the work day, typically free roaming, and seems fine going 8-10 hours without a potty break. She gets a second walk and some backyard playtime in the evening, followed by dinner. She typically follows us around throughout the evening, wanting to be in the yard if we’re outside, in the basement if we’re doing laundry, on the couch if it’s TV time. She has free range of the common spaces of the house at night (as the cat is with us in the bedroom). We did crate her initially, and she settled well after vocalizing for a couple of minutes. She did initially vocalize quite a bit when separated from us at bedtime, and again in the morning, but has settled very nicely into our routine. We have not seen signs of separation anxiety when we are away from home, only when we are in another room and she does not have access to us. She displays this with loud vocalizations and scratching at doors, but no destructive behaviors. \n\nYou won’t need millions of peaches when you have this one Peaches!\n\n\n",
-      "LastIntakeUnixTime": "1776050523",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780681263"
-    },
-    {
       "ID": "3502",
       "Internal-ID": "213465535",
       "Name": "Deva",
@@ -5268,38 +5007,57 @@
       "LastUpdatedUnixTime": "1780938146"
     },
     {
-      "ID": "3513",
-      "Internal-ID": "213488333",
-      "Name": "Huck",
-      "LitterGroupId": null,
+      "ID": "3528",
+      "Internal-ID": "213534591",
+      "Name": "Natalia",
+      "LitterGroupId": 9497863,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Male",
+      "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "21.4",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1766780637,
+      "CurrentWeightPounds": "36.1",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
       "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2a00d2d640df768282ec49342c5799a/d0c9521345b9d7d32916bbf927c74f9a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e74f40aa7488a957f7dc77aab53ebdbb/16a16d7318bf8d98db3f847f2b8a7cd3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5351e24cff3a97993ac0881eeae14c9/05a2fca7af2b5cebd1f1310b57ee61a3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/85b64ad8137e8c0e78c1b6babf9a0df7/59184e7188df3fa2de5cf3ad16851b68.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b14b55e73d81192848a0720ed6382d42/83ce99dd8beefabb673e15cea36ee6b9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ebe4a46e5bfb2dab7f213745fab60d1/ae701d15f3de641b0b9bc891fce8f7ff.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9758767a0f3f9dffae825e57a6922ea/b93c07afe3ebd882eefa38266ab04682.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33b31195767c4c3acc5888513e33228d/6a0e8f88275ccdd8f1903f9e7373d1cc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aed5f2d20c683025643cd54ce6495d9f/b496fe4f719e423f82bd267dc988dfdd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/de546201c84fb6ffaf3f03f4295f502b/63986e95c50d67f51548f4b460d658eb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f58a0f26598dbf75bb4a3e8a81f2ae7/29dc982e1f15fe42b4cf3066ca348e56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1da7b2ea8fb8b09eb3b81834e3719fb7/0d0e57fc3d99fdf4eb20f0d453100c87.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/df1060b08ac9470af66ddd0d9b9c0584/ba99056b67bd4f3ead42e08c78faf9a9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d314f9f5adc0a91b2bd49e8d700b4da9/e766e359ba46a73b86901c4810f296ea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/57f074922eee719b55fc12c548c1f8ee/7576adcdda671153fbcdef73fa7a9fd5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/03950e4cb045f82b93f0485d237710d1/81f3d030ab87b4351629b49f11d2f364.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg"
       ],
       "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "\nMeet Huck — Fetch's 5000th rescue! He is a big, smushy lug of a pup who’s all heart and curiosity. He has settled in beautifully with his foster family and loves being part of the pack.\n\n\n\nPersonality: Affectionate, playful, and easygoing. Huck adores cuddles and will flop at your feet for belly rubs between bursts of puppy energy. He enjoys exploring the yard — digging in the garden, chewing sticks, and chasing birds — and happily tags along when the other dogs run the yard, even if he’s not sure why. \n\n\nTraining status: Quick learner who responds well to corrections and positive reinforcement. Potty-trained, crate-trained and sleeps well through the night. Currently working on basic commands, learning his name, and not jumping up on people. \n\nDaily routine: Mornings and evenings include walks and yard time for exploration and play. During the day he enjoys supervised outdoor time, naps, and social time with his foster siblings. Huck will also happily join you for a jog! Regular exercise followed by cuddle sessions keeps him content.\n\nSocial skills:Huck LOVES people. If you are a human willing to pet him, he will love you forever. He is also excellent with other dogs and is learning a lot from his foster brothers. He is calm and mostly indifferent to a newborn baby — a promising sign for family life. \n\n\nQuirks & needs: Huck is a typical puppy — still learning boundaries and manners. He teases with puppy nibbles while teething but accepts his teether toy readily. He’ll need patient, consistent correction and continued training to reinforce good behavior.\n\n\n\nBest fit home: An active, patient home that can offer regular walks, yard time, structured training, and lots of affection. A household with other friendly dogs and/or someone able to work on boundaries and alone-time training will be ideal. Huck is a goofy, loyal companion who gives big love — worth the puppy work for a lifetime of laughs and cuddles.",
-      "LastIntakeUnixTime": "1776354996",
+      "Breed": "Hound/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
+      "LastIntakeUnixTime": "1777143060",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -5311,13 +5069,23 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296939",
           "AttributeName": "Rides well in a car",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
           "Publish": "Yes"
         },
         {
@@ -5326,8 +5094,18 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
           "Publish": "Yes"
         },
         {
@@ -5346,17 +5124,22 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781028025"
+      "LastUpdatedUnixTime": "1781223045"
     },
     {
       "ID": "3549",
@@ -5838,46 +5621,227 @@
       "LastUpdatedUnixTime": "1781217056"
     },
     {
-      "ID": "3523",
-      "Internal-ID": "213502312",
-      "Name": "Ginger",
+      "ID": "3498",
+      "Internal-ID": "213462926",
+      "Name": "Peaches",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "47",
+      "CurrentWeightPounds": "21",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1580018400,
-      "Age": 76,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
+      "DOBUnixTime": 1696827600,
+      "Age": 32,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/251190bc8c08482a4cc937d33a51fd81/7232a5e5a09f9d859682368a82da0fb2.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/44df501879ac8e8f6d96436a6db7e4f3/d0ea199ea83d47608eec8c5ece32769f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0c965204b5a14dfde19f8c95917530ed/a7729410ee52792f51c05fbd164de9d0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/578889ea9f94b41f3d52a6f3be5f94eb/ce9bae70eab48893a424d2024f1a8d51.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e367010ba3af1cbfa34cf45b5e274ed/9c02f28ad37824f32a7a3e33bbd3693e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e170250c78a324a34cea256b7c789c9d/cc8a715cce7ea48a8ef06e159dbc5e48.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44cf8ad52039b75283616b34031152ea/ffa4818a765d743d3843ccd1f64c2cd7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/beeea011fd96c557ff1ede29597f8d31/90a0459f489236752d09aace067a15fe.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/71851ed62079922905abe43d429f569f/aabec36d5560d5d253dd5ef9a5fe9e86.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/251190bc8c08482a4cc937d33a51fd81/7232a5e5a09f9d859682368a82da0fb2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a9829a3ab4024232b0114c9c8027460b/bae1b3f512728f95d03a6a00fd9d3150.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/22e7c722527fcf3d18548b052504a918/f6243e14edd0e328e9226f5d40388081.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7bdf88d74242458e3dfc93c366af7844/2c12106c8a4c234f47e2eefd8cb602db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/33f5acc5da338606b5a817ff3b3316b6/db44ddf603d681b65bfbab57179d55e1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7465e2a9cab881d171e761f27a0f87a3/5e2fb02137a4255cc85fba42274ea564.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b82a53864961d785059c1627e8968a7e/1a66d22e918efc2714ebe68ed21a9e91.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/331e68ebe0a1ba30d89c48ac6f25530f/6157223ecd67ab5f7cce54e9b7df492f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e07e61a1d0cd41fe54bb9e9d1697e69/6299a16efda4c1b8d6cc1b0668099dc4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/97aacb782bf043375a15bdfd7fe299f4/971f8e7012171ad170e74477920ea810.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1723e5417bb8e401efb98614313f5963/1093caa0958d575de9a887d729cdf4d5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d84d19d21b7791e2322c6f2eea89117d/d127ee955b124261d0630901ab1122ac.jpeg"
       ],
       "Videos": [],
-      "Breed": "",
-      "Color": "",
+      "Breed": "Shiba Inu",
+      "Color": "Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Peaches is a sweet, playful, independent doggo with an adorable fox face and a tomboy streak. She loves playing fetch, tug of war and chasing rabbits around the backyard; sniffing (and marking) throughout the neighborhood. She is smart and food motivated, knows “sit” and “touch” and is working on “wait.”  As is typical for her breed, she is on the more independent side, preferring to come to you to snuggle when she feels like it. That said, she is very attuned with her humans, usually choosing to be near the action and often cuddling up against one of us on the couch or bed. She also enjoys grooming her people, licking and gently nibbling hands, legs and feet if allowed - she knows it’s important to keep her people clean!\n\nPeaches has gotten along well with other dogs and would love to play with most dogs she meets. Her previous owners stated she was cat-friendly, but we haven’t found her to be trustworthy with our cat. She generally warms up to new people quickly, especially if they give her a bit of space as she doesn’t seem to enjoy being petted by new people. She has not met any children while staying with us.\n\nHer day begins with a 20 minute walk followed by breakfast in a puzzle bowl and some cuddle time while one of her humans goes through their morning routine. She is home alone throughout the work day, typically free roaming, and seems fine going 8-10 hours without a potty break. She gets a second walk and some backyard playtime in the evening, followed by dinner. She typically follows us around throughout the evening, wanting to be in the yard if we’re outside, in the basement if we’re doing laundry, on the couch if it’s TV time. She has free range of the common spaces of the house at night (as the cat is with us in the bedroom). We did crate her initially, and she settled well after vocalizing for a couple of minutes. She did initially vocalize quite a bit when separated from us at bedtime, and again in the morning, but has settled very nicely into our routine. We have not seen signs of separation anxiety when we are away from home, only when we are in another room and she does not have access to us. She displays this with loud vocalizations and scratching at doors, but no destructive behaviors. \n\nYou won’t need millions of peaches when you have this one Peaches!\n\n\n",
+      "LastIntakeUnixTime": "1776050523",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781223309"
+    },
+    {
+      "ID": "3513",
+      "Internal-ID": "213488333",
+      "Name": "Huck",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "21.4",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1766780637,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2a00d2d640df768282ec49342c5799a/d0c9521345b9d7d32916bbf927c74f9a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e74f40aa7488a957f7dc77aab53ebdbb/16a16d7318bf8d98db3f847f2b8a7cd3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5351e24cff3a97993ac0881eeae14c9/05a2fca7af2b5cebd1f1310b57ee61a3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/85b64ad8137e8c0e78c1b6babf9a0df7/59184e7188df3fa2de5cf3ad16851b68.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b14b55e73d81192848a0720ed6382d42/83ce99dd8beefabb673e15cea36ee6b9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ebe4a46e5bfb2dab7f213745fab60d1/ae701d15f3de641b0b9bc891fce8f7ff.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Brown",
       "Pattern": null,
       "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Ginger is a sweetheart who loves hanging out with her people, going for long walks, and snuggling up in the coziest spots in the house.\n\nIn her foster home she lives with a large dog foster brother and 2 young kids and she does great with them. When Ginger gets excited she doesn't have great spatial awareness and may knock over toddlers/babies and people with mobility limitations, but generally she is very calm and gentle. Her interaction with cats is unknown at this time.\n\nGinger gets anxious during thunderstorms and likes hiding under a bed as her safe spot. She likes quietly observing animals outside and she hardly ever barks. She is working on not jumping when first meeting a person, but listens pretty well to commands. She will sit when getting her leash on/waiting to go outside.\n\nGinger walks well on a leash, can be left out to free roam inside the house, is potty trained, and does great in the car. She likes occasional play sessions with toys and checking out what everyone is doing, but spends most of her time resting around the house. She thinks she is a lap dog and loves cuddles. Ginger loves exploring and hanging out in the sunshine.",
-      "LastIntakeUnixTime": "1776519588",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1781200066"
+      "Description": "\nMeet Huck — Fetch's 5000th rescue! He is a big, smushy lug of a pup who’s all heart and curiosity. He has settled in beautifully with his foster family and loves being part of the pack.\n\n\n\nPersonality: Affectionate, playful, and easygoing. Huck adores cuddles and will flop at your feet for belly rubs between bursts of puppy energy. He enjoys exploring the yard — digging in the garden, chewing sticks, and chasing birds — and happily tags along when the other dogs run the yard, even if he’s not sure why. \n\n\nTraining status: Quick learner who responds well to corrections and positive reinforcement. Potty-trained, crate-trained and sleeps well through the night. Currently working on basic commands, learning his name, and not jumping up on people. \n\nDaily routine: Mornings and evenings include walks and yard time for exploration and play. During the day he enjoys supervised outdoor time, naps, and social time with his foster siblings. Huck will also happily join you for a jog! Regular exercise followed by cuddle sessions keeps him content.\n\nSocial skills:Huck LOVES people. If you are a human willing to pet him, he will love you forever. He is also excellent with other dogs and is learning a lot from his foster brothers. He is calm and mostly indifferent to a newborn baby — a promising sign for family life. \n\n\nQuirks & needs: Huck is a typical puppy — still learning boundaries and manners. He teases with puppy nibbles while teething but accepts his teether toy readily. He’ll need patient, consistent correction and continued training to reinforce good behavior.\n\n\n\nBest fit home: An active, patient home that can offer regular walks, yard time, structured training, and lots of affection. A household with other friendly dogs and/or someone able to work on boundaries and alone-time training will be ideal. Huck is a goofy, loyal companion who gives big love — worth the puppy work for a lifetime of laughs and cuddles.",
+      "LastIntakeUnixTime": "1776354996",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781227951"
     },
     {
       "ID": "3580",
