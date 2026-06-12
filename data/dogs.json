@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T13:59:41Z",
-  "count": 78,
+  "updated": "2026-06-12T16:47:06Z",
+  "count": 79,
   "animals": [
     {
       "ID": "2754",
@@ -2055,7 +2055,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781267435"
+      "LastUpdatedUnixTime": "1781274224"
     },
     {
       "ID": "3554",
@@ -3325,9 +3325,9 @@
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
@@ -3346,8 +3346,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -3424,7 +3424,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781095491"
+      "LastUpdatedUnixTime": "1781274394"
     },
     {
       "ID": "3599",
@@ -4246,7 +4246,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780403698"
+      "LastUpdatedUnixTime": "1781279439"
     },
     {
       "ID": "3546",
@@ -6529,6 +6529,76 @@
         }
       ],
       "LastUpdatedUnixTime": "1781203640"
+    },
+    {
+      "ID": "3609",
+      "Internal-ID": "213889507",
+      "Name": "Arya",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1762754400,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc05426c3bd278c1a9cb2a2db359afba/ad3d92be1c9d150bcdb8a70a818845fc.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/dc05426c3bd278c1a9cb2a2db359afba/ad3d92be1c9d150bcdb8a70a818845fc.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mastiff, Cane Corso",
+      "Color": "Blue",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Arya is a sweet, happy puppy who is looking for a new home as her owner is dealing with job loss and health issues. Arya is very active and she loves being outside!  She loves going for walks and hikes on the ice age trail 3-5 times a week. She also loves interacting with other dogs at the dog park.  She is submissive with other dogs.  She does great with other animals including cats.  She is very sweet and easy to train.  She is crate trained and all you have to do is say go to bed.   She enjoys carrots, frozen green beans, and hard boiled eggs as a special treat.   She is on Purina Pro Plan Salmon and takes Omega 3 with her food to help her skin.  She is allergic to chicken and my vet recommended to stick with Salmon or Lamb.   \n\nIdeal home would be a home with a active family that will give her attention and exercise with plenty of time outside.  ",
+      "LastIntakeUnixTime": "1781275887",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781276207"
     }
   ]
 }
