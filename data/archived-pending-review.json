@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T01:42:44Z",
+  "updated": "2026-06-12T18:59:46Z",
   "animals": [
     {
       "ID": "3458",
@@ -539,6 +539,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-12T01:42:44Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3474",
+      "Name": "Rocco",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1975e1241eb13a681727642d45e224ec/3a87ce5ae88628ddc15da403af25f3cd.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-12T18:59:46Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3513",
+      "Name": "Huck",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-12T18:59:46Z",
       "status": "pending"
     }
   ]
