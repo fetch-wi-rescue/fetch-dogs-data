@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T22:54:51Z",
+  "updated": "2026-06-13T00:14:58Z",
   "count": 76,
   "animals": [
     {
@@ -745,74 +745,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780932119"
-    },
-    {
-      "ID": "3451",
-      "Internal-ID": "213344881",
-      "Name": "Joyce",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773378000,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a227ceee9e192ed6425c230a10269f16/14a36c4b1bfda9b8ac92b070da1f51ea.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a227ceee9e192ed6425c230a10269f16/14a36c4b1bfda9b8ac92b070da1f51ea.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ffca98a4a040881037e332a6f538bf6/adb9985b356ca91dac3de32c7aa74dd8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/54c610c4693347e85b2ffa3e752ab58d/65246720f2c83e98d5f57bef4b5656f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27d7118dfc5e797e0ac71bd944d50334/5fe6c5621c649aa4c6e11a63a5741e5d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Joyce is an active, curious little girl who loves tug toys, wrestling with dog friends, and exploring the world around her. Joyce is incredibly social with other dogs and does a great job reading their signals and respecting boundaries.\n\nShe recently met a toddler and handled it beautifully, showing off her sweet and gentle side. Like many herding mixes, Joyce does have some classic puppy herding instincts and will happily grab at pant legs when she’s excited and playing.\n\nShe’s catching on quickly to potty training and is already sleeping well in her crate for about six hours overnight. Joyce can take a little time to settle down after playtime, but once she does, she’s content and happy.\n\nWith a mom around 25 pounds, Joyce will likely stay on the smaller side. She’s fun, affectionate, smart, and full of personality — the kind of puppy who keeps you smiling every day.\n",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781268781"
     },
     {
       "ID": "3452",
@@ -4359,6 +4291,74 @@
         }
       ],
       "LastUpdatedUnixTime": "1780961337"
+    },
+    {
+      "ID": "3451",
+      "Internal-ID": "213344881",
+      "Name": "Joyce",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1773378000,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a227ceee9e192ed6425c230a10269f16/14a36c4b1bfda9b8ac92b070da1f51ea.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a227ceee9e192ed6425c230a10269f16/14a36c4b1bfda9b8ac92b070da1f51ea.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ffca98a4a040881037e332a6f538bf6/adb9985b356ca91dac3de32c7aa74dd8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/54c610c4693347e85b2ffa3e752ab58d/65246720f2c83e98d5f57bef4b5656f7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/27d7118dfc5e797e0ac71bd944d50334/5fe6c5621c649aa4c6e11a63a5741e5d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Joyce is an active, curious little girl who loves tug toys, wrestling with dog friends, and exploring the world around her. Joyce is incredibly social with other dogs and does a great job reading their signals and respecting boundaries.\n\nShe recently met a toddler and handled it beautifully, showing off her sweet and gentle side. Like many herding mixes, Joyce does have some classic puppy herding instincts and will happily grab at pant legs when she’s excited and playing.\n\nShe’s catching on quickly to potty training and is already sleeping well in her crate for about six hours overnight. Joyce can take a little time to settle down after playtime, but once she does, she’s content and happy.\n\nWith a mom around 25 pounds, Joyce will likely stay on the smaller side. She’s fun, affectionate, smart, and full of personality — the kind of puppy who keeps you smiling every day.\n",
+      "LastIntakeUnixTime": "1773435600",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781309638"
     },
     {
       "ID": "3453",
