@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T17:51:14Z",
+  "updated": "2026-06-13T19:13:05Z",
   "animals": [
     {
       "ID": "3458",
@@ -593,6 +593,33 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-13T17:51:14Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3475",
+      "Name": "Jaxen",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/af809e09bb1c6ef97cf6cf8ed3717360/5fd3ad3e35d651e3fc1b08b2803fc3a7.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-13T19:13:05Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3553",
+      "Name": "Gilmore",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a0e2d60f0e30647e3c51bcb902d08c7b/2bb5c4d3591e20d49803d08d0bec99b2.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-13T19:13:05Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3562",
+      "Name": "Augusta",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-13T19:13:05Z",
       "status": "pending"
     }
   ]

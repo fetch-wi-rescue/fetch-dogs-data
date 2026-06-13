@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T17:51:14Z",
-  "count": 73,
+  "updated": "2026-06-13T19:13:05Z",
+  "count": 70,
   "animals": [
     {
       "ID": "2754",
@@ -1794,113 +1794,6 @@
       "LastUpdatedUnixTime": "1781186930"
     },
     {
-      "ID": "3553",
-      "Internal-ID": "213684440",
-      "Name": "Gilmore",
-      "LitterGroupId": 9510754,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.6",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1771525308,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a0e2d60f0e30647e3c51bcb902d08c7b/2bb5c4d3591e20d49803d08d0bec99b2.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a0e2d60f0e30647e3c51bcb902d08c7b/2bb5c4d3591e20d49803d08d0bec99b2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d38ffbfe34e52f745f4251a58717436a/120cdd56b198a7ca3c67a57e393945e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6567f95c7b1510a48da3c38d0170a97e/48fad5247f53967c2d1979aed692c45f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/af6651019bf9d1e0dcfff4d5f304e64f/d0a691f7a26bc89d64d477ab6b8e3553.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fca10bdac1e0397c12ca9e6030df2fb/7d29aa561415d741f3c00806fe4c37fb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/38c97683c2c6c66d648eb47aaccd74ce/37141a8d570c7aca66f5cfd2a365bbec.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/da99233fb911704e1a70bf4aa3116a77/2a18a8a9ae1808b0f183ca729e29fbfb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2b137d6a487d558475e4d69f28905dfb/112e0417a2eef8b3e13d8f287a4dd7d1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cfe1851a5bbaab1891109ef70135ac2f/323f9b59dd1d529e8d0c869373070fa5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8716410cf8e0890bb687b60747738a2e/b2aa504e9ea733b5e5411e74bbd11846.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/267e119de5f5fe00deba1d17c988b4ac/108bcfa48cb23c8b4766a8a5be1cae4a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/32534c438dfc76e93fd445ff7c0da6f6/749e22bbbc5862b2e4e28f6d011f9d46.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/51d3dfe54e8ab6f7cf426d4190a0a162/1548028b1056e6f355566d8603bdcc8a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c16b00073b3483bc7c1fa6caf5eee26/4680d3d505cf4422c7bf7098093e5659.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a9c85d34ab1675624c2c861f03cc2b85/8dc04cd7c178f642d3541c9366343958.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5a18661b701511ff9dea77d192db341e/ce4c436e8222f25ee83b8bff1447949e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/906eaa0e7039131d4f3a943d53fb8ed0/436a0fdc578a45b946654f3b00978a83.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d9f240a209869a124565bc4fbd1f177/1fd0a5c9306d0d6bfd0b0b8e5f8c2b73.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbddc99037a096c2bab5c85fa2d7e694/dab226028c6416ddadb4d6c89157440d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2529d289704ffc26c05d724ac7852eb/0a150953e76f71a53608d6ef98ecb663.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6741dd416d6a4569b94e18f1889308c9/92e5004e04e4d103b34c861bcf4e67e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f45de6afcb509a4def746cf7795405c1/dbaebc3667f36fa77e6bc6cdf3391d5b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/960cd86a437e4f36f972e8d0a0017697/336c00b763ec9f2c4d8334115601c6e8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Boxer/Mixed Breed (Medium)",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Gilmore has learned soooo much in just a few weeks.  He is most comfortable in an airline kennel (plastic all around) - this helps reduce noise and his visuals when he's home alone.  He loves going outside.  Any time we say outside, he is right at the door laying on his belly waiting for his leash to be put on.  He does very well walking on his leash, but every once in a while when that darn leash gets in the way he can get a little rowdy! Gilmore is always ready to learn, and hear \"good boy!\" With ear scratches and belly rubs.  Gilmore loves making his people happy.  Gilmore is everything you would want in a puppy.  He is sweet, adventurous, and ready to learn.\n\nGilmore is the ultimate lover boy. He is always up for a cuddle, kiss, or belly rub. He loves humans and wants to be held or snuggled up. He does enjoy dogs and wants to play, but is learning appropriate play manners.\n\nGilmore does very well in his kennel, but sometimes needs a noise machine (he is currently being fostered in an apartment, and sometimes the outside noise he thinks is his people coming home). Gilmore loves the outdoors, but is quick to need a rest after playing. He loves sticks and chasing birds.\n\nGilmore would be the perfect fit for any family. He would do great as the only dog, or with other dogs. He would do great with children, or just adults. He is flexible as long as the people around him love him as much as he loves them.\n\nGilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\n\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.\n\n05/26/2026\nKennel Card / Website Memo\n\nGilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\n\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.\n\nGilmore is the ultimate lover boy. He is always up for a cuddle, kiss, or belly rub. He loves humans and wants to be held or snuggled up. He does enjoy dogs and wants to play, but is learning appropriate play manners.\n\nGilmore does very well in his kennel, but sometimes needs a noise machine (he is currently being fostered in an apartment, and sometimes the outside noise he thinks is his people coming home). Gilmore loves the outdoors, but is quick to need a rest after playing. He loves sticks and chasing birds.\n\n05/21/2026\nKennel Card / Website Memo\n\nGilmore is a little warrior with a heart that could light up a whole room. At just under 3 months old, this boy has already proven he’s tougher than he looks — he fought his way through parvo and came out the other side with a wagging tail and a joyful spirit.\n\nDespite his rough start, Gilmore is pure sweetness. He approaches life with gentle curiosity, soft eyes, and a puppy wiggle that could melt anyone. He loves being held, loves exploring safe spaces, and loves curling up for naps like he’s making up for lost time. His resilience shows in the way he greets every new moment with trust and hope.\n\nGilmore’s personality is tender and bright:\n• affectionate and people‑oriented\n• playful in short, happy bursts\n• friendly with other gentle pets\n• eager to learn and be part of a routine\n\nHe’s ready for a home that will cherish him, protect him, and celebrate the brave little pup he is. Gilmore is working on potty training, enjoys soft toys, and thrives on calm encouragement and cuddles.\nIf you’re looking for a puppy with a survivor’s heart and a gentle, loving soul, Gilmore is ready to begin his new life — one filled with comfort, kindness, and a family who sees how special he truly is.",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781274224"
-    },
-    {
       "ID": "3554",
       "Internal-ID": "213684441",
       "Name": "Elver",
@@ -2128,7 +2021,13 @@
       "Breed": "Chihuahua",
       "Color": "Black",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
@@ -2138,43 +2037,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780697909"
-    },
-    {
-      "ID": "3562",
-      "Internal-ID": "213684450",
-      "Name": "Augusta",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.86",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
-        "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780697940"
+      "LastUpdatedUnixTime": "1781377402"
     },
     {
       "ID": "3578",
@@ -3463,6 +3326,87 @@
       "LastUpdatedUnixTime": "1781368679"
     },
     {
+      "ID": "3607",
+      "Internal-ID": "213879443",
+      "Name": "Uncle Waldrop",
+      "LitterGroupId": 9531464,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1519508563,
+      "Age": 99,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6882f8a231a8b6ee8fa2352afe8043f4/435fb977597bc2a32644e18e69d3411b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/91684575e7148b0c62e501fc554dde84/abeea6149a8eb47e01b1caf3ca02b949.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chow Chow",
+      "Color": "Red/Mahogany",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Looking for an easygoing companion who will fit right into your life? Uncle Waldrop might be your guy.\n\nThis handsome senior is the definition of a good dog. He's dog-friendly, loves people, and has a calm, laid-back personality that makes him a joy to have around. Whether he's enjoying a leisurely stroll, lounging nearby while you work, or settling in for some snuggles on the couch, Uncle Waldrop is simply happy to be part of the family.\n\nHe's the kind of dog who doesn't need to be the center of attention or create excitement wherever he goes. In fact, his greatest talent might be just being a wonderful companion. No drama, no chaos—just a sweet, affectionate dog who wants a comfortable spot to nap and humans to love.\nIf you're looking for a loyal friend who has left the puppy antics behind and mastered the art of being a good housemate, Uncle Waldrop is ready to move in and make himself at home.\n\nAdopt Uncle Waldrop and discover how wonderful life can be with a chill old soul by your side. 🐶💕",
+      "LastIntakeUnixTime": "1781206136",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781377585"
+    },
+    {
       "ID": "2774",
       "Internal-ID": "213177791",
       "Name": "Minnie",
@@ -3857,36 +3801,6 @@
       "LastUpdatedUnixTime": "1781188938"
     },
     {
-      "ID": "3607",
-      "Internal-ID": "213879443",
-      "Name": "Uncle Waldrop",
-      "LitterGroupId": 9531464,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1519508563,
-      "Age": 99,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6882f8a231a8b6ee8fa2352afe8043f4/435fb977597bc2a32644e18e69d3411b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6882f8a231a8b6ee8fa2352afe8043f4/435fb977597bc2a32644e18e69d3411b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b81c3b092870a49c62841e4432a071a6/bd258fa3d137de3f09778b9622ad25a4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chow Chow",
-      "Color": "Red/Mahogany",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1781206136",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1781206173"
-    },
-    {
       "ID": "3608",
       "Internal-ID": "213879445",
       "Name": "Snickers",
@@ -4260,152 +4174,6 @@
       "LastUpdatedUnixTime": "1781315407"
     },
     {
-      "ID": "3475",
-      "Internal-ID": "213392424",
-      "Name": "Jaxen",
-      "LitterGroupId": 9485946,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "9",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1772265600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/af809e09bb1c6ef97cf6cf8ed3717360/5fd3ad3e35d651e3fc1b08b2803fc3a7.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/af809e09bb1c6ef97cf6cf8ed3717360/5fd3ad3e35d651e3fc1b08b2803fc3a7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae4a74a4a5ffae3bb6c47c98ef23cc8c/6d3b0d382377fcc29e17a31ab93d1210.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb8da88ddb9f8e1c70f86d84c4d360b2/15ccb79969bd163855ee938eb72c720c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/71283187769d1351ca62b70c610cad5c/bac12379612d1966502a9223246dae1b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/131ed997deac144fbc8bb96ec74abe4c/9c019b50962972905504598113ebcad4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9a38fd5e4002daad6aa460fa23abb09/65e70f5cc1740983421538692727d7d1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/108274b92a2c7053ff9f0ad4429f9978/5c513f842ca55ac5163dbba147dfe26a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9c211bc9312c52481965fc7f5a16eeea/bd245e747a660b8144d089d38a091095.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2542ffd05efbeea38a26959571b4ac1/b22dfc82c9253f416c8c4d4f854fea14.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/66387e2959d9da62f65c80958c218fc4/e043cd9fca9a12d9d23dab0e2eef3bad.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5c4b1c8ac52c1340ca34cc04fd78966/5970297aaf882658db2b8a96cf9b05fa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f0e49fa21c7431687d33d76578b4e854/f1ca4df4169bdce6e506c5bbdeed9c50.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e13f6c930f1cb63fd0f98f59438fae0c/9c550849fbcfae79257934482cfc59ad.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/469fd145f204859b8321e7fb84b609c6/603536d19f52235328eade8967a73460.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/03bc07058e37ab8ae95d7f1c45c00799/b911bd81c6d8a43ee4e2174460a5a696.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/59ba0a1b9ea047cd944102ef89c4ac0d/b602626a68f743e23365f08af930b43e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Australian",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Jaxen is laid‑back, curious, and adaptable. He enjoys adventure but doesn’t need to be the center of attention. He’s the pup who happily trots along, takes everything in, and then settles down for a nap. Jaxen will be a great fit for a family looking for a balanced, friendly companion.",
-      "LastIntakeUnixTime": "1775302440",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637009",
-          "AttributeName": "Good around cows",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781368721"
-    },
-    {
       "ID": "3490",
       "Internal-ID": "213450869",
       "Name": "Pinkie",
@@ -4493,7 +4261,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781267665"
+      "LastUpdatedUnixTime": "1781375615"
     },
     {
       "ID": "3502",
@@ -4607,7 +4375,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780938146"
+      "LastUpdatedUnixTime": "1781377285"
     },
     {
       "ID": "3528",
