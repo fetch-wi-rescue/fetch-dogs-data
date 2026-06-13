@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T14:35:24Z",
+  "updated": "2026-06-13T16:09:41Z",
   "count": 75,
   "animals": [
     {
@@ -1564,12 +1564,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1642744800,
       "Age": 52,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/850a9e13713566df6172b93a49998329/0a96541c7be3fcd225cb10ce8e08ed01.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/850a9e13713566df6172b93a49998329/0a96541c7be3fcd225cb10ce8e08ed01.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ff73e67509d1f25a39c3c2317714311e/b06a3fb0568d928e3f8be3e4ef825aa9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4883950f9a4d9f8958ac780cb33704cd/82f504ef3ead4267b9daddaf52e217d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a784a7c90595b137bd2459da5efdaca7/8a9ba6b824a9382384695be5f04d1748.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/a784a7c90595b137bd2459da5efdaca7/8a9ba6b824a9382384695be5f04d1748.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg"
       ],
       "Videos": [],
       "Breed": "Shih Tzu",
@@ -1615,7 +1616,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780921934"
+      "LastUpdatedUnixTime": "1781365376"
     },
     {
       "ID": "3541",
@@ -2751,7 +2752,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/36c64c892ee0b3b2448bafd3d0eaa234/c80f4c8efe82d751e47cbd0158127164.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/41e1fb22ca8e7b0c45a582fe165e9e0a/b4117747c0026001d0a077981d737121.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e9c3a1f304c6137975c423a9f71bff22/ce75d7b0f9805830b9cb6d5becddedda.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/605ce4677037714a9454584bebe54fa9/6482cd0526796189e698a8ac75e6c2ce.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/605ce4677037714a9454584bebe54fa9/6482cd0526796189e698a8ac75e6c2ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ec57852118972867bf439044f771ecb/10a997661f057ae37bcac97374b4e28d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/56351b7538716f981047f9fa87593a85/30f69a05abaabb65069fcbb7e843f399.png"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -2828,7 +2831,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781191472"
+      "LastUpdatedUnixTime": "1781366353"
     },
     {
       "ID": "3595",
@@ -4318,7 +4321,13 @@
       "Breed": "",
       "Color": "",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Joyce is an active, curious little girl who loves tug toys, wrestling with dog friends, and exploring the world around her. Joyce is incredibly social with other dogs and does a great job reading their signals and respecting boundaries.\n\nShe recently met a toddler and handled it beautifully, showing off her sweet and gentle side. Like many herding mixes, Joyce does have some classic puppy herding instincts and will happily grab at pant legs when she’s excited and playing.\n\nShe’s catching on quickly to potty training and is already sleeping well in her crate for about six hours overnight. Joyce can take a little time to settle down after playtime, but once she does, she’s content and happy.\n\nWith a mom around 25 pounds, Joyce will likely stay on the smaller side. She’s fun, affectionate, smart, and full of personality — the kind of puppy who keeps you smiling every day.\n",
       "LastIntakeUnixTime": "1773435600",
       "Attributes": [
@@ -4358,7 +4367,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1781309638"
+      "LastUpdatedUnixTime": "1781366532"
     },
     {
       "ID": "3475",
