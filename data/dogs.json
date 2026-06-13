@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T16:09:41Z",
-  "count": 75,
+  "updated": "2026-06-13T17:51:14Z",
+  "count": 73,
   "animals": [
     {
       "ID": "2754",
@@ -2105,42 +2105,6 @@
       "LastUpdatedUnixTime": "1780697899"
     },
     {
-      "ID": "3560",
-      "Internal-ID": "213684448",
-      "Name": "Rory",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.4",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9fdbaa9411a335c27db48ae013473d9c/a217b0112d5f3a63df16b5af65a2a60b.png",
-        "https://new-s3.shelterluv.com/profile-pictures/d3098716ce3522178050dd80a1bd068f/cf98141eac59cbba35a64482f1dff4cd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1780697990"
-    },
-    {
       "ID": "3561",
       "Internal-ID": "213684449",
       "Name": "Bogey",
@@ -2621,7 +2585,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "10.8",
+      "CurrentWeightPounds": "12.4",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1775019600,
@@ -2717,7 +2681,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043306"
+      "LastUpdatedUnixTime": "1781368524"
     },
     {
       "ID": "3594",
@@ -2843,7 +2807,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "10.14",
+      "CurrentWeightPounds": "11.4",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1775019600,
@@ -2936,7 +2900,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043306"
+      "LastUpdatedUnixTime": "1781368601"
     },
     {
       "ID": "3596",
@@ -2948,7 +2912,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "13.4",
+      "CurrentWeightPounds": "13.6",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1775019600,
@@ -3042,7 +3006,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043306"
+      "LastUpdatedUnixTime": "1781367671"
     },
     {
       "ID": "3597",
@@ -3054,7 +3018,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "13.8",
+      "CurrentWeightPounds": "13.1",
       "Size": "Large (60-99)",
       "Altered": "No",
       "DOBUnixTime": 1775019600,
@@ -3153,7 +3117,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043306"
+      "LastUpdatedUnixTime": "1781367722"
     },
     {
       "ID": "3598",
@@ -3281,7 +3245,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "13.4",
+      "CurrentWeightPounds": "13.14",
       "Size": "Large (60-99)",
       "Altered": "No",
       "DOBUnixTime": 1775019600,
@@ -3380,7 +3344,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781043307"
+      "LastUpdatedUnixTime": "1781368430"
     },
     {
       "ID": "3600",
@@ -3392,7 +3356,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "17",
+      "CurrentWeightPounds": "19.8",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1775019600,
@@ -3496,7 +3460,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781095384"
+      "LastUpdatedUnixTime": "1781368679"
     },
     {
       "ID": "2774",
@@ -4296,80 +4260,6 @@
       "LastUpdatedUnixTime": "1781315407"
     },
     {
-      "ID": "3451",
-      "Internal-ID": "213344881",
-      "Name": "Joyce",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773378000,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a227ceee9e192ed6425c230a10269f16/14a36c4b1bfda9b8ac92b070da1f51ea.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a227ceee9e192ed6425c230a10269f16/14a36c4b1bfda9b8ac92b070da1f51ea.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ffca98a4a040881037e332a6f538bf6/adb9985b356ca91dac3de32c7aa74dd8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/54c610c4693347e85b2ffa3e752ab58d/65246720f2c83e98d5f57bef4b5656f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27d7118dfc5e797e0ac71bd944d50334/5fe6c5621c649aa4c6e11a63a5741e5d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Joyce is an active, curious little girl who loves tug toys, wrestling with dog friends, and exploring the world around her. Joyce is incredibly social with other dogs and does a great job reading their signals and respecting boundaries.\n\nShe recently met a toddler and handled it beautifully, showing off her sweet and gentle side. Like many herding mixes, Joyce does have some classic puppy herding instincts and will happily grab at pant legs when she’s excited and playing.\n\nShe’s catching on quickly to potty training and is already sleeping well in her crate for about six hours overnight. Joyce can take a little time to settle down after playtime, but once she does, she’s content and happy.\n\nWith a mom around 25 pounds, Joyce will likely stay on the smaller side. She’s fun, affectionate, smart, and full of personality — the kind of puppy who keeps you smiling every day.\n",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781366532"
-    },
-    {
       "ID": "3475",
       "Internal-ID": "213392424",
       "Name": "Jaxen",
@@ -4379,7 +4269,7 @@
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "7.4",
+      "CurrentWeightPounds": "9",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1772265600,
@@ -4513,7 +4403,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781028202"
+      "LastUpdatedUnixTime": "1781368721"
     },
     {
       "ID": "3490",
