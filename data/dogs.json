@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:13:05Z",
+  "updated": "2026-06-13T21:57:19Z",
   "count": 70,
   "animals": [
     {
@@ -3834,11 +3834,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "296939",
           "AttributeName": "Rides well in a car",
           "Publish": "Yes"
@@ -3861,11 +3856,6 @@
         {
           "Internal-ID": "634879",
           "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
           "Publish": "Yes"
         },
         {
@@ -3899,12 +3889,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781206306"
+      "LastUpdatedUnixTime": "1781384567"
     },
     {
       "ID": "492",
@@ -4510,7 +4500,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781223045"
+      "LastUpdatedUnixTime": "1781382479"
     },
     {
       "ID": "3542",
