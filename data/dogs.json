@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T21:57:19Z",
-  "count": 70,
+  "updated": "2026-06-13T23:03:22Z",
+  "count": 69,
   "animals": [
     {
       "ID": "2754",
@@ -4162,96 +4162,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781315407"
-    },
-    {
-      "ID": "3490",
-      "Internal-ID": "213450869",
-      "Name": "Pinkie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1712725200,
-      "Age": 26,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c702706001c7863e451c93b425890232/c92560c9435519c8dceb1c5734a70e6e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c702706001c7863e451c93b425890232/c92560c9435519c8dceb1c5734a70e6e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c4fab9f7482b7ef3f68c72333ccfaa1b/6ef2d4add33077e24622d4c79a3183f8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d823081de9646c03a43cbeeaec747803/9a2514853c92c4d0483276f857d95164.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/201a148e3b4b62c2fad25869f2dde044/0266af1c590fcb5dba371a5fbd80f6f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4cb896a979f72c9c9898f426f755709/9453650188d4a96ea4e0f612c9266e5e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua, Short Coat/Mixed Breed (Small)",
-      "Color": "Wheaten/Fawn",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet your new favorite little shadow 💛\nThis 11-pound Chihuahua is all parts adorable. She is a reserved lady and takes some time to get comfortable with new people. Once she does, her heart is yours.  She’s already 100% house trained and doing well with crate training. She cries a little at the beginning, but is quiet and comfortable for the rest of the day.  She’s happiest close to her people—whether that’s snuggling on the couch or quietly keeping you company around the house.\nShe does best with older, respectful kids (12+) and is tolerant of calm, well-mannered dogs. Our family absolutely adores her, and it’s easy to see why—she’s sweet, funny and full of charm in a teeny tiny little package. Pinkie does have a history of a positive heartworm test and has received treatment. It will be especially important for her new family to be committed to every month, year-round heartworm prevention and appropriate follow-up veterinary care. \nIf you’re looking for a loyal little companion who’s already got the basics down, she might just be your perfect match. We just love her and want nothing but the best!\n\n",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781375615"
     },
     {
       "ID": "3502",
