@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T12:20:42Z",
+  "updated": "2026-06-14T14:37:45Z",
   "count": 69,
   "animals": [
     {
@@ -2534,8 +2534,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
           "Publish": "No"
         },
         {
@@ -2544,7 +2544,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781368524"
+      "LastUpdatedUnixTime": "1781446885"
     },
     {
       "ID": "3594",
@@ -2753,8 +2753,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         },
         {
@@ -2763,7 +2763,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781368601"
+      "LastUpdatedUnixTime": "1781447071"
     },
     {
       "ID": "3596",
@@ -2859,8 +2859,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         },
         {
@@ -2869,7 +2869,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781367671"
+      "LastUpdatedUnixTime": "1781446755"
     },
     {
       "ID": "3597",
@@ -2970,8 +2970,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         },
         {
@@ -2980,7 +2980,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781367722"
+      "LastUpdatedUnixTime": "1781446767"
     },
     {
       "ID": "3598",
@@ -3197,8 +3197,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
           "Publish": "No"
         },
         {
@@ -3207,7 +3207,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781368430"
+      "LastUpdatedUnixTime": "1781446731"
     },
     {
       "ID": "3600",
@@ -3324,6 +3324,131 @@
         }
       ],
       "LastUpdatedUnixTime": "1781368679"
+    },
+    {
+      "ID": "3601",
+      "Internal-ID": "213786026",
+      "Name": "Rowena",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "14",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1774538279,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d915f51148c8f98c31fb8aa6ee1c9be5/464ed1fb5bcd6a2755d99145ffde202d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa6477c585cebcece52c60d45d030195/a253c8dbdc44829471bacc9caa4a93ed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7230d9943912bd1230c711341f23acb7/df2331b1d7b1b67446dee2e529b098d1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a63ef6ac3f21710312dd246b6767df3/1d1979c1c148dd5dbbeb5c2a71334b73.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f65a6e28fde1422afde163b243121450/2f117db0edd90e230aa8895b7f3a5bdd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e271cab2001b66e4973836d2e6251fd/e8304cfd712aabee67c9eb0879a32487.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4b757021f4d35b94377a7585a0a8ea6/b105f357ed259d5fd1a09c5819227635.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3128b25d661475b24b8f4c9a17ea9060/512b79de9829287656821955aedb96af.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3cfc231f473c60de50d1cf83958cc969/870769d2be5be6239476b180a39bd2d6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/53acd15585ed2c84baf7304538b690b1/b56f5b12f56b3f991f2550187c376cd5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/41204673f625539e0983b40e7f33e48a/d97498ca97d6ff923e7a82e486b7eec4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a164aaa472a89b2d9fce3f186fb6cfcf/97e76e0bce9cac9fad7b49b750c4e2f7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ba2351a4965484bbb790abc418fd5e39/18a51be2c106acd3b1d38e77ca6e644d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa9b584172ae4e68bc573ac3d7c9141b/6af188b04562639fe31c9e136e40007e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/484655e9929443f508a8602113783311/37fa9e7dbdf3680fe3b3873143762a51.jpg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "u8ECY1sbR-o",
+          "EmbedUrl": "//www.youtube.com/embed/u8ECY1sbR-o?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=u8ECY1sbR-o",
+          "ThumbUrl": "https://img.youtube.com/vi/u8ECY1sbR-o/0.jpg"
+        },
+        {
+          "VideoId": "T1miqcaK_AI",
+          "EmbedUrl": "//www.youtube.com/embed/T1miqcaK_AI?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=T1miqcaK_AI",
+          "ThumbUrl": "https://img.youtube.com/vi/T1miqcaK_AI/0.jpg"
+        }
+      ],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Beige/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Rowena - a girl who's already been through more in her first weeks of life than most dogs face in a lifetime and is coming out the other side with her tail held high.\n\nShortly after Rowena arrived in the world, she was found abandoned, alone, and standing in the middle of the highway, clearly trying to fend for herself. She came to us battling mange, and while she's well on her way to a full recovery, she's still growing her coat back in - a little patchy, a little scruffy, and completely, utterly endearing. She's the kind of puppy who makes you root for her the moment you see her.\n\nBut here's the thing about Rowena: she has no idea she's been through anything hard. She isn't timid or withdrawn - she's just a puppy, doing puppy things, soaking up every good moment her foster home has to offer. She's got a lovely balance to her - playful when the moment calls for it, content to settle in and just be when it doesn't. She reads her people well and adapts easily, which means she'll fit into just about any household that's ready to love her.\n\nBy the time Rowena finds her forever home, that coat is going to be coming in beautifully - and her adopter will have the joy of watching that transformation happen in real time. A puppy who grows into herself, right before your eyes.\n\nRowena has already shown us who she is: resilient, sweet, and ready. Now she just needs someone to show her, and her favorite chair, where home is.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781446831"
     },
     {
       "ID": "3607",
@@ -4696,131 +4821,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781192298"
-    },
-    {
-      "ID": "3601",
-      "Internal-ID": "213786026",
-      "Name": "Rowena",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "14",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1774538279,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d915f51148c8f98c31fb8aa6ee1c9be5/464ed1fb5bcd6a2755d99145ffde202d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa6477c585cebcece52c60d45d030195/a253c8dbdc44829471bacc9caa4a93ed.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7230d9943912bd1230c711341f23acb7/df2331b1d7b1b67446dee2e529b098d1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a63ef6ac3f21710312dd246b6767df3/1d1979c1c148dd5dbbeb5c2a71334b73.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f65a6e28fde1422afde163b243121450/2f117db0edd90e230aa8895b7f3a5bdd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e271cab2001b66e4973836d2e6251fd/e8304cfd712aabee67c9eb0879a32487.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4b757021f4d35b94377a7585a0a8ea6/b105f357ed259d5fd1a09c5819227635.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3128b25d661475b24b8f4c9a17ea9060/512b79de9829287656821955aedb96af.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3cfc231f473c60de50d1cf83958cc969/870769d2be5be6239476b180a39bd2d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53acd15585ed2c84baf7304538b690b1/b56f5b12f56b3f991f2550187c376cd5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41204673f625539e0983b40e7f33e48a/d97498ca97d6ff923e7a82e486b7eec4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a164aaa472a89b2d9fce3f186fb6cfcf/97e76e0bce9cac9fad7b49b750c4e2f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ba2351a4965484bbb790abc418fd5e39/18a51be2c106acd3b1d38e77ca6e644d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa9b584172ae4e68bc573ac3d7c9141b/6af188b04562639fe31c9e136e40007e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/484655e9929443f508a8602113783311/37fa9e7dbdf3680fe3b3873143762a51.jpg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "u8ECY1sbR-o",
-          "EmbedUrl": "//www.youtube.com/embed/u8ECY1sbR-o?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=u8ECY1sbR-o",
-          "ThumbUrl": "https://img.youtube.com/vi/u8ECY1sbR-o/0.jpg"
-        },
-        {
-          "VideoId": "T1miqcaK_AI",
-          "EmbedUrl": "//www.youtube.com/embed/T1miqcaK_AI?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=T1miqcaK_AI",
-          "ThumbUrl": "https://img.youtube.com/vi/T1miqcaK_AI/0.jpg"
-        }
-      ],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Beige/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Rowena - a girl who's already been through more in her first weeks of life than most dogs face in a lifetime and is coming out the other side with her tail held high.\n\nShortly after Rowena arrived in the world, she was found abandoned, alone, and standing in the middle of the highway, clearly trying to fend for herself. She came to us battling mange, and while she's well on her way to a full recovery, she's still growing her coat back in - a little patchy, a little scruffy, and completely, utterly endearing. She's the kind of puppy who makes you root for her the moment you see her.\n\nBut here's the thing about Rowena: she has no idea she's been through anything hard. She isn't timid or withdrawn - she's just a puppy, doing puppy things, soaking up every good moment her foster home has to offer. She's got a lovely balance to her - playful when the moment calls for it, content to settle in and just be when it doesn't. She reads her people well and adapts easily, which means she'll fit into just about any household that's ready to love her.\n\nBy the time Rowena finds her forever home, that coat is going to be coming in beautifully - and her adopter will have the joy of watching that transformation happen in real time. A puppy who grows into herself, right before your eyes.\n\nRowena has already shown us who she is: resilient, sweet, and ready. Now she just needs someone to show her, and her favorite chair, where home is.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781120284"
     },
     {
       "ID": "3464",
