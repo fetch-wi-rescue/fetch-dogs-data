@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T01:41:03Z",
+  "updated": "2026-06-14T06:27:55Z",
   "count": 69,
   "animals": [
     {
@@ -1010,103 +1010,6 @@
       "LastUpdatedUnixTime": "1780321118"
     },
     {
-      "ID": "3495",
-      "Internal-ID": "213450891",
-      "Name": "Ranger",
-      "LitterGroupId": 9489851,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "34",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1766124000,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
-        "https://new-s3.shelterluv.com/profile-pictures/df848b367f250b87dab0cba2eb5704dd/24e56235c755bcff8b0c4e6bf0bc2209.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa3862d5b4f695b259b41c77923022cb/145927fa61aa1ff01014dc1f3e70f010.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2baf8ca8621db08e211ba6389d3b64c/3f94f8409bb585185ffe46e9ce634ccd.png",
-        "https://new-s3.shelterluv.com/profile-pictures/5db83bd2713eff9d9fabea5d4d7bf35e/956b374ed7289cad35d315b0ffcc0329.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/af51e4195964dccfabf95e4c0605e787/dc063d2a71e3f2b0ca3a11de58297a79.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aaac858977696f8fb3552fcd207902b6/b739f5a62968742bf3b63e37edf15f02.png",
-        "https://new-s3.shelterluv.com/profile-pictures/b3fe4941698f9d936d985d80c1f6c368/55ac820a0f4158a16a1e3fca634cc8ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f0eedc5b6b111048d0d4ce794261d3/fb785b2302cbe49a2afb09da2a092a0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95aa66887ba20ccd159e84239644303b/df14d7496d5323654ae382686c0ed0db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8ec47fc754fdbc12edee6b5df5e73361/2500649e222d9a78e10c00adc2442247.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
-      "Color": "Grey/Cream",
-      "Pattern": "Badger",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Ranger is the goofiest guy you might ever meet! He is a rambunctious, curious, truly hilarious, and zany guy. On one hand, he is a TOTAL husky, and on the other... he's completely different!\nIn husky form: he really does not like to be confined. This guy wants free range of the house, believes he knows what's best at all times, is vocal (you'll never to struggle to understand what he's wanting), and is down for every adventure. He is active and also wildly intelligent.\nIn non-husky form: He has INCREDIBLE recall off-leash, wants to follow you everywhere, oversee every task (or actually just do it for you?), and most certainly wants to ensure no one ever intrudes!\nRanger has been getting kennel trained, but realistically he hates it (see: total husky). He does not want to be a kennel guy, and is working on building up house manners (and the humans' trust) to be left unkenneled during the day and while sleeping at night. He is mostly house trained and has gotten great at signaling when he needs to go out. He loves to learn new tricks/commands, and he does so quickly! He lives in a house with other dogs and cats, and would really love to live in a house with other dogs when he's adopted, but could be an only dog with the right family. He occasionally BORKS at the cats, but has not shown any interest or drive to try to hurt them, though the same is not true for the mice in the garage or the moles in the yard (though he was very proud to present them to us). He lives in a house with a fenced in yard and while that would also be his preference in a forever home, could also do okay otherwise with the right people. \nRanger has met several kids at a wide variety of ages and has done well with them. Occasionally in new settings he can be shy or suspicious of new people, and he watches his humans or foster dog siblings for cues on how to behave. \nRanger's ideal home would be one where he could be active, could have a confident leader (human and/or dog!), and could have his intelligent little brain engaged. He is a loyal, tenacious little guy who can't wait to find his hoomans!",
-      "LastIntakeUnixTime": "1781182938",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781183104"
-    },
-    {
       "ID": "3501",
       "Internal-ID": "213465531",
       "Name": "Kai",
@@ -1949,17 +1852,63 @@
       "Breed": "Chihuahua",
       "Color": "Brown/Black",
       "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780698025"
+      "LastUpdatedUnixTime": "1781407003"
     },
     {
       "ID": "3559",
@@ -1985,17 +1934,68 @@
       "Breed": "Chihuahua",
       "Color": "Tan",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780697899"
+      "LastUpdatedUnixTime": "1781406732"
     },
     {
       "ID": "3561",
@@ -3369,6 +3369,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296939",
           "AttributeName": "Rides well in a car",
           "Publish": "Yes"
@@ -3404,7 +3409,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781377585"
+      "LastUpdatedUnixTime": "1781403485"
     },
     {
       "ID": "2774",
@@ -4164,6 +4169,103 @@
       "LastUpdatedUnixTime": "1781315407"
     },
     {
+      "ID": "3495",
+      "Internal-ID": "213450891",
+      "Name": "Ranger",
+      "LitterGroupId": 9489851,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "34",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1766124000,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/26ecc255b518a9b1639f61f0f58913c5/b63e5c0864a0aadb8503eee8758d3fd0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dc7e0d9db09f0b40725dc1cb08202d0/294d49077ec87562fb74b494f9a99d88.png",
+        "https://new-s3.shelterluv.com/profile-pictures/df848b367f250b87dab0cba2eb5704dd/24e56235c755bcff8b0c4e6bf0bc2209.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa3862d5b4f695b259b41c77923022cb/145927fa61aa1ff01014dc1f3e70f010.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b2baf8ca8621db08e211ba6389d3b64c/3f94f8409bb585185ffe46e9ce634ccd.png",
+        "https://new-s3.shelterluv.com/profile-pictures/5db83bd2713eff9d9fabea5d4d7bf35e/956b374ed7289cad35d315b0ffcc0329.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/af51e4195964dccfabf95e4c0605e787/dc063d2a71e3f2b0ca3a11de58297a79.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aaac858977696f8fb3552fcd207902b6/b739f5a62968742bf3b63e37edf15f02.png",
+        "https://new-s3.shelterluv.com/profile-pictures/b3fe4941698f9d936d985d80c1f6c368/55ac820a0f4158a16a1e3fca634cc8ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c2f0eedc5b6b111048d0d4ce794261d3/fb785b2302cbe49a2afb09da2a092a0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/95aa66887ba20ccd159e84239644303b/df14d7496d5323654ae382686c0ed0db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8ec47fc754fdbc12edee6b5df5e73361/2500649e222d9a78e10c00adc2442247.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Large)",
+      "Color": "Grey/Cream",
+      "Pattern": "Badger",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Ranger is the goofiest guy you might ever meet! He is a rambunctious, curious, truly hilarious, and zany guy. On one hand, he is a TOTAL husky, and on the other... he's completely different!\nIn husky form: he really does not like to be confined. This guy wants free range of the house, believes he knows what's best at all times, is vocal (you'll never to struggle to understand what he's wanting), and is down for every adventure. He is active and also wildly intelligent.\nIn non-husky form: He has INCREDIBLE recall off-leash, wants to follow you everywhere, oversee every task (or actually just do it for you?), and most certainly wants to ensure no one ever intrudes!\nRanger has been getting kennel trained, but realistically he hates it (see: total husky). He does not want to be a kennel guy, and is working on building up house manners (and the humans' trust) to be left unkenneled during the day and while sleeping at night. He is mostly house trained and has gotten great at signaling when he needs to go out. He loves to learn new tricks/commands, and he does so quickly! He lives in a house with other dogs and cats, and would really love to live in a house with other dogs when he's adopted, but could be an only dog with the right family. He occasionally BORKS at the cats, but has not shown any interest or drive to try to hurt them, though the same is not true for the mice in the garage or the moles in the yard (though he was very proud to present them to us). He lives in a house with a fenced in yard and while that would also be his preference in a forever home, could also do okay otherwise with the right people. \nRanger has met several kids at a wide variety of ages and has done well with them. Occasionally in new settings he can be shy or suspicious of new people, and he watches his humans or foster dog siblings for cues on how to behave. \nRanger's ideal home would be one where he could be active, could have a confident leader (human and/or dog!), and could have his intelligent little brain engaged. He is a loyal, tenacious little guy who can't wait to find his hoomans!",
+      "LastIntakeUnixTime": "1781182938",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781403369"
+    },
+    {
       "ID": "3502",
       "Internal-ID": "213465535",
       "Name": "Deva",
@@ -4594,98 +4696,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781192298"
-    },
-    {
-      "ID": "3587",
-      "Internal-ID": "213704424",
-      "Name": "Plum",
-      "LitterGroupId": 9513102,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773550800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
-      "LastIntakeUnixTime": "1778952181",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781022575"
     },
     {
       "ID": "3601",
@@ -5183,6 +5193,98 @@
         }
       ],
       "LastUpdatedUnixTime": "1780762285"
+    },
+    {
+      "ID": "3587",
+      "Internal-ID": "213704424",
+      "Name": "Plum",
+      "LitterGroupId": 9513102,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1773550800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
+      "LastIntakeUnixTime": "1778952181",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781403347"
     },
     {
       "ID": "1395",
@@ -5741,7 +5843,7 @@
       "Sex": "Female",
       "Status": "DiTC",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "55",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1762754400,
@@ -5799,7 +5901,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1781276207"
+      "LastUpdatedUnixTime": "1781416212"
     }
   ]
 }
