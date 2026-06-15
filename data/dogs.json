@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T15:27:01Z",
-  "count": 70,
+  "updated": "2026-06-15T19:11:58Z",
+  "count": 69,
   "animals": [
     {
       "ID": "2754",
@@ -2113,48 +2113,6 @@
       "LastUpdatedUnixTime": "1781406732"
     },
     {
-      "ID": "3561",
-      "Internal-ID": "213684449",
-      "Name": "Bogey",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "2.52",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/148eaa061e52a39d0c82acfa74ab9d79/555129b704030839e6f243d111cd4972.png",
-        "https://new-s3.shelterluv.com/profile-pictures/4e9f3ad0f4ccf561a99ee9700bf4229c/cef53acc7ca39f38ea19837360004b6e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781377402"
-    },
-    {
       "ID": "3578",
       "Internal-ID": "213704197",
       "Name": "Amara",
@@ -3631,7 +3589,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781033988"
+      "LastUpdatedUnixTime": "1781545167"
     },
     {
       "ID": "3536",
@@ -4865,7 +4823,13 @@
       "Breed": "Shiba Inu",
       "Color": "Blond",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Peaches is a sweet, playful, independent doggo with an adorable fox face and a tomboy streak. She loves playing fetch, tug of war and chasing rabbits around the backyard; sniffing (and marking) throughout the neighborhood. She is smart and food motivated, knows “sit” and “touch” and is working on “wait.”  As is typical for her breed, she is on the more independent side, preferring to come to you to snuggle when she feels like it. That said, she is very attuned with her humans, usually choosing to be near the action and often cuddling up against one of us on the couch or bed. She also enjoys grooming her people, licking and gently nibbling hands, legs and feet if allowed - she knows it’s important to keep her people clean!\n\nPeaches has gotten along well with other dogs and would love to play with most dogs she meets. Her previous owners stated she was cat-friendly, but we haven’t found her to be trustworthy with our cat. She generally warms up to new people quickly, especially if they give her a bit of space as she doesn’t seem to enjoy being petted by new people. She has not met any children while staying with us.\n\nHer day begins with a 20 minute walk followed by breakfast in a puzzle bowl and some cuddle time while one of her humans goes through their morning routine. She is home alone throughout the work day, typically free roaming, and seems fine going 8-10 hours without a potty break. She gets a second walk and some backyard playtime in the evening, followed by dinner. She typically follows us around throughout the evening, wanting to be in the yard if we’re outside, in the basement if we’re doing laundry, on the couch if it’s TV time. She has free range of the common spaces of the house at night (as the cat is with us in the bedroom). We did crate her initially, and she settled well after vocalizing for a couple of minutes. She did initially vocalize quite a bit when separated from us at bedtime, and again in the morning, but has settled very nicely into our routine. We have not seen signs of separation anxiety when we are away from home, only when we are in another room and she does not have access to us. She displays this with loud vocalizations and scratching at doors, but no destructive behaviors. \n\nYou won’t need millions of peaches when you have this one Peaches!\n\n\n",
       "LastIntakeUnixTime": "1776050523",
       "Attributes": [
@@ -4955,7 +4919,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781529069"
+      "LastUpdatedUnixTime": "1781546996"
     },
     {
       "ID": "3580",
