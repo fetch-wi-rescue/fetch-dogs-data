@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T18:14:07Z",
+  "updated": "2026-06-16T21:24:28Z",
   "count": 66,
   "animals": [
     {
@@ -485,7 +485,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781633643"
+      "LastUpdatedUnixTime": "1781633904"
     },
     {
       "ID": "3200",
@@ -1519,7 +1519,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781621006"
+      "LastUpdatedUnixTime": "1781633986"
     },
     {
       "ID": "3543",
@@ -2202,7 +2202,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781446885"
+      "LastUpdatedUnixTime": "1781636651"
     },
     {
       "ID": "3595",
@@ -2307,7 +2307,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781447071"
+      "LastUpdatedUnixTime": "1781636613"
     },
     {
       "ID": "3596",
@@ -2750,7 +2750,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781446731"
+      "LastUpdatedUnixTime": "1781636552"
     },
     {
       "ID": "3600",
@@ -3182,6 +3182,82 @@
         }
       ],
       "LastUpdatedUnixTime": "1781545167"
+    },
+    {
+      "ID": "1395",
+      "Internal-ID": "213179009",
+      "Name": "Alfie (fka Blueberry)",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "58",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1757134800,
+      "Age": 9,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Black/Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Alfie is a handsome, intelligent young pup who is looking for the right home to help him grow into the wonderful dog he has the potential to be. Originally adopted as a young puppy, Alfie is believed to be a German Shepherd / Anatolian Shepherd mix, which means he’s a smart, energetic working-type dog who thrives with structure, training, and an experienced handler.\n\nAlfie is very people-oriented and loves being near his humans. When he’s calm, he enjoys snuggling and being part of whatever his people are doing. He is friendly and enthusiastic when meeting new people and is always excited to make new friends.\n\nThis bright boy has already started learning his basic commands in puppy training classes and has been doing very well. He is eager to please and responds well to consistent training. Alfie is crate-trained overnight and is doing well with potty training. He does well with other dogs and enjoys their company. He has interacted appropriately with dogs in puppy class and is excited to see dogs in the neighborhood.\n\nAlfie is still a young puppy and is very energetic and curious. Like many shepherd-type dogs, he needs both physical exercise and mental enrichment to help him stay balanced and happy.\n\nBecause he is still learning impulse control, Alfie can be mouthy during play and may nip at clothing or hands when he becomes overexcited. He will need a patient home committed to continuing training to help him develop appropriate play and manners as he matures. Alfie has also shown resource guarding with high-value chews, such as bully sticks. A home familiar with training and managing this behavior will help him succeed.\n\nAlfie has lived with a cat but has recently begun nipping at and grabbing the cat’s tail, so he will need a home without cats.\n\nBecause of his mouthy play style and energy level, Alfie would do best in a home with adults or older, dog-savvy children. A calmer household that can provide structure, training, and consistent leadership will help him thrive.\n\nAlfie’s Ideal Home\n\n    Experience with shepherd or guardian breeds preferred\n\n    Committed to continued training and structure\n\n    Plenty of exercise and mental enrichment\n\n    No cats\n\n    No young children\n\nAlfie is a smart, loyal pup with a lot of potential. In the right home with guidance and consistency, he can grow into a wonderful companion.",
+      "LastIntakeUnixTime": "1781640900",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781640985"
     },
     {
       "ID": "3536",
@@ -4370,7 +4446,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781230096"
+      "LastUpdatedUnixTime": "1781634465"
     },
     {
       "ID": "3557",
@@ -4590,7 +4666,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781626799"
+      "LastUpdatedUnixTime": "1781638449"
     },
     {
       "ID": "3498",
@@ -4863,77 +4939,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780762285"
-    },
-    {
-      "ID": "1395",
-      "Internal-ID": "213179009",
-      "Name": "Alfie (fka Blueberry)",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "58",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1757134800,
-      "Age": 9,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian",
-      "Color": "Black/Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Alfie is a handsome, intelligent young pup who is looking for the right home to help him grow into the wonderful dog he has the potential to be. Originally adopted as a young puppy, Alfie is believed to be a German Shepherd / Anatolian Shepherd mix, which means he’s a smart, energetic working-type dog who thrives with structure, training, and an experienced handler.\n\nAlfie is very people-oriented and loves being near his humans. When he’s calm, he enjoys snuggling and being part of whatever his people are doing. He is friendly and enthusiastic when meeting new people and is always excited to make new friends.\n\nThis bright boy has already started learning his basic commands in puppy training classes and has been doing very well. He is eager to please and responds well to consistent training. Alfie is crate-trained overnight and is doing well with potty training. He does well with other dogs and enjoys their company. He has interacted appropriately with dogs in puppy class and is excited to see dogs in the neighborhood.\n\nAlfie is still a young puppy and is very energetic and curious. Like many shepherd-type dogs, he needs both physical exercise and mental enrichment to help him stay balanced and happy.\n\nBecause he is still learning impulse control, Alfie can be mouthy during play and may nip at clothing or hands when he becomes overexcited. He will need a patient home committed to continuing training to help him develop appropriate play and manners as he matures. Alfie has also shown resource guarding with high-value chews, such as bully sticks. A home familiar with training and managing this behavior will help him succeed.\n\nAlfie has lived with a cat but has recently begun nipping at and grabbing the cat’s tail, so he will need a home without cats.\n\nBecause of his mouthy play style and energy level, Alfie would do best in a home with adults or older, dog-savvy children. A calmer household that can provide structure, training, and consistent leadership will help him thrive.\n\nAlfie’s Ideal Home\n\n    Experience with shepherd or guardian breeds preferred\n\n    Committed to continued training and structure\n\n    Plenty of exercise and mental enrichment\n\n    No cats\n\n    No young children\n\nAlfie is a smart, loyal pup with a lot of potential. In the right home with guidance and consistency, he can grow into a wonderful companion.",
-      "LastIntakeUnixTime": "1778533447",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778538708"
     },
     {
       "ID": "1442",
