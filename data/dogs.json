@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T23:49:54Z",
-  "count": 68,
+  "updated": "2026-06-16T02:59:11Z",
+  "count": 66,
   "animals": [
     {
       "ID": "2754",
@@ -485,7 +485,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779226131"
+      "LastUpdatedUnixTime": "1781573605"
     },
     {
       "ID": "3200",
@@ -1125,121 +1125,6 @@
       "LastUpdatedUnixTime": "1780321118"
     },
     {
-      "ID": "3501",
-      "Internal-ID": "213465531",
-      "Name": "Kai",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "21.5",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1774587600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bed92f4340b302d752356a7e3169e559/1967e7934b982941eeb6a854df67edb5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb1dd3f859baebac690cbdb7c5bfe65c/73cb861956315d97ca55eda93e43cb5b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/794c849a77328fe3dd1142222aa4b16b/5b040ccf8a5bcdd0106dd6bf558d8a19.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3a6d79459e3950309b93f85c69800ac/f899652fa064291247214d9375729b39.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b553c364c3545fdeb5697fae1c305cc/1ae518e3748ac7378487eb111ef036d8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c755d1967754d0b28b15d0d2d2db4d92/ad1c43cc625259acb339af3b5d123f9f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e11857831836b10761651a718182c039/6f1f30475b6538bc6cb2b922d9fc59d3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa0fde144d919abea9e4572418ff8ace/389c5dc366d52cde83e7be7a13ae9cd6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Kai is my charming little rogue. Sweet, but a little mischievous, he loves to explore for things to chew on (his favorite is the door stopper), but loves to crawl in your lap and lick your nose even more! A total heartbreaker. \n\nBrother to Deva, Lucas, and Nola!",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781140475"
-    },
-    {
       "ID": "3503",
       "Internal-ID": "213465538",
       "Name": "Nola",
@@ -1635,86 +1520,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781365376"
-    },
-    {
-      "ID": "3541",
-      "Internal-ID": "213591752",
-      "Name": "Marigold",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 105,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out! She is a rare straight-haired bichon, not the typical curly coat.",
-      "LastIntakeUnixTime": "1777708500",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1779842394"
     },
     {
       "ID": "3543",
@@ -3306,9 +3111,11 @@
         "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/91684575e7148b0c62e501fc554dde84/abeea6149a8eb47e01b1caf3ca02b949.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f113d1edb7c8bcab499781e7d572aa9/5902c40b87f2039e7abaa6456431880b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52765ce050ecec2d94abec2f3797c049/1a7f14d908ac96484de72ae8f82532e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/54338203d260914e09883df36fb9e5d0/a454b120193085317fd3378178709443.jpeg"
       ],
       "Videos": [],
       "Breed": "Chow Chow",
@@ -3354,6 +3161,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637203",
           "AttributeName": "Low energy",
           "Publish": "Yes"
@@ -3369,7 +3181,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781468734"
+      "LastUpdatedUnixTime": "1781575653"
     },
     {
       "ID": "2774",
@@ -4243,6 +4055,121 @@
       "LastUpdatedUnixTime": "1781315407"
     },
     {
+      "ID": "3501",
+      "Internal-ID": "213465531",
+      "Name": "Kai",
+      "LitterGroupId": 9491380,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "21.5",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1774587600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bed92f4340b302d752356a7e3169e559/1967e7934b982941eeb6a854df67edb5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb1dd3f859baebac690cbdb7c5bfe65c/73cb861956315d97ca55eda93e43cb5b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/794c849a77328fe3dd1142222aa4b16b/5b040ccf8a5bcdd0106dd6bf558d8a19.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3a6d79459e3950309b93f85c69800ac/f899652fa064291247214d9375729b39.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1b553c364c3545fdeb5697fae1c305cc/1ae518e3748ac7378487eb111ef036d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c755d1967754d0b28b15d0d2d2db4d92/ad1c43cc625259acb339af3b5d123f9f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e11857831836b10761651a718182c039/6f1f30475b6538bc6cb2b922d9fc59d3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa0fde144d919abea9e4572418ff8ace/389c5dc366d52cde83e7be7a13ae9cd6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Kai is my charming little rogue. Sweet, but a little mischievous, he loves to explore for things to chew on (his favorite is the door stopper), but loves to crawl in your lap and lick your nose even more! A total heartbreaker. \n\nBrother to Deva, Lucas, and Nola!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781578591"
+    },
+    {
       "ID": "3528",
       "Internal-ID": "213534591",
       "Name": "Natalia",
@@ -4376,6 +4303,86 @@
         }
       ],
       "LastUpdatedUnixTime": "1781382479"
+    },
+    {
+      "ID": "3541",
+      "Internal-ID": "213591752",
+      "Name": "Marigold",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 105,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out! She is a rare straight-haired bichon, not the typical curly coat.",
+      "LastIntakeUnixTime": "1777708500",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781576423"
     },
     {
       "ID": "3542",
@@ -4584,112 +4591,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781556380"
-    },
-    {
-      "ID": "3464",
-      "Internal-ID": "213355169",
-      "Name": "Hannah",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "38",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763013600,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/60f38f663021c1e710af1fb3f6aceff1/77c65de2d9b60e26180cf0b0e4861b0f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5a64459a734e850ca2fbd70557df4d0/3e4209975e5ade429e9ed89097f148ea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8d705078e8d53a9e006da8e07572f4c/0c9891c7016881e23e901a9639a73b9f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62660bf5bd5b213704b08e37d2e8ebfe/a6fb8c445ac9711353d26fcf02d798a9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/987e705f7a9cc64261380db7074b53cf/7689480580da51fb13633e928730fd55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8dad091ef1880d595b290e5cf0efd499/abd2c3186e0fca192d061824658c9be6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b64bfb4ae852d461b2683c79dfbb2d70/be6b256fa63ab728eaa6d96532b79e23.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/809a55806d46efe5ae1303a91b0a3e1c/b6f462f4e6a4058f98bb145c796db1f2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/34a69bc333ddbd871a1af9f514e09fa7/f4a784fbd1bf941ec8ec06194cb48b1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/215b89f08bbf92103d2cc42d39e47999/22f0892c4b4250bd7218ad19f265c404.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "White/Black",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Hannah 🐾\n\nHannah is a sweet, snuggly puppy who’s well on her way to becoming an amazing companion. She absolutely loves curling up close for cuddles and happily keeps herself busy with a good chew bone.\n\nHer favorite places are the couch and the bed, she would love to sleep with you, but also is fine sleeping near by. Her foster parents don’t let her sleep in bed during the night, so she often chooses the next closest place, sleeping under the bed.\n\nShe’s a smart girl who’s eager to learn—she already knows “sit” and is currently working on mastering “down.” Hannah is potty trained, sleeps through the night, and can be left out of a crate without getting into trouble (in fact, she’d prefer to skip the crate altogether!).\n\nHannah enjoys playing with other dogs and has been doing great with her two foster dog siblings. She’s still a puppy, but she’s growing into a good girl who will make a wonderful addition to a loving home.\n\nIf you’re looking for a playful cuddle buddy, Hannah might just be your perfect match.",
-      "LastIntakeUnixTime": "1776395511",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781217056"
     },
     {
       "ID": "3498",
@@ -4962,98 +4863,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1780762285"
-    },
-    {
-      "ID": "3587",
-      "Internal-ID": "213704424",
-      "Name": "Plum",
-      "LitterGroupId": 9513102,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1773550800,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae0a862615a2325d330c92b2cbe36917/70861dc3b52da02324f1e547a8a8317e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2ade512bb84a74141b2ff67cfd643d9/52288842f0b49837e692929aa02289e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a0efac8a5023c7ec3cc5b7b68b662bb/9e065b61765024b1415947bece0ff7f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4db967fda55f422c4756c328b35f8386/c517100ea6d082a103b190b88b5597b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/db6f85c1c2637472548ccecb9c0c3500/645bab2f058a19f20c09061b53f25d6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c4ee30297fde4625f4faba69bff7902/84070877ee0ea269637311bc25ce2e4f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e66f1dc1a0a2bf3ae1b242225461d0e1/53f7be1a2d247486f78074d2a00d4fe2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Say “hi” to Plum.  She’s a peach of a pup! Plum is the best of everything, she’s a world-class snuggler and is just as happy playing independently. Her olive green eyes are mesmerizing. \n\nBragging points for Plum:\n- sleeps through the night in her crate since she arrived \n- learned “sit” in 2 days\n- potty training is progressing nicely; hardly any accidents in the past few days\n- enjoys playing and napping with our resident dogs\n\nThese are huge wins considering Plum just turned 9 weeks old and has only been away from her siblings for a week. \n\nPlum’s schedule:\n5:30-6:30 am ~ wake up, outside, eat, play\n7 am - 10:30 pm ~ combination of crate, naps, play, eat, outside for some stick chewing and shade napping \n10:30 pm ~ kisses goodnight and to the crate she goes\n\nPlum is silly, fun and a pure joy to foster. She’s looking for a lifelong companion, do you fit the bill?\n",
-      "LastIntakeUnixTime": "1778952181",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781565082"
     },
     {
       "ID": "1395",

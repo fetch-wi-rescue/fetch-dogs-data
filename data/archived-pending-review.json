@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T21:59:39Z",
+  "updated": "2026-06-16T02:59:11Z",
   "animals": [
     {
       "ID": "3458",
@@ -647,6 +647,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-15T21:59:39Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3464",
+      "Name": "Hannah",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f503a992be92da603d02d9d7eb064142/d6546608c1abc95f5ea7c8f4aed798d1.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-16T02:59:11Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3587",
+      "Name": "Plum",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acd12f3debd1b6e1b90edb6f49786723/e49cf2988c49a5ceb1273152d89908d9.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-16T02:59:11Z",
       "status": "pending"
     }
   ]
