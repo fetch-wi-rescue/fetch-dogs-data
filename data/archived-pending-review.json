@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T16:10:23Z",
+  "updated": "2026-06-17T21:01:28Z",
   "animals": [
     {
       "ID": "3458",
@@ -674,6 +674,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-17T16:10:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3498",
+      "Name": "Peaches",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/251190bc8c08482a4cc937d33a51fd81/7232a5e5a09f9d859682368a82da0fb2.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-17T21:01:28Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3559",
+      "Name": "Chip",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/03225215249e9cea1312e49f08e047aa/33e3fa2dc7de52f16cc455e52dac20e0.png",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-17T21:01:28Z",
       "status": "pending"
     }
   ]
