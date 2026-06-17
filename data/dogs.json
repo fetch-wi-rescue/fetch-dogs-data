@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T01:59:37Z",
-  "count": 66,
+  "updated": "2026-06-17T07:17:28Z",
+  "count": 67,
   "animals": [
     {
       "ID": "2754",
@@ -499,7 +499,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1779932370"
+      "LastUpdatedUnixTime": "1781666230"
     },
     {
       "ID": "3238",
@@ -1272,7 +1272,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1765951200,
-      "Age": 5,
+      "Age": 6,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
@@ -2261,7 +2261,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Born on April Fool's Day, Bonsai is anything but a joke. This little guy arrived in the world just two months ago, and he's already busy figuring out everything it has to offer - sights, sounds, smells, and hopefully very soon, a family to call his own.\n\nBonsai is the kind of puppy who can go from full-speed zoomies to a sleepy, squishy snuggle in the span of about four minutes. He's curious without being overwhelming, playful without being relentless - a genuinely balanced little soul who tends to take his cues from the people around him. That adaptability is rare, and it means Bonsai is likely to thrive in all kinds of homes.\n\nIf you've been waiting for a puppy who feels like he was made just for you - Bonsai might be exactly that.",
+      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
@@ -2374,7 +2374,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Rue is a stunning boy with a soft expression and a heart that wants nothing more than to belong to someone special. He’s young, bright, and full of that irresistible puppy charm - but with a calm, thoughtful side that makes him easy to love.\n\nHe is the kind of dog who watches you with quiet curiosity, then breaks into a full‑body wiggle when he realizes you’re there just for him. He’s affectionate, eager to learn, and already showing signs of being a loyal, people‑oriented companion.\n\nRue is still growing into himself, which makes this the perfect time for him to bond deeply with his new family. With patience, structure, and lots of love, he’s going to blossom into the kind of dog who makes every day better just by being there.\n\nIf you’re looking for a loyal companion with a tender heart and a bright future, Rue is ready to meet you.\n\n\n",
+      "Description": "Even at just two months old, Rue already has a presence about him. He’s observant, thoughtful, and the kind of puppy who likes to take a moment to figure out the world before diving in. Once he knows you’re a friend, though, his reserved side melts away and you’re rewarded with full-body wiggles, happy kisses, and endless affection.\n\nRue is already showing signs of becoming an incredibly loyal and devoted companion. He’s been practicing his “big boy bark” to let everyone know when someone is near the house, but his tough-guy act disappears the second he realizes it’s someone there to love on him.\n\nThis handsome boy is also very smart. He’s picking up crate training and potty training quickly and settles beautifully for naps and bedtime with very little fuss. Rue has an independent streak, too - once he’s comfortable in his environment, he’s confident, secure, and perfectly happy to entertain himself between play sessions and cuddles.\n\nWhile he can be a little shy at first, it doesn’t take long for his true personality to shine through. Underneath that thoughtful exterior is a playful, loving puppy who is ready to build a deep bond with his future family.\n\nThere’s something special about Rue that makes you think ahead to the dog he’ll become: the one who sits beside you on the porch, keeps a watchful eye on the house, and makes you feel safe simply because he’s there.\n\nIf you’re looking for a puppy who will grow into a loyal shadow, a gentle protector, and a best friend all wrapped into one adorable package, Rue might just be your perfect match.\n\nTrust us - this sweet boy is going to make one lucky family very, very happy.",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
@@ -3602,7 +3602,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1742187600,
-      "Age": 14,
+      "Age": 15,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8fea1d084203857c4b5b1c34181d256a/74fb1eff7428ecf58cd824613e6410bd.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/8fea1d084203857c4b5b1c34181d256a/74fb1eff7428ecf58cd824613e6410bd.png"
@@ -3981,7 +3981,13 @@
       "Breed": "Retriever, Labrador",
       "Color": "Brindle",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Jubilee is growing up fast. She is potty trained, walks confidently on a leash, sleeps all night in her crate, and is fully recovered from getting spayed. This resilient and joyful girl continues to prove that being blind doesn't slow her down one bit. She has blossomed into a brave, curious pup who navigates her world with confidence and a wagging tail.\n\nJubilee is a true social butterfly. She absolutely loves meeting new people and greets every new dog or cat she encounters with enthusiasm. She thrives in a fenced yard where she can safely explore, play with her toys, and keep herself busy with puppy \"zoomies.\"\n\nDuring the day, she is equally happy to relax in her crate or follow around her humans and plop on the floor wherever they can be found. She's a bit of a lazy bones, always saving up energy for the next adventure or homecoming.\n\nJubilee is very \"pro-pet\" and wants to be friends with everyone.She is good with other dogs and enjoys their company, although being blind, she does not pick up on body language. She is best suited for a dog that is tolerant of puppy energy.\n\nAs for felines, Jubilee is \"cat-curious\" and can live successfully with feline friends who know how to keep their distance. Because she cannot see social cues, she is currently struggling to learn physical boundaries with her foster's resident cats. She would do best in a home with \"dog-savvy\" cats or a family willing to help her navigate these introductions with patience and a few baby gates!\n\nSpecial Needs Note\n\nJubilee was born with congenital retinal atrophy, but she doesn't know she's different. Adopting a blind puppy like Jubilee is an incredibly rewarding experience. It builds a unique bond of trust and communication. With a consistent environment and a little guidance, she will continue to thrive and inspire everyone she meets.",
       "LastIntakeUnixTime": "1765000800",
       "Attributes": [
@@ -4036,7 +4042,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781631153"
+      "LastUpdatedUnixTime": "1781665146"
     },
     {
       "ID": "3501",
@@ -4167,7 +4173,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1765951200,
-      "Age": 5,
+      "Age": 6,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
@@ -5568,6 +5574,67 @@
         }
       ],
       "LastUpdatedUnixTime": "1781500399"
+    },
+    {
+      "ID": "3611",
+      "Internal-ID": "213937628",
+      "Name": "Obie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "20",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1480831200,
+      "Age": 114,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c894c62f4b514359807cd30d5eba0f7/40ddbd4d632e4b6bfd20574b2785f46d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6c894c62f4b514359807cd30d5eba0f7/40ddbd4d632e4b6bfd20574b2785f46d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/127fcf49d950e60e82799c045d77c5d1/aa57f82712b83958fcb42544b41504ff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b764ed58b634db4d4d78cc1ecc63e5d/1e8492ae4ba63804e9fcf74762f314f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4d010fbcfded92650dd3b7577a5bd457/27095e52d938927d716b3b14369ed79f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b72fe8d03c4d2b3a07211ba16b8767f/ca3669bd1f2ce4530ab1265e64580335.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/50730ae6020af51c9f33f4ffa2c02f43/3a6d3d78a2f70e0ea341ffec9096fdea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f98ce044a90c39703cc5665417e7da28/bfbdf6ff65c17e26edf8f42078d005b7.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Jack Russell",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Obie is a sweet little Jack Russell who is looking for a new home because he does not do well with young children. He loves adults, but the unpredictability of toddlers stresses him out and he has snapped at our toddler. He would be more comfortable and happy in a child-free home.\n\nObie is cuddly, calm, and cozy. He loves to lay wherever you are working, is excited about walks, and loves the mailman, and playing with toys in the mornings. He loves to snuggle up with you or roll over for belly rubs, gives sweet (but not excessive) kisses, tolerates being held on his back like a baby, enjoys a good sunspot on the floor, and likes routine but can adapt from day-to-day between ten-mile hikes in the mountains or lounging around on the couch. He is well-trained, well-behaved, and is even good off-leash.\n\nObie does have isolation distress, meaning he's fine as long as he's not alone, so a home with another dog is ideal, but he can be alone for a few hours without issue (as long as you hide the trash!). He is fine with all other dogs (aside from large breed puppies), and has no issues staying at a friend's or dogsitter's house with other dogs or cats.\n\nObie is up-to-date on all recommended vaccines including Lyme and has been on monthly heartworm/intestinal parasite prevention as well as flea and tick prevention for years. He is generally very healthy; he has had occasional gastroenteritis (maybe 1x/year) but has no chronic physical ailments.",
+      "LastIntakeUnixTime": "1781669920",
+      "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781670428"
     },
     {
       "ID": "3502",
