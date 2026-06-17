@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T12:01:51Z",
-  "count": 67,
+  "updated": "2026-06-17T16:10:23Z",
+  "count": 68,
   "animals": [
     {
       "ID": "2754",
@@ -1816,7 +1816,7 @@
         }
       ],
       "Breed": "Mixed Breed (Large)/Mixed Breed (Large)",
-      "Color": "Black/White",
+      "Color": "Grey/White",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
       "Description": "Bonded to Ruthie: https://fetchwi.org/dog#ruthie\n\nSweet Stacy is the definition of gentle soul energy.\nThis shy little lady wants love so badly — she’s just still figuring out how to trust that it’s really hers to have. Stacy is incredibly sweet, easygoing, and wonderfully quirky in all the best ways. She gets along beautifully with basically every furry creature she meets and approaches life with quiet softness and polite submission.\nThunderstorms? No big deal.\nDoorways? Absolutely suspicious.\nStacy often looks to Ruthie for guidance on “how to dog,” and watching the two together is enough to melt anyone’s heart. Ruthie gives Stacy confidence, and Stacy gives Ruthie comfort — they truly are a package deal of love and emotional support.\nOnce Stacy feels safe, her affectionate side starts to shine. She enjoys attention, seeks reassurance from her people, and blossoms most in calm, patient homes that let her move at her own pace.\nStacy is looking for:\nA patient adopter who understands shy dogs\nA calm, predictable environment\nHer beloved Ruthie by her side\nSomeone willing to cheer her on through scary things… like doorways\nBehind Stacy’s timid exterior is an incredibly loving girl who just needs someone to believe in her.",
@@ -1878,7 +1878,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780235610"
+      "LastUpdatedUnixTime": "1781708258"
     },
     {
       "ID": "3581",
@@ -2455,9 +2455,9 @@
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/04972a5ebda01343c2d562bae4509051/21df20c9a13952c962e6f0d78a0584be.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04972a5ebda01343c2d562bae4509051/21df20c9a13952c962e6f0d78a0584be.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
@@ -2476,8 +2476,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65b199d85edfda375bd403487e6ad627/b92a7e7a436b7d18058d05afa3a12277.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -2554,7 +2556,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781557730"
+      "LastUpdatedUnixTime": "1781699656"
     },
     {
       "ID": "3599",
@@ -3079,7 +3081,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781640985"
+      "LastUpdatedUnixTime": "1781709496"
     },
     {
       "ID": "3536",
@@ -3493,6 +3495,99 @@
       "LastUpdatedUnixTime": "1781433639"
     },
     {
+      "ID": "3607",
+      "Internal-ID": "213879443",
+      "Name": "Uncle Waldrop",
+      "LitterGroupId": 9531464,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1519508563,
+      "Age": 99,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f113d1edb7c8bcab499781e7d572aa9/5902c40b87f2039e7abaa6456431880b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52765ce050ecec2d94abec2f3797c049/1a7f14d908ac96484de72ae8f82532e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/54338203d260914e09883df36fb9e5d0/a454b120193085317fd3378178709443.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chow Chow",
+      "Color": "Red/Mahogany",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Looking for an easygoing companion who will fit right into your life? Uncle Waldrop might be your guy.\n\nThis handsome senior is the definition of a good dog. He's dog-friendly, loves people, and has a calm, laid-back personality that makes him a joy to have around. Whether he's enjoying a leisurely stroll, lounging nearby while you work, or settling in for some snuggles on the couch, Uncle Waldrop is simply happy to be part of the family.\n\nHe's the kind of dog who doesn't need to be the center of attention or create excitement wherever he goes. In fact, his greatest talent might be just being a wonderful companion. No drama, no chaos—just a sweet, affectionate dog who wants a comfortable spot to nap and humans to love.\nIf you're looking for a loyal friend who has left the puppy antics behind and mastered the art of being a good housemate, Uncle Waldrop is ready to move in and make himself at home.\n\nAdopt Uncle Waldrop and discover how wonderful life can be with a chill old soul by your side. 🐶💕",
+      "LastIntakeUnixTime": "1781206136",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781709697"
+    },
+    {
       "ID": "3608",
       "Internal-ID": "213879445",
       "Name": "Snickers",
@@ -3587,6 +3682,138 @@
         }
       ],
       "LastUpdatedUnixTime": "1781384567"
+    },
+    {
+      "ID": "3612",
+      "Internal-ID": "213937985",
+      "Name": "Whiskey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1750050000,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1781658720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781707988"
+    },
+    {
+      "ID": "3613",
+      "Internal-ID": "213937986",
+      "Name": "Pete",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1763390880,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1781658720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781708074"
     },
     {
       "ID": "492",
@@ -3766,99 +3993,6 @@
       "LastUpdatedUnixTime": "1780961337"
     },
     {
-      "ID": "3607",
-      "Internal-ID": "213879443",
-      "Name": "Uncle Waldrop",
-      "LitterGroupId": 9531464,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1519508563,
-      "Age": 99,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f113d1edb7c8bcab499781e7d572aa9/5902c40b87f2039e7abaa6456431880b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52765ce050ecec2d94abec2f3797c049/1a7f14d908ac96484de72ae8f82532e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/54338203d260914e09883df36fb9e5d0/a454b120193085317fd3378178709443.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chow Chow",
-      "Color": "Red/Mahogany",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Looking for an easygoing companion who will fit right into your life? Uncle Waldrop might be your guy.\n\nThis handsome senior is the definition of a good dog. He's dog-friendly, loves people, and has a calm, laid-back personality that makes him a joy to have around. Whether he's enjoying a leisurely stroll, lounging nearby while you work, or settling in for some snuggles on the couch, Uncle Waldrop is simply happy to be part of the family.\n\nHe's the kind of dog who doesn't need to be the center of attention or create excitement wherever he goes. In fact, his greatest talent might be just being a wonderful companion. No drama, no chaos—just a sweet, affectionate dog who wants a comfortable spot to nap and humans to love.\nIf you're looking for a loyal friend who has left the puppy antics behind and mastered the art of being a good housemate, Uncle Waldrop is ready to move in and make himself at home.\n\nAdopt Uncle Waldrop and discover how wonderful life can be with a chill old soul by your side. 🐶💕",
-      "LastIntakeUnixTime": "1781206136",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781659805"
-    },
-    {
       "ID": "3279",
       "Internal-ID": "213177967",
       "Name": "Demo",
@@ -3947,102 +4081,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781645622"
-    },
-    {
-      "ID": "1140",
-      "Internal-ID": "213179020",
-      "Name": "Jubilee",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1762059600,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a60d588ff88e643714f1062eccced3fc/8a4865e9098a6fa6b56c36a1b5bc93c6.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a60d588ff88e643714f1062eccced3fc/8a4865e9098a6fa6b56c36a1b5bc93c6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2da64798312406961904dd78eded320/a9fa365b27f2e321f6e3ec7b9f04e27d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/92e8a233641a6bccbee607af8155ed5b/6150440e3b5b26c032d62f3ed849493c.png",
-        "https://new-s3.shelterluv.com/profile-pictures/12808a5c4e76f15080ab7928b3fca6ba/c383b3f9621754c8a3c0bbaa1a16767d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/59ff00cd2d545c72cf34c375620ffbfc/9658571a7a6d3931ba53ed54d3fd74ee.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8693d02bee908a709da4266d8b8f61df/64b36ccac1868f7868c798ec4e05c4de.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae6904cd55f950105cadbe27a5cf3e20/b4a74cd751c1f02497653ccb0e64c1c2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9967b999721628152cebf1f0a20cbc5e/7c3d67b2923ddfec0c00ad3c4f3a04e6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c95ee235897221eaa5449dd3b18b457c/956eea4f23e9c2b98ebe72d8a91f44d9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/00c554ad605c0b43c999148ee8e9c04f/0af75db4c1ead41169ab570cf314eba7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/bbec332001506a40eae90dc086086689/13d628af5f9218ffb3787473d431f07d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Brindle",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Jubilee is growing up fast. She is potty trained, walks confidently on a leash, sleeps all night in her crate, and is fully recovered from getting spayed. This resilient and joyful girl continues to prove that being blind doesn't slow her down one bit. She has blossomed into a brave, curious pup who navigates her world with confidence and a wagging tail.\n\nJubilee is a true social butterfly. She absolutely loves meeting new people and greets every new dog or cat she encounters with enthusiasm. She thrives in a fenced yard where she can safely explore, play with her toys, and keep herself busy with puppy \"zoomies.\"\n\nDuring the day, she is equally happy to relax in her crate or follow around her humans and plop on the floor wherever they can be found. She's a bit of a lazy bones, always saving up energy for the next adventure or homecoming.\n\nJubilee is very \"pro-pet\" and wants to be friends with everyone.She is good with other dogs and enjoys their company, although being blind, she does not pick up on body language. She is best suited for a dog that is tolerant of puppy energy.\n\nAs for felines, Jubilee is \"cat-curious\" and can live successfully with feline friends who know how to keep their distance. Because she cannot see social cues, she is currently struggling to learn physical boundaries with her foster's resident cats. She would do best in a home with \"dog-savvy\" cats or a family willing to help her navigate these introductions with patience and a few baby gates!\n\nSpecial Needs Note\n\nJubilee was born with congenital retinal atrophy, but she doesn't know she's different. Adopting a blind puppy like Jubilee is an incredibly rewarding experience. It builds a unique bond of trust and communication. With a consistent environment and a little guidance, she will continue to thrive and inspire everyone she meets.",
-      "LastIntakeUnixTime": "1765000800",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634891",
-          "AttributeName": "Special Needs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781665146"
     },
     {
       "ID": "3501",
@@ -4677,7 +4715,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781638449"
+      "LastUpdatedUnixTime": "1781701264"
     },
     {
       "ID": "3498",
@@ -5748,7 +5786,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781455309"
+      "LastUpdatedUnixTime": "1781708493"
     }
   ]
 }
