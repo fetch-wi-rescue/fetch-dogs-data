@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T18:40:08Z",
-  "count": 65,
+  "updated": "2026-06-18T21:17:39Z",
+  "count": 64,
   "animals": [
     {
       "ID": "2754",
@@ -4828,7 +4828,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780762285"
+      "LastUpdatedUnixTime": "1781812052"
     },
     {
       "ID": "1442",
@@ -4959,83 +4959,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778616182"
-    },
-    {
-      "ID": "437",
-      "Internal-ID": "213180340",
-      "Name": "Sunny",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "40",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1698987600,
-      "Age": 31,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/51937d20e88c963d64bc3ab2454d6827/bfaece89e21037ece20eb4a93a834edc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30e763101aff4d0de96ccebd1f0ca080/5e89a43f616cbdd6285aca7349772b65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd36cd7b494cdaea920d0b9561e52571/0e9422944141360249c32c022e57a764.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Hound, Plott",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sunny is a sweet, affectionate girl who forms strong bonds with her people and loves cozy couch time just as much as playful zoomie moments. She has a medium-to-high energy personality with a fun, goofy side and especially enjoys squeaky stuffed toys she can proudly “de-stuff.”\n\nSunny thrives on structure and routine and does best in a calm, predictable home. She is kennel-trained, comfortable resting while you’re away, and benefits from consistent potty breaks and clear boundaries. While mostly house-trained, she does best with supervision and schedule.\n\nDue to anxiety and dog reactivity, Sunny is looking for a home as the only pet, without young children. With patience, positive reinforcement, and a peaceful environment, she has so much potential to grow into an incredibly loyal and devoted companion.\n\nSunny is spayed, healthy, and up to date on all vaccinations. In the right home, she will be a loving, deeply attached best friend.",
-      "LastIntakeUnixTime": "1778538736",
-      "Attributes": [
-        {
-          "Internal-ID": "294321",
-          "AttributeName": "Not Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778575376"
     },
     {
       "ID": "3550",
@@ -5484,7 +5407,7 @@
       "Color": "Black",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Obie is a sweet little Jack Russell who is looking for a new home because he does not do well with young children. He loves adults, but the unpredictability of toddlers stresses him out and he has snapped at our toddler. He would be more comfortable and happy in a child-free home.\n\nObie is cuddly, calm, and cozy. He loves to lay wherever you are working, is excited about walks, and loves the mailman, and playing with toys in the mornings. He loves to snuggle up with you or roll over for belly rubs, gives sweet (but not excessive) kisses, tolerates being held on his back like a baby, enjoys a good sunspot on the floor, and likes routine but can adapt from day-to-day between ten-mile hikes in the mountains or lounging around on the couch. He is well-trained, well-behaved, and is even good off-leash.\n\nObie does have isolation distress, meaning he's fine as long as he's not alone, so a home with another dog is ideal, but he can be alone for a few hours without issue (as long as you hide the trash!). He is fine with all other dogs (aside from large breed puppies), and has no issues staying at a friend's or dogsitter's house with other dogs or cats.\n\nObie is up-to-date on all recommended vaccines including Lyme and has been on monthly heartworm/intestinal parasite prevention as well as flea and tick prevention for years. He is generally very healthy; he has had occasional gastroenteritis (maybe 1x/year) but has no chronic physical ailments.",
+      "Description": "Obie is a sweet little Jack Russell who is looking for a new home because he does not do well with young children. He loves adults, but the unpredictability of toddlers stresses him out and he has snapped at our toddler. He would be more comfortable and happy in a child-free home.\n\nObie is cuddly, calm, and cozy. He loves to lay wherever you are working, is excited about walks, and loves the mailman, and playing with toys in the mornings. He loves to snuggle up with you or roll over for belly rubs, gives sweet (but not excessive) kisses, tolerates being held on his back like a baby, enjoys a good sunspot on the floor, and likes routine but can adapt from day-to-day between ten-mile hikes in the mountains or lounging around on the couch. He is well-trained, well-behaved, and is even good off-leash. He will bark initially when someone knocks at the door, but overall is a very quiet pup.\n\nObie does have isolation distress, meaning he's fine as long as he's not alone, so a home with another dog is ideal, but he can be alone for a few hours without issue (as long as you hide the trash!). He is fine with all other dogs (aside from large breed puppies), and has no issues staying at a friend's or dogsitter's house with other dogs or cats.\n\nObie is up-to-date on all recommended vaccines including Lyme and has been on monthly heartworm/intestinal parasite prevention as well as flea and tick prevention for years. He is generally very healthy; he has had occasional gastroenteritis (maybe 1x/year) but has no chronic physical ailments.",
       "LastIntakeUnixTime": "1781669920",
       "Attributes": [
         {

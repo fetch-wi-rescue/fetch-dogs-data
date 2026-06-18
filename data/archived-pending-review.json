@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T18:40:09Z",
+  "updated": "2026-06-18T21:17:39Z",
   "animals": [
     {
       "ID": "3458",
@@ -701,6 +701,15 @@
       "Status": "Foster to Adopt",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-18T18:40:09Z",
+      "status": "pending"
+    },
+    {
+      "ID": "437",
+      "Name": "Sunny",
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-06-18T21:17:39Z",
       "status": "pending"
     }
   ]
