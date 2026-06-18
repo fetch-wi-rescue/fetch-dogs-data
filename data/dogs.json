@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T12:46:50Z",
+  "updated": "2026-06-18T16:22:45Z",
   "count": 66,
   "animals": [
     {
@@ -2121,6 +2121,103 @@
       "LastUpdatedUnixTime": "1780369580"
     },
     {
+      "ID": "3590",
+      "Internal-ID": "213765756",
+      "Name": "Cash",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "73",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1527310800,
+      "Age": 96,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cdd3aae09faf06e83d0e84caa89fabdf/94ed45c92dcda8e674258c65ce556b20.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/839a83031d099fe2658984d9a1ab1ef9/e48baad667e64587b211a4ec9c65841e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bbb04528f68f68d0af5fd2fc2c0418d4/07adbadc551e6f807e9e573969f8be78.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3250166d0e5c6337d5771764f65a35e/0c620cf1c49cedae49daf6badbfe0b66.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/defe9c1b4ab612c7a5a75a9fec111ef7/4909572b1f1de28e0da089ed474e156b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b6ccf829c4cedb7c57b7afd04611f72/d0cd94c1a6dabaa24e5dfc13ce4c135d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94756355ec7274338a7519813fc4bac1/d546405bf92e12e04c35af10dc0395f4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Good with dogs, Good with kids, Good with Cats, House trained, Can free roam, Walks well on leash, Good in car, Senior Dog, Crate Trained, Friendly\n\nOlder dapper gent seeks connection for next phase of life. Meet Cash - he's a gentle sweetheart who's looking for the next love of his life following the passing of his previous human. \n\nCash is an easy going guy. He's friendly to every adult/child/dog/cat we've met - either politely greeting them or simply ignoring them and letting them be. He's a real people person and likes to follow his favorite gal around the house (he seems to connect more with women we've found - likes men, but a Velcro dog for women), but when left alone he settles onto his dog bed and patiently waits for your return.\n\nBeing an older guy he's got things down. He knows when it's potty time or will let you know he needs to head out - he's got a great old man bark. He walks well on leash; no tugging or lunging at small animals. He loves a good car ride - head out the window! He's great in public; we took him to various breweries during his first week here and he couldn't have been better. Being older also has some challenges - he's got some hip pain/arthritis and needs a daily med/supplement. He has trouble getting into a car - we've been introducing him to a ramp, but he's not a huge fan, so there's some lifting in and out.\n\nGeneral day for Cash:\n6:30 am: Wake up and first big walk of the. \"Big\" is relative; we don't go far - he's got some hip issues so we take a nice slow walk. He knows it is time to potty and gets his business done. A few blocks is all he needs.\n\n7am food (and joint supplement/med) He takes his meds very easily with some peanut butter.\n\nThen he'll either go to work with me or we stay home and work from home. Cash is happy to visit the office and see people. Then he'll settle down and let me work. \n\n12 noon food. And potty break - very short.\n\nMore patiently waiting while work is done. A potty break if needed.\n\n5pm: Day is done. Second big walk (again \"big\" here is pretty small).\n\nPets and play time, settles near us if we're home. If we go out he's good about being alone.\n\n7pm food (and joint supplement/med)\n\n9:30 pm: Last walk of the night. Upon return - dentastix and bed time. We let him sleep outside the kennel. He did fine in it, but we thought it was uncomfortable for his hips (and he's so well behaved) that we just let him free roam in the family room and sleep on a dog bed by the patio door.\n\nIf you're looking for a sweet, older guy to enjoy slow, short walks and nice quiet sitting you gotta meet Cash.",
+      "LastIntakeUnixTime": "1779895787",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781796809"
+    },
+    {
       "ID": "3593",
       "Internal-ID": "213786017",
       "Name": "Daisy",
@@ -3363,7 +3460,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781785201"
+      "LastUpdatedUnixTime": "1781796720"
     },
     {
       "ID": "3594",
@@ -4635,7 +4732,13 @@
       "Breed": "Chihuahua",
       "Color": "Brown/Black",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
@@ -4645,104 +4748,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781555927"
-    },
-    {
-      "ID": "3590",
-      "Internal-ID": "213765756",
-      "Name": "Cash",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "73",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1527310800,
-      "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cdd3aae09faf06e83d0e84caa89fabdf/94ed45c92dcda8e674258c65ce556b20.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/839a83031d099fe2658984d9a1ab1ef9/e48baad667e64587b211a4ec9c65841e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bbb04528f68f68d0af5fd2fc2c0418d4/07adbadc551e6f807e9e573969f8be78.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3250166d0e5c6337d5771764f65a35e/0c620cf1c49cedae49daf6badbfe0b66.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/defe9c1b4ab612c7a5a75a9fec111ef7/4909572b1f1de28e0da089ed474e156b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b6ccf829c4cedb7c57b7afd04611f72/d0cd94c1a6dabaa24e5dfc13ce4c135d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94756355ec7274338a7519813fc4bac1/d546405bf92e12e04c35af10dc0395f4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Good with dogs, Good with kids, Good with Cats, House trained, Can free roam, Walks well on leash, Good in car, Senior Dog, Crate Trained, Friendly\n\nOlder dapper gent seeks connection for next phase of life. Meet Cash - he's a gentle sweetheart who's looking for the next love of his life following the passing of his previous human. \n\nCash is an easy going guy. He's friendly to every adult/child/dog/cat we've met - either politely greeting them or simply ignoring them and letting them be. He's a real people person and likes to follow his favorite gal around the house (he seems to connect more with women we've found - likes men, but a Velcro dog for women), but when left alone he settles onto his dog bed and patiently waits for your return.\n\nBeing an older guy he's got things down. He knows when it's potty time or will let you know he needs to head out - he's got a great old man bark. He walks well on leash; no tugging or lunging at small animals. He loves a good car ride - head out the window! He's great in public; we took him to various breweries during his first week here and he couldn't have been better. Being older also has some challenges - he's got some hip pain/arthritis and needs a daily med/supplement. He has trouble getting into a car - we've been introducing him to a ramp, but he's not a huge fan, so there's some lifting in and out.\n\nGeneral day for Cash:\n6:30 am: Wake up and first big walk of the. \"Big\" is relative; we don't go far - he's got some hip issues so we take a nice slow walk. He knows it is time to potty and gets his business done. A few blocks is all he needs.\n\n7am food (and joint supplement/med) He takes his meds very easily with some peanut butter.\n\nThen he'll either go to work with me or we stay home and work from home. Cash is happy to visit the office and see people. Then he'll settle down and let me work. \n\n12 noon food. And potty break - very short.\n\nMore patiently waiting while work is done. A potty break if needed.\n\n5pm: Day is done. Second big walk (again \"big\" here is pretty small).\n\nPets and play time, settles near us if we're home. If we go out he's good about being alone.\n\n7pm food (and joint supplement/med)\n\n9:30 pm: Last walk of the night. Upon return - dentastix and bed time. We let him sleep outside the kennel. He did fine in it, but we thought it was uncomfortable for his hips (and he's so well behaved) that we just let him free roam in the family room and sleep on a dog bed by the patio door.\n\nIf you're looking for a sweet, older guy to enjoy slow, short walks and nice quiet sitting you gotta meet Cash.",
-      "LastIntakeUnixTime": "1779895787",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781701264"
+      "LastUpdatedUnixTime": "1781796562"
     },
     {
       "ID": "3580",
