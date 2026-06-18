@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:01:28Z",
+  "updated": "2026-06-18T18:40:09Z",
   "animals": [
     {
       "ID": "3458",
@@ -692,6 +692,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-17T21:01:28Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3548",
+      "Name": "George",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/329c06c53316d9893be8ecd03c37e964/34728f34204c143b42d24cc6f9fb44e5.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-18T18:40:09Z",
       "status": "pending"
     }
   ]
