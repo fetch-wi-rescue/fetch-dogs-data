@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T21:17:39Z",
+  "updated": "2026-06-18T23:15:25Z",
   "animals": [
     {
       "ID": "3458",
@@ -710,6 +710,24 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-06-18T21:17:39Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3536",
+      "Name": "Frankie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8261ea7145ae9d3e2b3cf50abdbf8168/eea9bc57ed91952d7a951e3ee00bbf7f.jpeg",
+      "Status": "Not available",
+      "reason": "other",
+      "disappearedDate": "2026-06-18T23:15:25Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3546",
+      "Name": "Archer James",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-18T23:15:25Z",
       "status": "pending"
     }
   ]

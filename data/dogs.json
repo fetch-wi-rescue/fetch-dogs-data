@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T21:17:39Z",
-  "count": 64,
+  "updated": "2026-06-18T23:15:25Z",
+  "count": 62,
   "animals": [
     {
       "ID": "2754",
@@ -1444,6 +1444,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296944",
           "AttributeName": "Crate-trained",
           "Publish": "Yes"
@@ -1451,6 +1456,16 @@
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
           "Publish": "Yes"
         },
         {
@@ -1464,6 +1479,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634892",
           "AttributeName": "Food motivated",
           "Publish": "Yes"
@@ -1474,7 +1494,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780919236"
+      "LastUpdatedUnixTime": "1781823453"
     },
     {
       "ID": "3539",
@@ -3295,35 +3315,6 @@
       "LastUpdatedUnixTime": "1781709496"
     },
     {
-      "ID": "3536",
-      "Internal-ID": "213588209",
-      "Name": "Frankie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1632114000,
-      "Age": 56,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8261ea7145ae9d3e2b3cf50abdbf8168/eea9bc57ed91952d7a951e3ee00bbf7f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/8261ea7145ae9d3e2b3cf50abdbf8168/eea9bc57ed91952d7a951e3ee00bbf7f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Yorkshire, Yorkie",
-      "Color": "Tan/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1777729200",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1778124795"
-    },
-    {
       "ID": "3556",
       "Internal-ID": "213684443",
       "Name": "Birdie",
@@ -3706,99 +3697,6 @@
       "LastUpdatedUnixTime": "1781433639"
     },
     {
-      "ID": "3607",
-      "Internal-ID": "213879443",
-      "Name": "Uncle Waldrop",
-      "LitterGroupId": 9531464,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1519508563,
-      "Age": 99,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f113d1edb7c8bcab499781e7d572aa9/5902c40b87f2039e7abaa6456431880b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52765ce050ecec2d94abec2f3797c049/1a7f14d908ac96484de72ae8f82532e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/54338203d260914e09883df36fb9e5d0/a454b120193085317fd3378178709443.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chow Chow",
-      "Color": "Red/Mahogany",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Looking for an easygoing companion who will fit right into your life? Uncle Waldrop might be your guy.\n\nThis handsome senior is the definition of a good dog. He's dog-friendly, loves people, and has a calm, laid-back personality that makes him a joy to have around. Whether he's enjoying a leisurely stroll, lounging nearby while you work, or settling in for some snuggles on the couch, Uncle Waldrop is simply happy to be part of the family.\n\nHe's the kind of dog who doesn't need to be the center of attention or create excitement wherever he goes. In fact, his greatest talent might be just being a wonderful companion. No drama, no chaos—just a sweet, affectionate dog who wants a comfortable spot to nap and humans to love.\nIf you're looking for a loyal friend who has left the puppy antics behind and mastered the art of being a good housemate, Uncle Waldrop is ready to move in and make himself at home.\n\nAdopt Uncle Waldrop and discover how wonderful life can be with a chill old soul by your side. 🐶💕",
-      "LastIntakeUnixTime": "1781206136",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781709697"
-    },
-    {
       "ID": "3608",
       "Internal-ID": "213879445",
       "Name": "Snickers",
@@ -4092,48 +3990,89 @@
       "LastUpdatedUnixTime": "1781279439"
     },
     {
-      "ID": "3546",
-      "Internal-ID": "213603741",
-      "Name": "Archer James",
-      "LitterGroupId": null,
+      "ID": "3607",
+      "Internal-ID": "213879443",
+      "Name": "Uncle Waldrop",
+      "LitterGroupId": 9531464,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "Foster to Adopt",
       "InFoster": true,
-      "CurrentWeightPounds": "25.6",
-      "Size": "Medium (25-59)",
+      "CurrentWeightPounds": "60",
+      "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1714798800,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+      "DOBUnixTime": 1519508563,
+      "Age": 99,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG"
+        "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f113d1edb7c8bcab499781e7d572aa9/5902c40b87f2039e7abaa6456431880b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52765ce050ecec2d94abec2f3797c049/1a7f14d908ac96484de72ae8f82532e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/54338203d260914e09883df36fb9e5d0/a454b120193085317fd3378178709443.jpeg"
       ],
       "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "NOT AVAILABLE UNTIL 6/8\nIN THE MEANTIME, MEET & GREETS WELCOMED \n\n\nHi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet button boy. He is working on potty training and has only had one true accident in the house. We keep a routine of taking him out right when we wake up (around 6:00 am), after breakfast at 7:30 am, and before we leave for work/start working from home. Weather permitting, we take a short walk with our resident doggos before breakfast. He stays in a kennel during the day when home alone. He does cry a little but calms himself down. If working from home, he gets to go out multiple times throughout the day. If in the office, he goes out again around 4:00 pm.\n\nDinner is between 5:00 pm and 5:30 pm. Followed again by going outside. Sometimes we’ll stay outside and play, get the zoomies, or cuddle inside. We do take a nighttime walk, depending on the weather, either around 7:00 pm or before dinner, around 4:00 pm. He’s learning to walk on a leash, has taken cues from our resident doggos, and is coming leaps and bounds already. Archer is very good at looking up for reassurance and positive reinforcement. He doesn’t quite understand how to go poo on the grass, so he goes on the cement walkway instead. He marked in the house when he first got here; however, we haven’t seen this as a continued concern. He really benefits from quiet time in his kennel; he calms down quickly, gets comfy, and relaxes. It really is a safe space. Sometimes we can leave the door open, and he will just wander in for a nap. \n\nSome interesting notes: He enjoys ceiling fans, likes to nap under a blanket, and loves to roll in the grass. However, he does NOT like bagpipes or loud cars. ",
-      "LastIntakeUnixTime": "1777945841",
+      "Breed": "Chow Chow",
+      "Color": "Red/Mahogany",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Looking for an easygoing companion who will fit right into your life? Uncle Waldrop might be your guy.\n\nThis handsome senior is the definition of a good dog. He's dog-friendly, loves people, and has a calm, laid-back personality that makes him a joy to have around. Whether he's enjoying a leisurely stroll, lounging nearby while you work, or settling in for some snuggles on the couch, Uncle Waldrop is simply happy to be part of the family.\n\nHe's the kind of dog who doesn't need to be the center of attention or create excitement wherever he goes. In fact, his greatest talent might be just being a wonderful companion. No drama, no chaos—just a sweet, affectionate dog who wants a comfortable spot to nap and humans to love.\nIf you're looking for a loyal friend who has left the puppy antics behind and mastered the art of being a good housemate, Uncle Waldrop is ready to move in and make himself at home.\n\nAdopt Uncle Waldrop and discover how wonderful life can be with a chill old soul by your side. 🐶💕",
+      "LastIntakeUnixTime": "1781206136",
       "Attributes": [
         {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
         },
         {
           "Internal-ID": "702285",
@@ -4141,7 +4080,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781744970"
+      "LastUpdatedUnixTime": "1781823882"
     },
     {
       "ID": "3279",
@@ -4828,7 +4767,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781812052"
+      "LastUpdatedUnixTime": "1781818937"
     },
     {
       "ID": "1442",
