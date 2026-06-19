@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T12:00:19Z",
+  "updated": "2026-06-19T15:46:11Z",
   "count": 63,
   "animals": [
     {
@@ -3115,6 +3115,84 @@
       "LastUpdatedUnixTime": "1781447995"
     },
     {
+      "ID": "3605",
+      "Internal-ID": "213855266",
+      "Name": "Skip",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747769699,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
+      "LastIntakeUnixTime": "1781020577",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781882508"
+    },
+    {
       "ID": "2774",
       "Internal-ID": "213177791",
       "Name": "Minnie",
@@ -3209,7 +3287,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781545167"
+      "LastUpdatedUnixTime": "1781871853"
     },
     {
       "ID": "1395",
@@ -3573,7 +3651,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781840149"
+      "LastUpdatedUnixTime": "1781871947"
     },
     {
       "ID": "3604",
@@ -3611,35 +3689,6 @@
       "LastUpdatedUnixTime": "1781838996"
     },
     {
-      "ID": "3605",
-      "Internal-ID": "213855266",
-      "Name": "Skip",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747769699,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1781020577",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1781141602"
-    },
-    {
       "ID": "3606",
       "Internal-ID": "213855267",
       "Name": "Sunrise",
@@ -3654,10 +3703,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1747769823,
       "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/76d4efb436a3cf68123ca063a8a1dd0f/68085153535568a8ba43ba2e4ea00e0d.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/64333585c0885fd9f3a809c26c4340b3/b2f627505d24f686e42f44c4b3d7bd2f.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/64333585c0885fd9f3a809c26c4340b3/b2f627505d24f686e42f44c4b3d7bd2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ac6c38876de5a3b7ab8750acd025bf9e/1a11edb3d0da7dddb9c904f99c288ed5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/76d4efb436a3cf68123ca063a8a1dd0f/68085153535568a8ba43ba2e4ea00e0d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ac6c38876de5a3b7ab8750acd025bf9e/1a11edb3d0da7dddb9c904f99c288ed5.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/447f570e8ac320c0ee3fd5c1cba9d54f/a856eed946fdf5bd26382c37b5e2f7a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9dd84702f29690bf6b00ad9cf62a92f3/65151dc1410963069b8f17b59b650db6.jpeg"
       ],
       "Videos": [],
       "Breed": "Shih Tzu",
@@ -3667,7 +3719,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781433639"
+      "LastUpdatedUnixTime": "1781881447"
     },
     {
       "ID": "3608",
@@ -4740,7 +4792,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781818937"
+      "LastUpdatedUnixTime": "1781872025"
     },
     {
       "ID": "1442",
