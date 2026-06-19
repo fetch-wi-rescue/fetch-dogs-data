@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T02:13:47Z",
-  "count": 62,
+  "updated": "2026-06-19T07:36:17Z",
+  "count": 63,
   "animals": [
     {
       "ID": "2754",
@@ -587,7 +587,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1781206407"
+      "LastUpdatedUnixTime": "1781841305"
     },
     {
       "ID": "3461",
@@ -1192,7 +1192,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781140456"
+      "LastUpdatedUnixTime": "1781841117"
     },
     {
       "ID": "3521",
@@ -1431,7 +1431,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781834902"
+      "LastUpdatedUnixTime": "1781841021"
     },
     {
       "ID": "3539",
@@ -1774,6 +1774,42 @@
         }
       ],
       "LastUpdatedUnixTime": "1781407003"
+    },
+    {
+      "ID": "3562",
+      "Internal-ID": "213684450",
+      "Name": "Augusta",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "2.86",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+        "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1781669400",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1781842380"
     },
     {
       "ID": "3578",
@@ -2172,7 +2208,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781796809"
+      "LastUpdatedUnixTime": "1781840558"
     },
     {
       "ID": "3593",
@@ -3249,7 +3285,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781709496"
+      "LastUpdatedUnixTime": "1781838472"
     },
     {
       "ID": "3556",
@@ -3286,7 +3322,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780500028"
+      "LastUpdatedUnixTime": "1781840841"
     },
     {
       "ID": "3591",
@@ -3388,7 +3424,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781796720"
+      "LastUpdatedUnixTime": "1781840319"
     },
     {
       "ID": "3594",
@@ -3537,7 +3573,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781834756"
+      "LastUpdatedUnixTime": "1781840149"
     },
     {
       "ID": "3604",
@@ -3572,7 +3608,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020709",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1781094735"
+      "LastUpdatedUnixTime": "1781838996"
     },
     {
       "ID": "3605",
@@ -3727,7 +3763,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781384567"
+      "LastUpdatedUnixTime": "1781838880"
     },
     {
       "ID": "3612",
@@ -4017,7 +4053,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781823882"
+      "LastUpdatedUnixTime": "1781838682"
     },
     {
       "ID": "3279",
@@ -4033,7 +4069,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1731996000,
-      "Age": 18,
+      "Age": 19,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1732f289f1a78cee5ad654c836fe674b/fe7fe6fb2f1af217586cee3a9c4b05eb.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1732f289f1a78cee5ad654c836fe674b/fe7fe6fb2f1af217586cee3a9c4b05eb.jpeg",
@@ -4222,7 +4258,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781578591"
+      "LastUpdatedUnixTime": "1781841153"
     },
     {
       "ID": "3528",
@@ -4357,7 +4393,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781382479"
+      "LastUpdatedUnixTime": "1781840990"
     },
     {
       "ID": "3541",
