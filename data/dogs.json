@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T17:49:20Z",
+  "updated": "2026-06-19T19:29:07Z",
   "count": 62,
   "animals": [
     {
@@ -1322,10 +1322,10 @@
       "Altered": "Yes",
       "DOBUnixTime": 1765951200,
       "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6aa19786507817e55e0f23ece6ac23c7/85bdf50ddea982583dca24ce24518c1b.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6aa19786507817e55e0f23ece6ac23c7/85bdf50ddea982583dca24ce24518c1b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b7179f48d2ad5deaf133bcd568175d6c/b4e2c28ca687df0d7dbcc2fa6b7d9b6d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/521de84de1a1e35caeba017d76864d0c/99cd17fab265ea8433e607c342eaed09.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/94ba8996069e0fff7e46cff57d69c671/54deaf1de87e5813b6fc577499bbad74.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7a7f51bbb9c7db3aba39f10a6f1925c6/6a94351c2343708a02ee97683bb92518.jpg",
@@ -1431,7 +1431,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781841021"
+      "LastUpdatedUnixTime": "1781892003"
     },
     {
       "ID": "3539",
@@ -1611,7 +1611,7 @@
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1771525249,
-      "Age": 3,
+      "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
@@ -3220,10 +3220,51 @@
       "Color": "Blond",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Sunrise came from a hoarding case in Texas where he was rescued along with 50+ dogs. He is a sweet, very shy boy who loves to play and is learning to trust humans.\n\nSunny wants to love people so much and he will come near us and wag his tail but run away when we reach for him. When we pick him up and cuddle him, he will wag his tail and lean in for pets. Sunny loves other dogs, especially his buddy Skip, and will play with any small dog who is willing to chase or be chased. He loves to carry around his toys and chew on rawhides. He is very well behaved and submissive with other dogs.\n\nSunny does well sleeping in a crate at night but will sometimes bark at noises outside, so would not be a good apartment dog unless someone is home most of the time.\n\nWe are working on potty training and he is doing great on a schedule. He will need an adopter willing to continue working with him on that. We have not started leash training yet. He finds leashes very scary and ideally would go to a home with a fenced yard, or at least a yard where you can set up a temporary fenced area for him to potty. He is too scared of a leash to potty while on leash.\n\nSunny does not live with kids but I think would do fine with older or quiet kids. He would be overwhelmed by a lot of activity and noise.\n\nSunny is nonshedding and will need regular haircuts.",
       "LastIntakeUnixTime": "1781020577",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1781890990"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781893135"
     },
     {
       "ID": "2774",
