@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T23:01:45Z",
-  "count": 62,
+  "updated": "2026-06-20T01:34:42Z",
+  "count": 63,
   "animals": [
     {
       "ID": "2754",
@@ -1079,6 +1079,103 @@
         }
       ],
       "LastUpdatedUnixTime": "1781841117"
+    },
+    {
+      "ID": "3513",
+      "Internal-ID": "213488333",
+      "Name": "Huck",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "21.4",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1766780637,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6960b6f2bbb5e67fab79abe1238431d2/02123341dc9e868f557e5fc76e213d94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2a00d2d640df768282ec49342c5799a/d0c9521345b9d7d32916bbf927c74f9a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e74f40aa7488a957f7dc77aab53ebdbb/16a16d7318bf8d98db3f847f2b8a7cd3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5351e24cff3a97993ac0881eeae14c9/05a2fca7af2b5cebd1f1310b57ee61a3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/85b64ad8137e8c0e78c1b6babf9a0df7/59184e7188df3fa2de5cf3ad16851b68.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b14b55e73d81192848a0720ed6382d42/83ce99dd8beefabb673e15cea36ee6b9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ebe4a46e5bfb2dab7f213745fab60d1/ae701d15f3de641b0b9bc891fce8f7ff.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "\nMeet Huck — Fetch's 5000th rescue! He is a big, smushy lug of a pup who’s all heart and curiosity. He has settled in beautifully with his foster family and loves being part of the pack.\n\n\n\nPersonality: Affectionate, playful, and easygoing. Huck adores cuddles and will flop at your feet for belly rubs between bursts of puppy energy. He enjoys exploring the yard — digging in the garden, chewing sticks, and chasing birds — and happily tags along when the other dogs run the yard, even if he’s not sure why. \n\n\nTraining status: Quick learner who responds well to corrections and positive reinforcement. Potty-trained, crate-trained and sleeps well through the night. Currently working on basic commands, learning his name, and not jumping up on people. \n\nDaily routine: Mornings and evenings include walks and yard time for exploration and play. During the day he enjoys supervised outdoor time, naps, and social time with his foster siblings. Huck will also happily join you for a jog! Regular exercise followed by cuddle sessions keeps him content.\n\nSocial skills:Huck LOVES people. If you are a human willing to pet him, he will love you forever. He is also excellent with other dogs and is learning a lot from his foster brothers. He is calm and mostly indifferent to a newborn baby — a promising sign for family life. \n\n\nQuirks & needs: Huck is a typical puppy — still learning boundaries and manners. He teases with puppy nibbles while teething but accepts his teether toy readily. He’ll need patient, consistent correction and continued training to reinforce good behavior.\n\n\n\nBest fit home: An active, patient home that can offer regular walks, yard time, structured training, and lots of affection. A household with other friendly dogs and/or someone able to work on boundaries and alone-time training will be ideal. Huck is a goofy, loyal companion who gives big love — worth the puppy work for a lifetime of laughs and cuddles.",
+      "LastIntakeUnixTime": "1781913797",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781915830"
     },
     {
       "ID": "3521",
@@ -3889,7 +3986,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781909031"
+      "LastUpdatedUnixTime": "1781911138"
     },
     {
       "ID": "3613",
