@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T01:34:42Z",
-  "count": 63,
+  "updated": "2026-06-20T06:14:14Z",
+  "count": 62,
   "animals": [
     {
       "ID": "2754",
@@ -1599,7 +1599,7 @@
       "Color": "Silver",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Max is a beautiful 2 year old Siberian husky who was surrendered due to his owner’s health issues. He is a happy, friendly guy who is potty trained, crate trained and knows basic commands (although whether he chooses to listen or is distracted by his husky brain is another story lol - but if you have food, he will ALWAYS listen!). He gets along great with bigger dogs but gets a little too excited around small dogs and cats, so I have limited his exposure to them as they are scared of him. Max is very chill for a husky and spends most of the day sleeping, although he does enjoy going out in the yard and exploring the fence line. He loves to get pets and rub up against you. If he wants attention he will talk to you as huskies do until you notice him.\n\nMax has idiopathic epilepsy and takes two seizure medications. It is important that he take these medications on time to keep him seizure free. He has pet insurance from his previous owner that can be passed on to his adopter.\n\nIf you are looking for a dog who is past the puppy stage but still young enough to be your buddy for many years, Max is your guy!",
+      "Description": "Max is a beautiful 2 year old Siberian husky who was surrendered due to his owner’s family health issues. He is a happy, friendly guy who is potty trained, crate trained and knows basic commands (although whether he chooses to listen or is distracted by his husky brain is another story lol - but if you have food, he will ALWAYS listen!). He gets along great with other dogs but gets a little too excited about cats and wants to chase them. Max is very chill for a husky and spends most of the day sleeping, although he does enjoy going out in the yard and exploring the fence line. He loves to get pets and rub up against you. If he wants attention he will talk to you as huskies do until you notice him.\n\nMax has idiopathic epilepsy and takes seizure medications twice a day. He is in the process of switching to a new medication that should better control his type of seizures. His goal is to have a seizure no more than once every few months, but he will likely never be completely seizure free. His adopters will need to be aware and comfortable with that.\n\nIf you are looking for a dog who is past the puppy stage but still young enough to be your buddy for many years, Max is your guy!",
       "LastIntakeUnixTime": "1777909684",
       "Attributes": [
         {
@@ -1638,11 +1638,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
@@ -1663,7 +1658,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781186930"
+      "LastUpdatedUnixTime": "1781935424"
     },
     {
       "ID": "3554",
@@ -4758,146 +4753,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781900534"
-    },
-    {
-      "ID": "3580",
-      "Internal-ID": "213704416",
-      "Name": "Maxasaurus",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "78.2",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1546761600,
-      "Age": 89,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0a4132f9dd45218c39ff01d080d4a81f/a8c94674e304aec68c8b0cb2768bb2ba.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0a4132f9dd45218c39ff01d080d4a81f/a8c94674e304aec68c8b0cb2768bb2ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3a071e5c181b9e6a4c8b7b5df96d694e/765276c48a20d01632ff965f4689b3db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4592db078536182bee8bb53724cc7f0/50dbc866e0b6fa99ba34cc6ac0f48fcd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c622a6e6c5c72a21e76f7bed4502e71/62556d1ae35af7a34599536ad823a4c8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e21f31acdf26bd8929bf54d0820b6492/31a3c8deea0eaefa5dc7a9150a6021e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5944472b8d6fff5bb167afa06b59fff7/c24fde6d401e1539ab11154875f703ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4dd477d865b928007cf898dadb9c1e16/83594271245691aa910c854af4da5d57.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6634e68cfd09c3a58e3e0753cb70dcaf/0562a5af38a84d54bee6e6bf5dc80142.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3616a3a1c0bcb18bbe9dbb6aba97b97/d54e7518951909e784f96e22ba109678.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/453d37d65e9887121d723f2e34249561/479e3bb571f60a24701aeaeb8517df1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ba5cb1588cf052111f8fdd763fefa151/08c45e19e9e0edeb3b8efefafc06c56c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e63e676bed7257b5a06f73935ce51adc/e3b0a31558a1c7092eadf10a0e965976.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b46ba7eb1aabbedfad733a93b97bf9dd/2037ec6b3dee7f3caeef6c3346862663.png",
-        "https://new-s3.shelterluv.com/profile-pictures/59d46a8fc1bd39b3cfc5afcb13f27f20/9b69eda447fba442cf5861aba80a41e6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a62b57de0baf2c4c01b6888485d232b6/a1887c34e5cb22de769934aab2de0246.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/42aac289058905a07bd766aa47995986/e79372a26bbd9b08ee568e6bc1b8aaac.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b3f8f34b3a1a2e93b83da3008d57399/df6be506240bfd87a9436349d79f3022.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/248418dcd16f0bd03e128fd42a359c5d/478fa6ff18c1f975a7cfec23d7fdcc00.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ea06bf9a1722dec47230ae08702eb5a4/ce110eedb8cb70194c5c72fcb94a7441.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/09a36915fc1a56d6b139b21b610c0bad/e2c1a6d6b22ccb947fb601a708b1c85e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Catahoula Leopard Dog",
-      "Color": "Grey",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Maxasaurus is a big bundle of love with an easy-going personality and the sweetest soul. \n\nMax is friendly with people of all ages and gets along well with animals of all kinds and sizes. He does great with my resident dog, but he’d also be perfectly happy as an only dog soaking up all the attention. He’s a total patio pup — he loves socializing for a bit and then relaxing in the shade like the polite gentleman he is.\n\nMax gets very excited for walks, so he may pull a little at first (especially if he spots a bunny!), but he settles in nicely after the first few minutes. He is currently very overweight and needs to lose about 30 pounds, so he tires quickly and isn’t up for long hikes right now. Overall, he’s a low-energy guy who prefers leisurely strolls and long naps (specifically on my clothes!).\n\nDuring the workday, Max is crated with a lunch break and does wonderfully in an apartment setting. He would likely do well free roaming, too.\nBecause my dog guards furniture, Max doesn’t try to climb up on it, but he absolutely loves leaning in for pets and would happily snuggle given the chance.\n\nMaxasaurus has such a goofy personality and is constantly making hilarious faces that will keep you laughing.\nHe truly is a gem — a dog looking for a soft place to nap, a few daily strolls, and unconditional love. You can feel how badly he wants to be loved just by the way he looks at you.",
-      "LastIntakeUnixTime": "1778954207",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781872025"
     },
     {
       "ID": "1442",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T17:49:20Z",
+  "updated": "2026-06-20T06:14:14Z",
   "animals": [
     {
       "ID": "3458",
@@ -719,6 +719,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-19T17:49:20Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3580",
+      "Name": "Maxasaurus",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0a4132f9dd45218c39ff01d080d4a81f/a8c94674e304aec68c8b0cb2768bb2ba.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-20T06:14:14Z",
       "status": "pending"
     }
   ]
