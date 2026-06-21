@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T01:57:11Z",
+  "updated": "2026-06-21T06:50:33Z",
   "count": 62,
   "animals": [
     {
@@ -115,7 +115,12 @@
         "https://new-s3.shelterluv.com/profile-pictures/d4e17dade1352a8ef0b1c5c4f082ca2c/a8aa921ad5457b5bed0631ba28ec4d79.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/23a8b603b65eb8949c87a2d29f87f6ab/23fe4434642a5bd231159db7b0240b97.png",
         "https://new-s3.shelterluv.com/profile-pictures/f5bbb5d079fd3e46bb8a8e1b94b87f15/30968936a28c2aff7ad6a04aa6fcbf49.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/44a63ee0f3801615aa375d8f8c91f481/af5b617f08a18685b3bfc9cfd1e901ce.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/44a63ee0f3801615aa375d8f8c91f481/af5b617f08a18685b3bfc9cfd1e901ce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53fe685674acfc809cc494431f31f155/372153d6047cd2fe137041e6acd3dbfb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/06ee8bfe23a946654e9a0879211b0728/85bc88b923ec3cc5c6b8d682df0f5753.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc56a9fa3320a9fd7d88b3f691aeeb83/0a00477cd77a03aa41e1862495d3b275.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/935260ea239d0a38cb8c0aeb5e9c74b3/3061ac78eebe567b8e6a173e0b909871.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/75694190a24b0905db102ff275c08e21/58acc9fdd163bc822cc16ff7ac747083.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mix",
@@ -197,7 +202,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781561400"
+      "LastUpdatedUnixTime": "1782009545"
     },
     {
       "ID": "2350",
@@ -1430,7 +1435,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1642744800,
-      "Age": 52,
+      "Age": 53,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7b6f83809c479a1dea6cc2b4d90364dc/8678d0f9ce31c5efda47a0e7f53d3a42.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/7b6f83809c479a1dea6cc2b4d90364dc/8678d0f9ce31c5efda47a0e7f53d3a42.jpeg",
@@ -1584,7 +1589,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
-      "Age": 27,
+      "Age": 28,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1f45624b1a19844f541ee549e0c9a2e5/ee7c2fdce9479d0d0a3e99eb2c50c3d7.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1f45624b1a19844f541ee549e0c9a2e5/ee7c2fdce9479d0d0a3e99eb2c50c3d7.jpeg",
@@ -1659,102 +1664,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781935424"
-    },
-    {
-      "ID": "3554",
-      "Internal-ID": "213684441",
-      "Name": "Elver",
-      "LitterGroupId": 9510754,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "15.6",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1771525249,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff98c4c4484b891baffe25287f6f444a/aca50db77f71f7198b917612a509e030.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/398bdf87d9cbdfa2fdccbed1b9ec9a88/3dccef31b80a1a3863ca3584af102a03.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3a09f4eefc0d3d3737f9cce7f10cbdb/7ea34f5c166906149fc04b5f5424e096.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c31708d813b1f4c37182137fbe61767b/9e2b04c9c686a62f0ab2515796a82bc2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/500b7c4d53658a14bea4393747f5dce3/4151031d970e4795759b885ccd752dcc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/59a7716c180ecddcd04a29ef251bcfa5/badedcb70a022faf5f124fc49905b4b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1b9cd4f796e614832594954d318d57f/721e7a8fbdd752c53a6ee148502dcfad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/600c25072ac4cef3da80d722a298956b/d2965bc6a958c3bcc74284535d5d6520.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95f9c34c023540e289b3a576ae9f38d8/f336e464ee15bd07db270f539a956c41.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2128e7989510e8e922ac3674d33a423/50e092245da43b0fdb66254b6fb4ecc4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4beaf37b92d9a564e0c4f49ebf4a2636/6a6a795f388158f837e7f874d5ec6ae3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Boxer/Mixed Breed (Medium)",
-      "Color": "Brindle/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Elver is strong, brave, and already a little legend. At just under 3 months old, he has overcome more in his short life than most pups ever will — including surviving his bout of parvo. And he didn’t just pull through… he bounced back with the sweetest, happiest spirit you could imagine.\n\nElver is a survivor in every sense, but you’d never know he had a rough start. He greets every day with a wagging tail, bright eyes, and a whole lot of puppy enthusiasm. He loves playtime, soft toys, and curling up against you like he’s finally found the safe place he always deserved.\n\nHis personality is pure sunshine:\n• incredibly affectionate\n• eager to learn\n• gentle with people and other pets\n• and full of that goofy Boxer‑mix charm\n\nElver is ready to start the next chapter of his life — one filled with love, stability, and a family who sees how special he truly is. He’s working on potty training, enjoys routine, and thrives on encouragement and snuggles.\n\nIf you’re looking for a puppy with a courageous heart, a sweet soul, and a whole lifetime of love ahead of him, Elver is ready to meet you. He’s proof that the smallest fighters often become the biggest blessings.\n",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781495835"
     },
     {
       "ID": "3558",
@@ -3710,7 +3619,7 @@
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1676959200,
-      "Age": 39,
+      "Age": 40,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png",
@@ -4640,6 +4549,102 @@
       "LastUpdatedUnixTime": "1781900534"
     },
     {
+      "ID": "3554",
+      "Internal-ID": "213684441",
+      "Name": "Elver",
+      "LitterGroupId": 9510754,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "15.6",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1771525249,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff98c4c4484b891baffe25287f6f444a/aca50db77f71f7198b917612a509e030.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/398bdf87d9cbdfa2fdccbed1b9ec9a88/3dccef31b80a1a3863ca3584af102a03.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3a09f4eefc0d3d3737f9cce7f10cbdb/7ea34f5c166906149fc04b5f5424e096.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c31708d813b1f4c37182137fbe61767b/9e2b04c9c686a62f0ab2515796a82bc2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/500b7c4d53658a14bea4393747f5dce3/4151031d970e4795759b885ccd752dcc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/59a7716c180ecddcd04a29ef251bcfa5/badedcb70a022faf5f124fc49905b4b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1b9cd4f796e614832594954d318d57f/721e7a8fbdd752c53a6ee148502dcfad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/600c25072ac4cef3da80d722a298956b/d2965bc6a958c3bcc74284535d5d6520.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/95f9c34c023540e289b3a576ae9f38d8/f336e464ee15bd07db270f539a956c41.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c2128e7989510e8e922ac3674d33a423/50e092245da43b0fdb66254b6fb4ecc4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4beaf37b92d9a564e0c4f49ebf4a2636/6a6a795f388158f837e7f874d5ec6ae3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Boxer/Mixed Breed (Medium)",
+      "Color": "Brindle/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Elver is strong, brave, and already a little legend. At just under 3 months old, he has overcome more in his short life than most pups ever will — including surviving his bout of parvo. And he didn’t just pull through… he bounced back with the sweetest, happiest spirit you could imagine.\n\nElver is a survivor in every sense, but you’d never know he had a rough start. He greets every day with a wagging tail, bright eyes, and a whole lot of puppy enthusiasm. He loves playtime, soft toys, and curling up against you like he’s finally found the safe place he always deserved.\n\nHis personality is pure sunshine:\n• incredibly affectionate\n• eager to learn\n• gentle with people and other pets\n• and full of that goofy Boxer‑mix charm\n\nElver is ready to start the next chapter of his life — one filled with love, stability, and a family who sees how special he truly is. He’s working on potty training, enjoys routine, and thrives on encouragement and snuggles.\n\nIf you’re looking for a puppy with a courageous heart, a sweet soul, and a whole lifetime of love ahead of him, Elver is ready to meet you. He’s proof that the smallest fighters often become the biggest blessings.\n",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782010133"
+    },
+    {
       "ID": "3594",
       "Internal-ID": "213786019",
       "Name": "Fern",
@@ -4751,7 +4756,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781999865"
+      "LastUpdatedUnixTime": "1782010323"
     },
     {
       "ID": "1442",
@@ -4897,7 +4902,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1519192800,
-      "Age": 99,
+      "Age": 100,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/818863d69c8bbdcfa834e56f6e5e342a/fe3684c8ab91056a3257d0e0d04cb850.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/818863d69c8bbdcfa834e56f6e5e342a/fe3684c8ab91056a3257d0e0d04cb850.jpeg"
