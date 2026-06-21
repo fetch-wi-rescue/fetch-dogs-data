@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T18:03:06Z",
+  "updated": "2026-06-21T20:10:44Z",
   "count": 62,
   "animals": [
     {
@@ -1509,7 +1509,142 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781892003"
+      "LastUpdatedUnixTime": "1782070273"
+    },
+    {
+      "ID": "3528",
+      "Internal-ID": "213534591",
+      "Name": "Natalia",
+      "LitterGroupId": 9497863,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "36.1",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 6,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9758767a0f3f9dffae825e57a6922ea/b93c07afe3ebd882eefa38266ab04682.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33b31195767c4c3acc5888513e33228d/6a0e8f88275ccdd8f1903f9e7373d1cc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aed5f2d20c683025643cd54ce6495d9f/b496fe4f719e423f82bd267dc988dfdd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/de546201c84fb6ffaf3f03f4295f502b/63986e95c50d67f51548f4b460d658eb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f58a0f26598dbf75bb4a3e8a81f2ae7/29dc982e1f15fe42b4cf3066ca348e56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1da7b2ea8fb8b09eb3b81834e3719fb7/0d0e57fc3d99fdf4eb20f0d453100c87.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/df1060b08ac9470af66ddd0d9b9c0584/ba99056b67bd4f3ead42e08c78faf9a9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d314f9f5adc0a91b2bd49e8d700b4da9/e766e359ba46a73b86901c4810f296ea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/57f074922eee719b55fc12c548c1f8ee/7576adcdda671153fbcdef73fa7a9fd5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/03950e4cb045f82b93f0485d237710d1/81f3d030ab87b4351629b49f11d2f364.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Hound/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
+      "LastIntakeUnixTime": "1777143060",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782072183"
     },
     {
       "ID": "3539",
@@ -4212,141 +4347,6 @@
       "LastUpdatedUnixTime": "1781841153"
     },
     {
-      "ID": "3528",
-      "Internal-ID": "213534591",
-      "Name": "Natalia",
-      "LitterGroupId": 9497863,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "36.1",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9758767a0f3f9dffae825e57a6922ea/b93c07afe3ebd882eefa38266ab04682.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33b31195767c4c3acc5888513e33228d/6a0e8f88275ccdd8f1903f9e7373d1cc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aed5f2d20c683025643cd54ce6495d9f/b496fe4f719e423f82bd267dc988dfdd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de546201c84fb6ffaf3f03f4295f502b/63986e95c50d67f51548f4b460d658eb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f58a0f26598dbf75bb4a3e8a81f2ae7/29dc982e1f15fe42b4cf3066ca348e56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1da7b2ea8fb8b09eb3b81834e3719fb7/0d0e57fc3d99fdf4eb20f0d453100c87.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df1060b08ac9470af66ddd0d9b9c0584/ba99056b67bd4f3ead42e08c78faf9a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d314f9f5adc0a91b2bd49e8d700b4da9/e766e359ba46a73b86901c4810f296ea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57f074922eee719b55fc12c548c1f8ee/7576adcdda671153fbcdef73fa7a9fd5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/03950e4cb045f82b93f0485d237710d1/81f3d030ab87b4351629b49f11d2f364.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Hound/Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
-      "LastIntakeUnixTime": "1777143060",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781840990"
-    },
-    {
       "ID": "3542",
       "Internal-ID": "213591754",
       "Name": "Chloe",
@@ -4444,9 +4444,9 @@
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "15.6",
+      "CurrentWeightPounds": "17.8",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1771525249,
       "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
@@ -4468,7 +4468,13 @@
       "Breed": "Boxer/Mixed Breed (Medium)",
       "Color": "Brindle/White",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Elver is strong, brave, and already a little legend. At just under 3 months old, he has overcome more in his short life than most pups ever will — including surviving his bout of parvo. And he didn’t just pull through… he bounced back with the sweetest, happiest spirit you could imagine.\n\nElver is a survivor in every sense, but you’d never know he had a rough start. He greets every day with a wagging tail, bright eyes, and a whole lot of puppy enthusiasm. He loves playtime, soft toys, and curling up against you like he’s finally found the safe place he always deserved.\n\nHis personality is pure sunshine:\n• incredibly affectionate\n• eager to learn\n• gentle with people and other pets\n• and full of that goofy Boxer‑mix charm\n\nElver is ready to start the next chapter of his life — one filled with love, stability, and a family who sees how special he truly is. He’s working on potty training, enjoys routine, and thrives on encouragement and snuggles.\n\nIf you’re looking for a puppy with a courageous heart, a sweet soul, and a whole lifetime of love ahead of him, Elver is ready to meet you. He’s proof that the smallest fighters often become the biggest blessings.\n",
       "LastIntakeUnixTime": "1778689145",
       "Attributes": [
@@ -4528,7 +4534,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782010133"
+      "LastUpdatedUnixTime": "1782072488"
     },
     {
       "ID": "3502",
