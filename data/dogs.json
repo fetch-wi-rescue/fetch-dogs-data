@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T23:00:11Z",
+  "updated": "2026-06-21T01:57:11Z",
   "count": 62,
   "animals": [
     {
@@ -3329,6 +3329,103 @@
       "LastUpdatedUnixTime": "1781900470"
     },
     {
+      "ID": "3608",
+      "Internal-ID": "213879445",
+      "Name": "Snickers",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "46.5",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751605200,
+      "Age": 11,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b6b14ba8a71a58210e7a907616395957/572770c5e3f21330f05055cfb064877e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4b2cb87f5befaae8f5b60ce7e9e83f9/3ece5df89aca1ac52b1817efe5de689b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Catahoula Leopard Dog",
+      "Color": "Tan/Brown",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Snickers!\n\nSnickers is an 11-month-old Collie/Catahoula Leopard Dog mix with a sweet, easygoing personality and a fun mix of playful energy and cuddle time. He loves people and enjoys making dog friends, and he is always happy to be part of whatever is going on around him.\n\nSnickers is crate trained and settles well in his crate during the day. He also sleeps through the night in his crate without any issues. He is almost fully potty trained and continues to do well with routine and consistency.\n\nOn walks, Snickers does great on leash and enjoys getting outside to explore. He rides well in the car and is generally an easy companion to take along for everyday outings. Like any young dog, he still has some normal puppy behaviors, but he is learning quickly and responds well to guidance.\n\nSnickers is fully recovered from bilateral FHO surgery and is doing great with no current restrictions.\n\nHe would do well in a home that can give him structure, daily walks, and plenty of affection. He can live with other dogs or be a solo dog as long as he gets companionship and attention. Snickers is ready to find a forever home where he can keep growing into the amazing dog he is.",
+      "LastIntakeUnixTime": "1781206136",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629391",
+          "AttributeName": "Orthopedic Surgery Recovery Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781998565"
+    },
+    {
       "ID": "2774",
       "Internal-ID": "213177791",
       "Name": "Minnie",
@@ -3435,7 +3532,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "58",
+      "CurrentWeightPounds": "65",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1757134800,
@@ -3499,7 +3596,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781838472"
+      "LastUpdatedUnixTime": "1781999394"
     },
     {
       "ID": "3556",
@@ -3641,120 +3738,6 @@
       "LastUpdatedUnixTime": "1781840319"
     },
     {
-      "ID": "3594",
-      "Internal-ID": "213786019",
-      "Name": "Fern",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.12",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b9a23a1d882cbd7a10457b5bf209bd2/9f257311a506108cdf5792905475e067.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c324a51c22aad53eb3350f5a3ff0f5c4/69456b32b07f8ff86f0f0871fc15fc7b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/80a3a3b3bc5e6da4bd978dd489c3538b/e46b86acf5945590677cb6752c9a847a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/12f5f6132898a1e75cafc87b9de33922/88b8e6d545708c864f87f3d7b9a150a0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e2eaa2fdfd485bba6cda8baac1fba92/0469b9337797554e504a7995960a2f57.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cffed21926d24c54c61dfebe7af72158/b32fd6fe3a45c981c3f05a03863968ae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bcdcd07ef4ee77623b1bdbb48d8db02e/7870fb5db74ccc6e24466d833579329a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9cf0f96344c45da697e2c8c20dde0d04/e2aea027fc23b79797e9c01f3c343f33.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0adfe78ec22e9ed13769eab8b6717f05/76b52c7ac57c39f7ec4afef0f368f2a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/29a5e67018ea69355afab0e1199974ff/92988c0c338949a568b8ea8455b7ed9e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/08c0cfe809db1cd9d3421c669815cff5/0b3547c38e369933a4a49a05e0f2852b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dc1cdad03a1603f33a34686f1f140c9/fa27091f0d33cf07b27a5509caf1e372.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/36c64c892ee0b3b2448bafd3d0eaa234/c80f4c8efe82d751e47cbd0158127164.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41e1fb22ca8e7b0c45a582fe165e9e0a/b4117747c0026001d0a077981d737121.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9c3a1f304c6137975c423a9f71bff22/ce75d7b0f9805830b9cb6d5becddedda.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/605ce4677037714a9454584bebe54fa9/6482cd0526796189e698a8ac75e6c2ce.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ec57852118972867bf439044f771ecb/10a997661f057ae37bcac97374b4e28d.png",
-        "https://new-s3.shelterluv.com/profile-pictures/56351b7538716f981047f9fa87593a85/30f69a05abaabb65069fcbb7e843f399.png"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fern is a bright, spirited little gal who brings joy everywhere she goes. Fern is the perfect blend of sweetness and fun - she loves affection, cozy naps, and being close to her people, but she’s just as excited to play, explore, and turn ordinary moments into tiny adventures. Her goofy charm, love of toys, and curious nature make her a constant source of smiles.\n\nFern is looking for a loving home that appreciates a companion with both heart and personality. She’s ready to bring warmth, laughter, and a whole lot of life into her new family. If you’re hoping for a friend who will keep you entertained and adored in equal measure, Fern is ready to bloom with you.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781458574"
-    },
-    {
       "ID": "3603",
       "Internal-ID": "213855262",
       "Name": "Sheila",
@@ -3823,102 +3806,6 @@
       "LastIntakeUnixTime": "1781020709",
       "Attributes": [],
       "LastUpdatedUnixTime": "1781898910"
-    },
-    {
-      "ID": "3608",
-      "Internal-ID": "213879445",
-      "Name": "Snickers",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "46.5",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1751605200,
-      "Age": 11,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b6b14ba8a71a58210e7a907616395957/572770c5e3f21330f05055cfb064877e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Collie/Catahoula Leopard Dog",
-      "Color": "Tan/Brown",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Snickers!\n\nSnickers is an 11-month-old Collie/Catahoula Leopard Dog mix with a sweet, easygoing personality and a fun mix of playful energy and cuddle time. He loves people and enjoys making dog friends, and he is always happy to be part of whatever is going on around him.\n\nSnickers is crate trained and settles well in his crate during the day. He also sleeps through the night in his crate without any issues. He is almost fully potty trained and continues to do well with routine and consistency.\n\nOn walks, Snickers does great on leash and enjoys getting outside to explore. He rides well in the car and is generally an easy companion to take along for everyday outings. Like any young dog, he still has some normal puppy behaviors, but he is learning quickly and responds well to guidance.\n\nSnickers is fully recovered from bilateral FHO surgery and is doing great with no current restrictions.\n\nHe would do well in a home that can give him structure, daily walks, and plenty of affection. He can live with other dogs or be a solo dog as long as he gets companionship and attention. Snickers is ready to find a forever home where he can keep growing into the amazing dog he is.",
-      "LastIntakeUnixTime": "1781206136",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629391",
-          "AttributeName": "Orthopedic Surgery Recovery Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781977192"
     },
     {
       "ID": "3612",
@@ -4751,6 +4638,120 @@
         }
       ],
       "LastUpdatedUnixTime": "1781900534"
+    },
+    {
+      "ID": "3594",
+      "Internal-ID": "213786019",
+      "Name": "Fern",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.12",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/62f851df74fb848a02eefe4edd5dfa44/94ca850158d61663083ac418ec1ad959.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b9a23a1d882cbd7a10457b5bf209bd2/9f257311a506108cdf5792905475e067.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c324a51c22aad53eb3350f5a3ff0f5c4/69456b32b07f8ff86f0f0871fc15fc7b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/80a3a3b3bc5e6da4bd978dd489c3538b/e46b86acf5945590677cb6752c9a847a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/12f5f6132898a1e75cafc87b9de33922/88b8e6d545708c864f87f3d7b9a150a0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e2eaa2fdfd485bba6cda8baac1fba92/0469b9337797554e504a7995960a2f57.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cffed21926d24c54c61dfebe7af72158/b32fd6fe3a45c981c3f05a03863968ae.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcdcd07ef4ee77623b1bdbb48d8db02e/7870fb5db74ccc6e24466d833579329a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9cf0f96344c45da697e2c8c20dde0d04/e2aea027fc23b79797e9c01f3c343f33.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0adfe78ec22e9ed13769eab8b6717f05/76b52c7ac57c39f7ec4afef0f368f2a9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/29a5e67018ea69355afab0e1199974ff/92988c0c338949a568b8ea8455b7ed9e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/08c0cfe809db1cd9d3421c669815cff5/0b3547c38e369933a4a49a05e0f2852b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dc1cdad03a1603f33a34686f1f140c9/fa27091f0d33cf07b27a5509caf1e372.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/36c64c892ee0b3b2448bafd3d0eaa234/c80f4c8efe82d751e47cbd0158127164.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/41e1fb22ca8e7b0c45a582fe165e9e0a/b4117747c0026001d0a077981d737121.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9c3a1f304c6137975c423a9f71bff22/ce75d7b0f9805830b9cb6d5becddedda.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/605ce4677037714a9454584bebe54fa9/6482cd0526796189e698a8ac75e6c2ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ec57852118972867bf439044f771ecb/10a997661f057ae37bcac97374b4e28d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/56351b7538716f981047f9fa87593a85/30f69a05abaabb65069fcbb7e843f399.png"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Fern is a bright, spirited little gal who brings joy everywhere she goes. Fern is the perfect blend of sweetness and fun - she loves affection, cozy naps, and being close to her people, but she’s just as excited to play, explore, and turn ordinary moments into tiny adventures. Her goofy charm, love of toys, and curious nature make her a constant source of smiles.\n\nFern is looking for a loving home that appreciates a companion with both heart and personality. She’s ready to bring warmth, laughter, and a whole lot of life into her new family. If you’re hoping for a friend who will keep you entertained and adored in equal measure, Fern is ready to bloom with you.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1781999865"
     },
     {
       "ID": "1442",
