@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T23:04:02Z",
+  "updated": "2026-06-22T01:59:39Z",
   "count": 62,
   "animals": [
     {
@@ -683,116 +683,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781981929"
-    },
-    {
-      "ID": "3461",
-      "Internal-ID": "213355160",
-      "Name": "Maple",
-      "LitterGroupId": 9483955,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1766901600,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2ebe442995f42b837ad6e30e97ec655/777d1df8d921b57cd5f50fb35c2ecc9d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b649ae03791b50cdd190a5504881fc5/dcf267cb5943fa639bf4c50c595095d4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd472be3506c14066e0e29fa520dfe31/7794590d3f3748aaf2bb5a6c5f7babab.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6e728e959c31c5fc6725c058d8bb0abc/0eca266fb9c9ec08d8e74b6704333b12.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b40f24412b2e2fff641b63d8595b2bd1/d4651e4cf981b975d8affa0144dc9a2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a25c827533d380645d418a19c9ef8a2/11df12ea11d5bc417e34416b2481c77c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a972387560e31c34b0d1c1f05892d0b9/bf5fcc23c356ea926ee5aad76c67086c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f10734758fb59b2ab9cbaf28187e799/27dac41816ce8713593cd3772311be1a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc5efae62500f23da41f5187c5c5de31/375b7a1a0a673026f2b20be932014cdd.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Maple is such a sweet puppy. She currently lives with her sisters Mocha and Cookie. She also lives with 2 adult dogs. One of the adult dogs loves playing with the puppies and the older adult dog helps teach the puppies manners.\n\nMaple won our hearts over as she is a cuddle bug. She is very outgoing and wins everyone over immediately. She is independent and sleeps through the night in a crate either alone or with one of her sisters. Being still a puppy, potty training is ongoing. She has a fenced in yard and goes out regularly to avoid accidents in the house.",
-      "LastIntakeUnixTime": "1781531754",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637008",
-          "AttributeName": "Good around horses",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781532347"
     },
     {
       "ID": "3462",
@@ -3993,6 +3883,116 @@
         }
       ],
       "LastUpdatedUnixTime": "1781838682"
+    },
+    {
+      "ID": "3461",
+      "Internal-ID": "213355160",
+      "Name": "Maple",
+      "LitterGroupId": 9483955,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "25",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1766901600,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/aea9f2de78e4b123eb9829a24ef8bd5c/b5a601a49779fb93056c348e70d5e72e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c2ebe442995f42b837ad6e30e97ec655/777d1df8d921b57cd5f50fb35c2ecc9d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1b649ae03791b50cdd190a5504881fc5/dcf267cb5943fa639bf4c50c595095d4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd472be3506c14066e0e29fa520dfe31/7794590d3f3748aaf2bb5a6c5f7babab.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6e728e959c31c5fc6725c058d8bb0abc/0eca266fb9c9ec08d8e74b6704333b12.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b40f24412b2e2fff641b63d8595b2bd1/d4651e4cf981b975d8affa0144dc9a2d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a25c827533d380645d418a19c9ef8a2/11df12ea11d5bc417e34416b2481c77c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a972387560e31c34b0d1c1f05892d0b9/bf5fcc23c356ea926ee5aad76c67086c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f10734758fb59b2ab9cbaf28187e799/27dac41816ce8713593cd3772311be1a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc5efae62500f23da41f5187c5c5de31/375b7a1a0a673026f2b20be932014cdd.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Maple is such a sweet puppy. She currently lives with her sisters Mocha and Cookie. She also lives with 2 adult dogs. One of the adult dogs loves playing with the puppies and the older adult dog helps teach the puppies manners.\n\nMaple won our hearts over as she is a cuddle bug. She is very outgoing and wins everyone over immediately. She is independent and sleeps through the night in a crate either alone or with one of her sisters. Being still a puppy, potty training is ongoing. She has a fenced in yard and goes out regularly to avoid accidents in the house.",
+      "LastIntakeUnixTime": "1781531754",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637008",
+          "AttributeName": "Good around horses",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782088133"
     },
     {
       "ID": "3501",
