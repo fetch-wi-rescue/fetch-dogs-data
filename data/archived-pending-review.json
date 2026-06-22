@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T06:14:14Z",
+  "updated": "2026-06-22T18:04:49Z",
   "animals": [
     {
       "ID": "3458",
@@ -728,6 +728,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-20T06:14:14Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3502",
+      "Name": "Deva",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb6577294da62105d92d2eb4278f23b5/a613270a0bce21e88426a0d088b6a201.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-22T18:04:49Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3554",
+      "Name": "Elver",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b5e48e46a2659539233412af1921017f/92cdeccce0f620e07d169a2ccb7b6e2f.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-22T18:04:49Z",
       "status": "pending"
     }
   ]
