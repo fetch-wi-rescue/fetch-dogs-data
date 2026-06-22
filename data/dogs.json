@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T01:59:39Z",
+  "updated": "2026-06-22T07:30:56Z",
   "count": 62,
   "animals": [
     {
@@ -403,7 +403,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1419228000,
-      "Age": 137,
+      "Age": 138,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3b1c256e9a03572586e371004e80d0f2/9501172676bfb81daaa7d82df58edcce.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/3b1c256e9a03572586e371004e80d0f2/9501172676bfb81daaa7d82df58edcce.jpeg",
@@ -506,7 +506,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1724302800,
-      "Age": 21,
+      "Age": 22,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b866b187b69f50d6ab303cd3b7cf5a65/400d33a51efb8b177e5dd29d98cc7a23.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/b866b187b69f50d6ab303cd3b7cf5a65/400d33a51efb8b177e5dd29d98cc7a23.jpeg",
@@ -3088,6 +3088,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634883",
           "AttributeName": "Shy at first",
           "Publish": "Yes"
@@ -3113,7 +3118,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781900470"
+      "LastUpdatedUnixTime": "1782095575"
     },
     {
       "ID": "3608",
@@ -3436,7 +3441,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1666414800,
-      "Age": 43,
+      "Age": 44,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/27af435340a176e29c4d547e605ae387/4fc705d29dd98bf3bd8ef5e222d2ffec.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/27af435340a176e29c4d547e605ae387/4fc705d29dd98bf3bd8ef5e222d2ffec.jpg"
@@ -4534,7 +4539,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782072488"
+      "LastUpdatedUnixTime": "1782095055"
     },
     {
       "ID": "3502",
