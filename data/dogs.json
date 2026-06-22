@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T18:04:49Z",
+  "updated": "2026-06-22T21:18:27Z",
   "count": 60,
   "animals": [
     {
@@ -1658,8 +1658,44 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1781669400",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1782074873"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782162824"
     },
     {
       "ID": "3578",
@@ -1896,13 +1932,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
           "Publish": "Yes"
         },
         {
@@ -1926,26 +1957,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637007",
-          "AttributeName": "Good around chickens",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637007",
-          "AttributeName": "Good around chickens",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
@@ -1961,7 +1972,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1780369580"
+      "LastUpdatedUnixTime": "1782154748"
     },
     {
       "ID": "3590",
@@ -2568,13 +2579,28 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
           "Publish": "Yes"
         },
         {
@@ -2608,7 +2634,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781699656"
+      "LastUpdatedUnixTime": "1782156124"
     },
     {
       "ID": "3599",
@@ -3425,7 +3451,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781840841"
+      "LastUpdatedUnixTime": "1782161790"
     },
     {
       "ID": "3591",
@@ -4213,8 +4239,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         },
         {
@@ -4223,7 +4249,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782078321"
+      "LastUpdatedUnixTime": "1782162581"
     },
     {
       "ID": "3527",
