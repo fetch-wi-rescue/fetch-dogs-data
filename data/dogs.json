@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T14:33:02Z",
-  "count": 59,
+  "updated": "2026-06-23T17:11:58Z",
+  "count": 60,
   "animals": [
     {
       "ID": "2754",
@@ -3426,7 +3426,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.8",
+      "CurrentWeightPounds": "12",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1714712400,
@@ -3451,7 +3451,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782161790"
+      "LastUpdatedUnixTime": "1782234496"
     },
     {
       "ID": "3591",
@@ -3920,6 +3920,36 @@
         }
       ],
       "LastUpdatedUnixTime": "1782149295"
+    },
+    {
+      "ID": "3614",
+      "Internal-ID": "213946777",
+      "Name": "6742",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {
+        "Tier1": "Fetch WI Rescue",
+        "Tier2": "Awaiting Transport"
+      },
+      "Sex": "Male",
+      "Status": "Available In-Shelter",
+      "InFoster": false,
+      "CurrentWeightPounds": "",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1750219200,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Tan",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": null,
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1782233081"
     },
     {
       "ID": "3461",
