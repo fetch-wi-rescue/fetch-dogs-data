@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T17:11:58Z",
-  "count": 60,
+  "updated": "2026-06-23T19:23:29Z",
+  "count": 59,
   "animals": [
     {
       "ID": "2754",
@@ -1888,10 +1888,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1704002400,
       "Age": 29,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196bdb6959100279918ecd8e8db62da3/52efc6c378d88892f832ba633286ee6f.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f08ce6170d4bde033aa469650950a86/34d825be8f3c55fab610bb49a491ea78.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/196bdb6959100279918ecd8e8db62da3/52efc6c378d88892f832ba633286ee6f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/0f47948c77972edbc9c702f9c5e32cef/6a466612fe07455d0d993495e3bdda51.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4fc252432500dd7f49c00f687e6411d9/adc2739007c6beb1f2c15203f8f1d1fb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/fe878e50a4785ee99e3a60aceee78fc5/e3223d377dd9374b9310e9e9932660ae.jpeg",
@@ -1900,6 +1899,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/540040a63995f7cb4de347c9e091c329/0806a3662690938db9e77f4a62c48c2d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/974635041576b0736cc9e64ed0162b16/cd11e37c1a0d72ad3d13508cf93e8510.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/6de59519d842ecf59ddca5506356c468/9b476e789ee59bc2a9ab3a71924ec241.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d5488b0dde81dba752ad4726461deaea/34ca71af733740d8e1c7cd970552142f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d3147a52981b93c09e46a74b72df0726/643795bdb289f243d30a992226562e7f.jpeg"
       ],
@@ -1972,7 +1972,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782154748"
+      "LastUpdatedUnixTime": "1782241065"
     },
     {
       "ID": "3590",
@@ -2070,6 +2070,48 @@
         }
       ],
       "LastUpdatedUnixTime": "1781840558"
+    },
+    {
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "61.3",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1676959200,
+      "Age": 40,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9b44d234b04f1337a143a8373d28fcd/58c2c9624817aa82475489615beae5e8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782240483"
     },
     {
       "ID": "3593",
@@ -2294,7 +2336,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "13.6",
+      "CurrentWeightPounds": "17",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1775019600,
@@ -2388,7 +2430,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781960276"
+      "LastUpdatedUnixTime": "1782235114"
     },
     {
       "ID": "3597",
@@ -3515,47 +3557,6 @@
       "LastUpdatedUnixTime": "1781785416"
     },
     {
-      "ID": "3592",
-      "Internal-ID": "213786015",
-      "Name": "Mary Beth",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "61.3",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1676959200,
-      "Age": 40,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/8aa1c8cd60b85dd339c070776747a66c/7c7de78c8e4efcaaaa089c95cec9b55e.png",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2b51177ecd521ab5f9ed72031a5cf39/4f8924a9d10a985633d2ce0636f1db41.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9fbced8975b8fd47be751a99d5126cb/2b5cbcf333ed4d15f20f2bbe715cc4bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f190ba6dcca2d62b66e3d836b88f949/52418fce9132607f7d20b426fac2d80e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3437668bce379d864610e14f8082f36/6829d56c88736fbf251ea20377de8a88.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Staffordshire Bull/Mix",
-      "Color": "Chocolate",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782073508"
-    },
-    {
       "ID": "3603",
       "Internal-ID": "213855262",
       "Name": "Sheila",
@@ -3920,36 +3921,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782149295"
-    },
-    {
-      "ID": "3614",
-      "Internal-ID": "213946777",
-      "Name": "6742",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {
-        "Tier1": "Fetch WI Rescue",
-        "Tier2": "Awaiting Transport"
-      },
-      "Sex": "Male",
-      "Status": "Available In-Shelter",
-      "InFoster": false,
-      "CurrentWeightPounds": "",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1750219200,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": null,
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1782233081"
     },
     {
       "ID": "3461",
@@ -4411,7 +4382,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782140582"
+      "LastUpdatedUnixTime": "1782242504"
     },
     {
       "ID": "3542",
