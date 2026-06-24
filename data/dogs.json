@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T10:15:27Z",
+  "updated": "2026-06-24T12:32:09Z",
   "count": 59,
   "animals": [
     {
@@ -2904,7 +2904,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782275832"
+      "LastUpdatedUnixTime": "1782303837"
     },
     {
       "ID": "3601",
@@ -3469,9 +3469,9 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "9.8",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1714712400,
       "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
@@ -3494,7 +3494,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782234496"
+      "LastUpdatedUnixTime": "1782303969"
     },
     {
       "ID": "3591",
@@ -3637,7 +3637,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "24.8",
+      "CurrentWeightPounds": "25",
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1752555600,
@@ -3686,7 +3686,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782163960"
+      "LastUpdatedUnixTime": "1782304323"
     },
     {
       "ID": "3613",
@@ -3698,9 +3698,9 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "17.4",
+      "CurrentWeightPounds": "18.2",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1746075600,
       "Age": 13,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
@@ -3757,7 +3757,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782163909"
+      "LastUpdatedUnixTime": "1782304208"
     },
     {
       "ID": "492",
