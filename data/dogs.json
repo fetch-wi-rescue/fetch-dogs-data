@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T17:28:26Z",
-  "count": 59,
+  "updated": "2026-06-24T19:11:34Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -3906,117 +3906,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781841153"
-    },
-    {
-      "ID": "3503",
-      "Internal-ID": "213465538",
-      "Name": "Nola",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "19.25",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1774587600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6170a3a75b0cca98da0968b5eeb10821/10d42e82c467fb1416234567f75fa896.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6170a3a75b0cca98da0968b5eeb10821/10d42e82c467fb1416234567f75fa896.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/572c2299e985e61b6b4b070333442b5c/bae7d7cf5362262483f7d6c9b47fceb7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f562a796d4bf8c6f8ee0873e645e9d50/0ca2e4505dff85a40ccf5bf2a2e29e07.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b28c7017c34eb305b9082dcadfcd2481/ca10e34136cccb208f48d3a36b1146f6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68be277e5e2ec63079be3ffae1dbf394/873f3bda1088aa2197d2248347fcfd99.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a4a1a6893c281640e9fdebc80ea45d3/f773ab84e112ef9918180ede54c6b32a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Nola is a total sweetheart. Always first out of the gate to give you some loving, she's a silly, sweet, playful girl.  If she's not in cuddling up with you, she's pouncing on a toy or (preferably) on her siblings!\n\nSister to Deva, Kai, and Lucas!",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782318587"
     },
     {
       "ID": "3527",

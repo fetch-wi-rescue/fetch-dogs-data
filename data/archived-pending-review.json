@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T19:23:29Z",
+  "updated": "2026-06-24T19:11:34Z",
   "animals": [
     {
       "ID": "3458",
@@ -764,6 +764,15 @@
       "Status": "Available In-Shelter",
       "reason": "other",
       "disappearedDate": "2026-06-23T19:23:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3503",
+      "Name": "Nola",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6170a3a75b0cca98da0968b5eeb10821/10d42e82c467fb1416234567f75fa896.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-24T19:11:34Z",
       "status": "pending"
     }
   ]
