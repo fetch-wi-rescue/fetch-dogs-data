@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T16:18:18Z",
+  "updated": "2026-06-25T18:30:17Z",
   "count": 58,
   "animals": [
     {
@@ -1542,6 +1542,84 @@
         }
       ],
       "LastUpdatedUnixTime": "1781935424"
+    },
+    {
+      "ID": "3556",
+      "Internal-ID": "213684443",
+      "Name": "Birdie",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1714712400,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa4c65fa0644542061d138eeb2c739ef/4da6cc7fa11951800882f503935eaea3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Birdie is the sweetest, snuggliest girl you'll ever meet! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has adjusted quickly to indoor life and is about 99% potty trained. She sleeps soundly through the night in her crate and seems to do okay when left home alone in her crate for short periods. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be a little vocal, though she's already making great progress with gentle redirection and reassurance from her foster family.\n\nBirdie is a friendly pup who has done great with everyone she's met so far, including adults, older children, cats, and other dogs. She is happy to receive snuggles from anyone who will offer them 😊 Birdie currently lives with another dog in her foster home.\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. The good news is that she's already improving as she settles into her foster home. Her ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782408098"
     },
     {
       "ID": "3558",
@@ -3257,43 +3335,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782132352"
-    },
-    {
-      "ID": "3556",
-      "Internal-ID": "213684443",
-      "Name": "Birdie",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714712400,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782394636"
     },
     {
       "ID": "3591",
