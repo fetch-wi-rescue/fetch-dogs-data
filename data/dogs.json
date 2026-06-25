@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T18:30:17Z",
+  "updated": "2026-06-25T20:52:28Z",
   "count": 58,
   "animals": [
     {
@@ -1558,14 +1558,14 @@
       "Altered": "Yes",
       "DOBUnixTime": 1714712400,
       "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
         "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/fa4c65fa0644542061d138eeb2c739ef/4da6cc7fa11951800882f503935eaea3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
         "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg"
@@ -1619,7 +1619,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782408098"
+      "LastUpdatedUnixTime": "1782414441"
     },
     {
       "ID": "3558",
@@ -2878,9 +2878,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "11",
+      "CurrentWeightPounds": "11.2",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1747761414,
       "Age": 13,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
@@ -2906,7 +2906,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020709",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1782400692"
+      "LastUpdatedUnixTime": "1782415459"
     },
     {
       "ID": "3605",
