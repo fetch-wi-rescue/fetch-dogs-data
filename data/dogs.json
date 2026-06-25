@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:33:26Z",
+  "updated": "2026-06-25T16:18:18Z",
   "count": 58,
   "animals": [
     {
@@ -2791,6 +2791,46 @@
       "LastUpdatedUnixTime": "1782314865"
     },
     {
+      "ID": "3604",
+      "Internal-ID": "213855265",
+      "Name": "Sarah",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1747761414,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1781020709",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1782400692"
+    },
+    {
       "ID": "3605",
       "Internal-ID": "213855266",
       "Name": "Skip",
@@ -3253,7 +3293,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782355239"
+      "LastUpdatedUnixTime": "1782394636"
     },
     {
       "ID": "3591",
@@ -3352,41 +3392,6 @@
       "LastUpdatedUnixTime": "1782140611"
     },
     {
-      "ID": "3604",
-      "Internal-ID": "213855265",
-      "Name": "Sarah",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1747761414,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9ff13e8ddd3d0367a296eec9c403ea0/cca526cedae7b0e46d7dbfed7a8db720.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f9ff13e8ddd3d0367a296eec9c403ea0/cca526cedae7b0e46d7dbfed7a8db720.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1781020709",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1781898910"
-    },
-    {
       "ID": "3612",
       "Internal-ID": "213937985",
       "Name": "Whiskey",
@@ -3445,7 +3450,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782304379"
+      "LastUpdatedUnixTime": "1782399608"
     },
     {
       "ID": "3613",
@@ -4360,7 +4365,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782390175"
+      "LastUpdatedUnixTime": "1782396615"
     },
     {
       "ID": "1442",
