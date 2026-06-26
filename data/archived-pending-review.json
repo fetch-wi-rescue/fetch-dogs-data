@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:11:34Z",
+  "updated": "2026-06-26T17:14:06Z",
   "animals": [
     {
       "ID": "3458",
@@ -773,6 +773,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-24T19:11:34Z",
+      "status": "pending"
+    },
+    {
+      "ID": "492",
+      "Name": "Dallas",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8fea1d084203857c4b5b1c34181d256a/74fb1eff7428ecf58cd824613e6410bd.png",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-06-26T17:14:06Z",
       "status": "pending"
     }
   ]
