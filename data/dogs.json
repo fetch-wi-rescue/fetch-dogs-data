@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T12:29:44Z",
+  "updated": "2026-06-26T15:12:10Z",
   "count": 58,
   "animals": [
     {
@@ -3034,7 +3034,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781871853"
+      "LastUpdatedUnixTime": "1782478848"
     },
     {
       "ID": "1395",
@@ -3183,9 +3183,9 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "7.4",
+      "CurrentWeightPounds": "7.8",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1747761154,
       "Age": 13,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
@@ -3206,7 +3206,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1781020646",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1782140611"
+      "LastUpdatedUnixTime": "1782478605"
     },
     {
       "ID": "3612",
@@ -4185,7 +4185,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782443907"
+      "LastUpdatedUnixTime": "1782486565"
     },
     {
       "ID": "3600",
