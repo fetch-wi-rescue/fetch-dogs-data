@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:03:03Z",
+  "updated": "2026-06-26T22:42:13Z",
   "count": 57,
   "animals": [
     {
@@ -1928,8 +1928,9 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/592488ef2d42bd51e964f5889ce55882/dac06f11f071888ff3eaada465c15429.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/592488ef2d42bd51e964f5889ce55882/dac06f11f071888ff3eaada465c15429.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/968d3277c7df4228c3db23fcc49d8a58/eba2e4a4e19215344daef59d51cac160.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/196bdb6959100279918ecd8e8db62da3/52efc6c378d88892f832ba633286ee6f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/712162306a1f4477f6f225d5f4c774cb/bb7a5acbbfe417cd19e13c9f54b3dc25.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/968d3277c7df4228c3db23fcc49d8a58/eba2e4a4e19215344daef59d51cac160.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/974635041576b0736cc9e64ed0162b16/cd11e37c1a0d72ad3d13508cf93e8510.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/87818e3c6fc73646a7d077f3602083d9/fedbefb55e62a241eee54f77754c3236.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/0f47948c77972edbc9c702f9c5e32cef/6a466612fe07455d0d993495e3bdda51.jpeg",
@@ -2015,7 +2016,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782491510"
+      "LastUpdatedUnixTime": "1782512272"
     },
     {
       "ID": "3590",
@@ -2694,8 +2695,44 @@
       },
       "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
       "LastIntakeUnixTime": "1781020709",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1782415459"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782512174"
     },
     {
       "ID": "3605",
@@ -4996,13 +5033,15 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd7ef88721274edf1ebf02b100ccb253/eb4ed62a003776f274c7f2daf5dd8fba.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png"
       ],
       "Videos": [],
       "Breed": "Terrier, Staffordshire Bull/Mix",
@@ -5018,7 +5057,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782438028"
+      "LastUpdatedUnixTime": "1782512090"
     }
   ]
 }
