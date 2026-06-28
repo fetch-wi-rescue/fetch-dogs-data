@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T15:46:42Z",
+  "updated": "2026-06-28T17:01:42Z",
   "count": 58,
   "animals": [
     {
@@ -2138,112 +2138,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782487999"
-    },
-    {
-      "ID": "3596",
-      "Internal-ID": "213786021",
-      "Name": "Bonsai",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d172e3a9ba1c21798687227541b1789/ad364bc92c7dad2d82943e6741a1ed2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b060991b5b5bbff925468914cdebe05/93e1bc629822deda4fa83389dfd2535f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f44e696cd08665766e402859cfede681/edd8922d9bf92b55d6431cb5f4a48154.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5a41740a0f34c50a654b9886761fbcb4/5be2dffbb88efc7573cde36186d8fb9b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6305f42af4912abe035679b51a588546/11ca95f2e711c0d477806d53350f0663.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dc5a8c2dcf2024bc306ac850468a9b2d/045dee757012fd8341e2d84a3f2fa61c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8d3a9c67ab995bfd35de3daf7cb712a/2f38f2566bda4bcd97f1ed414acbd79c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e7fef7518dae5866c4dfb7a54065b31/527cb7e2604594b1867de41b49bfa2fd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4e3b1f6230dab2d5de3faa9b3902bc95/b57c13c3310cf56dcc03ff17b3138cc6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782440543"
     },
     {
       "ID": "3599",
@@ -5141,6 +5035,112 @@
         }
       ],
       "LastUpdatedUnixTime": "1782512090"
+    },
+    {
+      "ID": "3596",
+      "Internal-ID": "213786021",
+      "Name": "Bonsai",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "17",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d172e3a9ba1c21798687227541b1789/ad364bc92c7dad2d82943e6741a1ed2d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b060991b5b5bbff925468914cdebe05/93e1bc629822deda4fa83389dfd2535f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f44e696cd08665766e402859cfede681/edd8922d9bf92b55d6431cb5f4a48154.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5a41740a0f34c50a654b9886761fbcb4/5be2dffbb88efc7573cde36186d8fb9b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6305f42af4912abe035679b51a588546/11ca95f2e711c0d477806d53350f0663.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dc5a8c2dcf2024bc306ac850468a9b2d/045dee757012fd8341e2d84a3f2fa61c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8d3a9c67ab995bfd35de3daf7cb712a/2f38f2566bda4bcd97f1ed414acbd79c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2e7fef7518dae5866c4dfb7a54065b31/527cb7e2604594b1867de41b49bfa2fd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4e3b1f6230dab2d5de3faa9b3902bc95/b57c13c3310cf56dcc03ff17b3138cc6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782665132"
     }
   ]
 }
