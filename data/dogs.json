@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T10:38:20Z",
+  "updated": "2026-06-28T12:12:53Z",
   "count": 58,
   "animals": [
     {
@@ -1314,88 +1314,6 @@
       "LastUpdatedUnixTime": "1781902358"
     },
     {
-      "ID": "3541",
-      "Internal-ID": "213591752",
-      "Name": "Marigold",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 105,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c17870823a1d767cd93769afcec909f2/d21d4e23f417d93d96e80beb8c6afb0e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out! She is a rare straight-haired bichon, not the typical curly coat.",
-      "LastIntakeUnixTime": "1777708500",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781900173"
-    },
-    {
       "ID": "3543",
       "Internal-ID": "213593055",
       "Name": "Max",
@@ -2009,103 +1927,6 @@
       "LastUpdatedUnixTime": "1782512272"
     },
     {
-      "ID": "3590",
-      "Internal-ID": "213765756",
-      "Name": "Cash",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "73",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1527310800,
-      "Age": 97,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cdd3aae09faf06e83d0e84caa89fabdf/94ed45c92dcda8e674258c65ce556b20.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/839a83031d099fe2658984d9a1ab1ef9/e48baad667e64587b211a4ec9c65841e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bbb04528f68f68d0af5fd2fc2c0418d4/07adbadc551e6f807e9e573969f8be78.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3250166d0e5c6337d5771764f65a35e/0c620cf1c49cedae49daf6badbfe0b66.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/defe9c1b4ab612c7a5a75a9fec111ef7/4909572b1f1de28e0da089ed474e156b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b6ccf829c4cedb7c57b7afd04611f72/d0cd94c1a6dabaa24e5dfc13ce4c135d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94756355ec7274338a7519813fc4bac1/d546405bf92e12e04c35af10dc0395f4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Good with dogs, Good with kids, Good with Cats, House trained, Can free roam, Walks well on leash, Good in car, Senior Dog, Crate Trained, Friendly\n\nOlder dapper gent seeks connection for next phase of life. Meet Cash - he's a gentle sweetheart who's looking for the next love of his life following the passing of his previous human. \n\nCash is an easy going guy. He's friendly to every adult/child/dog/cat we've met - either politely greeting them or simply ignoring them and letting them be. He's a real people person and likes to follow his favorite gal around the house (he seems to connect more with women we've found - likes men, but a Velcro dog for women), but when left alone he settles onto his dog bed and patiently waits for your return.\n\nBeing an older guy he's got things down. He knows when it's potty time or will let you know he needs to head out - he's got a great old man bark. He walks well on leash; no tugging or lunging at small animals. He loves a good car ride - head out the window! He's great in public; we took him to various breweries during his first week here and he couldn't have been better. Being older also has some challenges - he's got some hip pain/arthritis and needs a daily med/supplement. He has trouble getting into a car - we've been introducing him to a ramp, but he's not a huge fan, so there's some lifting in and out.\n\nGeneral day for Cash:\n6:30 am: Wake up and first big walk of the. \"Big\" is relative; we don't go far - he's got some hip issues so we take a nice slow walk. He knows it is time to potty and gets his business done. A few blocks is all he needs.\n\n7am food (and joint supplement/med) He takes his meds very easily with some peanut butter.\n\nThen he'll either go to work with me or we stay home and work from home. Cash is happy to visit the office and see people. Then he'll settle down and let me work. \n\n12 noon food. And potty break - very short.\n\nMore patiently waiting while work is done. A potty break if needed.\n\n5pm: Day is done. Second big walk (again \"big\" here is pretty small).\n\nPets and play time, settles near us if we're home. If we go out he's good about being alone.\n\n7pm food (and joint supplement/med)\n\n9:30 pm: Last walk of the night. Upon return - dentastix and bed time. We let him sleep outside the kennel. He did fine in it, but we thought it was uncomfortable for his hips (and he's so well behaved) that we just let him free roam in the family room and sleep on a dog bed by the patio door.\n\nIf you're looking for a sweet, older guy to enjoy slow, short walks and nice quiet sitting you gotta meet Cash.",
-      "LastIntakeUnixTime": "1779895787",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782440578"
-    },
-    {
       "ID": "3593",
       "Internal-ID": "213786017",
       "Name": "Daisy",
@@ -2425,119 +2246,6 @@
       "LastUpdatedUnixTime": "1782440543"
     },
     {
-      "ID": "3597",
-      "Internal-ID": "213786022",
-      "Name": "Rue",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.1",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/848fe2a79eef7c17a46973c493fd7494/4e4f28b3376e3a775f2cb4ff5bdc5b6d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b79482da616a259345c798ef26026838/83f6c333632b579aaff6b65ee255d987.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47ef89e94d92b9b9c770b97e6328cd7e/84f24595644ffa36b4506b10748f3311.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d52ddcc0e64b280ec6848800b59f9f9/e9325a051bf05efda4b0a4bc73f9d329.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a50077be8d1f375436642dc46b3f89d5/69ac3562b2727daf3fad224225fa96a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0730bf08f3330ba3916de4de8f03cd3f/576b2d01e1f5962cbc9bb67aa6aef61e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cbff5df8a1cfd02113523b5378b7e7dc/11e90af3a7603ffe05a429c161294813.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/728986f1621a86d95bd70fac327ebc25/c17d78d9dca7411bdf64410b4a4b73ff.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/674f61754f272109ebc788e1b009b143/8f0b16318d6e110922ac75aefb3e3660.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc1b46aba298341dfddd0d8798ff07b9/6dd51a555f5ff9e56ff60212c75aa38b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c83aa8c88bfadae0c58124f15488e723/0c875880b68a4e04516e82c324c6165d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/607e42d250f755695daad05876b0ddae/beb4b2a8a6c092da3543d938ab858ace.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d5a9e34c28f7a977cd4e52812900407/a94239c133bbe481b472f0ececef7cb5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/673f8504062a582054b23a9ce7861076/efab3d8a3a7d69c369b71955bd3ee118.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/10df3a20e23b221804b715b7a397193e/5188f05ef889c0038d2d1cf85bb23656.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/454affed4a6cd29efeef93569a599ae4/f74affd3abf59e05acb40bc6baebb977.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/467f286c5f4cf83f6ea02f900d67cce4/d6deb597ef46b78db485f10b762c85b8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Even at just two months old, Rue already has a presence about him. He’s observant, thoughtful, and the kind of puppy who likes to take a moment to figure out the world before diving in. Once he knows you’re a friend, though, his reserved side melts away and you’re rewarded with full-body wiggles, happy kisses, and endless affection.\n\nRue is already showing signs of becoming an incredibly loyal and devoted companion. He’s been practicing his “big boy bark” to let everyone know when someone is near the house, but his tough-guy act disappears the second he realizes it’s someone there to love on him.\n\nThis handsome boy is also very smart. He’s picking up crate training and potty training quickly and settles beautifully for naps and bedtime with very little fuss. Rue has an independent streak, too - once he’s comfortable in his environment, he’s confident, secure, and perfectly happy to entertain himself between play sessions and cuddles.\n\nWhile he can be a little shy at first, it doesn’t take long for his true personality to shine through. Underneath that thoughtful exterior is a playful, loving puppy who is ready to build a deep bond with his future family.\n\nThere’s something special about Rue that makes you think ahead to the dog he’ll become: the one who sits beside you on the porch, keeps a watchful eye on the house, and makes you feel safe simply because he’s there.\n\nIf you’re looking for a puppy who will grow into a loyal shadow, a gentle protector, and a best friend all wrapped into one adorable package, Rue might just be your perfect match.\n\nTrust us - this sweet boy is going to make one lucky family very, very happy.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782063601"
-    },
-    {
       "ID": "3599",
       "Internal-ID": "213786024",
       "Name": "Sage",
@@ -2647,82 +2355,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782487957"
-    },
-    {
-      "ID": "3604",
-      "Internal-ID": "213855265",
-      "Name": "Sarah",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761414,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
-      "LastIntakeUnixTime": "1781020709",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782512174"
     },
     {
       "ID": "3605",
@@ -2881,103 +2513,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782095575"
-    },
-    {
-      "ID": "3608",
-      "Internal-ID": "213879445",
-      "Name": "Snickers",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "46.5",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1751605200,
-      "Age": 11,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b6b14ba8a71a58210e7a907616395957/572770c5e3f21330f05055cfb064877e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4b2cb87f5befaae8f5b60ce7e9e83f9/3ece5df89aca1ac52b1817efe5de689b.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Collie/Catahoula Leopard Dog",
-      "Color": "Tan/Brown",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Snickers!\n\nSnickers is an 11-month-old Collie/Catahoula Leopard Dog mix with a sweet, easygoing personality and a fun mix of playful energy and cuddle time. He loves people and enjoys making dog friends, and he is always happy to be part of whatever is going on around him.\n\nSnickers is crate trained and settles well in his crate during the day. He also sleeps through the night in his crate without any issues. He is almost fully potty trained and continues to do well with routine and consistency.\n\nOn walks, Snickers does great on leash and enjoys getting outside to explore. He rides well in the car and is generally an easy companion to take along for everyday outings. Like any young dog, he still has some normal puppy behaviors, but he is learning quickly and responds well to guidance.\n\nSnickers is fully recovered from bilateral FHO surgery and is doing great with no current restrictions.\n\nHe would do well in a home that can give him structure, daily walks, and plenty of affection. He can live with other dogs or be a solo dog as long as he gets companionship and attention. Snickers is ready to find a forever home where he can keep growing into the amazing dog he is.",
-      "LastIntakeUnixTime": "1781206136",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629391",
-          "AttributeName": "Orthopedic Surgery Recovery Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781998565"
     },
     {
       "ID": "1395",
@@ -3891,6 +3426,88 @@
       "LastUpdatedUnixTime": "1781841153"
     },
     {
+      "ID": "3541",
+      "Internal-ID": "213591752",
+      "Name": "Marigold",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 105,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c17870823a1d767cd93769afcec909f2/d21d4e23f417d93d96e80beb8c6afb0e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out! She is a rare straight-haired bichon, not the typical curly coat.",
+      "LastIntakeUnixTime": "1777708500",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782647240"
+    },
+    {
       "ID": "3542",
       "Internal-ID": "213591754",
       "Name": "Chloe",
@@ -3979,6 +3596,119 @@
         }
       ],
       "LastUpdatedUnixTime": "1782459267"
+    },
+    {
+      "ID": "3597",
+      "Internal-ID": "213786022",
+      "Name": "Rue",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.1",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/848fe2a79eef7c17a46973c493fd7494/4e4f28b3376e3a775f2cb4ff5bdc5b6d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b79482da616a259345c798ef26026838/83f6c333632b579aaff6b65ee255d987.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47ef89e94d92b9b9c770b97e6328cd7e/84f24595644ffa36b4506b10748f3311.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d52ddcc0e64b280ec6848800b59f9f9/e9325a051bf05efda4b0a4bc73f9d329.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a50077be8d1f375436642dc46b3f89d5/69ac3562b2727daf3fad224225fa96a1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0730bf08f3330ba3916de4de8f03cd3f/576b2d01e1f5962cbc9bb67aa6aef61e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cbff5df8a1cfd02113523b5378b7e7dc/11e90af3a7603ffe05a429c161294813.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/728986f1621a86d95bd70fac327ebc25/c17d78d9dca7411bdf64410b4a4b73ff.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/674f61754f272109ebc788e1b009b143/8f0b16318d6e110922ac75aefb3e3660.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fc1b46aba298341dfddd0d8798ff07b9/6dd51a555f5ff9e56ff60212c75aa38b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c83aa8c88bfadae0c58124f15488e723/0c875880b68a4e04516e82c324c6165d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/607e42d250f755695daad05876b0ddae/beb4b2a8a6c092da3543d938ab858ace.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d5a9e34c28f7a977cd4e52812900407/a94239c133bbe481b472f0ececef7cb5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/673f8504062a582054b23a9ce7861076/efab3d8a3a7d69c369b71955bd3ee118.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/10df3a20e23b221804b715b7a397193e/5188f05ef889c0038d2d1cf85bb23656.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/454affed4a6cd29efeef93569a599ae4/f74affd3abf59e05acb40bc6baebb977.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/467f286c5f4cf83f6ea02f900d67cce4/d6deb597ef46b78db485f10b762c85b8.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Even at just two months old, Rue already has a presence about him. He’s observant, thoughtful, and the kind of puppy who likes to take a moment to figure out the world before diving in. Once he knows you’re a friend, though, his reserved side melts away and you’re rewarded with full-body wiggles, happy kisses, and endless affection.\n\nRue is already showing signs of becoming an incredibly loyal and devoted companion. He’s been practicing his “big boy bark” to let everyone know when someone is near the house, but his tough-guy act disappears the second he realizes it’s someone there to love on him.\n\nThis handsome boy is also very smart. He’s picking up crate training and potty training quickly and settles beautifully for naps and bedtime with very little fuss. Rue has an independent streak, too - once he’s comfortable in his environment, he’s confident, secure, and perfectly happy to entertain himself between play sessions and cuddles.\n\nWhile he can be a little shy at first, it doesn’t take long for his true personality to shine through. Underneath that thoughtful exterior is a playful, loving puppy who is ready to build a deep bond with his future family.\n\nThere’s something special about Rue that makes you think ahead to the dog he’ll become: the one who sits beside you on the porch, keeps a watchful eye on the house, and makes you feel safe simply because he’s there.\n\nIf you’re looking for a puppy who will grow into a loyal shadow, a gentle protector, and a best friend all wrapped into one adorable package, Rue might just be your perfect match.\n\nTrust us - this sweet boy is going to make one lucky family very, very happy.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782648762"
     },
     {
       "ID": "3598",
@@ -4231,6 +3961,276 @@
       "LastUpdatedUnixTime": "1782321508"
     },
     {
+      "ID": "3604",
+      "Internal-ID": "213855265",
+      "Name": "Sarah",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761414,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
+      "LastIntakeUnixTime": "1781020709",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782648014"
+    },
+    {
+      "ID": "3608",
+      "Internal-ID": "213879445",
+      "Name": "Snickers",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "46.5",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751605200,
+      "Age": 11,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b6b14ba8a71a58210e7a907616395957/572770c5e3f21330f05055cfb064877e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4b2cb87f5befaae8f5b60ce7e9e83f9/3ece5df89aca1ac52b1817efe5de689b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Catahoula Leopard Dog",
+      "Color": "Tan/Brown",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Snickers!\n\nSnickers is an 11-month-old Collie/Catahoula Leopard Dog mix with a sweet, easygoing personality and a fun mix of playful energy and cuddle time. He loves people and enjoys making dog friends, and he is always happy to be part of whatever is going on around him.\n\nSnickers is crate trained and settles well in his crate during the day. He also sleeps through the night in his crate without any issues. He is almost fully potty trained and continues to do well with routine and consistency.\n\nOn walks, Snickers does great on leash and enjoys getting outside to explore. He rides well in the car and is generally an easy companion to take along for everyday outings. Like any young dog, he still has some normal puppy behaviors, but he is learning quickly and responds well to guidance.\n\nSnickers is fully recovered from bilateral FHO surgery and is doing great with no current restrictions.\n\nHe would do well in a home that can give him structure, daily walks, and plenty of affection. He can live with other dogs or be a solo dog as long as he gets companionship and attention. Snickers is ready to find a forever home where he can keep growing into the amazing dog he is.",
+      "LastIntakeUnixTime": "1781206136",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629391",
+          "AttributeName": "Orthopedic Surgery Recovery Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782648168"
+    },
+    {
+      "ID": "3590",
+      "Internal-ID": "213765756",
+      "Name": "Cash",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "73",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1527310800,
+      "Age": 97,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cdd3aae09faf06e83d0e84caa89fabdf/94ed45c92dcda8e674258c65ce556b20.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/839a83031d099fe2658984d9a1ab1ef9/e48baad667e64587b211a4ec9c65841e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bbb04528f68f68d0af5fd2fc2c0418d4/07adbadc551e6f807e9e573969f8be78.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3250166d0e5c6337d5771764f65a35e/0c620cf1c49cedae49daf6badbfe0b66.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/defe9c1b4ab612c7a5a75a9fec111ef7/4909572b1f1de28e0da089ed474e156b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b6ccf829c4cedb7c57b7afd04611f72/d0cd94c1a6dabaa24e5dfc13ce4c135d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94756355ec7274338a7519813fc4bac1/d546405bf92e12e04c35af10dc0395f4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Good with dogs, Good with kids, Good with Cats, House trained, Can free roam, Walks well on leash, Good in car, Senior Dog, Crate Trained, Friendly\n\nOlder dapper gent seeks connection for next phase of life. Meet Cash - he's a gentle sweetheart who's looking for the next love of his life following the passing of his previous human. \n\nCash is an easy going guy. He's friendly to every adult/child/dog/cat we've met - either politely greeting them or simply ignoring them and letting them be. He's a real people person and likes to follow his favorite gal around the house (he seems to connect more with women we've found - likes men, but a Velcro dog for women), but when left alone he settles onto his dog bed and patiently waits for your return.\n\nBeing an older guy he's got things down. He knows when it's potty time or will let you know he needs to head out - he's got a great old man bark. He walks well on leash; no tugging or lunging at small animals. He loves a good car ride - head out the window! He's great in public; we took him to various breweries during his first week here and he couldn't have been better. Being older also has some challenges - he's got some hip pain/arthritis and needs a daily med/supplement. He has trouble getting into a car - we've been introducing him to a ramp, but he's not a huge fan, so there's some lifting in and out.\n\nGeneral day for Cash:\n6:30 am: Wake up and first big walk of the. \"Big\" is relative; we don't go far - he's got some hip issues so we take a nice slow walk. He knows it is time to potty and gets his business done. A few blocks is all he needs.\n\n7am food (and joint supplement/med) He takes his meds very easily with some peanut butter.\n\nThen he'll either go to work with me or we stay home and work from home. Cash is happy to visit the office and see people. Then he'll settle down and let me work. \n\n12 noon food. And potty break - very short.\n\nMore patiently waiting while work is done. A potty break if needed.\n\n5pm: Day is done. Second big walk (again \"big\" here is pretty small).\n\nPets and play time, settles near us if we're home. If we go out he's good about being alone.\n\n7pm food (and joint supplement/med)\n\n9:30 pm: Last walk of the night. Upon return - dentastix and bed time. We let him sleep outside the kennel. He did fine in it, but we thought it was uncomfortable for his hips (and he's so well behaved) that we just let him free roam in the family room and sleep on a dog bed by the patio door.\n\nIf you're looking for a sweet, older guy to enjoy slow, short walks and nice quiet sitting you gotta meet Cash.",
+      "LastIntakeUnixTime": "1779895787",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782646221"
+    },
+    {
       "ID": "3601",
       "Internal-ID": "213786026",
       "Name": "Rowena",
@@ -4238,7 +4238,7 @@
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
-      "Status": "M&G",
+      "Status": "Pending Adoption",
       "InFoster": true,
       "CurrentWeightPounds": "17.2",
       "Size": "Large (60-99)",
@@ -4353,7 +4353,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782573895"
+      "LastUpdatedUnixTime": "1782646251"
     },
     {
       "ID": "1442",
