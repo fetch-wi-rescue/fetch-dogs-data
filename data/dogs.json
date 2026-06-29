@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T14:32:12Z",
-  "count": 65,
+  "updated": "2026-06-29T17:30:04Z",
+  "count": 64,
   "animals": [
     {
       "ID": "2754",
@@ -611,6 +611,88 @@
         }
       ],
       "LastUpdatedUnixTime": "1782434442"
+    },
+    {
+      "ID": "1395",
+      "Internal-ID": "213179009",
+      "Name": "Alfie (fka Blueberry)",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "69.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1757134800,
+      "Age": 9,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png",
+        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4fbe54def095fb00a9e60d046b20be76/14ac958e7c082ee87ac6de4f6cd21342.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e31d2169cf2b6c167f3a9b6452c4e5ee/615ed4fd6173ec49d86ff5eda7a77308.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dab6d9a7149b4b2bffa1e084959c1e1f/7ae461f881477bd0c63d033b8d5b438f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/753d65584876a49c4e5e2203f05debcf/7e879cdb70edb315066cbc3507b41c1e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/21191607d21b2646d7a9ff3fa4db8b4b/6e1bca993dbaf74b9399fd2ea6fc993c.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Black/Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Alfie is a sweet and handsome puppy who is looking for a family who will play with him and snuggle! He is fully crate trained and potty trained and knows how to sit and lie down. \n\nInteractions with other dogs:\nAlfie loves other dogs and loves to wrestle and chase our 2 year old lab mix. Once he is done playing he loves to snuggle or chew on a bone. He has also been to doggie daycare and got along great with the other dogs there. \n\nWalking on leash: \nAlfie is a great walker. He typically wears a harness and is happy to see other dogs on walks.\n\nCats: \nAlfie has lived with cats in the past and was OK at first but then became too playful so he may do best in a home without cats. \n\nKids:\nAlfie previously lived in a home with small children and due to his age and size he struggled with interactions with the children in the home. He would do best in a home with no children or older dog savvy children. \n\nAlfie is a wonderful adolescent puppy who is looking for a forever home with a comfy couch and lots of love!",
+      "LastIntakeUnixTime": "1781640900",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782746902"
     },
     {
       "ID": "3200",
@@ -1242,78 +1324,6 @@
       "LastUpdatedUnixTime": "1782561688"
     },
     {
-      "ID": "3539",
-      "Internal-ID": "213591750",
-      "Name": "Larry",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "16.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1642744800,
-      "Age": 53,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7b6f83809c479a1dea6cc2b4d90364dc/8678d0f9ce31c5efda47a0e7f53d3a42.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7b6f83809c479a1dea6cc2b4d90364dc/8678d0f9ce31c5efda47a0e7f53d3a42.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff73e67509d1f25a39c3c2317714311e/b06a3fb0568d928e3f8be3e4ef825aa9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4883950f9a4d9f8958ac780cb33704cd/82f504ef3ead4267b9daddaf52e217d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a784a7c90595b137bd2459da5efdaca7/8a9ba6b824a9382384695be5f04d1748.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52b202dd4cf40dedee41d5a05e1b557d/0ac5bed023c093f6cb596b3323dcdf5c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/850a9e13713566df6172b93a49998329/0a96541c7be3fcd225cb10ce8e08ed01.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a0e009626d5dcf3485210956fcf109fc/9a697ca3400da695a1f392737ff7cbe1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8822dfa015d6ccd5339eedd2afecd70/8edac3f5398546694abe3bc3b4a572a0.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Larry was surrendered from an Amish farm where he was rused for breeding. He was very matted when we got him (see photo) so he had to be completely shaved, but when his hair grows out he will be really cute and fluffy! Larry is shy at first but very sweet. Even when he is scared and cowering away from people, his tail wags nonstop. He loves playing with other dogs, especially his buddy Milo. He previously lived in a kennel building so is just now learning potty training and leash training, but he’s doing so well! He is already almost perfect on a leash and has not had any accidents indoors in a couple weeks. He still has not managed to figure out stairs so he needs to be carried up and down stairs.",
-      "LastIntakeUnixTime": "1777707300",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782694008"
-    },
-    {
       "ID": "3543",
       "Internal-ID": "213593055",
       "Name": "Max",
@@ -1927,6 +1937,50 @@
       "LastUpdatedUnixTime": "1782512272"
     },
     {
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "59.97",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1676959200,
+      "Age": 40,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782750674"
+    },
+    {
       "ID": "3593",
       "Internal-ID": "213786017",
       "Name": "Daisy",
@@ -2032,7 +2086,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782487920"
+      "LastUpdatedUnixTime": "1782746698"
     },
     {
       "ID": "3595",
@@ -2137,7 +2191,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782670052"
+      "LastUpdatedUnixTime": "1782744696"
     },
     {
       "ID": "3599",
@@ -2248,7 +2302,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782670013"
+      "LastUpdatedUnixTime": "1782744716"
     },
     {
       "ID": "3606",
@@ -2946,82 +3000,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782703002"
-    },
-    {
-      "ID": "1395",
-      "Internal-ID": "213179009",
-      "Name": "Alfie (fka Blueberry)",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "69.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1757134800,
-      "Age": 9,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian",
-      "Color": "Black/Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Alfie is a sweet and handsome puppy who is looking for a family who will play with him and snuggle! He is fully crate trained and potty trained and knows how to sit and lie down. \n\nInteractions with other dogs:\nAlfie loves other dogs and loves to wrestle and chase our 2 year old lab mix. Once he is done playing he loves to snuggle or chew on a bone. He has also been to doggie daycare and got along great with the other dogs there. \n\nWalking on leash: \nAlfie is a great walker. He typically wears a harness and is happy to see other dogs on walks.\n\nCats: \nAlfie has lived with cats in the past and was OK at first but then became too playful so he may do best in a home without cats. \n\nKids:\nAlfie previously lived in a home with small children and due to his age and size he struggled with interactions with the children in the home. He would do best in a home with no children or older dog savvy children. \n\nAlfie is a wonderful adolescent puppy who is looking for a forever home with a comfy couch and lots of love!",
-      "LastIntakeUnixTime": "1781640900",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782674182"
     },
     {
       "ID": "3603",
@@ -4393,7 +4371,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782321508"
+      "LastUpdatedUnixTime": "1782746849"
     },
     {
       "ID": "3604",
@@ -4469,7 +4447,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782648014"
+      "LastUpdatedUnixTime": "1782748945"
     },
     {
       "ID": "3605",
@@ -5610,50 +5588,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782524198"
-    },
-    {
-      "ID": "3592",
-      "Internal-ID": "213786015",
-      "Name": "Mary Beth",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "61.3",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1676959200,
-      "Age": 40,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Staffordshire Bull/Mix",
-      "Color": "Chocolate",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782512090"
     },
     {
       "ID": "3596",
