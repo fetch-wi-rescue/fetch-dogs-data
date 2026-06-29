@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T17:30:04Z",
+  "updated": "2026-06-29T19:22:00Z",
   "count": 64,
   "animals": [
     {
@@ -241,7 +241,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/ce8e8f68e08b64880be7d40af8d0c005/a14d33e06ac95e33a0f47db7a6e25517.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f3235926f32cf35fe307f50364910e17/831d09431e80a081726acba2af305869.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4058686d5930bfb847cb8e157a894806/2fd18b454396203caa163b5e97947bdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06942ce5f3b9467deb15bbb3f308cd67/7f2841b1323ac7f048ded146992134a8.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/06942ce5f3b9467deb15bbb3f308cd67/7f2841b1323ac7f048ded146992134a8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7abce77ede260bd33a30182e4e4b1485/e36783ce8d37747703cf6be342a7777f.png"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Medium)",
@@ -302,7 +303,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782163434"
+      "LastUpdatedUnixTime": "1782760712"
     },
     {
       "ID": "1099",
@@ -949,7 +950,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1782683079"
+      "LastUpdatedUnixTime": "1782760656"
     },
     {
       "ID": "3479",
@@ -3278,12 +3279,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782702798"
+      "LastUpdatedUnixTime": "1782754210"
     },
     {
       "ID": "3607",
@@ -4731,7 +4737,7 @@
       "Sex": "Female",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "17.2",
+      "CurrentWeightPounds": "19.25",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1774538279,
@@ -4844,7 +4850,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782656553"
+      "LastUpdatedUnixTime": "1782760480"
     },
     {
       "ID": "1442",
