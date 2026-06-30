@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:15:28Z",
+  "updated": "2026-06-30T21:12:49Z",
   "count": 62,
   "animals": [
     {
@@ -797,12 +797,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1781666230"
+      "LastUpdatedUnixTime": "1782853303"
     },
     {
       "ID": "3238",
@@ -1489,12 +1494,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782826872"
+      "LastUpdatedUnixTime": "1782853226"
     },
     {
       "ID": "3558",
@@ -4370,12 +4380,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782748945"
+      "LastUpdatedUnixTime": "1782853316"
     },
     {
       "ID": "3605",
