@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T23:56:29Z",
-  "count": 64,
+  "updated": "2026-06-30T02:57:04Z",
+  "count": 63,
   "animals": [
     {
       "ID": "2754",
@@ -1238,6 +1238,96 @@
       "LastUpdatedUnixTime": "1782561688"
     },
     {
+      "ID": "3542",
+      "Internal-ID": "213591754",
+      "Name": "Chloe",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "14.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 105,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98d9bedef54b7227d248e6407fa5e2ed/5bb1ed382be680ccfe23a94b7fb3c03d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dd28d814be41c4ab6976670823444dc5/94a96fc7fc5da3cf089c21d1e2675b40.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/966d5b9b76093e78fb7b7949b8f4abdb/44d9a31b752c1b9e50c7224839db1b76.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
+      "LastIntakeUnixTime": "1777708800",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782788042"
+    },
+    {
       "ID": "3543",
       "Internal-ID": "213593055",
       "Name": "Max",
@@ -2022,9 +2112,9 @@
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d8bad60d3f8d568e8692ff09ac559cb7/34319260882c7179cb716254690c3f58.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b65f4434d478b949f72fe85377541370/54671a27be1be13b30d3b923c3cbc719.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/a6cbb3b71b54037c05956e993a490d10/db5f2f5224e785772bfff9078ddea3aa.jpg",
@@ -2033,7 +2123,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/fa0570a81e5816a8d09fc18aa3639960/f38aebdbe1dffcec4b1dfd457bbde7b1.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/917903edf8faa917d39ec4c092cb6548/57e770b3cc8e70609254d1492c323b71.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/95b0d1684515de674a060825cfb637b2/f7190e35d6761eb2bd35140720cc974f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9253bcd2e591e6a1fd0a5aea5100f4b/58e3bc757c97ea6edc91854fb7836d28.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/c4ef048372406503c7daccce7a2316ff/f5333e24ae4af27f47f4c9b64924423e.JPG"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -2110,7 +2203,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782744696"
+      "LastUpdatedUnixTime": "1782780018"
     },
     {
       "ID": "3599",
@@ -2127,9 +2220,9 @@
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3673f73ecf278c2cb8e5df4c71e49255/a925b663fe028a50eca4bf8b4aab3b09.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fc1522f90ebc3b42a112d5802a34506c/84115fc2fb0600d2c3cb9f0f1f59700d.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3673f73ecf278c2cb8e5df4c71e49255/a925b663fe028a50eca4bf8b4aab3b09.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fc1522f90ebc3b42a112d5802a34506c/84115fc2fb0600d2c3cb9f0f1f59700d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b8ac3ee8ad012db25668439c8f7901f0/1750b4e6a9c860e858df6e53501c47ec.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/3f82f706b91e2622a06ccae251f0d991/77818bd700faf25156d5a01c6064e6d4.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b13ffdad49fa1c67325fce44f3f77f1b/46487355b5539df990f3e7f3b36659e8.jpg",
@@ -2143,8 +2236,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/b9b6afe225738f7936ec688c2bea4891/100b2f85f72bfb75b921bb0fd9f8e0bb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/713427a4c2f6c6734d7d2241a441ddce/6c180413dfbb6b20389ea380be863a21.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1c2515eca5c15940188c6e7529a6d098/56f967811db7d982f383110e6f084912.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3673f73ecf278c2cb8e5df4c71e49255/a925b663fe028a50eca4bf8b4aab3b09.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5cb567fc68ccfde74432ffee808d0c9e/bf7c7cb5262f27c1669ac99b9f0f7b53.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4c26ef24bad59965966f2aa6d54800a6/e52085e5df91b4ff447e4360b7fa39e8.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/4c26ef24bad59965966f2aa6d54800a6/e52085e5df91b4ff447e4360b7fa39e8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/26d2e1c09e0a1dcdd4f36898e178760c/9716afc886d3def873f82fedf39e77e0.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -2221,7 +2316,123 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782744716"
+      "LastUpdatedUnixTime": "1782779980"
+    },
+    {
+      "ID": "3600",
+      "Internal-ID": "213786025",
+      "Name": "Joe Pye",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "19",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1775019600,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ed0d715b88647c28e43f0282bfe47b7b/4b208a5ab70317abd33e2251c586faa1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/85d6630207fda1cb2b82536bf38905ea/25f051745e566df5ebf717ad1de1ca06.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e56ff5fc004161e365eb74b6f6f72d7e/1a65fdd67c7084a143effbaf496fa5e0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/02d583370f917f0a3292084c502074c5/2ad262ea946482098c6e8ed1c7b64ca2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f1321727d392725150523d9e6034f13/c7f13f34cca09bb71256ef1edba473cd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4904bfc88c78aa8e5e5b794b420fc67a/ee087ef4538effde896e892f039efe16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/43ea85e0656ddabac49f1a2566ca5e4e/ac3cbf1fc8f24237c1d4a2cb82ae2455.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9329fcfe511316fd15f63a87d179816/af7a41560e75ebb9e7ebc3a25717fe1f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fef41b0896fcad746c2c2eaed9653dad/79481553fd5b725e16bbc670c23ab189.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a4761859f4d38cfd54dc1f65359a0940/50e3e6c23f359c95389495f78bc197ec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/95e118ad0c25ace2f927323c1c9a214d/9666684e0d3f1063348b50ae4a2038f2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/375142e7e3da00b5c50c73b1692226e4/a319c9fb3780e1c0c4c083d2b9f1ad14.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3185ed914764df6b855f6f1ceb32918/f078314bfa17324a5cdb5d9276e3725b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a692fe6a66ea05854b85075618143aa5/9c490cfa3db5ffe5927342c117308e70.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e758918dd90deac7f40c2f02ab20f5e9/af984275d5c1598b1e473c0555ffd9be.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8585025a386f701cdda6e3ad8cc129a/447789fdbbd11c2bb3b3d53be3640f0f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8e5397036cc42ac20d50c042387bd73/808a3246218b2d56c18b908ca810e436.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cfa33bad1ed7dab88e4a648fdc26f0a5/0330f638afe3540aa621957933721ef3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a3c52fa37aca86f637da0c620fa7a09/8a4fee806e54ab0e3d5801736d7a27e2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1b6da44aac2d84430e459c6e8f71aa34/af92d1b666178959321e311f7377ab4d.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Joe Pye is a charming boy with a gentle spirit and a heart that’s all-in on love. His name might come from a wildflower, but this boy is anything but wild - he’s thoughtful, affectionate, and happiest when he’s close to someone who makes him feel safe.\n\nJoe Pye has that perfect mix of puppy curiosity and calm sweetness. He watches the world with soft eyes, approaches new friends with a wagging tail, and melts into you the moment you offer a cuddle. \nHe’s the kind of dog who wants to bond deeply and be someone’s steady, loyal companion.\n\nJoe Pye is still young and ready to grow into the amazing dog he’s meant to be. With patience, kindness, and a loving home, he’ll blossom into the kind of companion who makes every day brighter.\nIf you’re looking for a loyal friend with a tender heart and a calm, loving presence, Joe Pye is ready to meet you.\n",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782787963"
     },
     {
       "ID": "3606",
@@ -3948,96 +4159,6 @@
       "LastUpdatedUnixTime": "1782647240"
     },
     {
-      "ID": "3542",
-      "Internal-ID": "213591754",
-      "Name": "Chloe",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "14.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 105,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98d9bedef54b7227d248e6407fa5e2ed/5bb1ed382be680ccfe23a94b7fb3c03d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dd28d814be41c4ab6976670823444dc5/94a96fc7fc5da3cf089c21d1e2675b40.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/966d5b9b76093e78fb7b7949b8f4abdb/44d9a31b752c1b9e50c7224839db1b76.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
-      "LastIntakeUnixTime": "1777708800",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782459267"
-    },
-    {
       "ID": "3597",
       "Internal-ID": "213786022",
       "Name": "Rue",
@@ -4293,122 +4414,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782771196"
-    },
-    {
-      "ID": "3600",
-      "Internal-ID": "213786025",
-      "Name": "Joe Pye",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "19",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1775019600,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed0d715b88647c28e43f0282bfe47b7b/4b208a5ab70317abd33e2251c586faa1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/85d6630207fda1cb2b82536bf38905ea/25f051745e566df5ebf717ad1de1ca06.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e56ff5fc004161e365eb74b6f6f72d7e/1a65fdd67c7084a143effbaf496fa5e0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/02d583370f917f0a3292084c502074c5/2ad262ea946482098c6e8ed1c7b64ca2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3f1321727d392725150523d9e6034f13/c7f13f34cca09bb71256ef1edba473cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4904bfc88c78aa8e5e5b794b420fc67a/ee087ef4538effde896e892f039efe16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/43ea85e0656ddabac49f1a2566ca5e4e/ac3cbf1fc8f24237c1d4a2cb82ae2455.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9329fcfe511316fd15f63a87d179816/af7a41560e75ebb9e7ebc3a25717fe1f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fef41b0896fcad746c2c2eaed9653dad/79481553fd5b725e16bbc670c23ab189.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a4761859f4d38cfd54dc1f65359a0940/50e3e6c23f359c95389495f78bc197ec.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/95e118ad0c25ace2f927323c1c9a214d/9666684e0d3f1063348b50ae4a2038f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/375142e7e3da00b5c50c73b1692226e4/a319c9fb3780e1c0c4c083d2b9f1ad14.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3185ed914764df6b855f6f1ceb32918/f078314bfa17324a5cdb5d9276e3725b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a692fe6a66ea05854b85075618143aa5/9c490cfa3db5ffe5927342c117308e70.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e758918dd90deac7f40c2f02ab20f5e9/af984275d5c1598b1e473c0555ffd9be.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f8585025a386f701cdda6e3ad8cc129a/447789fdbbd11c2bb3b3d53be3640f0f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8e5397036cc42ac20d50c042387bd73/808a3246218b2d56c18b908ca810e436.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cfa33bad1ed7dab88e4a648fdc26f0a5/0330f638afe3540aa621957933721ef3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a3c52fa37aca86f637da0c620fa7a09/8a4fee806e54ab0e3d5801736d7a27e2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b6da44aac2d84430e459c6e8f71aa34/af92d1b666178959321e311f7377ab4d.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Joe Pye is a charming boy with a gentle spirit and a heart that’s all-in on love. His name might come from a wildflower, but this boy is anything but wild - he’s thoughtful, affectionate, and happiest when he’s close to someone who makes him feel safe.\n\nJoe Pye has that perfect mix of puppy curiosity and calm sweetness. He watches the world with soft eyes, approaches new friends with a wagging tail, and melts into you the moment you offer a cuddle. \nHe’s the kind of dog who wants to bond deeply and be someone’s steady, loyal companion.\n\nJoe Pye is still young and ready to grow into the amazing dog he’s meant to be. With patience, kindness, and a loving home, he’ll blossom into the kind of companion who makes every day brighter.\nIf you’re looking for a loyal friend with a tender heart and a calm, loving presence, Joe Pye is ready to meet you.\n",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782765725"
     },
     {
       "ID": "3604",
@@ -4757,131 +4762,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782646221"
-    },
-    {
-      "ID": "3601",
-      "Internal-ID": "213786026",
-      "Name": "Rowena",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "19.25",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1774538279,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d915f51148c8f98c31fb8aa6ee1c9be5/464ed1fb5bcd6a2755d99145ffde202d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa6477c585cebcece52c60d45d030195/a253c8dbdc44829471bacc9caa4a93ed.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7230d9943912bd1230c711341f23acb7/df2331b1d7b1b67446dee2e529b098d1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a63ef6ac3f21710312dd246b6767df3/1d1979c1c148dd5dbbeb5c2a71334b73.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f65a6e28fde1422afde163b243121450/2f117db0edd90e230aa8895b7f3a5bdd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e271cab2001b66e4973836d2e6251fd/e8304cfd712aabee67c9eb0879a32487.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8449bf00d1a5b9bcc291472266a8fe6/08a9a99efd4d04c20edb6cbe6d07df39.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4b757021f4d35b94377a7585a0a8ea6/b105f357ed259d5fd1a09c5819227635.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3128b25d661475b24b8f4c9a17ea9060/512b79de9829287656821955aedb96af.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3cfc231f473c60de50d1cf83958cc969/870769d2be5be6239476b180a39bd2d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53acd15585ed2c84baf7304538b690b1/b56f5b12f56b3f991f2550187c376cd5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41204673f625539e0983b40e7f33e48a/d97498ca97d6ff923e7a82e486b7eec4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a164aaa472a89b2d9fce3f186fb6cfcf/97e76e0bce9cac9fad7b49b750c4e2f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ba2351a4965484bbb790abc418fd5e39/18a51be2c106acd3b1d38e77ca6e644d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa9b584172ae4e68bc573ac3d7c9141b/6af188b04562639fe31c9e136e40007e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/484655e9929443f508a8602113783311/37fa9e7dbdf3680fe3b3873143762a51.jpg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "u8ECY1sbR-o",
-          "EmbedUrl": "//www.youtube.com/embed/u8ECY1sbR-o?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=u8ECY1sbR-o",
-          "ThumbUrl": "https://img.youtube.com/vi/u8ECY1sbR-o/0.jpg"
-        },
-        {
-          "VideoId": "T1miqcaK_AI",
-          "EmbedUrl": "//www.youtube.com/embed/T1miqcaK_AI?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=T1miqcaK_AI",
-          "ThumbUrl": "https://img.youtube.com/vi/T1miqcaK_AI/0.jpg"
-        }
-      ],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Beige/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Rowena - a girl who's already been through more in her first weeks of life than most dogs face in a lifetime and is coming out the other side with her tail held high.\n\nShortly after Rowena arrived in the world, she was found abandoned, alone, and standing in the middle of the highway, clearly trying to fend for herself. She came to us battling mange, and while she's well on her way to a full recovery, she's still growing her coat back in - a little patchy, a little scruffy, and completely, utterly endearing. She's the kind of puppy who makes you root for her the moment you see her.\n\nBut here's the thing about Rowena: she has no idea she's been through anything hard. She isn't timid or withdrawn - she's just a puppy, doing puppy things, soaking up every good moment her foster home has to offer. She's got a lovely balance to her - playful when the moment calls for it, content to settle in and just be when it doesn't. She reads her people well and adapts easily, which means she'll fit into just about any household that's ready to love her.\n\nBy the time Rowena finds her forever home, that coat is going to be coming in beautifully - and her adopter will have the joy of watching that transformation happen in real time. A puppy who grows into herself, right before your eyes.\n\nRowena has already shown us who she is: resilient, sweet, and ready. Now she just needs someone to show her, and her favorite chair, where home is.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782761655"
     },
     {
       "ID": "1442",
