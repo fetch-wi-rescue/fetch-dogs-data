@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T15:12:27Z",
+  "updated": "2026-06-30T17:21:37Z",
   "count": 63,
   "animals": [
     {
@@ -3866,121 +3866,6 @@
       "LastUpdatedUnixTime": "1782693793"
     },
     {
-      "ID": "3501",
-      "Internal-ID": "213465531",
-      "Name": "Kai",
-      "LitterGroupId": 9491380,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "21.5",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1774587600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bed92f4340b302d752356a7e3169e559/1967e7934b982941eeb6a854df67edb5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb1dd3f859baebac690cbdb7c5bfe65c/73cb861956315d97ca55eda93e43cb5b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/794c849a77328fe3dd1142222aa4b16b/5b040ccf8a5bcdd0106dd6bf558d8a19.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3a6d79459e3950309b93f85c69800ac/f899652fa064291247214d9375729b39.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b553c364c3545fdeb5697fae1c305cc/1ae518e3748ac7378487eb111ef036d8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c755d1967754d0b28b15d0d2d2db4d92/ad1c43cc625259acb339af3b5d123f9f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e11857831836b10761651a718182c039/6f1f30475b6538bc6cb2b922d9fc59d3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa0fde144d919abea9e4572418ff8ace/389c5dc366d52cde83e7be7a13ae9cd6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Mixed Breed (Large)",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Kai is my charming little rogue. Sweet, but a little mischievous, he loves to explore for things to chew on (his favorite is the door stopper), but loves to crawl in your lap and lick your nose even more! A total heartbreaker. \n\nBrother to Deva, Lucas, and Nola!",
-      "LastIntakeUnixTime": "1776391740",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781841153"
-    },
-    {
       "ID": "3513",
       "Internal-ID": "213488333",
       "Name": "Huck",
@@ -4666,6 +4551,121 @@
         }
       ],
       "LastUpdatedUnixTime": "1782648168"
+    },
+    {
+      "ID": "3501",
+      "Internal-ID": "213465531",
+      "Name": "Kai",
+      "LitterGroupId": 9491380,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "21.5",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1774587600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/555f640768190cb639dbea95eb937dee/e157b05a3c52503da59e4d01b3a5a04e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68b7cee8a73323243e7d6b6c984ae07f/8e7327c70fb58b96d97b07d35b303ded.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bed92f4340b302d752356a7e3169e559/1967e7934b982941eeb6a854df67edb5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb1dd3f859baebac690cbdb7c5bfe65c/73cb861956315d97ca55eda93e43cb5b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/794c849a77328fe3dd1142222aa4b16b/5b040ccf8a5bcdd0106dd6bf558d8a19.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3a6d79459e3950309b93f85c69800ac/f899652fa064291247214d9375729b39.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1b553c364c3545fdeb5697fae1c305cc/1ae518e3748ac7378487eb111ef036d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c755d1967754d0b28b15d0d2d2db4d92/ad1c43cc625259acb339af3b5d123f9f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e11857831836b10761651a718182c039/6f1f30475b6538bc6cb2b922d9fc59d3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa0fde144d919abea9e4572418ff8ace/389c5dc366d52cde83e7be7a13ae9cd6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Large)",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Kai is my charming little rogue. Sweet, but a little mischievous, he loves to explore for things to chew on (his favorite is the door stopper), but loves to crawl in your lap and lick your nose even more! A total heartbreaker. \n\nBrother to Deva, Lucas, and Nola!",
+      "LastIntakeUnixTime": "1776391740",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782835310"
     },
     {
       "ID": "3590",
