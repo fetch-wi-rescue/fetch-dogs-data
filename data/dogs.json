@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:26:41Z",
+  "updated": "2026-07-01T19:17:02Z",
   "count": 61,
   "animals": [
     {
@@ -1966,9 +1966,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "59.97",
+      "CurrentWeightPounds": "60.02",
       "Size": "",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1676959200,
       "Age": 40,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
@@ -1998,7 +1998,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782750674"
+      "LastUpdatedUnixTime": "1782927368"
     },
     {
       "ID": "3593",
@@ -3666,7 +3666,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "25",
+      "CurrentWeightPounds": "35.5",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1766901600,
@@ -3769,7 +3769,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1782923298"
+      "LastUpdatedUnixTime": "1782927611"
     },
     {
       "ID": "3462",
@@ -3781,7 +3781,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "31.2",
+      "CurrentWeightPounds": "40",
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1766901600,
@@ -3878,7 +3878,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782855576"
+      "LastUpdatedUnixTime": "1782927695"
     },
     {
       "ID": "3513",
