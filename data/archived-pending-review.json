@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:15:28Z",
+  "updated": "2026-07-01T17:26:41Z",
   "animals": [
     {
       "ID": "3458",
@@ -809,6 +809,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-06-30T19:15:28Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3597",
+      "Name": "Rue",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-01T17:26:41Z",
       "status": "pending"
     }
   ]

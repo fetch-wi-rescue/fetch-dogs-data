@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T15:17:56Z",
-  "count": 62,
+  "updated": "2026-07-01T17:26:41Z",
+  "count": 61,
   "animals": [
     {
       "ID": "2754",
@@ -2150,7 +2150,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Holly is the perfect mix of sweet, curious, and delightfully spunky. Holly loves exploring her world, batting at toys, and wiggling her way into your arms - but she’s just as happy to curl up for a warm, cozy nap on your lap.\n\nShe’s already showing her affectionate personality, leaning into snuggles and soaking up every bit of love she can get. Whether she’s practicing her playful pounces or melting into your arms for cuddle time, Holly brings sunshine to every moment.\n\nThis little sweetheart is ready to grow, learn, and thrive with a family who will cherish her gentle spirit and playful spark. If you’re looking for a tiny companion who will fill your home with love, Holly is waiting to meet you.",
+      "Description": "Holly is the perfect mix of sweet, curious, and delightfully spunky. With her big puppy-dog eyes (I mean, really!?!) and irresistible expressions, she quickly mastered the art of getting exactly what she wants. It’s her superpower - one look from Holly, and you'll find yourself agreeing to just about anything.\nThis adorable girl loves exploring the world around her and brings a playful energy to everything she does. One of her favorite games is freezing perfectly still before launching into a dramatic pounce on an unsuspecting sibling. She's always ready for the next adventure and approaches life with the enthusiasm, joy, and wonder that only a puppy can bring. And when playtime is over and it’s time for bed, her softer side shines. She loves her people deeply and is happiest when she's snuggled close, melting into your arms or curling up in your lap for a cozy nap.\nHolly is eager to learn and grow with a family or person of her own. This little sweetheart is ready to fill her forever home with laughter, affection, and plenty of puppy kisses. If you're looking for a playful companion with a tender heart and eyes you'll never be able to say no to, Holly is waiting to meet you.\n",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
@@ -2263,7 +2263,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Sage is a handsome boy whose soulful green eyes stop his admirers in their tracks.\n\nHe is a gentle sweetheart who loves people; \nPlayful, but also happy to relax by your side;\nGreen-eyed heartbreaker with a thoughtful nature;\nEager to learn and food‑motivated;\nPerfect mix of cuddle buddy and adventure partner\n\nSage is still young, so he’s ready to grow into the best version of himself with someone who will guide him with kindness.\n\ntIf you’re looking for a dog who will adore you, make you laugh, and look at you like you hung the moon, Sage is your boy.\n",
+      "Description": "Sage is an absolute heartbreaker with gorgeous, soulful green eyes and an affinity for snuggles. While he loves to romp around with his sisters, he’s also the first to launch himself onto your lap for cuddles. This little wipe-out king is still mastering his coordination, but his spirit is adventurous. He is highly food-motivated, fascinated by insects (especially lightning bugs!), and loves lullabies. Sage is eager to learn about the world, go on adventures (as long as there are snuggle breaks built in), and find his forever home.  \n\nSage is still a young pup, so he’s ready to grow into the best version of himself with someone who will guide him with kindness.\n\nIf you’re looking for a dog who will adore you, make you laugh, and look at you like you hung the moon, Sage is your boy. \n",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
@@ -3762,9 +3762,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "713609",
+          "AttributeName": "Has many approved adopters waiting to meet them!",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1782855599"
+      "LastUpdatedUnixTime": "1782923298"
     },
     {
       "ID": "3462",
@@ -4540,129 +4545,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782824405"
-    },
-    {
-      "ID": "3597",
-      "Internal-ID": "213786022",
-      "Name": "Rue",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.1",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dc94cd83a45616c998b2e28326c75f2f/75912773c2b76016329770d679a9ef6f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/848fe2a79eef7c17a46973c493fd7494/4e4f28b3376e3a775f2cb4ff5bdc5b6d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b79482da616a259345c798ef26026838/83f6c333632b579aaff6b65ee255d987.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47ef89e94d92b9b9c770b97e6328cd7e/84f24595644ffa36b4506b10748f3311.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d52ddcc0e64b280ec6848800b59f9f9/e9325a051bf05efda4b0a4bc73f9d329.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a50077be8d1f375436642dc46b3f89d5/69ac3562b2727daf3fad224225fa96a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0730bf08f3330ba3916de4de8f03cd3f/576b2d01e1f5962cbc9bb67aa6aef61e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cbff5df8a1cfd02113523b5378b7e7dc/11e90af3a7603ffe05a429c161294813.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/728986f1621a86d95bd70fac327ebc25/c17d78d9dca7411bdf64410b4a4b73ff.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/674f61754f272109ebc788e1b009b143/8f0b16318d6e110922ac75aefb3e3660.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc1b46aba298341dfddd0d8798ff07b9/6dd51a555f5ff9e56ff60212c75aa38b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c83aa8c88bfadae0c58124f15488e723/0c875880b68a4e04516e82c324c6165d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/607e42d250f755695daad05876b0ddae/beb4b2a8a6c092da3543d938ab858ace.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d5a9e34c28f7a977cd4e52812900407/a94239c133bbe481b472f0ececef7cb5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/673f8504062a582054b23a9ce7861076/efab3d8a3a7d69c369b71955bd3ee118.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/10df3a20e23b221804b715b7a397193e/5188f05ef889c0038d2d1cf85bb23656.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/454affed4a6cd29efeef93569a599ae4/f74affd3abf59e05acb40bc6baebb977.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/467f286c5f4cf83f6ea02f900d67cce4/d6deb597ef46b78db485f10b762c85b8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Even at just two months old, Rue already has a presence about him. He’s observant, thoughtful, and the kind of puppy who likes to take a moment to figure out the world before diving in. Once he knows you’re a friend, though, his reserved side melts away and you’re rewarded with full-body wiggles, happy kisses, and endless affection.\n\nRue is already showing signs of becoming an incredibly loyal and devoted companion. He’s been practicing his “big boy bark” to let everyone know when someone is near the house, but his tough-guy act disappears the second he realizes it’s someone there to love on him.\n\nThis handsome boy is also very smart. He’s picking up crate training and potty training quickly and settles beautifully for naps and bedtime with very little fuss. Rue has an independent streak, too - once he’s comfortable in his environment, he’s confident, secure, and perfectly happy to entertain himself between play sessions and cuddles.\n\nWhile he can be a little shy at first, it doesn’t take long for his true personality to shine through. Underneath that thoughtful exterior is a playful, loving puppy who is ready to build a deep bond with his future family.\n\nThere’s something special about Rue that makes you think ahead to the dog he’ll become: the one who sits beside you on the porch, keeps a watchful eye on the house, and makes you feel safe simply because he’s there.\n\nIf you’re looking for a puppy who will grow into a loyal shadow, a gentle protector, and a best friend all wrapped into one adorable package, Rue might just be your perfect match.\n\nTrust us - this sweet boy is going to make one lucky family very, very happy.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782859855"
     },
     {
       "ID": "1442",
