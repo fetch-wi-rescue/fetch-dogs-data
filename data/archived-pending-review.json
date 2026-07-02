@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:26:41Z",
+  "updated": "2026-07-02T20:18:37Z",
   "animals": [
     {
       "ID": "3458",
@@ -809,6 +809,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-01T17:26:41Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3462",
+      "Name": "Cookie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9cc8682ce0d199f1d51fa1e141c99b9f/f45f0b6b91fa0d01b11bc4530ec5c28e.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-02T20:18:37Z",
       "status": "pending"
     }
   ]

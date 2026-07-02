@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T18:58:04Z",
-  "count": 62,
+  "updated": "2026-07-02T20:18:37Z",
+  "count": 61,
   "animals": [
     {
       "ID": "2754",
@@ -3894,115 +3894,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782927611"
-    },
-    {
-      "ID": "3462",
-      "Internal-ID": "213355162",
-      "Name": "Cookie",
-      "LitterGroupId": 9483955,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "40",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1766901600,
-      "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9cc8682ce0d199f1d51fa1e141c99b9f/f45f0b6b91fa0d01b11bc4530ec5c28e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9cc8682ce0d199f1d51fa1e141c99b9f/f45f0b6b91fa0d01b11bc4530ec5c28e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1aead1038d9b07bcb1a9a126bbf34c35/f11ff54ba0d101fe7120d9c24aa0a0c4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/13e483488a2686859a3d1b2c5f9cfa40/e0b90812217a14978e7af8f75710b77c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e6d5431323adcd2afc349d7cebc1238a/ca397e7b7d465d93d9f213214846f9a3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40754cc228d2ed78a6f98e3a4a8a31ac/788b6500c13ee15ca9672da343cbc844.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/726e8d5501a498fb8ba792474c9c88b5/672bf08b3643e6f6cff226ff6e267009.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/92fbf6fac97dccc7cc834ec59f78a2cc/3f63cf8f9e69149ee264426207b6d1fa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d4db32af229e54225d49dd4a39fb648/74a8c7e23f757b7b10ab8da1c9dc45e6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae66d9bbc307ee3b8feaf8f4bec4f001/09aa5e0b3b8d0fb70b3bfe0fd55dd60b.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Tan/White",
-      "Pattern": "Badger",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Cookie is growing into a stunningly beautiful young lady.  She is really going to be a large and beautiful dog.  She has made a lot of progress and we can happily say she is potty trained, yay!  No accidents at all in the last month.   We are learning that Cookie likes to take things slow.   While she can easily keep up with her pack (2 humans and 3 other dogs) she can be a little shy about interacting with her human friends.  Dogs, no problems.  But she likes her space and her forever family will learn how to give her space to be confident and love them in her way.   She is smart and knows how to sit, walks well on a leash and will be easily trained because she loves treats.",
-      "LastIntakeUnixTime": "1780918740",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637008",
-          "AttributeName": "Good around horses",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783016994"
     },
     {
       "ID": "3513",
