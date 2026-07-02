@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T13:14:51Z",
+  "updated": "2026-07-02T15:38:12Z",
   "count": 62,
   "animals": [
     {
@@ -2090,6 +2090,112 @@
         }
       ],
       "LastUpdatedUnixTime": "1782780018"
+    },
+    {
+      "ID": "3596",
+      "Internal-ID": "213786021",
+      "Name": "Bonsai",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "17",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775019600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d172e3a9ba1c21798687227541b1789/ad364bc92c7dad2d82943e6741a1ed2d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b060991b5b5bbff925468914cdebe05/93e1bc629822deda4fa83389dfd2535f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f44e696cd08665766e402859cfede681/edd8922d9bf92b55d6431cb5f4a48154.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5a41740a0f34c50a654b9886761fbcb4/5be2dffbb88efc7573cde36186d8fb9b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6305f42af4912abe035679b51a588546/11ca95f2e711c0d477806d53350f0663.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dc5a8c2dcf2024bc306ac850468a9b2d/045dee757012fd8341e2d84a3f2fa61c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8d3a9c67ab995bfd35de3daf7cb712a/2f38f2566bda4bcd97f1ed414acbd79c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2e7fef7518dae5866c4dfb7a54065b31/527cb7e2604594b1867de41b49bfa2fd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4e3b1f6230dab2d5de3faa9b3902bc95/b57c13c3310cf56dcc03ff17b3138cc6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783005943"
     },
     {
       "ID": "3599",
@@ -4186,140 +4292,6 @@
       "LastUpdatedUnixTime": "1782647240"
     },
     {
-      "ID": "3598",
-      "Internal-ID": "213786023",
-      "Name": "Basil",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "22",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c06b1f1936b68e8eeda78fd81fca55f/bed9c0a9bbe098f184aa9795aba19175.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ef229ad9119e5ea462574e8493a23ea/99ca47abcd6e5d8b2be884e4dc1edf0e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f1d41a2d9bb23d0d55a6814cc236915/db1a9f1d4c292897e6a53a2ca24a2d9d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/09aa82a771c152c4adea1bcc45f4b236/becee0be1db9eadee555b74edbc17083.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/066fb12cb0ec6e4f46fdf3e0c793dbe2/7bc6a3cbe02d5c680e505a8f37d9f7a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e2272ffb981ccb8cccc4329f637face/fd4b6bfe2fc1b3075ec246b0cd7cea92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3431df74fac40acbffa443299056820/570043557eb11d234d9a23e11208cc88.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c57b5b94fc49ecfd51f59361d0eb60d1/b5705aa6090d7428da51f4b6b720f493.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/65b199d85edfda375bd403487e6ad627/b92a7e7a436b7d18058d05afa3a12277.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04972a5ebda01343c2d562bae4509051/21df20c9a13952c962e6f0d78a0584be.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fee492a945ba99ae65876bc64612e793/a224c0777b011d9017ca11784158cff0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f0b62aaf92c343636410a5450b6921d/acc37774559c1ff549946e0b28e3105b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/772498b919510aa46ba64f06e2401d60/2b9b165b603184030426140485831f91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a0e2b1cffecdc93ccbf79d9ce16ca5c5/84fbecd8f986c572607f55e2410174ce.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Basil came into the world on April 1st, and while his birthday is famous for tricks, there's nothing tricky about this boy. What you see is what you get: a sweet, curious puppy with a whole lot of life ahead of him and zero idea just how lucky his future family is going to feel.\n\nHe’s a spunky guy who loves toys, other dogs, and his foster parents. Basil enjoys lounging in the sunshine, sniffing around the yard, and an occasional zoomie. He LOVES to play fetch and enjoys choosing which soft toy to chase. He is incredibly food motivated and catches on to new things quickly. He is doing well with both crate and potty training if you are consistent. He knows his name, “sit”, and is working on “lay down”. \n\nBasil adores people but also loves his canine foster siblings. He is currently fostered with three other dogs and does well with all of them. Basil would love to spend the summer with his forever family and can’t wait to find them!\n",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782824051"
-    },
-    {
       "ID": "3604",
       "Internal-ID": "213855265",
       "Name": "Sarah",
@@ -4672,6 +4644,140 @@
         }
       ],
       "LastUpdatedUnixTime": "1782824405"
+    },
+    {
+      "ID": "3598",
+      "Internal-ID": "213786023",
+      "Name": "Basil",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "22",
+      "Size": "Large (60-99)",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c06b1f1936b68e8eeda78fd81fca55f/bed9c0a9bbe098f184aa9795aba19175.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ef229ad9119e5ea462574e8493a23ea/99ca47abcd6e5d8b2be884e4dc1edf0e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f1d41a2d9bb23d0d55a6814cc236915/db1a9f1d4c292897e6a53a2ca24a2d9d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/09aa82a771c152c4adea1bcc45f4b236/becee0be1db9eadee555b74edbc17083.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/066fb12cb0ec6e4f46fdf3e0c793dbe2/7bc6a3cbe02d5c680e505a8f37d9f7a1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e2272ffb981ccb8cccc4329f637face/fd4b6bfe2fc1b3075ec246b0cd7cea92.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3431df74fac40acbffa443299056820/570043557eb11d234d9a23e11208cc88.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c57b5b94fc49ecfd51f59361d0eb60d1/b5705aa6090d7428da51f4b6b720f493.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65b199d85edfda375bd403487e6ad627/b92a7e7a436b7d18058d05afa3a12277.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04972a5ebda01343c2d562bae4509051/21df20c9a13952c962e6f0d78a0584be.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fee492a945ba99ae65876bc64612e793/a224c0777b011d9017ca11784158cff0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f0b62aaf92c343636410a5450b6921d/acc37774559c1ff549946e0b28e3105b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/772498b919510aa46ba64f06e2401d60/2b9b165b603184030426140485831f91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a0e2b1cffecdc93ccbf79d9ce16ca5c5/84fbecd8f986c572607f55e2410174ce.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Basil came into the world on April 1st, and while his birthday is famous for tricks, there's nothing tricky about this boy. What you see is what you get: a sweet, curious puppy with a whole lot of life ahead of him and zero idea just how lucky his future family is going to feel.\n\nHe’s a spunky guy who loves toys, other dogs, and his foster parents. Basil enjoys lounging in the sunshine, sniffing around the yard, and an occasional zoomie. He LOVES to play fetch and enjoys choosing which soft toy to chase. He is incredibly food motivated and catches on to new things quickly. He is doing well with both crate and potty training if you are consistent. He knows his name, “sit”, and is working on “lay down”. \n\nBasil adores people but also loves his canine foster siblings. He is currently fostered with three other dogs and does well with all of them. Basil would love to spend the summer with his forever family and can’t wait to find them!\n",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783004670"
     },
     {
       "ID": "1442",
@@ -5415,112 +5521,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782524198"
-    },
-    {
-      "ID": "3596",
-      "Internal-ID": "213786021",
-      "Name": "Bonsai",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d172e3a9ba1c21798687227541b1789/ad364bc92c7dad2d82943e6741a1ed2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b060991b5b5bbff925468914cdebe05/93e1bc629822deda4fa83389dfd2535f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f44e696cd08665766e402859cfede681/edd8922d9bf92b55d6431cb5f4a48154.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5a41740a0f34c50a654b9886761fbcb4/5be2dffbb88efc7573cde36186d8fb9b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6305f42af4912abe035679b51a588546/11ca95f2e711c0d477806d53350f0663.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dc5a8c2dcf2024bc306ac850468a9b2d/045dee757012fd8341e2d84a3f2fa61c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8d3a9c67ab995bfd35de3daf7cb712a/2f38f2566bda4bcd97f1ed414acbd79c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e7fef7518dae5866c4dfb7a54065b31/527cb7e2604594b1867de41b49bfa2fd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4e3b1f6230dab2d5de3faa9b3902bc95/b57c13c3310cf56dcc03ff17b3138cc6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782665132"
     }
   ]
 }
