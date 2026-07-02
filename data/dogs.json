@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:45:22Z",
+  "updated": "2026-07-02T00:02:16Z",
   "count": 61,
   "animals": [
     {
@@ -88,131 +88,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782425403"
-    },
-    {
-      "ID": "2774",
-      "Internal-ID": "213177791",
-      "Name": "Minnie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.1",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1709704800,
-      "Age": 27,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/34d3cb9fbc33f661e01f376eef7ec606/60a29e12175fd1d6f6b8756e9883aa6a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/34d3cb9fbc33f661e01f376eef7ec606/60a29e12175fd1d6f6b8756e9883aa6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77dc5f9ab6a0afe3d0ae1f464349b257/2499b6553873f9fb2ea1265eb03d59e7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/e104da5b9cca72f0518b7bd691930564/4af204ac9ddcd91312e8270ed31827c7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e69b2212808566ac89e75e55ee0433b0/6dbdd233394d1c045352935d99443312.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5121b152f753c1195a6ee17b01341cdd/131fbfd60e4d7e3330482427d624129e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f7d672945ba31fd6133867781df20d39/81def94e2004b4aba4663515aae38174.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6997b06bbf793346130a25c11dc9e603/de52f9b7894444eae6893a15e9e1dbaa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b04ef024974a869cfc88288b140fd294/aa70cddddef2709563cb4227c04a9fd4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1f48cba096094c5658567a9302cd847b/761cf9477e37a5d4e5eac931cbdcb836.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f260f35e60584fef722a22c39d491f6/9bb273cc399ed76fbd7289adeecddc8f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Brindle",
-      "Pattern": "Brindle",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "**Minnie in size, big in heart!** ❤️\n\nMinnie is a sweet, snuggly, and friendly little girl who is guaranteed to steal your heart. She has a low energy level and is happiest with several shorter walks each day. She walks well on a leash and loves exploring the neighborhood or joining you on relaxed adventures. Because of an old leg injury that healed on its own, she'll probably never be your running partner, but she's the perfect companion for leisurely walks and cozy evenings at home. She easily goes up/down stairs, can jump into the car, and runs around when feeling playful.\n\nMinnie currently lives peacefully with my calm dog. They happily coexist without playing much together, so she could do well with another laid-back dog or thrive as the center of attention in a home where she's the only pet.\n\nShe is house-trained, crate-trained, and can free roam. Despite living in a busy downtown apartment building, Minnie is quiet, adaptable, and calm indoors.\n\nEveryone is a friend to Minnie! She loves meeting people and is gentle with children, though I think she would be happiest in a calmer household where she can relax and soak up all the affection. She's a confident little dog who is always up for an adventure, but her favorite place is snuggled up next to her person—especially if that means sharing a human bed.\n\nOne thing to know is that routine bloodwork (done when we were considering orthopedic surgery) revealed elevated liver values. The good news is that her levels have been steadily decreasing/improving, and she has never shown any signs of liver disease or dysfunction. To ensure she continues on the right track, Minnie will be adopted through a foster-to-adopt arrangement while her bloodwork levels are monitored. Fetch will cover any testing or treatment related to this condition during that time.\n\nI already know I'm going to be jealous of the person who gets to call Minnie their forever dog. She is such a special little companion, and whoever adopts her is going to be incredibly lucky.\n",
-      "LastIntakeUnixTime": "1772431200",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782528025"
     },
     {
       "ID": "3279",
@@ -2460,14 +2335,15 @@
       "Altered": "Yes",
       "DOBUnixTime": 1747769823,
       "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/00da8b1664350e2130dea3bbcd8a5f94/7f58c47376248ed04b2bafeba370db4a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/45eada761d843473b70bf26ee808cd06/fe3be55ce32fefb1b0d9b340e4a65bd1.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/00da8b1664350e2130dea3bbcd8a5f94/7f58c47376248ed04b2bafeba370db4a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/45eada761d843473b70bf26ee808cd06/fe3be55ce32fefb1b0d9b340e4a65bd1.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ac6c38876de5a3b7ab8750acd025bf9e/1a11edb3d0da7dddb9c904f99c288ed5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/76d4efb436a3cf68123ca063a8a1dd0f/68085153535568a8ba43ba2e4ea00e0d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/447f570e8ac320c0ee3fd5c1cba9d54f/a856eed946fdf5bd26382c37b5e2f7a6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9dd84702f29690bf6b00ad9cf62a92f3/65151dc1410963069b8f17b59b650db6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/64333585c0885fd9f3a809c26c4340b3/b2f627505d24f686e42f44c4b3d7bd2f.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/64333585c0885fd9f3a809c26c4340b3/b2f627505d24f686e42f44c4b3d7bd2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00da8b1664350e2130dea3bbcd8a5f94/7f58c47376248ed04b2bafeba370db4a.jpeg"
       ],
       "Videos": [],
       "Breed": "Shih Tzu",
@@ -2523,7 +2399,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782095575"
+      "LastUpdatedUnixTime": "1782946837"
     },
     {
       "ID": "3620",
@@ -3657,6 +3533,131 @@
       "LastUpdatedUnixTime": "1782598784"
     },
     {
+      "ID": "2774",
+      "Internal-ID": "213177791",
+      "Name": "Minnie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.1",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1709704800,
+      "Age": 27,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/34d3cb9fbc33f661e01f376eef7ec606/60a29e12175fd1d6f6b8756e9883aa6a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/34d3cb9fbc33f661e01f376eef7ec606/60a29e12175fd1d6f6b8756e9883aa6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77dc5f9ab6a0afe3d0ae1f464349b257/2499b6553873f9fb2ea1265eb03d59e7.png",
+        "https://new-s3.shelterluv.com/profile-pictures/e104da5b9cca72f0518b7bd691930564/4af204ac9ddcd91312e8270ed31827c7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e69b2212808566ac89e75e55ee0433b0/6dbdd233394d1c045352935d99443312.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5121b152f753c1195a6ee17b01341cdd/131fbfd60e4d7e3330482427d624129e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f7d672945ba31fd6133867781df20d39/81def94e2004b4aba4663515aae38174.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6997b06bbf793346130a25c11dc9e603/de52f9b7894444eae6893a15e9e1dbaa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b04ef024974a869cfc88288b140fd294/aa70cddddef2709563cb4227c04a9fd4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1f48cba096094c5658567a9302cd847b/761cf9477e37a5d4e5eac931cbdcb836.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f260f35e60584fef722a22c39d491f6/9bb273cc399ed76fbd7289adeecddc8f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brindle",
+      "Pattern": "Brindle",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "**Minnie in size, big in heart!** ❤️\n\nMinnie is a sweet, snuggly, and friendly little girl who is guaranteed to steal your heart. She has a low energy level and is happiest with several shorter walks each day. She walks well on a leash and loves exploring the neighborhood or joining you on relaxed adventures. Because of an old leg injury that healed on its own, she'll probably never be your running partner, but she's the perfect companion for leisurely walks and cozy evenings at home. She easily goes up/down stairs, can jump into the car, and runs around when feeling playful.\n\nMinnie currently lives peacefully with my calm dog. They happily coexist without playing much together, so she could do well with another laid-back dog or thrive as the center of attention in a home where she's the only pet.\n\nShe is house-trained, crate-trained, and can free roam. Despite living in a busy downtown apartment building, Minnie is quiet, adaptable, and calm indoors.\n\nEveryone is a friend to Minnie! She loves meeting people and is gentle with children, though I think she would be happiest in a calmer household where she can relax and soak up all the affection. She's a confident little dog who is always up for an adventure, but her favorite place is snuggled up next to her person—especially if that means sharing a human bed.\n\nOne thing to know is that routine bloodwork (done when we were considering orthopedic surgery) revealed elevated liver values. The good news is that her levels have been steadily decreasing/improving, and she has never shown any signs of liver disease or dysfunction. To ensure she continues on the right track, Minnie will be adopted through a foster-to-adopt arrangement while her bloodwork levels are monitored. Fetch will cover any testing or treatment related to this condition during that time.\n\nI already know I'm going to be jealous of the person who gets to call Minnie their forever dog. She is such a special little companion, and whoever adopts her is going to be incredibly lucky.\n",
+      "LastIntakeUnixTime": "1772431200",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1782946908"
+    },
+    {
       "ID": "3461",
       "Internal-ID": "213355160",
       "Name": "Maple",
@@ -4289,12 +4290,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1747769699,
       "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg"
       ],
       "Videos": [],
       "Breed": "Shih Tzu",
@@ -4350,7 +4352,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782668128"
+      "LastUpdatedUnixTime": "1782946774"
     },
     {
       "ID": "3608",
