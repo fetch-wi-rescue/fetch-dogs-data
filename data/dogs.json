@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:38:12Z",
+  "updated": "2026-07-02T17:31:36Z",
   "count": 62,
   "animals": [
     {
@@ -1874,114 +1874,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782927368"
-    },
-    {
-      "ID": "3593",
-      "Internal-ID": "213786017",
-      "Name": "Daisy",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.4",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/73beb8ed39c0a6a519d672102c289c5d/8375cde231dc59e4b0cdbedd46d7b21e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a9956dd703d80d22cd71ea327eed2a4/916991026a3230dc6190f1642867bff3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f393aa4fc4e13807389d7a5a37a63445/8df75d2764ba2665babdc29806d2c101.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0abc0391c0511dd94e4916b54f1b46e8/de15a29f503771a8a5cb270fc943dcaa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/66c22cc4161493a19c58424260aee124/c22c6bb4486260fc77953fa60a92ff28.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2fa378e1d98e6646e10a7d809638a5ac/b8a0cfbe2e6c5b67c3fa43a9ec901735.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e12c0463f8bc6669f2f8708f5fd91124/fddb7972a9231a6204879e6673f53b2f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/edf8c9637c949ae813dd7eea57063072/f22d9bf392119a88d4ea8f4126af55e7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5574ca5e0d8bc455e60a9c2f0b7925d/6b2a23fc46f1002631020595ba0124a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b717cd791680ce295938dd62c66c32b/fa57fa2549c7eabf9b6136b249b7ce1b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Daisy is a tiny firecracker with a whole lot of attitude and even more love to give! Daisy is the definition of personality:  confident, opinionated, and absolutely convinced the world looks better when she’s in charge of it. She’s playful, clever, and always ready to add a little extra “zing” to your day.\n\nDaisy adores attention, thrives on interaction, and isn’t shy about telling you exactly how she feels - whether that’s demanding snacks, announcing her presence, or reminding you that she is, in fact, the star of the show. Under all that sass though is a sweetheart who bonds deeply and loves fiercely.\n\nShe’s looking for a home that appreciates a companion with flair, humor, and a dash of drama. If you’re ready for a lively little sidekick who will keep you laughing and, on your toes, Daisy is your girl.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782746698"
     },
     {
       "ID": "3595",
@@ -4207,7 +4099,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782771083"
+      "LastUpdatedUnixTime": "1783007743"
     },
     {
       "ID": "3541",
@@ -5521,6 +5413,114 @@
         }
       ],
       "LastUpdatedUnixTime": "1782524198"
+    },
+    {
+      "ID": "3593",
+      "Internal-ID": "213786017",
+      "Name": "Daisy",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.4",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/73beb8ed39c0a6a519d672102c289c5d/8375cde231dc59e4b0cdbedd46d7b21e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a9956dd703d80d22cd71ea327eed2a4/916991026a3230dc6190f1642867bff3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f393aa4fc4e13807389d7a5a37a63445/8df75d2764ba2665babdc29806d2c101.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0abc0391c0511dd94e4916b54f1b46e8/de15a29f503771a8a5cb270fc943dcaa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/66c22cc4161493a19c58424260aee124/c22c6bb4486260fc77953fa60a92ff28.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fa378e1d98e6646e10a7d809638a5ac/b8a0cfbe2e6c5b67c3fa43a9ec901735.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e12c0463f8bc6669f2f8708f5fd91124/fddb7972a9231a6204879e6673f53b2f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/edf8c9637c949ae813dd7eea57063072/f22d9bf392119a88d4ea8f4126af55e7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5574ca5e0d8bc455e60a9c2f0b7925d/6b2a23fc46f1002631020595ba0124a1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b717cd791680ce295938dd62c66c32b/fa57fa2549c7eabf9b6136b249b7ce1b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Daisy is a tiny firecracker with a whole lot of attitude and even more love to give! Daisy is the definition of personality:  confident, opinionated, and absolutely convinced the world looks better when she’s in charge of it. She’s playful, clever, and always ready to add a little extra “zing” to your day.\n\nDaisy adores attention, thrives on interaction, and isn’t shy about telling you exactly how she feels - whether that’s demanding snacks, announcing her presence, or reminding you that she is, in fact, the star of the show. Under all that sass though is a sweetheart who bonds deeply and loves fiercely.\n\nShe’s looking for a home that appreciates a companion with flair, humor, and a dash of drama. If you’re ready for a lively little sidekick who will keep you laughing and, on your toes, Daisy is your girl.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783007903"
     }
   ]
 }
