@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T17:31:36Z",
+  "updated": "2026-07-02T18:58:04Z",
   "count": 62,
   "animals": [
     {
@@ -1298,90 +1298,6 @@
       "LastUpdatedUnixTime": "1781935424"
     },
     {
-      "ID": "3556",
-      "Internal-ID": "213684443",
-      "Name": "Birdie",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714712400,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
-        "https://new-s3.shelterluv.com/profile-pictures/fd1fd823cf838360a8f2202f4eead0de/7634e01ef14a21906a6898b35b0467f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/32d4f13a84eccb5c4b2132f06fa35664/3986adcbe7e2ce87ee744914e007788d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Birdie is the sweetest, snuggliest girl you'll ever meet! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has made lots of progress adjusting to indoor life and is nearly fully potty trained. She sleeps soundly through the night in her crate or snuggled up in bed with her foster parents, and seems to do okay when left home alone in her crate for short periods. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be a little vocal, though she's already making great progress with gentle redirection and reassurance from her foster family.\n\nBirdie is a friendly pup who has done great with everyone she's met so far, including adults, older children, cats, and other dogs. She is happy to receive snuggles from anyone who will offer them 😊 Birdie currently lives with another dog in her foster home.\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. The good news is that she's already improving as she settles into her foster home. Her ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782996881"
-    },
-    {
       "ID": "3558",
       "Internal-ID": "213684446",
       "Name": "Breezy",
@@ -1857,7 +1773,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png"
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
+        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Staffordshire Bull/Mix",
@@ -1873,7 +1792,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782927368"
+      "LastUpdatedUnixTime": "1783013700"
     },
     {
       "ID": "3595",
@@ -2442,6 +2361,87 @@
         }
       ],
       "LastUpdatedUnixTime": "1782997670"
+    },
+    {
+      "ID": "3604",
+      "Internal-ID": "213855265",
+      "Name": "Sarah",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761414,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
+      "LastIntakeUnixTime": "1781020709",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783014884"
     },
     {
       "ID": "3606",
@@ -4002,7 +4002,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782927695"
+      "LastUpdatedUnixTime": "1783016994"
     },
     {
       "ID": "3513",
@@ -4184,51 +4184,54 @@
       "LastUpdatedUnixTime": "1782647240"
     },
     {
-      "ID": "3604",
-      "Internal-ID": "213855265",
-      "Name": "Sarah",
-      "LitterGroupId": null,
+      "ID": "3556",
+      "Internal-ID": "213684443",
+      "Name": "Birdie",
+      "LitterGroupId": 9510755,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "11.2",
+      "CurrentWeightPounds": "9.8",
       "Size": "Small (0-24)",
       "Altered": "Yes",
-      "DOBUnixTime": 1747761414,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+      "DOBUnixTime": 1714712400,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
+        "https://new-s3.shelterluv.com/profile-pictures/fd1fd823cf838360a8f2202f4eead0de/7634e01ef14a21906a6898b35b0467f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/32d4f13a84eccb5c4b2132f06fa35664/3986adcbe7e2ce87ee744914e007788d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg"
       ],
       "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
-      "LastIntakeUnixTime": "1781020709",
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Birdie is the sweetest, snuggliest girl you'll ever meet! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has made lots of progress adjusting to indoor life and is nearly fully potty trained. She sleeps soundly through the night in her crate or snuggled up in bed with her foster parents, and seems to do okay when left home alone in her crate for short periods. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be a little vocal, though she's already making great progress with gentle redirection and reassurance from her foster family.\n\nBirdie is a friendly pup who has done great with everyone she's met so far, including adults, older children, cats, and other dogs. She is happy to receive snuggles from anyone who will offer them 😊 Birdie currently lives with another dog in her foster home.\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. The good news is that she's already improving as she settles into her foster home. Her ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
+      "LastIntakeUnixTime": "1778689145",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
           "Publish": "Yes"
         },
         {
@@ -4237,13 +4240,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
           "Publish": "Yes"
         },
         {
@@ -4252,17 +4250,22 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
         },
         {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782853316"
+      "LastUpdatedUnixTime": "1783014457"
     },
     {
       "ID": "3605",
@@ -4368,7 +4371,13 @@
       "Breed": "Collie/Catahoula Leopard Dog",
       "Color": "Tan/Brown",
       "Pattern": "Merle",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Meet Snickers!\n\nSnickers is an 11-month-old Collie/Catahoula Leopard Dog mix with a sweet, easygoing personality and a fun mix of playful energy and cuddle time. He loves people and enjoys making dog friends, and he is always happy to be part of whatever is going on around him.\n\nSnickers is crate trained and settles well in his crate during the day. He also sleeps through the night in his crate without any issues. He is almost fully potty trained and continues to do well with routine and consistency.\n\nOn walks, Snickers does great on leash and enjoys getting outside to explore. He rides well in the car and is generally an easy companion to take along for everyday outings. Like any young dog, he still has some normal puppy behaviors, but he is learning quickly and responds well to guidance.\n\nSnickers is fully recovered from bilateral FHO surgery and is doing great with no current restrictions.\n\nHe would do well in a home that can give him structure, daily walks, and plenty of affection. He can live with other dogs or be a solo dog as long as he gets companionship and attention. Snickers is ready to find a forever home where he can keep growing into the amazing dog he is.",
       "LastIntakeUnixTime": "1781206136",
       "Attributes": [
@@ -4438,7 +4447,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782648168"
+      "LastUpdatedUnixTime": "1783015255"
     },
     {
       "ID": "3590",
