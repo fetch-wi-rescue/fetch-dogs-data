@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:18:37Z",
+  "updated": "2026-07-02T22:58:09Z",
   "animals": [
     {
       "ID": "3458",
@@ -818,6 +818,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-02T20:18:37Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3598",
+      "Name": "Basil",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-02T22:58:09Z",
       "status": "pending"
     }
   ]

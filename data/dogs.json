@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T21:41:33Z",
-  "count": 61,
+  "updated": "2026-07-02T22:58:09Z",
+  "count": 60,
   "animals": [
     {
       "ID": "2754",
@@ -2363,87 +2363,6 @@
       "LastUpdatedUnixTime": "1782997670"
     },
     {
-      "ID": "3604",
-      "Internal-ID": "213855265",
-      "Name": "Sarah",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761414,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
-      "LastIntakeUnixTime": "1781020709",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783014884"
-    },
-    {
       "ID": "3606",
       "Internal-ID": "213855267",
       "Name": "Sunrise",
@@ -4159,6 +4078,87 @@
       "LastUpdatedUnixTime": "1783014457"
     },
     {
+      "ID": "3604",
+      "Internal-ID": "213855265",
+      "Name": "Sarah",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761414,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/43029a6102578ffaaa84cf26801242bc/ca0f1a40b53ea904609dd6e42e8ad6ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a43e74759dd1d1cf742c416e4e7c8fa/56f0c716ced65cc3d57443a016e35ce3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f822d948caf19d4ba4442fa09f1a671f/196a669c8668fb2b4a639f52e313e1b4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5db723d0f9622094e8ec14c1e81a755/624fdf24eec5da97cbd48f4d537f8d16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a7cc631d3b1287a77dddd50aec31dbbe/1eb035630fecabd487e9424d27228239.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/57c6dbf5bcc10285d3e0f49a8989fdbf/d0ca6472ad6e360e7ff19fee0e6bea8e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Sarah!\nSarah is a 2 year old Shih Tzu who came to us from a hoarding situation in Texas, and because of her difficult past she can be nervous around new people. Don't let her shy first impression fool you, though—once Sarah learns she can trust you, she's happiest curled up beside you on the couch, soaking up ear scratches and belly rubs.\nSarah has already made great progress in foster care. She sleeps quietly in her crate at night and while her foster parents are at work, walks nicely on a leash, and does well going potty outside. If she gets startled or scared, she may have an occasional accident, so she'll do best in a calm home with people who understand that she's still building confidence.\nShe enjoys the company of dogs both big and small, and while she's still a little unsure about joining in the fun, you can tell she wants to play as she becomes more comfortable. \nSarah was recently spayed on 6/18 and is recovering well. Her veterinarian also noted dental disease, which is common in Shih Tzus, so her future family should be prepared to keep up with regular dental care to help her stay healthy.\nSarah's perfect home is one with kind, patient people who will let her settle in at her own pace and celebrate every little milestone along the way.\n",
+      "LastIntakeUnixTime": "1781020709",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783031166"
+    },
+    {
       "ID": "3605",
       "Internal-ID": "213855266",
       "Name": "Skip",
@@ -4436,140 +4436,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782824405"
-    },
-    {
-      "ID": "3598",
-      "Internal-ID": "213786023",
-      "Name": "Basil",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "22",
-      "Size": "Large (60-99)",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f54bdb74e51beb586eab6c154031da7e/f68c75fe59efa8fb595cadabe79e4f25.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46945568c589e88c0695a6538ab8e099/48fc676c4ff59864b5822471b1b4fc56.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/87898d464b5267a4d7a19c84dd3b9c6e/1c101dd8ffcf4a389d05e6e93d7687e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f81d78d844f199834b8f0d84e2110b5/855d2b9ec0b9076e4fe09aa52d75607f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c06b1f1936b68e8eeda78fd81fca55f/bed9c0a9bbe098f184aa9795aba19175.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ef229ad9119e5ea462574e8493a23ea/99ca47abcd6e5d8b2be884e4dc1edf0e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f1d41a2d9bb23d0d55a6814cc236915/db1a9f1d4c292897e6a53a2ca24a2d9d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/09aa82a771c152c4adea1bcc45f4b236/becee0be1db9eadee555b74edbc17083.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/066fb12cb0ec6e4f46fdf3e0c793dbe2/7bc6a3cbe02d5c680e505a8f37d9f7a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e2272ffb981ccb8cccc4329f637face/fd4b6bfe2fc1b3075ec246b0cd7cea92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3431df74fac40acbffa443299056820/570043557eb11d234d9a23e11208cc88.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c57b5b94fc49ecfd51f59361d0eb60d1/b5705aa6090d7428da51f4b6b720f493.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/49303e31d671420619420af726898386/37a17812bfb6350386332153699dfad6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76ac5264394daa191ab8a3f5368e7657/b66a6a05606b6861063cc2f4e3cdf8de.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f379a41effa9a7224c8fd6f19bd3d90/8b726ebe29183a6fbb15ab96994fa5ae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3326fd93f75544a243ad135e4c460591/853c3be2a120eb33e86d2bf32072bc65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f9c170b9dbc353513a39b1e3c4359475/17c216dd218d9777f2f74ab7106e6fa2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b55bdcda679f6e9b3cd6e6d0d366c97e/fab0d88e6660f6eebd349d222bee03ba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/65b199d85edfda375bd403487e6ad627/b92a7e7a436b7d18058d05afa3a12277.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04972a5ebda01343c2d562bae4509051/21df20c9a13952c962e6f0d78a0584be.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fee492a945ba99ae65876bc64612e793/a224c0777b011d9017ca11784158cff0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f0b62aaf92c343636410a5450b6921d/acc37774559c1ff549946e0b28e3105b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/772498b919510aa46ba64f06e2401d60/2b9b165b603184030426140485831f91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a0e2b1cffecdc93ccbf79d9ce16ca5c5/84fbecd8f986c572607f55e2410174ce.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Basil came into the world on April 1st, and while his birthday is famous for tricks, there's nothing tricky about this boy. What you see is what you get: a sweet, curious puppy with a whole lot of life ahead of him and zero idea just how lucky his future family is going to feel.\n\nHe’s a spunky guy who loves toys, other dogs, and his foster parents. Basil enjoys lounging in the sunshine, sniffing around the yard, and an occasional zoomie. He LOVES to play fetch and enjoys choosing which soft toy to chase. He is incredibly food motivated and catches on to new things quickly. He is doing well with both crate and potty training if you are consistent. He knows his name, “sit”, and is working on “lay down”. \n\nBasil adores people but also loves his canine foster siblings. He is currently fostered with three other dogs and does well with all of them. Basil would love to spend the summer with his forever family and can’t wait to find them!\n",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783004670"
     },
     {
       "ID": "1442",
