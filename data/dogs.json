@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:36:01Z",
+  "updated": "2026-07-03T21:59:30Z",
   "count": 58,
   "animals": [
     {
@@ -2238,6 +2238,85 @@
       "LastUpdatedUnixTime": "1782787963"
     },
     {
+      "ID": "3605",
+      "Internal-ID": "213855266",
+      "Name": "Skip",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747769699,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
+      "LastIntakeUnixTime": "1781020577",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783115058"
+    },
+    {
       "ID": "3606",
       "Internal-ID": "213855267",
       "Name": "Sunrise",
@@ -2316,7 +2395,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782946837"
+      "LastUpdatedUnixTime": "1783114832"
     },
     {
       "ID": "3620",
@@ -4060,85 +4139,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783031166"
-    },
-    {
-      "ID": "3605",
-      "Internal-ID": "213855266",
-      "Name": "Skip",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747769699,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
-      "LastIntakeUnixTime": "1781020577",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782946774"
     },
     {
       "ID": "3590",
