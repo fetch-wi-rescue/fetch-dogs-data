@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:06:06Z",
+  "updated": "2026-07-03T04:23:47Z",
   "animals": [
     {
       "ID": "3458",
@@ -837,6 +837,15 @@
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-03T00:06:06Z",
       "status": "adopted"
+    },
+    {
+      "ID": "3608",
+      "Name": "Snickers",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f0156a53fd90c0880dea2192813ba96c/d4ed6afc8b09fbd942a634242353d339.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-03T04:23:47Z",
+      "status": "pending"
     }
   ]
 }
