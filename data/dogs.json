@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T16:56:09Z",
+  "updated": "2026-07-04T17:58:59Z",
   "count": 58,
   "animals": [
     {
@@ -2290,6 +2290,63 @@
       "LastUpdatedUnixTime": "1783114832"
     },
     {
+      "ID": "3619",
+      "Internal-ID": "213991905",
+      "Name": "June",
+      "LitterGroupId": 9541475,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763791200,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f411015cac7306e54f17d3e7be84b1dd/bfccb21648a3c95ec9d954f91b3a08b4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/019993c495e854f7a6426ef414de8d3f/da1f52ec85bde1414a2785ed71e588ad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1b6b382c9d6e64a43b8eed1e3b561b0/5486af56d436ad359e987c77067a71d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3a726f5dc6267f662b1ff23e7c65b08a/93e4d28026cde57bad9b4094850755c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98faaa30901eac390eeadf62caf7e09b/a22927b54e166ab17e9ca3240a8632cc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/adb9293d7722bfaf8c352ec1a44351ec/a8f8824b9ef8fceed9a810d8e02f343b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/739e7a74c0a550a9cc4fc2de9d9d322f/dcdec4177ff61b3f1a37a8db15d267dd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d7dae9cbce3de938f31bae9c85a41cf/184f60c747ad6188c5ad06ce22f21e91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/670ee9b2d94b056856fa24db8770aba1/bbe52eba46262fa36a695a870434e656.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "Xiru4ctRS6Q",
+          "EmbedUrl": "//www.youtube.com/embed/Xiru4ctRS6Q?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=Xiru4ctRS6Q",
+          "ThumbUrl": "https://img.youtube.com/vi/Xiru4ctRS6Q/0.jpg"
+        }
+      ],
+      "Breed": "Hound/Retriever, Labrador",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Bio for June:\n\nWhere do I even start? June (I’ve been calling her Junie) has only been here for two days and she is just such a lovely lady. \n\nSo far she really just wants to be with people; she is the best snuggle buddy and is very content to curl up next to me on the couch for a snooze. Her first day with me was her first day ever away from her siblings, but she was very brave for all of it: the long transport from Alabama to Wisconsin, the short drive to my apartment, some brief time spent outside near my busy street, a bath, and more. After some initial protesting, she settled in her crate and slept all the way through the night without a peep. She had one small accident on Day 1 but has been perfect about pottying outside since.\n\nSo far, her only real fear is doors, which I know she’ll tackle with enough encouragement. Right now I’m carrying her because we live in an apartment with multiple doors to get outside, but we will start practicing the doors soon. Other than that, she really doesn’t care about much of anything. She doesn’t react to other dogs, strangers on the street, or even cars driving by. When she’s on a leash outside she is constantly looking up at me, which is going to make training an absolute breeze for whoever is lucky enough to adopt her. \n\nI have a senior dog who has never had to share his home with another dog before, so for his comfort I’m crating her a little bit here and there during the day (it’s also just good practice for her). She is a little dramatic at first but eventually settles in, especially with the help of a YouTube video or podcast on my iPad. To be honest, I think she’d be totally fine to roam; she doesn’t seem to care about anything in my home and isn’t a chewer as of yet. As long as she’s here she’ll be crated at a minimum while I leave the house just as a safety precaution.\n\nShe is a seriously fun and easy little puppy and I think she could go just about anywhere, even a first time dog owner. She is extremely respectful of my own dog (a Newfoundland mix multiple times her size) and is happy to relax across the room from him. I think she’d do great as a solo dog or with a buddy. So much fun in a small/medium-sized package!",
+      "LastIntakeUnixTime": "1782591240",
+      "Attributes": [
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783185951"
+    },
+    {
       "ID": "3620",
       "Internal-ID": "213991906",
       "Name": "Penelope",
@@ -2989,62 +3046,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782304208"
-    },
-    {
-      "ID": "3619",
-      "Internal-ID": "213991905",
-      "Name": "June",
-      "LitterGroupId": 9541475,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763791200,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1d7dae9cbce3de938f31bae9c85a41cf/184f60c747ad6188c5ad06ce22f21e91.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1d7dae9cbce3de938f31bae9c85a41cf/184f60c747ad6188c5ad06ce22f21e91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f411015cac7306e54f17d3e7be84b1dd/bfccb21648a3c95ec9d954f91b3a08b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/019993c495e854f7a6426ef414de8d3f/da1f52ec85bde1414a2785ed71e588ad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1b6b382c9d6e64a43b8eed1e3b561b0/5486af56d436ad359e987c77067a71d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3a726f5dc6267f662b1ff23e7c65b08a/93e4d28026cde57bad9b4094850755c5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98faaa30901eac390eeadf62caf7e09b/a22927b54e166ab17e9ca3240a8632cc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/adb9293d7722bfaf8c352ec1a44351ec/a8f8824b9ef8fceed9a810d8e02f343b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/739e7a74c0a550a9cc4fc2de9d9d322f/dcdec4177ff61b3f1a37a8db15d267dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/670ee9b2d94b056856fa24db8770aba1/bbe52eba46262fa36a695a870434e656.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "Xiru4ctRS6Q",
-          "EmbedUrl": "//www.youtube.com/embed/Xiru4ctRS6Q?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=Xiru4ctRS6Q",
-          "ThumbUrl": "https://img.youtube.com/vi/Xiru4ctRS6Q/0.jpg"
-        }
-      ],
-      "Breed": "Hound/Retriever, Labrador",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Bio for June:\n\nWhere do I even start? June (I’ve been calling her Junie) has only been here for two days and she is just such a lovely lady. \n\nSo far she really just wants to be with people; she is the best snuggle buddy and is very content to curl up next to me on the couch for a snooze. Her first day with me was her first day ever away from her siblings, but she was very brave for all of it: the long transport from Alabama to Wisconsin, the short drive to my apartment, some brief time spent outside near my busy street, a bath, and more. After some initial protesting, she settled in her crate and slept all the way through the night without a peep. She had one small accident on Day 1 but has been perfect about pottying outside since.\n\nSo far, her only real fear is doors, which I know she’ll tackle with enough encouragement. Right now I’m carrying her because we live in an apartment with multiple doors to get outside, but we will start practicing the doors soon. Other than that, she really doesn’t care about much of anything. She doesn’t react to other dogs, strangers on the street, or even cars driving by. When she’s on a leash outside she is constantly looking up at me, which is going to make training an absolute breeze for whoever is lucky enough to adopt her. \n\nI have a senior dog who has never had to share his home with another dog before, so for his comfort I’m crating her a little bit here and there during the day (it’s also just good practice for her). She is a little dramatic at first but eventually settles in, especially with the help of a YouTube video or podcast on my iPad. To be honest, I think she’d be totally fine to roam; she doesn’t seem to care about anything in my home and isn’t a chewer as of yet. As long as she’s here she’ll be crated at a minimum while I leave the house just as a safety precaution.\n\nShe is a seriously fun and easy little puppy and I think she could go just about anywhere, even a first time dog owner. She is extremely respectful of my own dog (a Newfoundland mix multiple times her size) and is happy to relax across the room from him. I think she’d do great as a solo dog or with a buddy. So much fun in a small/medium-sized package!",
-      "LastIntakeUnixTime": "1782591240",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782692268"
     },
     {
       "ID": "3591",
