@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T14:07:07Z",
+  "updated": "2026-07-04T15:39:35Z",
   "count": 58,
   "animals": [
     {
@@ -1793,114 +1793,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783013700"
-    },
-    {
-      "ID": "3595",
-      "Internal-ID": "213786020",
-      "Name": "Holly",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.8",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8bad60d3f8d568e8692ff09ac559cb7/34319260882c7179cb716254690c3f58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b65f4434d478b949f72fe85377541370/54671a27be1be13b30d3b923c3cbc719.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a6cbb3b71b54037c05956e993a490d10/db5f2f5224e785772bfff9078ddea3aa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/37867ee4de0c08dc415fc8f58a94ac4a/1927aa3ad6b2b5a68b855119089369c5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3bb9ffdb1bf5e3fa560933f6fca5f68/10afdfdabe64cd5a67c3d1ac1dc48bf4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa0570a81e5816a8d09fc18aa3639960/f38aebdbe1dffcec4b1dfd457bbde7b1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/917903edf8faa917d39ec4c092cb6548/57e770b3cc8e70609254d1492c323b71.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/95b0d1684515de674a060825cfb637b2/f7190e35d6761eb2bd35140720cc974f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b9253bcd2e591e6a1fd0a5aea5100f4b/58e3bc757c97ea6edc91854fb7836d28.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/c4ef048372406503c7daccce7a2316ff/f5333e24ae4af27f47f4c9b64924423e.JPG"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Holly is the perfect mix of sweet, curious, and delightfully spunky. With her big puppy-dog eyes (I mean, really!?!) and irresistible expressions, she quickly mastered the art of getting exactly what she wants. It’s her superpower - one look from Holly, and you'll find yourself agreeing to just about anything.\nThis adorable girl loves exploring the world around her and brings a playful energy to everything she does. One of her favorite games is freezing perfectly still before launching into a dramatic pounce on an unsuspecting sibling. She's always ready for the next adventure and approaches life with the enthusiasm, joy, and wonder that only a puppy can bring. And when playtime is over and it’s time for bed, her softer side shines. She loves her people deeply and is happiest when she's snuggled close, melting into your arms or curling up in your lap for a cozy nap.\nHolly is eager to learn and grow with a family or person of her own. This little sweetheart is ready to fill her forever home with laughter, affection, and plenty of puppy kisses. If you're looking for a playful companion with a tender heart and eyes you'll never be able to say no to, Holly is waiting to meet you.\n",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783101600"
     },
     {
       "ID": "3596",
@@ -3932,7 +3824,115 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783044059"
+      "LastUpdatedUnixTime": "1783174283"
+    },
+    {
+      "ID": "3595",
+      "Internal-ID": "213786020",
+      "Name": "Holly",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.8",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8bad60d3f8d568e8692ff09ac559cb7/34319260882c7179cb716254690c3f58.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b65f4434d478b949f72fe85377541370/54671a27be1be13b30d3b923c3cbc719.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a6cbb3b71b54037c05956e993a490d10/db5f2f5224e785772bfff9078ddea3aa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/37867ee4de0c08dc415fc8f58a94ac4a/1927aa3ad6b2b5a68b855119089369c5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3bb9ffdb1bf5e3fa560933f6fca5f68/10afdfdabe64cd5a67c3d1ac1dc48bf4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa0570a81e5816a8d09fc18aa3639960/f38aebdbe1dffcec4b1dfd457bbde7b1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/917903edf8faa917d39ec4c092cb6548/57e770b3cc8e70609254d1492c323b71.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/95b0d1684515de674a060825cfb637b2/f7190e35d6761eb2bd35140720cc974f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9253bcd2e591e6a1fd0a5aea5100f4b/58e3bc757c97ea6edc91854fb7836d28.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/c4ef048372406503c7daccce7a2316ff/f5333e24ae4af27f47f4c9b64924423e.JPG"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Holly is the perfect mix of sweet, curious, and delightfully spunky. With her big puppy-dog eyes (I mean, really!?!) and irresistible expressions, she quickly mastered the art of getting exactly what she wants. It’s her superpower - one look from Holly, and you'll find yourself agreeing to just about anything.\nThis adorable girl loves exploring the world around her and brings a playful energy to everything she does. One of her favorite games is freezing perfectly still before launching into a dramatic pounce on an unsuspecting sibling. She's always ready for the next adventure and approaches life with the enthusiasm, joy, and wonder that only a puppy can bring. And when playtime is over and it’s time for bed, her softer side shines. She loves her people deeply and is happiest when she's snuggled close, melting into your arms or curling up in your lap for a cozy nap.\nHolly is eager to learn and grow with a family or person of her own. This little sweetheart is ready to fill her forever home with laughter, affection, and plenty of puppy kisses. If you're looking for a playful companion with a tender heart and eyes you'll never be able to say no to, Holly is waiting to meet you.\n",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783177089"
     },
     {
       "ID": "3601",
