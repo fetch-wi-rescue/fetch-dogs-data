@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T15:39:35Z",
+  "updated": "2026-07-04T16:56:09Z",
   "count": 58,
   "animals": [
     {
@@ -2647,95 +2647,6 @@
       "LastUpdatedUnixTime": "1782703055"
     },
     {
-      "ID": "3624",
-      "Internal-ID": "213991913",
-      "Name": "Dublin",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1779253200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd4d08de4f7c27cac6943e87b133675d/ed5c7acdfe22c57ed9561ad9cea7dc6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/41459fb089a8964795acd6dc9124fc0f/e434e37902fbe0c11798328d81786e62.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9cdfd360f4852030ea161873657ea64/d844166fd57956678c8f95f527079ca9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dd9765642f1d59fdd95db2c1d976196/efbd8438dc4c44ca0416129b13ee6630.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc2e3cc5fd9da1e58dba66f6bdae885e/586954bd92c64c27a8b087e2104e957f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/33b851b68a7d232af41b0e1fbc3bfd04/2553c37c5005de96fca3d659a49181f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53b2b7412bede84ee60ca982935ebe1a/010b820c4596a385b5ad1e0976e1d230.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/903f96fc68fea9d2e3145c4cab9de773/3f42ac42e283afa1261b3bed8b75af58.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Dublin is stepping into life like a brand‑new golfer walking onto the green for the very first time - bright‑eyed, wiggly, and absolutely thrilled for whatever comes next. This little guy is full of charm, curiosity, and that irresistible puppy bounce that makes every day feel like a sunny day on the course.\n\nDublin loves exploring, sniffing, and practicing his “zoomie drives” across the yard. Every toy is a new challenge, every leaf is a discovery, and every human is a potential best friend. He’s playful, sweet, and always ready to trot along like your tiny caddy-in-training.\n\nHe’s learning all the basics - how to follow his people, how to sit for attention, and how to keep his little paws out of the rough. With patience, positive training, and lots of love, Dublin will grow into a confident, loyal companion who’s always ready to walk the fairway right beside you.\n\nDublin is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. He may be small now, but he’s got big potential and a heart as warm as a summer afternoon on the course.\n\nIf you’re ready to help a sweet little boy start his game strong, Dublin is ready to join your team. He’s hoping his forever home will be his hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782703116"
-    },
-    {
       "ID": "3625",
       "Internal-ID": "213991914",
       "Name": "Finn",
@@ -4236,6 +4147,95 @@
         }
       ],
       "LastUpdatedUnixTime": "1783034526"
+    },
+    {
+      "ID": "3624",
+      "Internal-ID": "213991913",
+      "Name": "Dublin",
+      "LitterGroupId": 9541476,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1779253200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bd4d08de4f7c27cac6943e87b133675d/ed5c7acdfe22c57ed9561ad9cea7dc6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/41459fb089a8964795acd6dc9124fc0f/e434e37902fbe0c11798328d81786e62.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9cdfd360f4852030ea161873657ea64/d844166fd57956678c8f95f527079ca9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dd9765642f1d59fdd95db2c1d976196/efbd8438dc4c44ca0416129b13ee6630.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc2e3cc5fd9da1e58dba66f6bdae885e/586954bd92c64c27a8b087e2104e957f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/33b851b68a7d232af41b0e1fbc3bfd04/2553c37c5005de96fca3d659a49181f2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/53b2b7412bede84ee60ca982935ebe1a/010b820c4596a385b5ad1e0976e1d230.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/903f96fc68fea9d2e3145c4cab9de773/3f42ac42e283afa1261b3bed8b75af58.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Fawn/White",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Dublin is stepping into life like a brand‑new golfer walking onto the green for the very first time - bright‑eyed, wiggly, and absolutely thrilled for whatever comes next. This little guy is full of charm, curiosity, and that irresistible puppy bounce that makes every day feel like a sunny day on the course.\n\nDublin loves exploring, sniffing, and practicing his “zoomie drives” across the yard. Every toy is a new challenge, every leaf is a discovery, and every human is a potential best friend. He’s playful, sweet, and always ready to trot along like your tiny caddy-in-training.\n\nHe’s learning all the basics - how to follow his people, how to sit for attention, and how to keep his little paws out of the rough. With patience, positive training, and lots of love, Dublin will grow into a confident, loyal companion who’s always ready to walk the fairway right beside you.\n\nDublin is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. He may be small now, but he’s got big potential and a heart as warm as a summer afternoon on the course.\n\nIf you’re ready to help a sweet little boy start his game strong, Dublin is ready to join your team. He’s hoping his forever home will be his hole‑in‑one.",
+      "LastIntakeUnixTime": "1782570600",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783181467"
     },
     {
       "ID": "1442",
