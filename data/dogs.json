@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T21:54:40Z",
+  "updated": "2026-07-05T22:55:37Z",
   "count": 59,
   "animals": [
     {
@@ -1462,88 +1462,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783263934"
-    },
-    {
-      "ID": "3558",
-      "Internal-ID": "213684446",
-      "Name": "Breezy",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "3.8",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
-        "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Brown/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782765747"
     },
     {
       "ID": "3562",
@@ -3165,8 +3083,8 @@
       "CurrentWeightPounds": "31",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
-      "DOBUnixTime": 1746162000,
-      "Age": 14,
+      "DOBUnixTime": 1743051600,
+      "Age": 15,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
@@ -3210,7 +3128,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783266419"
+      "LastUpdatedUnixTime": "1783290336"
     },
     {
       "ID": "3603",
@@ -3840,6 +3758,88 @@
         }
       ],
       "LastUpdatedUnixTime": "1782946908"
+    },
+    {
+      "ID": "3558",
+      "Internal-ID": "213684446",
+      "Name": "Breezy",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "3.8",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1776920400,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
+        "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Brown/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783289671"
     },
     {
       "ID": "3595",
