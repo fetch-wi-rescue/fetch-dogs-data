@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T12:46:28Z",
-  "count": 58,
+  "updated": "2026-07-05T14:26:04Z",
+  "count": 59,
   "animals": [
     {
       "ID": "2754",
@@ -3272,6 +3272,52 @@
         }
       ],
       "LastUpdatedUnixTime": "1782304208"
+    },
+    {
+      "ID": "3627",
+      "Internal-ID": "214031944",
+      "Name": "Dahla",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "62",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1595566800,
+      "Age": 71,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bded5192ce761a162fe2bb1f4e4837a1/0c4a47129493c5aa6f51b925f6d1874c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bded5192ce761a162fe2bb1f4e4837a1/0c4a47129493c5aa6f51b925f6d1874c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c17f0541e4858c4aa300b8c3e04014cd/13c2e7249757aaffc85e60f5f618c11d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Golden/Poodle, Standard",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1783257443",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783258175"
     },
     {
       "ID": "3591",
