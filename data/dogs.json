@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T00:13:08Z",
+  "updated": "2026-07-07T04:30:44Z",
   "count": 58,
   "animals": [
     {
@@ -1807,7 +1807,7 @@
       "Status": "Available",
       "InFoster": true,
       "CurrentWeightPounds": "57",
-      "Size": "",
+      "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1751778000,
       "Age": 12,
@@ -1822,9 +1822,15 @@
       ],
       "Videos": [],
       "Breed": "Pinscher, Doberman/Rottweiler",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "Color": "Black/Chocolate",
+      "Pattern": "Bicolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
       "LastIntakeUnixTime": "1778898499",
       "Attributes": [
@@ -1859,7 +1865,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783351500"
+      "LastUpdatedUnixTime": "1783384135"
     },
     {
       "ID": "3579",
@@ -2132,12 +2138,57 @@
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783013700"
+      "LastUpdatedUnixTime": "1783384851"
     },
     {
       "ID": "3593",
