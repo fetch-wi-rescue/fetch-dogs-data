@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T18:26:20Z",
+  "updated": "2026-07-07T20:22:47Z",
   "count": 58,
   "animals": [
     {
@@ -573,7 +573,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782772850"
+      "LastUpdatedUnixTime": "1783449444"
     },
     {
       "ID": "3200",
@@ -1797,77 +1797,6 @@
       "LastUpdatedUnixTime": "1782162824"
     },
     {
-      "ID": "3578",
-      "Internal-ID": "213704197",
-      "Name": "Amara",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "57",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1751778000,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Rottweiler",
-      "Color": "Black/Chocolate",
-      "Pattern": "Bicolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
-      "LastIntakeUnixTime": "1778898499",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783384135"
-    },
-    {
       "ID": "3579",
       "Internal-ID": "213704415",
       "Name": "Stacy (bonded to Ruthie)",
@@ -2537,19 +2466,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1775019600,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/262c4cd5f197d6c6cbf5ec433fe89c48/b525190a1f50b28950e3dadaf0a7d179.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/262c4cd5f197d6c6cbf5ec433fe89c48/b525190a1f50b28950e3dadaf0a7d179.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fce3c9b72d52696bb92cde64fd81b65/964d151c07a60305c756a2308a05ad86.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/20d4ad132bc104c2480ccee5e0878869/a70fbb738421d479dc326ddcb9f8a492.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ed0d715b88647c28e43f0282bfe47b7b/4b208a5ab70317abd33e2251c586faa1.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/85d6630207fda1cb2b82536bf38905ea/25f051745e566df5ebf717ad1de1ca06.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e56ff5fc004161e365eb74b6f6f72d7e/1a65fdd67c7084a143effbaf496fa5e0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/02d583370f917f0a3292084c502074c5/2ad262ea946482098c6e8ed1c7b64ca2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/3f1321727d392725150523d9e6034f13/c7f13f34cca09bb71256ef1edba473cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4904bfc88c78aa8e5e5b794b420fc67a/ee087ef4538effde896e892f039efe16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/43ea85e0656ddabac49f1a2566ca5e4e/ac3cbf1fc8f24237c1d4a2cb82ae2455.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9329fcfe511316fd15f63a87d179816/af7a41560e75ebb9e7ebc3a25717fe1f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fef41b0896fcad746c2c2eaed9653dad/79481553fd5b725e16bbc670c23ab189.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a4761859f4d38cfd54dc1f65359a0940/50e3e6c23f359c95389495f78bc197ec.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/95e118ad0c25ace2f927323c1c9a214d/9666684e0d3f1063348b50ae4a2038f2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/375142e7e3da00b5c50c73b1692226e4/a319c9fb3780e1c0c4c083d2b9f1ad14.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e3185ed914764df6b855f6f1ceb32918/f078314bfa17324a5cdb5d9276e3725b.jpg",
@@ -2557,9 +2483,14 @@
         "https://new-s3.shelterluv.com/profile-pictures/e758918dd90deac7f40c2f02ab20f5e9/af984275d5c1598b1e473c0555ffd9be.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/f8585025a386f701cdda6e3ad8cc129a/447789fdbbd11c2bb3b3d53be3640f0f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d8e5397036cc42ac20d50c042387bd73/808a3246218b2d56c18b908ca810e436.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cfa33bad1ed7dab88e4a648fdc26f0a5/0330f638afe3540aa621957933721ef3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4a3c52fa37aca86f637da0c620fa7a09/8a4fee806e54ab0e3d5801736d7a27e2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b6da44aac2d84430e459c6e8f71aa34/af92d1b666178959321e311f7377ab4d.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/1b6da44aac2d84430e459c6e8f71aa34/af92d1b666178959321e311f7377ab4d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/43ea85e0656ddabac49f1a2566ca5e4e/ac3cbf1fc8f24237c1d4a2cb82ae2455.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4904bfc88c78aa8e5e5b794b420fc67a/ee087ef4538effde896e892f039efe16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9329fcfe511316fd15f63a87d179816/af7a41560e75ebb9e7ebc3a25717fe1f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fef41b0896fcad746c2c2eaed9653dad/79481553fd5b725e16bbc670c23ab189.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a4761859f4d38cfd54dc1f65359a0940/50e3e6c23f359c95389495f78bc197ec.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -2636,7 +2567,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783308651"
+      "LastUpdatedUnixTime": "1783451568"
     },
     {
       "ID": "3605",
@@ -5059,6 +4990,77 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
+    },
+    {
+      "ID": "3578",
+      "Internal-ID": "213704197",
+      "Name": "Amara",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "57",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751778000,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Rottweiler",
+      "Color": "Black/Chocolate",
+      "Pattern": "Bicolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
+      "LastIntakeUnixTime": "1778898499",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783453302"
     }
   ]
 }
