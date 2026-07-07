@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T21:50:50Z",
-  "count": 58,
+  "updated": "2026-07-07T22:53:36Z",
+  "count": 61,
   "animals": [
     {
       "ID": "2754",
@@ -3479,6 +3479,237 @@
         }
       ],
       "LastUpdatedUnixTime": "1783342521"
+    },
+    {
+      "ID": "3629",
+      "Internal-ID": "214061017",
+      "Name": "Fenwick",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Large)",
+      "Color": "Fawn/Wheaten",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1783463919",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783464311"
+    },
+    {
+      "ID": "3630",
+      "Internal-ID": "214061040",
+      "Name": "Alistair",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99dbfbce752efed3b28f4c126d092b2d/34a3357db604f9690bf3a97981ff245d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/99dbfbce752efed3b28f4c126d092b2d/34a3357db604f9690bf3a97981ff245d.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1783463969",
+      "Attributes": [
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783464311"
+    },
+    {
+      "ID": "3631",
+      "Internal-ID": "214061046",
+      "Name": "Benedict",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4090dd81952185e59fe2195fba8c581a/083099daad5b7a2730ad20265c5a6a79.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4090dd81952185e59fe2195fba8c581a/083099daad5b7a2730ad20265c5a6a79.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Mixed Breed (Medium)",
+      "Color": "Brown/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1783463969",
+      "Attributes": [
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783464311"
     },
     {
       "ID": "3591",
