@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T22:59:50Z",
+  "updated": "2026-07-08T01:58:27Z",
   "animals": [
     {
       "ID": "3458",
@@ -854,6 +854,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-06T22:59:50Z",
+      "status": "pending"
+    },
+    {
+      "ID": "2774",
+      "Name": "Minnie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/34d3cb9fbc33f661e01f376eef7ec606/60a29e12175fd1d6f6b8756e9883aa6a.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-08T01:58:27Z",
       "status": "pending"
     }
   ]
