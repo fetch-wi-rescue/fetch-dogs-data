@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T14:53:30Z",
+  "updated": "2026-07-08T16:25:50Z",
   "count": 60,
   "animals": [
     {
@@ -288,7 +288,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782009545"
+      "LastUpdatedUnixTime": "1783525933"
     },
     {
       "ID": "2350",
@@ -747,7 +747,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782437975"
+      "LastUpdatedUnixTime": "1783525799"
     },
     {
       "ID": "3452",
@@ -1663,7 +1663,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783511503"
+      "LastUpdatedUnixTime": "1783525903"
     },
     {
       "ID": "3562",
@@ -2598,7 +2598,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Bio for June:\n\nWhere do I even start? June (I’ve been calling her Junie) has only been here for two days and she is just such a lovely lady. \n\nSo far she really just wants to be with people; she is the best snuggle buddy and is very content to curl up next to me on the couch for a snooze. Her first day with me was her first day ever away from her siblings, but she was very brave for all of it: the long transport from Alabama to Wisconsin, the short drive to my apartment, some brief time spent outside near my busy street, a bath, and more. After some initial protesting, she settled in her crate and slept all the way through the night without a peep. She had one small accident on Day 1 but has been perfect about pottying outside since.\n\nSo far, her only real fear is doors, which I know she’ll tackle with enough encouragement. Right now I’m carrying her because we live in an apartment with multiple doors to get outside, but we will start practicing the doors soon. Other than that, she really doesn’t care about much of anything. She doesn’t react to other dogs, strangers on the street, or even cars driving by. When she’s on a leash outside she is constantly looking up at me, which is going to make training an absolute breeze for whoever is lucky enough to adopt her. \n\nI have a senior dog who has never had to share his home with another dog before, so for his comfort I’m crating her a little bit here and there during the day (it’s also just good practice for her). She is a little dramatic at first but eventually settles in, especially with the help of a YouTube video or podcast on my iPad. To be honest, I think she’d be totally fine to roam; she doesn’t seem to care about anything in my home and isn’t a chewer as of yet. As long as she’s here she’ll be crated at a minimum while I leave the house just as a safety precaution.\n\nShe is a seriously fun and easy little puppy and I think she could go just about anywhere, even a first time dog owner. She is extremely respectful of my own dog (a Newfoundland mix multiple times her size) and is happy to relax across the room from him. I think she’d do great as a solo dog or with a buddy. So much fun in a small/medium-sized package!",
+      "Description": "Where do I even start? June (I’ve been calling her Junie) has only been here for two days and she is just such a lovely lady. \n\nSo far she really just wants to be with people; she is the best snuggle buddy and is very content to curl up next to me on the couch for a snooze. Her first day with me was her first day ever away from her siblings, but she was very brave for all of it: the long transport from Alabama to Wisconsin, the short drive to my apartment, some brief time spent outside near my busy street, a bath, and more. After some initial protesting, she settled in her crate and slept all the way through the night without a peep. She had one small accident on Day 1 but has been perfect about pottying outside since.\n\nSo far, her only real fear is doors, which I know she’ll tackle with enough encouragement. Right now I’m carrying her because we live in an apartment with multiple doors to get outside, but we will start practicing the doors soon. Other than that, she really doesn’t care about much of anything. She doesn’t react to other dogs, strangers on the street, or even cars driving by. When she’s on a leash outside she is constantly looking up at me, which is going to make training an absolute breeze for whoever is lucky enough to adopt her. \n\nI have a senior dog who has never had to share his home with another dog before, so for his comfort I’m crating her a little bit here and there during the day (it’s also just good practice for her). She is a little dramatic at first but eventually settles in, especially with the help of a YouTube video or podcast on my iPad. To be honest, I think she’d be totally fine to roam; she doesn’t seem to care about anything in my home and isn’t a chewer as of yet. As long as she’s here she’ll be crated at a minimum while I leave the house just as a safety precaution.\n\nShe is a seriously fun and easy little puppy and I think she could go just about anywhere, even a first time dog owner. She is extremely respectful of my own dog (a Newfoundland mix multiple times her size) and is happy to relax across the room from him. I think she’d do great as a solo dog or with a buddy. So much fun in a small/medium-sized package!",
       "LastIntakeUnixTime": "1782591240",
       "Attributes": [
         {
@@ -2607,7 +2607,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783185951"
+      "LastUpdatedUnixTime": "1783525847"
     },
     {
       "ID": "3620",
@@ -3136,47 +3136,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1782703002"
-    },
-    {
-      "ID": "3603",
-      "Internal-ID": "213855262",
-      "Name": "Sheila",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761154,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1781020646",
-      "Attributes": [
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1782767243"
     },
     {
       "ID": "3612",
@@ -5169,6 +5128,47 @@
         }
       ],
       "LastUpdatedUnixTime": "1783453302"
+    },
+    {
+      "ID": "3603",
+      "Internal-ID": "213855262",
+      "Name": "Sheila",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761154,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1781020646",
+      "Attributes": [
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783525106"
     }
   ]
 }
