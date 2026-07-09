@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T20:41:25Z",
+  "updated": "2026-07-09T16:11:23Z",
   "animals": [
     {
       "ID": "3458",
@@ -872,6 +872,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-08T20:41:25Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3601",
+      "Name": "Rowena",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6441d6ec9e992452d3901e4ceee4e604/88c3d5c610695e61d5f9114b1fed33ee.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-09T16:11:23Z",
       "status": "pending"
     }
   ]
