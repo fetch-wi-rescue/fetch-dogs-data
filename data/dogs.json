@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:15:15Z",
+  "updated": "2026-07-09T21:53:47Z",
   "count": 59,
   "animals": [
     {
@@ -2795,7 +2795,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782703228"
+      "LastUpdatedUnixTime": "1783630944"
     },
     {
       "ID": "3622",
@@ -2882,7 +2882,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782703131"
+      "LastUpdatedUnixTime": "1783630945"
     },
     {
       "ID": "3623",
@@ -2969,7 +2969,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782703055"
+      "LastUpdatedUnixTime": "1783630945"
     },
     {
       "ID": "3625",
@@ -3054,7 +3054,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782702916"
+      "LastUpdatedUnixTime": "1783630947"
     },
     {
       "ID": "3626",
@@ -3140,113 +3140,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782703002"
-    },
-    {
-      "ID": "3629",
-      "Internal-ID": "214061017",
-      "Name": "Fenwick",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "77",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1736229600,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
-      "Color": "Fawn/Wheaten",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
-      "LastIntakeUnixTime": "1783463919",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783600481"
+      "LastUpdatedUnixTime": "1783630947"
     },
     {
       "ID": "3630",
@@ -4155,6 +4049,112 @@
       "LastUpdatedUnixTime": "1783516663"
     },
     {
+      "ID": "3629",
+      "Internal-ID": "214061017",
+      "Name": "Fenwick",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "77",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Large)",
+      "Color": "Fawn/Wheaten",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
+      "LastIntakeUnixTime": "1783463919",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783628458"
+    },
+    {
       "ID": "3558",
       "Internal-ID": "213684446",
       "Name": "Breezy",
@@ -4420,7 +4420,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783181467"
+      "LastUpdatedUnixTime": "1783630946"
     },
     {
       "ID": "1442",
