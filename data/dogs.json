@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T21:53:47Z",
-  "count": 59,
+  "updated": "2026-07-09T23:04:16Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -3595,7 +3595,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1783627230",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1783627433"
+      "LastUpdatedUnixTime": "1783635738"
     },
     {
       "ID": "3591",
@@ -3761,66 +3761,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783539597"
-    },
-    {
-      "ID": "3550",
-      "Internal-ID": "213641494",
-      "Name": "Madi",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Hospice",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1519192800,
-      "Age": 100,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/818863d69c8bbdcfa834e56f6e5e342a/fe3684c8ab91056a3257d0e0d04cb850.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/818863d69c8bbdcfa834e56f6e5e342a/fe3684c8ab91056a3257d0e0d04cb850.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Australian",
-      "Color": "Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Madi is an incredibly loving, loyal dog with a huge heart and so much affection to give. This sweet pup bonds deeply with her person and thrives on companionship—whether that’s cuddling on the couch, following you from room to room, bringing you a toy to play fetch, or simply being near you. Once Madi trusts you, you’ll have a devoted best friend for life.\n\nMadi does best in a calm, predictable environment and would truly shine as the only pet in the home. She needs a household with no children (this is a must) and no other pets, as she can become overwhelmed by too much activity or sharing attention. In a quiet, adult-only homes , Madi is relaxed, gentle, and happiest. \n\nMadi is completely house-trained and is fine to leave unattended for a period of time. She does not do well crated, but you can trust that Madi will lay around and not get into anything if you were to leave her. Currently, she is left three days unattended for 8 hours and she has not caused any damage or disruption to our home while we are away. She also does not bark when you leave the home. If a dog is walking past your home, she will bark at the dog and the mailman. If you are home, Madi will want to be near you always, but tends to mind her own business. She does enjoy laying on the couch, so she would need an owner that is okay snuggling with Madi on the furniture.\n\nThis special dog would be perfect for someone looking for a loyal companion who wants to give—and receive—lots of love. Madi loves to spend her days laying around or out in the backyard bringing a ball to you to play fetch. With patience, understanding, and a peaceful home, Madi will flourish and reward her adopter with endless affection",
-      "LastIntakeUnixTime": "1778575470",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783622089"
     },
     {
       "ID": "3595",

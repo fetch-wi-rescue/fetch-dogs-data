@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T16:11:23Z",
+  "updated": "2026-07-09T23:04:16Z",
   "animals": [
     {
       "ID": "3458",
@@ -881,6 +881,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-09T16:11:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3550",
+      "Name": "Madi",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/818863d69c8bbdcfa834e56f6e5e342a/fe3684c8ab91056a3257d0e0d04cb850.jpeg",
+      "Status": "Hospice",
+      "reason": "hospice_passed",
+      "disappearedDate": "2026-07-09T23:04:16Z",
       "status": "pending"
     }
   ]
