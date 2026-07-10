@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T23:04:16Z",
+  "updated": "2026-07-10T23:52:37Z",
   "animals": [
     {
       "ID": "3458",
@@ -890,6 +890,15 @@
       "Status": "Hospice",
       "reason": "hospice_passed",
       "disappearedDate": "2026-07-09T23:04:16Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3619",
+      "Name": "June",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-10T23:52:37Z",
       "status": "pending"
     }
   ]
