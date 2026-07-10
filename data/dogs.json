@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T18:17:39Z",
+  "updated": "2026-07-10T19:57:11Z",
   "count": 58,
   "animals": [
     {
@@ -87,7 +87,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782425403"
+      "LastUpdatedUnixTime": "1783707888"
     },
     {
       "ID": "3279",
@@ -288,7 +288,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783549490"
+      "LastUpdatedUnixTime": "1783708185"
     },
     {
       "ID": "2350",
@@ -841,7 +841,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783608998"
+      "LastUpdatedUnixTime": "1783707921"
     },
     {
       "ID": "3479",
@@ -1116,7 +1116,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783512050"
+      "LastUpdatedUnixTime": "1783708009"
     },
     {
       "ID": "3528",
@@ -1440,7 +1440,7 @@
       "Status": "Available",
       "InFoster": true,
       "CurrentWeightPounds": "53.1",
-      "Size": "",
+      "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
       "Age": 28,
@@ -1457,7 +1457,13 @@
       "Breed": "Husky, Siberian",
       "Color": "Silver",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Max is a beautiful 2 year old Siberian husky who was surrendered due to his owner’s family health issues. He is a happy, friendly guy who is potty trained, crate trained and knows basic commands (although whether he chooses to listen or is distracted by his husky brain is another story lol - but if you have food, he will ALWAYS listen!). He gets along great with other dogs but gets a little too excited about cats and wants to chase them. Max is very chill for a husky and spends most of the day sleeping, although he does enjoy going out in the yard and exploring the fence line. He loves to get pets and rub up against you. If he wants attention he will talk to you as huskies do until you notice him.\n\nMax has idiopathic epilepsy and takes seizure medications twice a day. He is in the process of switching to a new medication that should better control his type of seizures. His goal is to have a seizure no more than once every few months, but he will likely never be completely seizure free. His adopters will need to be aware and comfortable with that.\n\nIf you are looking for a dog who is past the puppy stage but still young enough to be your buddy for many years, Max is your guy!",
       "LastIntakeUnixTime": "1777909684",
       "Attributes": [
@@ -1517,7 +1523,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783117306"
+      "LastUpdatedUnixTime": "1783707483"
     },
     {
       "ID": "3556",
@@ -1601,7 +1607,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783525903"
+      "LastUpdatedUnixTime": "1783708267"
     },
     {
       "ID": "3579",
@@ -1724,7 +1730,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783566080"
+      "LastUpdatedUnixTime": "1783708694"
     },
     {
       "ID": "3581",
@@ -1833,7 +1839,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783566012"
+      "LastUpdatedUnixTime": "1783708952"
     },
     {
       "ID": "3592",
@@ -1870,7 +1876,13 @@
       "Breed": "Terrier, Staffordshire Bull/Mix",
       "Color": "Chocolate",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
@@ -1925,7 +1937,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783384851"
+      "LastUpdatedUnixTime": "1783710658"
     },
     {
       "ID": "3593",
@@ -2027,8 +2039,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         },
         {
@@ -2037,7 +2049,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783287030"
+      "LastUpdatedUnixTime": "1783709926"
     },
     {
       "ID": "3599",
@@ -2150,7 +2162,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783599806"
+      "LastUpdatedUnixTime": "1783710966"
     },
     {
       "ID": "3605",
@@ -2229,7 +2241,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783115058"
+      "LastUpdatedUnixTime": "1783711027"
     },
     {
       "ID": "3620",
@@ -2326,7 +2338,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782830278"
+      "LastUpdatedUnixTime": "1783712120"
     },
     {
       "ID": "3621",
@@ -3040,7 +3052,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783515210"
+      "LastUpdatedUnixTime": "1783711552"
     },
     {
       "ID": "3613",
@@ -3111,7 +3123,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783515344"
+      "LastUpdatedUnixTime": "1783711522"
     },
     {
       "ID": "3627",
@@ -3280,7 +3292,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1782754210"
+      "LastUpdatedUnixTime": "1783709347"
     },
     {
       "ID": "3607",
@@ -3379,7 +3391,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783692437"
+      "LastUpdatedUnixTime": "1783711316"
     },
     {
       "ID": "3562",
@@ -3451,7 +3463,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783643685"
+      "LastUpdatedUnixTime": "1783711689"
     },
     {
       "ID": "3595",
@@ -3468,9 +3480,9 @@
       "Altered": "No",
       "DOBUnixTime": 1775019600,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e8285b97012891817e0dbaecc2fa50c4/5f62b3cc3b9585333edc88b6d3746ba4.JPG",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8285b97012891817e0dbaecc2fa50c4/5f62b3cc3b9585333edc88b6d3746ba4.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/d8bad60d3f8d568e8692ff09ac559cb7/34319260882c7179cb716254690c3f58.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b65f4434d478b949f72fe85377541370/54671a27be1be13b30d3b923c3cbc719.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/a6cbb3b71b54037c05956e993a490d10/db5f2f5224e785772bfff9078ddea3aa.jpg",
@@ -3481,8 +3493,12 @@
         "https://new-s3.shelterluv.com/profile-pictures/95b0d1684515de674a060825cfb637b2/f7190e35d6761eb2bd35140720cc974f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4f8dbf3f81bb7f1754b8c6c26eb87b7e/e7c7c8dd91316ee6d725749949bb8deb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d3010392e458267c83f08f36f8f7e2fa/1dd30caac55e3f157ee5e5f4ba05648b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d656b028f15b88c94b7b2903812116e/66ac99bccd54cc7538cd00f0f4093a22.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b9253bcd2e591e6a1fd0a5aea5100f4b/58e3bc757c97ea6edc91854fb7836d28.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/c4ef048372406503c7daccce7a2316ff/f5333e24ae4af27f47f4c9b64924423e.JPG"
+        "https://new-s3.shelterluv.com/profile-pictures/c4ef048372406503c7daccce7a2316ff/f5333e24ae4af27f47f4c9b64924423e.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/3316401a70a79f8c3afbeceea7b16666/9740d550ede5b44fb016794bda9af0da.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/874dfdd5423edfb6a955aff9f28459ca/1944f79738d1a59133ce8e54258d7cab.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/447ef7c66888c300fae57454a76ef217/d8d1766fa741d1211c0d456f8d4cdf78.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -3559,7 +3575,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783600172"
+      "LastUpdatedUnixTime": "1783710227"
     },
     {
       "ID": "3596",
@@ -3665,7 +3681,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783651394"
+      "LastUpdatedUnixTime": "1783709872"
     },
     {
       "ID": "3600",
@@ -3783,7 +3799,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783516663"
+      "LastUpdatedUnixTime": "1783710114"
     },
     {
       "ID": "3606",
@@ -3864,7 +3880,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783644170"
+      "LastUpdatedUnixTime": "1783711154"
     },
     {
       "ID": "3629",
@@ -4052,7 +4068,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783472479"
+      "LastUpdatedUnixTime": "1783711792"
     },
     {
       "ID": "3590",
@@ -4109,6 +4125,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294343",
+          "AttributeName": "Heartworm+",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "295162",
           "AttributeName": "Has lived with cats",
           "Publish": "Yes"
@@ -4149,7 +4170,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783429871"
+      "LastUpdatedUnixTime": "1783708968"
     },
     {
       "ID": "3619",
@@ -4981,7 +5002,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783453302"
+      "LastUpdatedUnixTime": "1783708579"
     },
     {
       "ID": "3603",
