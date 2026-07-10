@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T01:06:21Z",
+  "updated": "2026-07-10T05:28:58Z",
   "count": 58,
   "animals": [
     {
@@ -2107,112 +2107,6 @@
       "LastUpdatedUnixTime": "1783287030"
     },
     {
-      "ID": "3596",
-      "Internal-ID": "213786021",
-      "Name": "Bonsai",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d172e3a9ba1c21798687227541b1789/ad364bc92c7dad2d82943e6741a1ed2d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b060991b5b5bbff925468914cdebe05/93e1bc629822deda4fa83389dfd2535f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f44e696cd08665766e402859cfede681/edd8922d9bf92b55d6431cb5f4a48154.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5a41740a0f34c50a654b9886761fbcb4/5be2dffbb88efc7573cde36186d8fb9b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6305f42af4912abe035679b51a588546/11ca95f2e711c0d477806d53350f0663.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dc5a8c2dcf2024bc306ac850468a9b2d/045dee757012fd8341e2d84a3f2fa61c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8d3a9c67ab995bfd35de3daf7cb712a/2f38f2566bda4bcd97f1ed414acbd79c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e7fef7518dae5866c4dfb7a54065b31/527cb7e2604594b1867de41b49bfa2fd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4e3b1f6230dab2d5de3faa9b3902bc95/b57c13c3310cf56dcc03ff17b3138cc6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783005943"
-    },
-    {
       "ID": "3599",
       "Internal-ID": "213786024",
       "Name": "Sage",
@@ -2403,63 +2297,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783115058"
-    },
-    {
-      "ID": "3619",
-      "Internal-ID": "213991905",
-      "Name": "June",
-      "LitterGroupId": 9541475,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20.7",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763791200,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f411015cac7306e54f17d3e7be84b1dd/bfccb21648a3c95ec9d954f91b3a08b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/019993c495e854f7a6426ef414de8d3f/da1f52ec85bde1414a2785ed71e588ad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1b6b382c9d6e64a43b8eed1e3b561b0/5486af56d436ad359e987c77067a71d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3a726f5dc6267f662b1ff23e7c65b08a/93e4d28026cde57bad9b4094850755c5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98faaa30901eac390eeadf62caf7e09b/a22927b54e166ab17e9ca3240a8632cc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/adb9293d7722bfaf8c352ec1a44351ec/a8f8824b9ef8fceed9a810d8e02f343b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/739e7a74c0a550a9cc4fc2de9d9d322f/dcdec4177ff61b3f1a37a8db15d267dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d7dae9cbce3de938f31bae9c85a41cf/184f60c747ad6188c5ad06ce22f21e91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/670ee9b2d94b056856fa24db8770aba1/bbe52eba46262fa36a695a870434e656.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "Xiru4ctRS6Q",
-          "EmbedUrl": "//www.youtube.com/embed/Xiru4ctRS6Q?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=Xiru4ctRS6Q",
-          "ThumbUrl": "https://img.youtube.com/vi/Xiru4ctRS6Q/0.jpg"
-        }
-      ],
-      "Breed": "Hound/Retriever, Labrador",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Where do I even start? June (I’ve been calling her Junie) has only been here for two days and she is just such a lovely lady. \n\nSo far she really just wants to be with people; she is the best snuggle buddy and is very content to curl up next to me on the couch for a snooze. Her first day with me was her first day ever away from her siblings, but she was very brave for all of it: the long transport from Alabama to Wisconsin, the short drive to my apartment, some brief time spent outside near my busy street, a bath, and more. After some initial protesting, she settled in her crate and slept all the way through the night without a peep. She had one small accident on Day 1 but has been perfect about pottying outside since.\n\nSo far, her only real fear is doors, which I know she’ll tackle with enough encouragement. Right now I’m carrying her because we live in an apartment with multiple doors to get outside, but we will start practicing the doors soon. Other than that, she really doesn’t care about much of anything. She doesn’t react to other dogs, strangers on the street, or even cars driving by. When she’s on a leash outside she is constantly looking up at me, which is going to make training an absolute breeze for whoever is lucky enough to adopt her. \n\nI have a senior dog who has never had to share his home with another dog before, so for his comfort I’m crating her a little bit here and there during the day (it’s also just good practice for her). She is a little dramatic at first but eventually settles in, especially with the help of a YouTube video or podcast on my iPad. To be honest, I think she’d be totally fine to roam; she doesn’t seem to care about anything in my home and isn’t a chewer as of yet. As long as she’s here she’ll be crated at a minimum while I leave the house just as a safety precaution.\n\nShe is a seriously fun and easy little puppy and I think she could go just about anywhere, even a first time dog owner. She is extremely respectful of my own dog (a Newfoundland mix multiple times her size) and is happy to relax across the room from him. I think she’d do great as a solo dog or with a buddy. So much fun in a small/medium-sized package!",
-      "LastIntakeUnixTime": "1782591240",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783602208"
     },
     {
       "ID": "3620",
@@ -3792,6 +3629,112 @@
       "LastUpdatedUnixTime": "1783600172"
     },
     {
+      "ID": "3596",
+      "Internal-ID": "213786021",
+      "Name": "Bonsai",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "17",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775019600,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/28be20394e959fc40cf38f221841ac70/a7fec27255a0130a522957d3a26524d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d172e3a9ba1c21798687227541b1789/ad364bc92c7dad2d82943e6741a1ed2d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ff79fea5f1a4a5f2b2d0fb0ff2ad97a/f2f6d7bf093d64b395acb49df3da5657.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b060991b5b5bbff925468914cdebe05/93e1bc629822deda4fa83389dfd2535f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f44e696cd08665766e402859cfede681/edd8922d9bf92b55d6431cb5f4a48154.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5a41740a0f34c50a654b9886761fbcb4/5be2dffbb88efc7573cde36186d8fb9b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6305f42af4912abe035679b51a588546/11ca95f2e711c0d477806d53350f0663.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dc5a8c2dcf2024bc306ac850468a9b2d/045dee757012fd8341e2d84a3f2fa61c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8d3a9c67ab995bfd35de3daf7cb712a/2f38f2566bda4bcd97f1ed414acbd79c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2e7fef7518dae5866c4dfb7a54065b31/527cb7e2604594b1867de41b49bfa2fd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4e3b1f6230dab2d5de3faa9b3902bc95/b57c13c3310cf56dcc03ff17b3138cc6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Although he was born on April Fool’s Day, Bonsai is already proving he’ll be no joke when it comes to becoming someone’s loyal companion for life.\n\nThis sweet boy is happiest when he’s close to his people. He loves to be held, snuggle in your lap, and shower you with the gentlest little kisses. Bonsai has that rare “velcro dog” personality - the kind of puppy who wants to be part of everything you do and will happily follow you from room to room just to be near you.\n\nOf course, he’s still a puppy, so he has plenty of playful energy too! He loves playing with other dogs, exploring the world around him, and then crashing for a well-earned nap. Bonsai truly lives by the motto: play hard, nap hard.\n\nHe’s doing wonderfully with crate training, settling down quickly for naps and bedtime, and he’s making great progress with potty training. He also gets along beautifully with people, dogs, and cats.\n\nThere’s something extra special about Bonsai. Even at just two months old, he already has a devoted, loyal nature that makes you feel like you’ve known him forever. It’s easy to imagine him growing into the kind of dog who will greet you at the door every day, curl up beside you every evening, and become your shadow in the very best way.\n\nIf you’ve been hoping for a puppy who will be equal parts adventure buddy, cuddle expert, and lifelong best friend, Bonsai might just be your perfect match.\n\nFair warning: once you meet him, it’s going to be very hard not to fall in love.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783651394"
+    },
+    {
       "ID": "3600",
       "Internal-ID": "213786025",
       "Name": "Joe Pye",
@@ -4274,6 +4217,63 @@
         }
       ],
       "LastUpdatedUnixTime": "1783429871"
+    },
+    {
+      "ID": "3619",
+      "Internal-ID": "213991905",
+      "Name": "June",
+      "LitterGroupId": 9541475,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "20.7",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763791200,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9529e2195cd13e25d568fb310a91f1fa/f60b97cd5a7f9ce611f71445ab90f15f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f411015cac7306e54f17d3e7be84b1dd/bfccb21648a3c95ec9d954f91b3a08b4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/019993c495e854f7a6426ef414de8d3f/da1f52ec85bde1414a2785ed71e588ad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1b6b382c9d6e64a43b8eed1e3b561b0/5486af56d436ad359e987c77067a71d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3a726f5dc6267f662b1ff23e7c65b08a/93e4d28026cde57bad9b4094850755c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98faaa30901eac390eeadf62caf7e09b/a22927b54e166ab17e9ca3240a8632cc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/adb9293d7722bfaf8c352ec1a44351ec/a8f8824b9ef8fceed9a810d8e02f343b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/739e7a74c0a550a9cc4fc2de9d9d322f/dcdec4177ff61b3f1a37a8db15d267dd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d7dae9cbce3de938f31bae9c85a41cf/184f60c747ad6188c5ad06ce22f21e91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/670ee9b2d94b056856fa24db8770aba1/bbe52eba46262fa36a695a870434e656.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "Xiru4ctRS6Q",
+          "EmbedUrl": "//www.youtube.com/embed/Xiru4ctRS6Q?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=Xiru4ctRS6Q",
+          "ThumbUrl": "https://img.youtube.com/vi/Xiru4ctRS6Q/0.jpg"
+        }
+      ],
+      "Breed": "Hound/Retriever, Labrador",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Where do I even start? June (I’ve been calling her Junie) has only been here for two days and she is just such a lovely lady. \n\nSo far she really just wants to be with people; she is the best snuggle buddy and is very content to curl up next to me on the couch for a snooze. Her first day with me was her first day ever away from her siblings, but she was very brave for all of it: the long transport from Alabama to Wisconsin, the short drive to my apartment, some brief time spent outside near my busy street, a bath, and more. After some initial protesting, she settled in her crate and slept all the way through the night without a peep. She had one small accident on Day 1 but has been perfect about pottying outside since.\n\nSo far, her only real fear is doors, which I know she’ll tackle with enough encouragement. Right now I’m carrying her because we live in an apartment with multiple doors to get outside, but we will start practicing the doors soon. Other than that, she really doesn’t care about much of anything. She doesn’t react to other dogs, strangers on the street, or even cars driving by. When she’s on a leash outside she is constantly looking up at me, which is going to make training an absolute breeze for whoever is lucky enough to adopt her. \n\nI have a senior dog who has never had to share his home with another dog before, so for his comfort I’m crating her a little bit here and there during the day (it’s also just good practice for her). She is a little dramatic at first but eventually settles in, especially with the help of a YouTube video or podcast on my iPad. To be honest, I think she’d be totally fine to roam; she doesn’t seem to care about anything in my home and isn’t a chewer as of yet. As long as she’s here she’ll be crated at a minimum while I leave the house just as a safety precaution.\n\nShe is a seriously fun and easy little puppy and I think she could go just about anywhere, even a first time dog owner. She is extremely respectful of my own dog (a Newfoundland mix multiple times her size) and is happy to relax across the room from him. I think she’d do great as a solo dog or with a buddy. So much fun in a small/medium-sized package!",
+      "LastIntakeUnixTime": "1782591240",
+      "Attributes": [
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783652115"
     },
     {
       "ID": "3624",
