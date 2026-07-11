@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T16:45:47Z",
-  "count": 57,
+  "updated": "2026-07-11T17:47:52Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -3089,7 +3089,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "54",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1562562000,
@@ -3107,7 +3107,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1783781902",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1783781953"
+      "LastUpdatedUnixTime": "1783790201"
     },
     {
       "ID": "3632",
@@ -3212,6 +3212,41 @@
       "LastIntakeUnixTime": "1783716738",
       "Attributes": [],
       "LastUpdatedUnixTime": "1783717145"
+    },
+    {
+      "ID": "3634",
+      "Internal-ID": "214083631",
+      "Name": "Brittany",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1720674000,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fc57ab28f762d3082893217bd7b57801/ab67f1652bdf560fccc678fa8e640556.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/fc57ab28f762d3082893217bd7b57801/ab67f1652bdf560fccc678fa8e640556.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pointer, German Shorthaired",
+      "Color": "Chocolate/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1783789783",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1783790503"
     },
     {
       "ID": "3591",
