@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T01:56:34Z",
+  "updated": "2026-07-11T05:10:42Z",
   "count": 56,
   "animals": [
     {
@@ -487,93 +487,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783706437"
-    },
-    {
-      "ID": "1395",
-      "Internal-ID": "213179009",
-      "Name": "Alfie (fka Blueberry)",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "69.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1757134800,
-      "Age": 10,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png",
-        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4fbe54def095fb00a9e60d046b20be76/14ac958e7c082ee87ac6de4f6cd21342.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e31d2169cf2b6c167f3a9b6452c4e5ee/615ed4fd6173ec49d86ff5eda7a77308.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dab6d9a7149b4b2bffa1e084959c1e1f/7ae461f881477bd0c63d033b8d5b438f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/753d65584876a49c4e5e2203f05debcf/7e879cdb70edb315066cbc3507b41c1e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/21191607d21b2646d7a9ff3fa4db8b4b/6e1bca993dbaf74b9399fd2ea6fc993c.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian",
-      "Color": "Black/Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Alfie is a sweet and handsome puppy who is looking for a family who will play with him and snuggle! He is fully crate trained and potty trained and knows how to sit and lie down. \n\nInteractions with other dogs:\nAlfie loves other dogs and loves to wrestle and chase our 2 year old lab mix. Once he is done playing he loves to snuggle or chew on a bone. He has also been to doggie daycare and got along great with the other dogs there. \n\nWalking on leash: \nAlfie is a great walker. He typically wears a harness and is happy to see other dogs on walks.\n\nCats: \nAlfie has lived with cats in the past and was OK at first but then became too playful so he may do best in a home without cats. \n\nKids:\nAlfie previously lived in a home with small children and due to his age and size he struggled with interactions with the children in the home. He would do best in a home with no children or older dog savvy children. \n\nAlfie is a wonderful adolescent puppy who is looking for a forever home with a comfy couch and lots of love!",
-      "LastIntakeUnixTime": "1781640900",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783516166"
     },
     {
       "ID": "3200",
@@ -3434,6 +3347,93 @@
         }
       ],
       "LastUpdatedUnixTime": "1783711316"
+    },
+    {
+      "ID": "1395",
+      "Internal-ID": "213179009",
+      "Name": "Alfie (fka Blueberry)",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "69.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1757134800,
+      "Age": 10,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/46dd6910d42751cb21e50ba93e26ccf4/f7fcbf9f4ec4c66a9980453100879701.png",
+        "https://new-s3.shelterluv.com/profile-pictures/30f980c44ce7472f6a1fc7d8d1094498/76e14fe415880fe8509318bdf33f75b1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4fbe54def095fb00a9e60d046b20be76/14ac958e7c082ee87ac6de4f6cd21342.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e31d2169cf2b6c167f3a9b6452c4e5ee/615ed4fd6173ec49d86ff5eda7a77308.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dab6d9a7149b4b2bffa1e084959c1e1f/7ae461f881477bd0c63d033b8d5b438f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/753d65584876a49c4e5e2203f05debcf/7e879cdb70edb315066cbc3507b41c1e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/21191607d21b2646d7a9ff3fa4db8b4b/6e1bca993dbaf74b9399fd2ea6fc993c.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Black/Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Alfie is a sweet and handsome puppy who is looking for a family who will play with him and snuggle! He is fully crate trained and potty trained and knows how to sit and lie down. \n\nInteractions with other dogs:\nAlfie loves other dogs and loves to wrestle and chase our 2 year old lab mix. Once he is done playing he loves to snuggle or chew on a bone. He has also been to doggie daycare and got along great with the other dogs there. \n\nWalking on leash: \nAlfie is a great walker. He typically wears a harness and is happy to see other dogs on walks.\n\nCats: \nAlfie has lived with cats in the past and was OK at first but then became too playful so he may do best in a home without cats. \n\nKids:\nAlfie previously lived in a home with small children and due to his age and size he struggled with interactions with the children in the home. He would do best in a home with no children or older dog savvy children. \n\nAlfie is a wonderful adolescent puppy who is looking for a forever home with a comfy couch and lots of love!",
+      "LastIntakeUnixTime": "1781640900",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783739751"
     },
     {
       "ID": "3562",
