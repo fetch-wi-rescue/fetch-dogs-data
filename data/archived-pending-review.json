@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T23:52:37Z",
+  "updated": "2026-07-11T01:56:34Z",
   "animals": [
     {
       "ID": "3458",
@@ -899,6 +899,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-10T23:52:37Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3600",
+      "Name": "Joe Pye",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/262c4cd5f197d6c6cbf5ec433fe89c48/b525190a1f50b28950e3dadaf0a7d179.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-11T01:56:34Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3624",
+      "Name": "Dublin",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-11T01:56:34Z",
       "status": "pending"
     }
   ]

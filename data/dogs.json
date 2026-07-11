@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T23:52:37Z",
-  "count": 58,
+  "updated": "2026-07-11T01:56:34Z",
+  "count": 56,
   "animals": [
     {
       "ID": "2754",
@@ -383,7 +383,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783723177"
+      "LastUpdatedUnixTime": "1783729084"
     },
     {
       "ID": "2582",
@@ -2593,7 +2593,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783630945"
+      "LastUpdatedUnixTime": "1783729133"
     },
     {
       "ID": "3625",
@@ -3726,124 +3726,6 @@
       "LastUpdatedUnixTime": "1783709872"
     },
     {
-      "ID": "3600",
-      "Internal-ID": "213786025",
-      "Name": "Joe Pye",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "19",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1775019600,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/262c4cd5f197d6c6cbf5ec433fe89c48/b525190a1f50b28950e3dadaf0a7d179.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/262c4cd5f197d6c6cbf5ec433fe89c48/b525190a1f50b28950e3dadaf0a7d179.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fce3c9b72d52696bb92cde64fd81b65/964d151c07a60305c756a2308a05ad86.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/20d4ad132bc104c2480ccee5e0878869/a70fbb738421d479dc326ddcb9f8a492.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed0d715b88647c28e43f0282bfe47b7b/4b208a5ab70317abd33e2251c586faa1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/85d6630207fda1cb2b82536bf38905ea/25f051745e566df5ebf717ad1de1ca06.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e56ff5fc004161e365eb74b6f6f72d7e/1a65fdd67c7084a143effbaf496fa5e0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/02d583370f917f0a3292084c502074c5/2ad262ea946482098c6e8ed1c7b64ca2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3f1321727d392725150523d9e6034f13/c7f13f34cca09bb71256ef1edba473cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/95e118ad0c25ace2f927323c1c9a214d/9666684e0d3f1063348b50ae4a2038f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/375142e7e3da00b5c50c73b1692226e4/a319c9fb3780e1c0c4c083d2b9f1ad14.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3185ed914764df6b855f6f1ceb32918/f078314bfa17324a5cdb5d9276e3725b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a692fe6a66ea05854b85075618143aa5/9c490cfa3db5ffe5927342c117308e70.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e758918dd90deac7f40c2f02ab20f5e9/af984275d5c1598b1e473c0555ffd9be.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f8585025a386f701cdda6e3ad8cc129a/447789fdbbd11c2bb3b3d53be3640f0f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8e5397036cc42ac20d50c042387bd73/808a3246218b2d56c18b908ca810e436.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d0e867de7afc9cce266fb8222c963359/4764173cd5fb9092191a0ae8589492fa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a3c52fa37aca86f637da0c620fa7a09/8a4fee806e54ab0e3d5801736d7a27e2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1b6da44aac2d84430e459c6e8f71aa34/af92d1b666178959321e311f7377ab4d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/43ea85e0656ddabac49f1a2566ca5e4e/ac3cbf1fc8f24237c1d4a2cb82ae2455.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4904bfc88c78aa8e5e5b794b420fc67a/ee087ef4538effde896e892f039efe16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9329fcfe511316fd15f63a87d179816/af7a41560e75ebb9e7ebc3a25717fe1f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fef41b0896fcad746c2c2eaed9653dad/79481553fd5b725e16bbc670c23ab189.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a4761859f4d38cfd54dc1f65359a0940/50e3e6c23f359c95389495f78bc197ec.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Joe Pye is a charming boy with a gentle spirit and a heart that’s all-in on love. His name might come from a wildflower, but this boy is anything but wild - he’s thoughtful, affectionate, and happiest when he’s close to someone who makes him feel safe.\n\nJoe Pye has that perfect mix of puppy curiosity and calm sweetness. He watches the world with soft eyes, approaches new friends with a wagging tail, and melts into you the moment you offer a cuddle. \nHe’s the kind of dog who wants to bond deeply and be someone’s steady, loyal companion.\n\nJoe Pye is still young and ready to grow into the amazing dog he’s meant to be. With patience, kindness, and a loving home, he’ll blossom into the kind of companion who makes every day brighter.\nIf you’re looking for a loyal friend with a tender heart and a calm, loving presence, Joe Pye is ready to meet you.\n",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783720447"
-    },
-    {
       "ID": "3606",
       "Internal-ID": "213855267",
       "Name": "Sunrise",
@@ -4218,95 +4100,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783708968"
-    },
-    {
-      "ID": "3624",
-      "Internal-ID": "213991913",
-      "Name": "Dublin",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1779253200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6315d295648b97171185e2358f3b887e/c1ef06bb161f64ad37fa5cd760f79aaa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd4d08de4f7c27cac6943e87b133675d/ed5c7acdfe22c57ed9561ad9cea7dc6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/41459fb089a8964795acd6dc9124fc0f/e434e37902fbe0c11798328d81786e62.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9cdfd360f4852030ea161873657ea64/d844166fd57956678c8f95f527079ca9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dd9765642f1d59fdd95db2c1d976196/efbd8438dc4c44ca0416129b13ee6630.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc2e3cc5fd9da1e58dba66f6bdae885e/586954bd92c64c27a8b087e2104e957f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/33b851b68a7d232af41b0e1fbc3bfd04/2553c37c5005de96fca3d659a49181f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/53b2b7412bede84ee60ca982935ebe1a/010b820c4596a385b5ad1e0976e1d230.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/903f96fc68fea9d2e3145c4cab9de773/3f42ac42e283afa1261b3bed8b75af58.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Dublin is stepping into life like a brand‑new golfer walking onto the green for the very first time - bright‑eyed, wiggly, and absolutely thrilled for whatever comes next. This little guy is full of charm, curiosity, and that irresistible puppy bounce that makes every day feel like a sunny day on the course.\n\nDublin loves exploring, sniffing, and practicing his “zoomie drives” across the yard. Every toy is a new challenge, every leaf is a discovery, and every human is a potential best friend. He’s playful, sweet, and always ready to trot along like your tiny caddy-in-training.\n\nHe’s learning all the basics - how to follow his people, how to sit for attention, and how to keep his little paws out of the rough. With patience, positive training, and lots of love, Dublin will grow into a confident, loyal companion who’s always ready to walk the fairway right beside you.\n\nDublin is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. He may be small now, but he’s got big potential and a heart as warm as a summer afternoon on the course.\n\nIf you’re ready to help a sweet little boy start his game strong, Dublin is ready to join your team. He’s hoping his forever home will be his hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783630946"
     },
     {
       "ID": "1442",
