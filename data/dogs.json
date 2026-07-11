@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T14:33:37Z",
-  "count": 56,
+  "updated": "2026-07-11T15:46:56Z",
+  "count": 57,
   "animals": [
     {
       "ID": "2754",
@@ -3078,6 +3078,36 @@
         }
       ],
       "LastUpdatedUnixTime": "1783533041"
+    },
+    {
+      "ID": "3628",
+      "Internal-ID": "214042195",
+      "Name": "Callie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1562562000,
+      "Age": 84,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Pembroke Welsh",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1783781902",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1783781953"
     },
     {
       "ID": "3632",
