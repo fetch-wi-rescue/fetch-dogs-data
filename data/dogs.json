@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T22:11:50Z",
-  "count": 58,
+  "updated": "2026-07-11T23:22:29Z",
+  "count": 57,
   "animals": [
     {
       "ID": "2754",
@@ -2333,93 +2333,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783630944"
-    },
-    {
-      "ID": "3622",
-      "Internal-ID": "213991909",
-      "Name": "Lucky",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779253200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ef6f5b10668ebfcb68cb6f2a3c25eb63/98e9c298dd7a9fc3ba8c906189ae30e3.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ef6f5b10668ebfcb68cb6f2a3c25eb63/98e9c298dd7a9fc3ba8c906189ae30e3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/263bbb0f7787835a37539098bcfa8277/22b2b5011d14633ec035256fe1e03c54.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4aeaee9765724cc5a65478c7c04e5b0b/2f1db0d062523ddcedc26da4a7d6ef23.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/610c12f62f854cda63c2b246ce7f604f/027dbb5f1a1a041606cf2866d09cdf58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f6c3dc4a9c57be25654a189f4704fa07/7fe11af72c6def887d89ceab945913d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9850ed20bb7c8800f2e968efab8e0f54/154d782eefa019f29f6879110eacf286.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/382c0f537bde56da716b6cde3e931994/3d604395192da607648bbd7df4cee4ee.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Lucky may only be 8 weeks old, but this little guy is already winning hearts like a pro. With his bright eyes, wiggly tail, and “let’s‑go‑explore” attitude, he approaches life the same way a golfer steps up to the tee - full of enthusiasm and ready to take his best shot.\n\nHe’s playful, curious, and always on the move, trotting around like he’s checking out every hole on the course. Lucky loves toys, loves people, and loves discovering new things. And when he’s done practicing his puppy swings, he’s more than happy to curl up for a cozy nap in the clubhouse (your lap).\n\nLucky is learning all the basics - how to follow his humans, how to sit for attention, and how to keep his tiny paws out of the sand traps. With patience, positive training, and lots of love, he’ll grow into a confident, loyal companion who’s always ready to walk the fairway by your side.\n\nHe’s looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. Lucky may be small now, but he’s got big potential and an even bigger heart.\n\nIf you’re ready to help a sweet little boy start his game strong, Lucky is ready to join your team. He’s hoping his forever home will be his hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783630945"
     },
     {
       "ID": "3623",
