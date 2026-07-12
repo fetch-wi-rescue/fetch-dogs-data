@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T15:52:31Z",
+  "updated": "2026-07-12T16:50:42Z",
   "count": 57,
   "animals": [
     {
@@ -1041,7 +1041,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "36.1",
+      "CurrentWeightPounds": "42",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1765951200,
@@ -1168,7 +1168,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783818017"
+      "LastUpdatedUnixTime": "1783873838"
     },
     {
       "ID": "3541",
@@ -1520,7 +1520,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783708267"
+      "LastUpdatedUnixTime": "1783872739"
     },
     {
       "ID": "3579",
@@ -3079,7 +3079,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "62",
+      "CurrentWeightPounds": "62.4",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1595566800,
@@ -3113,7 +3113,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1783533041"
+      "LastUpdatedUnixTime": "1783873171"
     },
     {
       "ID": "3628",
@@ -3530,7 +3530,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "3.9",
+      "CurrentWeightPounds": "6.2",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
@@ -3590,7 +3590,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783711689"
+      "LastUpdatedUnixTime": "1783872494"
     },
     {
       "ID": "3595",
@@ -4012,7 +4012,7 @@
       "Sex": "Female",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "3.8",
+      "CurrentWeightPounds": "6.6",
       "Size": "Small (0-24)",
       "Altered": "Unknown",
       "DOBUnixTime": 1776920400,
@@ -4082,7 +4082,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783711792"
+      "LastUpdatedUnixTime": "1783872564"
     },
     {
       "ID": "3590",
