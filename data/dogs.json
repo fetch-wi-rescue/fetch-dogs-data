@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T00:59:58Z",
+  "updated": "2026-07-12T04:28:40Z",
   "count": 57,
   "animals": [
     {
@@ -1168,7 +1168,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783813318"
+      "LastUpdatedUnixTime": "1783818017"
     },
     {
       "ID": "3541",
@@ -3019,8 +3019,49 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1783781902",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1783790201"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783818714"
     },
     {
       "ID": "3632",
