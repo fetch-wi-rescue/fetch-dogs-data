@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T22:48:21Z",
+  "updated": "2026-07-13T23:45:24Z",
   "count": 58,
   "animals": [
     {
@@ -2000,85 +2000,6 @@
       "LastUpdatedUnixTime": "1783876168"
     },
     {
-      "ID": "3605",
-      "Internal-ID": "213855266",
-      "Name": "Skip",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747769699,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
-      "LastIntakeUnixTime": "1781020577",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783711027"
-    },
-    {
       "ID": "3620",
       "Internal-ID": "213991906",
       "Name": "Penelope",
@@ -2174,92 +2095,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783712120"
-    },
-    {
-      "ID": "3621",
-      "Internal-ID": "213991908",
-      "Name": "Clover",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779253200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3d5644c1aefaec635ff87499d4136983/58673f72debc17b64994352ef6c992a0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d02576b382354a3481cd0eef4a48a003/e6537c1e6cfd455b57f9b8038482eb1b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc68bac2e3496a89a7c456f8b19e8bb1/9715a0224e9c7340be8dc7230c64e243.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d7fbdd6c81667969d83eed19c73f75c3/ea0c0f6813bb2291f8754647c316690c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/72ff2d87fbac00512a968474c62ca192/89f6e371546468400110ff4da694a280.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/Tan",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Clover is already proving she’s got the spirit of a tiny golf prodigy. With her bright eyes, bouncy steps, and “let’s explore everything” attitude, she approaches life like she’s stepping onto the green for the very first time - full of excitement and ready to play.\n\nClover is curious, joyful, and always on the move. She trots around like she’s checking out every hole on the course, sniffing new things, chasing toys, and practicing her puppy zoomies (her signature drive). And when she’s done showing off her moves, she’s more than happy to curl up for a cozy clubhouse nap right beside her people.\n\nShe’s learning all the basics - how to follow her humans, how to sit for attention, and how to keep her tiny paws out of the rough. With patience, positive training, and lots of love, Clover will grow into a confident, affectionate companion who’s always ready to walk the fairway with you.\n\nClover is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. She may be small now, but she’s got big potential and a heart as sweet as a sunny day on the course.\n\nIf you’re ready to help a little girl start her game strong, Clover is ready to join your team. She’s hoping her forever home will be her hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783866886"
     },
     {
       "ID": "3623",
@@ -2518,124 +2353,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783866776"
-    },
-    {
-      "ID": "3630",
-      "Internal-ID": "214061040",
-      "Name": "Alistair",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "51",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1736229600,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/99dbfbce752efed3b28f4c126d092b2d/34a3357db604f9690bf3a97981ff245d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/34c5452260d9f607080c19a791dfc05a/21c9e9f8efcd20a3cbafae36430a0128.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/936024a45ae848ff1d998575efa10216/56e9903297eafda6cf9a89f84f45b1ae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27af2f11c43dfca767630baefceb329c/38302625fefe9bc3ec0012f710a5801d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/609c9d9783a6f181013003da3f1903a1/3bee516d915e33dabcff0ca45ca9609c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/827b24223aec8ef9990b2d40d424fd2b/91fd400725ab2b5ec89e2089499ffdd3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd4ca7f51a5c0d25175370c1bb3e493e/7f3e0d87e134493cbb5a538004da9088.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Collie/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Alistair is a soft‑spoken sweetheart who takes life at his own pace. He’s a thoughtful, cautious guy who prefers to hang back and watch before he joins in. Once he feels safe, you’ll see a calm, steady companion who appreciates gentle people and predictable routines.\n\nAlistair doesn’t seem to mind whether he lives with dogs or cats in his current foster home - he’s easygoing that way. However, he shouldn’t live with cats who want nothing to do with him; he’s respectful, but he’s also curious, and uninterested cats may find him a bit too forward.\n\nLeashes are still a mystery to him, so he’ll need patience and slow introductions as he learns what they’re all about. The good news is he rides beautifully in the car, settling in quietly and taking comfort in the calm environment.\n\nAlistair is looking for a home that understands shy dogs and celebrates small steps forward. With kindness, time, and a peaceful environment, he’ll grow into a devoted, gentle companion who brings a quiet kind of joy to the people who love him.\n\nIf you’re drawn to the sweet, understated dogs who bloom with trust, Alistair is ready to meet you.",
-      "LastIntakeUnixTime": "1783463969",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783644747"
     },
     {
       "ID": "3631",
@@ -3067,7 +2784,7 @@
       "Color": "Golden",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Callie is a sweet, easy-going girl looking for a loving new home after her owner moved into a nursing home. She can be a little cautious when meeting new people, but she warms up quickly and becomes very affectionate once she feels comfortable.\n\nCallie is indifferent to other dogs and has done well free-roaming alongside a calm canine companion, but she would also be perfectly happy as the only dog in the home. She is gentle with children, though because she can be startled by loud noises and sudden movements, she would be happiest in a quieter home.\n\nCallie is currently overweight, so she's not up for long hikes or strenuous adventures—especially in the summer heat. Instead, she enjoys leisurely walks, chewing on her favorite toys, and curling up for long naps (either on the cool floor or the couch). \nShe is quiet, trustworthy, and does well free-roaming in an apartment. She is afraid of the apartment elevators, so she just takes the stairs at this time.\n\nCallie would make an excellent companion for a first-time dog owner looking for a loyal, easy-going, affectionate best friend.",
       "LastIntakeUnixTime": "1783781902",
       "Attributes": [
         {
@@ -3112,6 +2829,124 @@
         }
       ],
       "LastUpdatedUnixTime": "1783982020"
+    },
+    {
+      "ID": "3630",
+      "Internal-ID": "214061040",
+      "Name": "Alistair",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "51",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/99dbfbce752efed3b28f4c126d092b2d/34a3357db604f9690bf3a97981ff245d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/34c5452260d9f607080c19a791dfc05a/21c9e9f8efcd20a3cbafae36430a0128.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/936024a45ae848ff1d998575efa10216/56e9903297eafda6cf9a89f84f45b1ae.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/27af2f11c43dfca767630baefceb329c/38302625fefe9bc3ec0012f710a5801d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/609c9d9783a6f181013003da3f1903a1/3bee516d915e33dabcff0ca45ca9609c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/827b24223aec8ef9990b2d40d424fd2b/91fd400725ab2b5ec89e2089499ffdd3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bd4ca7f51a5c0d25175370c1bb3e493e/7f3e0d87e134493cbb5a538004da9088.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Alistair is a soft‑spoken sweetheart who takes life at his own pace. He’s a thoughtful, cautious guy who prefers to hang back and watch before he joins in. Once he feels safe, you’ll see a calm, steady companion who appreciates gentle people and predictable routines.\n\nAlistair doesn’t seem to mind whether he lives with dogs or cats in his current foster home - he’s easygoing that way. However, he shouldn’t live with cats who want nothing to do with him; he’s respectful, but he’s also curious, and uninterested cats may find him a bit too forward.\n\nLeashes are still a mystery to him, so he’ll need patience and slow introductions as he learns what they’re all about. The good news is he rides beautifully in the car, settling in quietly and taking comfort in the calm environment.\n\nAlistair is looking for a home that understands shy dogs and celebrates small steps forward. With kindness, time, and a peaceful environment, he’ll grow into a devoted, gentle companion who brings a quiet kind of joy to the people who love him.\n\nIf you’re drawn to the sweet, understated dogs who bloom with trust, Alistair is ready to meet you.",
+      "LastIntakeUnixTime": "1783463969",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783983304"
     },
     {
       "ID": "3633",
@@ -3484,7 +3319,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783871312"
+      "LastUpdatedUnixTime": "1783985962"
     },
     {
       "ID": "1395",
@@ -3865,6 +3700,171 @@
         }
       ],
       "LastUpdatedUnixTime": "1783963384"
+    },
+    {
+      "ID": "3605",
+      "Internal-ID": "213855266",
+      "Name": "Skip",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747769699,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
+      "LastIntakeUnixTime": "1781020577",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783983426"
+    },
+    {
+      "ID": "3621",
+      "Internal-ID": "213991908",
+      "Name": "Clover",
+      "LitterGroupId": 9541476,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779253200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3d5644c1aefaec635ff87499d4136983/58673f72debc17b64994352ef6c992a0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d02576b382354a3481cd0eef4a48a003/e6537c1e6cfd455b57f9b8038482eb1b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc68bac2e3496a89a7c456f8b19e8bb1/9715a0224e9c7340be8dc7230c64e243.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d7fbdd6c81667969d83eed19c73f75c3/ea0c0f6813bb2291f8754647c316690c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/72ff2d87fbac00512a968474c62ca192/89f6e371546468400110ff4da694a280.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/Tan",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Clover is already proving she’s got the spirit of a tiny golf prodigy. With her bright eyes, bouncy steps, and “let’s explore everything” attitude, she approaches life like she’s stepping onto the green for the very first time - full of excitement and ready to play.\n\nClover is curious, joyful, and always on the move. She trots around like she’s checking out every hole on the course, sniffing new things, chasing toys, and practicing her puppy zoomies (her signature drive). And when she’s done showing off her moves, she’s more than happy to curl up for a cozy clubhouse nap right beside her people.\n\nShe’s learning all the basics - how to follow her humans, how to sit for attention, and how to keep her tiny paws out of the rough. With patience, positive training, and lots of love, Clover will grow into a confident, affectionate companion who’s always ready to walk the fairway with you.\n\nClover is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. She may be small now, but she’s got big potential and a heart as sweet as a sunny day on the course.\n\nIf you’re ready to help a little girl start her game strong, Clover is ready to join your team. She’s hoping her forever home will be her hole‑in‑one.",
+      "LastIntakeUnixTime": "1782570600",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783984762"
     },
     {
       "ID": "3629",
