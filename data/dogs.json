@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T19:57:15Z",
-  "count": 58,
+  "updated": "2026-07-13T20:55:35Z",
+  "count": 59,
   "animals": [
     {
       "ID": "2754",
@@ -1168,7 +1168,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783962286"
+      "LastUpdatedUnixTime": "1783975178"
     },
     {
       "ID": "3541",
@@ -3302,6 +3302,97 @@
       "LastIntakeUnixTime": "1783969516",
       "Attributes": [],
       "LastUpdatedUnixTime": "1783970131"
+    },
+    {
+      "ID": "3637",
+      "Internal-ID": "214093705",
+      "Name": "Cricket",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1770962400,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1783975178",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783975330"
     },
     {
       "ID": "3591",
