@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T20:55:35Z",
-  "count": 59,
+  "updated": "2026-07-13T21:50:03Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -1032,55 +1032,48 @@
       "LastUpdatedUnixTime": "1783708009"
     },
     {
-      "ID": "3528",
-      "Internal-ID": "213534591",
-      "Name": "Natalia",
-      "LitterGroupId": 9497863,
+      "ID": "3532",
+      "Internal-ID": "213587853",
+      "Name": "Henry",
+      "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Female",
+      "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "42",
-      "Size": "Large (60-99)",
+      "CurrentWeightPounds": "31",
+      "Size": "Medium (25-59)",
       "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d73f4ad858eb3422154b0616fe7fa246/c8b1df8b017f483ba77235c0939d0e6f.jpeg",
+      "DOBUnixTime": 1743051600,
+      "Age": 15,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/32b6a5e35194b888debb06167b61e9a2/6c2dabc7fd0b7bbc856c2c572be20110.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d73f4ad858eb3422154b0616fe7fa246/c8b1df8b017f483ba77235c0939d0e6f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb7c214f25b6ea323efd110f7f679442/fafbbbb737e0579972940bb143302b21.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06d4b9368b1b9350bf5a7865db5aaf3c/b389780ffd3c1501aa2d4248e4f20f2f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9758767a0f3f9dffae825e57a6922ea/b93c07afe3ebd882eefa38266ab04682.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33b31195767c4c3acc5888513e33228d/6a0e8f88275ccdd8f1903f9e7373d1cc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aed5f2d20c683025643cd54ce6495d9f/b496fe4f719e423f82bd267dc988dfdd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de546201c84fb6ffaf3f03f4295f502b/63986e95c50d67f51548f4b460d658eb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f58a0f26598dbf75bb4a3e8a81f2ae7/29dc982e1f15fe42b4cf3066ca348e56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1da7b2ea8fb8b09eb3b81834e3719fb7/0d0e57fc3d99fdf4eb20f0d453100c87.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df1060b08ac9470af66ddd0d9b9c0584/ba99056b67bd4f3ead42e08c78faf9a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d314f9f5adc0a91b2bd49e8d700b4da9/e766e359ba46a73b86901c4810f296ea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57f074922eee719b55fc12c548c1f8ee/7576adcdda671153fbcdef73fa7a9fd5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/03950e4cb045f82b93f0485d237710d1/81f3d030ab87b4351629b49f11d2f364.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb90899e05ba840aa3670a995bd742f5/67d1c51f743b8a96a7ea23779e8d6674.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1ca69f904ad2363cd4288f333c8e40e/bdcd898fa76c9693b687477f04a83a36.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/91cb62c2db4d67f0e6a22f7882785b81/6d20477ea31147015d2dc0fc70c9418d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0c8d6dec50a87106992033270fe875b3/92e41255e33db0f0d81e144531c60c97.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5ea520ace38cf76e051bb1f72ae537a6/cccf97431918f0bf50713bba4427a250.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c8556e49c61efe623945f6b823898d7d/c86757020702f26a714906f2621b03c7.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/32b6a5e35194b888debb06167b61e9a2/6c2dabc7fd0b7bbc856c2c572be20110.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e99f97b7db5615ea0327b2460d0ab0b/cc61948fd1d8d4873a2fc570232d6675.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f31128787520550832dc5043bcdcd28/8c3745bc115ed130f77d8c90f7d0643f.jpeg"
       ],
       "Videos": [],
-      "Breed": "Hound/Mixed Breed (Large)",
-      "Color": "Black/White",
+      "Breed": "Beagle",
+      "Color": "White/Black",
       "Pattern": "Tricolor",
       "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Meet Natalia, the hound mix with floppy ears, a curious nose, and a heart full of sunshine. She wakes up every morning ready for joy - whether that means exploring the world with her puppy enthusiasm or curling up for a well‑earned nap afterwards.\nNatalia is the perfect mix of playful energy and gentle sweetness. She loves toys, treats, belly rubs, and anyone willing to be her friend. She’s smart, eager to learn, and already working hard on her puppy manners. With a little guidance and a lot of love, she’ll grow into the loyal, loving companion she’s meant to be.\nThoughtful and affectionate, Natalia takes in the world with wide, wondering eyes. She enjoys walks with lots of sniffs and quiet moments just as much as she loves making people smile.\nIf you’re looking for a pup who brings joy, warmth, and a whole lot of heart into your home, Natalia is ready to trot her way into your life.\n",
-      "LastIntakeUnixTime": "1777143060",
+      "Description": "Meet Henry!\nI’m a sweet, smart 1-year-old boy who is blossoming every single day! I had a bit of a rough start, which means I get startled by quick movements, but I am incredibly brave when I have a furry friend by my side. I love to do zoomies and take naps with my friends!\nMy Perfect Home:\n•\tAnother Dog: I need a patient, confident doggy sibling to show me the ropes and help me feel safe.\n•\tFenced Yard: Since I can be a bit of a flight risk, a secure, fenced yard is a must for me to safely run around!\n•\tSleeping Arrangements: I love sleeping right next to my friends, whether that's on a blanket on the floor or on a real bed!\nMy \"Works in Progress\":\n•\tMy Anxiety: I don't like being left alone or in a crate. As long as I have my furry buddies nearby, I'm a happy camper.\n•\tFabric Enthusiast: I love chewing on fabric (especially fluffy toys!). I’ll need lots of appropriate chew toys to keep me busy—and I might even try to \"help\" you fold the laundry!\n•\tPotty Training: I know the drill, but I still have occasional accidents. I’m looking for a patient human who can stick to a consistent schedule.\n•\tKitchen Inspector: I’m a counter-surf-in-training! I’m working on my manners and will figure out eventually that human food is not for me.\nI get along with cats, though the ones I’ve met haven't quite realized how charming I am yet! I can’t wait to find my forever family.\n\n7/13 Update: I now know the commands “sit, leave it, and down”!  I still like to steal laundry but i will drop it when you tell me to! \n\nI also love long walks and they sure tire me out!!\n",
+      "LastIntakeUnixTime": "1783218819",
       "Attributes": [
         {
           "Internal-ID": "294284",
@@ -1093,82 +1086,17 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
         },
         {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783975178"
+      "LastUpdatedUnixTime": "1783976206"
     },
     {
       "ID": "3541",
@@ -4857,73 +4785,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
-    },
-    {
-      "ID": "3532",
-      "Internal-ID": "213587853",
-      "Name": "Henry",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "31",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1743051600,
-      "Age": 15,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/32b6a5e35194b888debb06167b61e9a2/6c2dabc7fd0b7bbc856c2c572be20110.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/32b6a5e35194b888debb06167b61e9a2/6c2dabc7fd0b7bbc856c2c572be20110.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46464a7b55b5ad244c04645ce5688300/23b1b664f8f391ad414a6362b060620d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3bf192fbe34041cfb22eecb14bf8e7dc/e3e127ece61f86ac1a8de38d50a2496c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b95e5d83274105f94f8a2bcd47fb763d/97ae73b9cbbb6c6e548dfbe838ae0bea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b5af8c382b39b55c67743b55af0da13/af4575fe1a85c60f0e7151c34cf23041.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c56e8f2bfeb7d9f1f4ff764a8d4c19cb/ba101156bca80d8ba56958a051471514.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/00d1e72244a1a789188a9f8ee901c32a/283adc107652f0c79d77a6c2321eb69f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30ede261c8f53f6618cbc434405f7788/3635091860916dc35f5a92e8f5987e26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/26426d6a080028d883c91dd3b98c28bb/d829f775278b571d592ab2cdda4682e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/305356e48bd2a6b28837265ee38e67db/9e26e7e8a4b83f147d7465d735f7dd61.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e99f97b7db5615ea0327b2460d0ab0b/cc61948fd1d8d4873a2fc570232d6675.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f31128787520550832dc5043bcdcd28/8c3745bc115ed130f77d8c90f7d0643f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Update: I now know the commands “sit, leave it, and down”!  I still like to steal laundry but i will drop it when you tell me to! \n\nI also love long walks and they sure tire me out!!\n",
-      "LastIntakeUnixTime": "1783218819",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783871430"
     },
     {
       "ID": "3578",

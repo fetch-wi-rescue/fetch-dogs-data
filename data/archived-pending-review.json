@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:22:29Z",
+  "updated": "2026-07-13T21:50:03Z",
   "animals": [
     {
       "ID": "3458",
@@ -926,6 +926,15 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-11T23:22:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3528",
+      "Name": "Natalia",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d73f4ad858eb3422154b0616fe7fa246/c8b1df8b017f483ba77235c0939d0e6f.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-13T21:50:03Z",
       "status": "pending"
     }
   ]
