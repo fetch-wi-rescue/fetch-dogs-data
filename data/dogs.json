@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T18:27:02Z",
-  "count": 57,
+  "updated": "2026-07-13T19:57:15Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -3267,6 +3267,41 @@
       "LastIntakeUnixTime": "1783789783",
       "Attributes": [],
       "LastUpdatedUnixTime": "1783790503"
+    },
+    {
+      "ID": "3635",
+      "Internal-ID": "214092766",
+      "Name": "Luna",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1736488800,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1c576882eacdd36641e51199445ea1a6/ff9ff289fea95583b221149ee9adb5e3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1c576882eacdd36641e51199445ea1a6/ff9ff289fea95583b221149ee9adb5e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f05e3e8aacfe7c46d0313128c3abe802/b531248bb2ef2bfe7f5b5cc1826f7716.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188b6ad4acdb88516ecd62f8c0949b53/27aa9c3961620019ad98a28f61ab198b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fead608d533a983345ed24a4c689fca/dc1086019283b46e86b178db76202501.png",
+        "https://new-s3.shelterluv.com/profile-pictures/2ef2b1a1fc436fb5ffbf0dbe26892792/274fce4f4696127582e440aa3b3a11a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ec449ffa5471c3f3d98f9404f9402c7/193fd1c7384477c93ee77f591600eff8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68369517ccb6e819306403925bfec532/82c50f76e1c1cf0dce7df94ab97fb094.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White/Yellow",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1783969516",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1783970131"
     },
     {
       "ID": "3591",
