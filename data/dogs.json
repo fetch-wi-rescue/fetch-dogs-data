@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T23:45:24Z",
-  "count": 58,
+  "updated": "2026-07-14T01:48:12Z",
+  "count": 59,
   "animals": [
     {
       "ID": "2754",
@@ -663,100 +663,6 @@
       "LastUpdatedUnixTime": "1783525799"
     },
     {
-      "ID": "3452",
-      "Internal-ID": "213344900",
-      "Name": "Inoha",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1773378000,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fd6763cc31e2fd6b28a19586bbe39732/ffcc141cd3378ef088707b40be5e3604.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/fd6763cc31e2fd6b28a19586bbe39732/ffcc141cd3378ef088707b40be5e3604.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f62c225564c256e30751dcd7ede04460/d9fd0d1d1c68219c2a0ff842f444dc75.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1852bcd33c950edac0ff7f9df281043f/6398956d7adae6dd0f5fc8ae5aa2c72e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/58681088bf7f51cd713c89adda099e6a/549cdc2745ce785ec029c0f7f1fc184a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b37884bce5cf1e3b9a72cebdd113a28/264f967ea85f1b4f308e306fcb8eccba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/66c5b3782778d60ca8493525608d04b1/3114a2157b81f7f58d12e1f6b2f34ce1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fb4e97640093e4368125febefb116af4/7488455105a012c4796f3382a02d6f29.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/610c7a3f161b529029de421ca713e1a4/8818bfdae284f465f911e1a9a1ec8a86.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a6f42b3b3adc489f8323003fb9894bc/10e26268e20b559d61eb61fc48c86058.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9fb440638aa161a5b910e6f6a0513185/334faa8bd9919dbb0c94d074fb690e8b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/896c275887688c5a9c21c9d18dfcb3b7/92f904b5e160b434b40fd544432dfe8e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8734e4384ffdb0be72b95f6aa3ea58bb/368777eed4a321c9136a9dad853ae9b6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/feeddaab26b4c0249c3b59ad629b9e71/860068fbe2695d32fbcf4d1ef6d7f2b2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9164fc6bfc647b1341268c6a7bd9917f/d0f06637803f7891ba75e6cb3d42f24c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/50fa5a76eade2845ef96e1baea8e65cc/b1e4abc58d2ec435dcf9554aab9a1887.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fefae6a28e244fac1ac54aab4aa25843/5d9e128511db815e605d55a44fa5bddd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c43b87bef46d60b7eee85a563b2c1807/11e6399f7d207931d95e72bf0ba3b91c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c32c49d4fd9d9d0016c026d1186d9faf/b80738608783f348abbd4f67ff0d8c29.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Small)",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Don’t let her size fool you…Inoha is a puppy-powerhouse full of spunk and confidence.  When not playing, this little Energizer bunny still takes frequent naps throughout the day to rest and recharge her battery.    \n\nInoha absolutely adores her much larger canine brother and other family dogs (big and small) she’s met.  When it comes to humans, Inoha is equally excited to add to her circle of friends.   \n\nWhen put into her crate, Inoha settles quickly.  If not yet ready to sleep, she occupies herself with toys.  She has a particular fondness for plushies, especially those larger than her (=better to wrestle with and also sleep on!).\n\nAs a young puppy, Inoha continues working on potty training, but has already shown she can reliably go outside if given regular opportunities.\n\nInoha is sweet, curious, and open to any and all new experiences.  She will make a wonderful addition to her forever family.\n",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783707921"
-    },
-    {
       "ID": "3479",
       "Internal-ID": "213447320",
       "Name": "Lilly",
@@ -771,9 +677,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1672552800,
       "Age": 42,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/42eaeed7fae73cb1a58cd17dbfbbba1d/c5be592d74e0c827d6d817ca2ae1200a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/42eaeed7fae73cb1a58cd17dbfbbba1d/c5be592d74e0c827d6d817ca2ae1200a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/47f68012a63729290efff6fe267c9b95/8a2dbff94c6ddff6b90bff0c67a001d3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/13a7fbe05c628098a8d4eb5faf2ef763/3327aced7e6fe41240ea236ec2a519c7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/215a673b2ca804086debed03ab346773/43d549646ba542140ebf1f8ff15e6001.jpeg",
@@ -781,7 +687,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/5dbccf557b4c30e0b75c6157c02ccba6/b2401a6b10d142d2e229e43788319ea8.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e45774ad828401f9e3b9118aaa8a7f9a/c7ef427f107b09027b18e82aee2416a9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/54e1c1af87f9669895f2ce98f84fe958/7311630846cde9ca3e075eddc3ef680d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/591827292aca4ad6b71487a1dc5b2e1a/575a4543650fea715ea270b71ab3d47a.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/591827292aca4ad6b71487a1dc5b2e1a/575a4543650fea715ea270b71ab3d47a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/42eaeed7fae73cb1a58cd17dbfbbba1d/c5be592d74e0c827d6d817ca2ae1200a.jpeg"
       ],
       "Videos": [],
       "Breed": "Foxhound, American",
@@ -832,7 +739,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783981396"
+      "LastUpdatedUnixTime": "1783989623"
     },
     {
       "ID": "3480",
@@ -849,8 +756,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1641016800,
       "Age": 54,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61adf8b4be125348664eb9cab1fd56f9/88e31a2185f01360ddd86cf4d9502d86.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/61adf8b4be125348664eb9cab1fd56f9/88e31a2185f01360ddd86cf4d9502d86.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/367284ead958e509bee7d2d11435ee78/96e7fca8bdf15e7ef3bc6ab7ae8336f5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/cb02ad159049aa0944358a71aa9460f2/0f73ec9992118ee1e32c1e853b753e35.jpeg",
@@ -915,7 +823,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783858300"
+      "LastUpdatedUnixTime": "1783989589"
     },
     {
       "ID": "3521",
@@ -1112,11 +1020,12 @@
       "Altered": "Yes",
       "DOBUnixTime": 1504242000,
       "Age": 106,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c17870823a1d767cd93769afcec909f2/d21d4e23f417d93d96e80beb8c6afb0e.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/c17870823a1d767cd93769afcec909f2/d21d4e23f417d93d96e80beb8c6afb0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg"
       ],
       "Videos": [],
       "Breed": "Bichon Frise",
@@ -1177,7 +1086,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783707308"
+      "LastUpdatedUnixTime": "1783987709"
     },
     {
       "ID": "3542",
@@ -1194,13 +1103,11 @@
       "Altered": "Yes",
       "DOBUnixTime": 1504242000,
       "Age": 106,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98d9bedef54b7227d248e6407fa5e2ed/5bb1ed382be680ccfe23a94b7fb3c03d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dd28d814be41c4ab6976670823444dc5/94a96fc7fc5da3cf089c21d1e2675b40.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/966d5b9b76093e78fb7b7949b8f4abdb/44d9a31b752c1b9e50c7224839db1b76.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg"
       ],
       "Videos": [],
@@ -1267,7 +1174,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783707425"
+      "LastUpdatedUnixTime": "1783987777"
     },
     {
       "ID": "3543",
@@ -2459,129 +2366,6 @@
       "LastUpdatedUnixTime": "1783600529"
     },
     {
-      "ID": "3632",
-      "Internal-ID": "214068750",
-      "Name": "Turtle",
-      "LitterGroupId": 9549437,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1769184489,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4022cd52316d5af69f51dadd9ed68f4a/7027bdc09b3332fd6fa60e3cea06770b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0eaf9d10554e41f7db674a32ab02f99a/ed4652020cfa753f2c17c9d8ae59ddee.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d0e2f9219501d5a569fcff68709fa4d/6be456d022c4cd689491f1104ac5fc80.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4cf643b8398ef9e9e30bc6e1d9de4e5/4d9308d41bd05703adc49b351b129335.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/037bdeeef44f7c0ece2e85293b26b8b9/c1c745c4c22337ec1e30e66a2dcc6207.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6daa0a559bdd3b2674a603338486fdec/f2bcc806658c43fc2e5de0ba89a51f54.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46fcc070731bb9b9e60c00b706d9b467/b6eaf48fb449c576e5275037c79d20a5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7383c96748b7afeb657730bd190845ee/563bca3590a8d99ec1bbaccf06815c04.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/319dc1feaf995c5132931b312449452c/c71f4ff8ff98b2c91f4b078952e553e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/608d4279c5dfe1a803e158ccb4aac4e1/0f5b63b4ffa89f4090ae92222480b070.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/35604d8c6c00a3f284fc9c172c1f4422/ea39fc1505bc5ebaaff12694ac296a37.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b1e7cc0fe56b49d9fc4a26616c97f344/2c9394ffe7391d1942f838e9216521c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a88803d370737592c00ae05133b3c35/e6b62eaebd4043a18d831dd9d10afaef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a5ff567457409869bf6e7f78c051a064/d3a35b78c432ddcf6ac2d573d338fcd4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4e396b9b52d98f6819369f7fdf080c4/20b4029e0b5cbc2652ccca7c51272962.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "8mKQSkvYQ0I",
-          "EmbedUrl": "//www.youtube.com/embed/8mKQSkvYQ0I?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=8mKQSkvYQ0I",
-          "ThumbUrl": "https://img.youtube.com/vi/8mKQSkvYQ0I/0.jpg"
-        }
-      ],
-      "Breed": "Terrier",
-      "Color": "Apricot",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Turtle may sound slow and steady, but this little guy is full of gentle curiosity, soft affection, and bursts of goofy puppy energy that make him impossible not to love.\n\nHe adores exploring his world one bouncy step at a time, then suddenly zooming off with a toy when inspiration strikes. Turtle is learning, growing, and discovering his confidence, and he’s already showing how deeply he bonds with the people who care for him. Whether he’s striking a dramatic pose, trotting over with his tail wagging, or curling up for quiet snuggles, Turtle brings joy in every moment.\n\nHe’s smart, social, and wonderfully tender‑hearted — the perfect mix of silly and sweet. Turtle is ready for a forever home that will appreciate his thoughtful nature, encourage his playful side, and help him blossom into the loving companion he’s meant to be.\n\nIf you’re looking for a puppy who will brighten your days, warm your heart, and grow with your family, Turtle is ready to wiggle his way in.",
-      "LastIntakeUnixTime": "1783627230",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783957308"
-    },
-    {
       "ID": "3612",
       "Internal-ID": "213937985",
       "Name": "Whiskey",
@@ -3157,6 +2941,35 @@
       "LastUpdatedUnixTime": "1783975330"
     },
     {
+      "ID": "3638",
+      "Internal-ID": "214094994",
+      "Name": "Ruby",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1641794400,
+      "Age": 54,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Hound",
+      "Color": "Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1783990901",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1783991231"
+    },
+    {
       "ID": "3591",
       "Internal-ID": "213772138",
       "Name": "Moka",
@@ -3220,7 +3033,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783709347"
+      "LastUpdatedUnixTime": "1783986579"
     },
     {
       "ID": "3607",
@@ -3407,6 +3220,100 @@
         }
       ],
       "LastUpdatedUnixTime": "1783739751"
+    },
+    {
+      "ID": "3452",
+      "Internal-ID": "213344900",
+      "Name": "Inoha",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1773378000,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fd6763cc31e2fd6b28a19586bbe39732/ffcc141cd3378ef088707b40be5e3604.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/fd6763cc31e2fd6b28a19586bbe39732/ffcc141cd3378ef088707b40be5e3604.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f62c225564c256e30751dcd7ede04460/d9fd0d1d1c68219c2a0ff842f444dc75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1852bcd33c950edac0ff7f9df281043f/6398956d7adae6dd0f5fc8ae5aa2c72e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/58681088bf7f51cd713c89adda099e6a/549cdc2745ce785ec029c0f7f1fc184a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b37884bce5cf1e3b9a72cebdd113a28/264f967ea85f1b4f308e306fcb8eccba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/66c5b3782778d60ca8493525608d04b1/3114a2157b81f7f58d12e1f6b2f34ce1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb4e97640093e4368125febefb116af4/7488455105a012c4796f3382a02d6f29.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/610c7a3f161b529029de421ca713e1a4/8818bfdae284f465f911e1a9a1ec8a86.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a6f42b3b3adc489f8323003fb9894bc/10e26268e20b559d61eb61fc48c86058.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9fb440638aa161a5b910e6f6a0513185/334faa8bd9919dbb0c94d074fb690e8b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/896c275887688c5a9c21c9d18dfcb3b7/92f904b5e160b434b40fd544432dfe8e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8734e4384ffdb0be72b95f6aa3ea58bb/368777eed4a321c9136a9dad853ae9b6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/feeddaab26b4c0249c3b59ad629b9e71/860068fbe2695d32fbcf4d1ef6d7f2b2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9164fc6bfc647b1341268c6a7bd9917f/d0f06637803f7891ba75e6cb3d42f24c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/50fa5a76eade2845ef96e1baea8e65cc/b1e4abc58d2ec435dcf9554aab9a1887.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fefae6a28e244fac1ac54aab4aa25843/5d9e128511db815e605d55a44fa5bddd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c43b87bef46d60b7eee85a563b2c1807/11e6399f7d207931d95e72bf0ba3b91c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c32c49d4fd9d9d0016c026d1186d9faf/b80738608783f348abbd4f67ff0d8c29.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Small)",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Don’t let her size fool you…Inoha is a puppy-powerhouse full of spunk and confidence.  When not playing, this little Energizer bunny still takes frequent naps throughout the day to rest and recharge her battery.    \n\nInoha absolutely adores her much larger canine brother and other family dogs (big and small) she’s met.  When it comes to humans, Inoha is equally excited to add to her circle of friends.   \n\nWhen put into her crate, Inoha settles quickly.  If not yet ready to sleep, she occupies herself with toys.  She has a particular fondness for plushies, especially those larger than her (=better to wrestle with and also sleep on!).\n\nAs a young puppy, Inoha continues working on potty training, but has already shown she can reliably go outside if given regular opportunities.\n\nInoha is sweet, curious, and open to any and all new experiences.  She will make a wonderful addition to her forever family.\n",
+      "LastIntakeUnixTime": "1773435600",
+      "Attributes": [
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783986653"
     },
     {
       "ID": "3562",
@@ -3971,6 +3878,129 @@
         }
       ],
       "LastUpdatedUnixTime": "1783716694"
+    },
+    {
+      "ID": "3632",
+      "Internal-ID": "214068750",
+      "Name": "Turtle",
+      "LitterGroupId": 9549437,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "17",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1769184489,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4022cd52316d5af69f51dadd9ed68f4a/7027bdc09b3332fd6fa60e3cea06770b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0eaf9d10554e41f7db674a32ab02f99a/ed4652020cfa753f2c17c9d8ae59ddee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d0e2f9219501d5a569fcff68709fa4d/6be456d022c4cd689491f1104ac5fc80.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4cf643b8398ef9e9e30bc6e1d9de4e5/4d9308d41bd05703adc49b351b129335.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/037bdeeef44f7c0ece2e85293b26b8b9/c1c745c4c22337ec1e30e66a2dcc6207.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6daa0a559bdd3b2674a603338486fdec/f2bcc806658c43fc2e5de0ba89a51f54.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46fcc070731bb9b9e60c00b706d9b467/b6eaf48fb449c576e5275037c79d20a5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7383c96748b7afeb657730bd190845ee/563bca3590a8d99ec1bbaccf06815c04.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/319dc1feaf995c5132931b312449452c/c71f4ff8ff98b2c91f4b078952e553e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/608d4279c5dfe1a803e158ccb4aac4e1/0f5b63b4ffa89f4090ae92222480b070.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/35604d8c6c00a3f284fc9c172c1f4422/ea39fc1505bc5ebaaff12694ac296a37.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b1e7cc0fe56b49d9fc4a26616c97f344/2c9394ffe7391d1942f838e9216521c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a88803d370737592c00ae05133b3c35/e6b62eaebd4043a18d831dd9d10afaef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a5ff567457409869bf6e7f78c051a064/d3a35b78c432ddcf6ac2d573d338fcd4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4e396b9b52d98f6819369f7fdf080c4/20b4029e0b5cbc2652ccca7c51272962.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "8mKQSkvYQ0I",
+          "EmbedUrl": "//www.youtube.com/embed/8mKQSkvYQ0I?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=8mKQSkvYQ0I",
+          "ThumbUrl": "https://img.youtube.com/vi/8mKQSkvYQ0I/0.jpg"
+        }
+      ],
+      "Breed": "Terrier",
+      "Color": "Apricot",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Turtle may sound slow and steady, but this little guy is full of gentle curiosity, soft affection, and bursts of goofy puppy energy that make him impossible not to love.\n\nHe adores exploring his world one bouncy step at a time, then suddenly zooming off with a toy when inspiration strikes. Turtle is learning, growing, and discovering his confidence, and he’s already showing how deeply he bonds with the people who care for him. Whether he’s striking a dramatic pose, trotting over with his tail wagging, or curling up for quiet snuggles, Turtle brings joy in every moment.\n\nHe’s smart, social, and wonderfully tender‑hearted — the perfect mix of silly and sweet. Turtle is ready for a forever home that will appreciate his thoughtful nature, encourage his playful side, and help him blossom into the loving companion he’s meant to be.\n\nIf you’re looking for a puppy who will brighten your days, warm your heart, and grow with your family, Turtle is ready to wiggle his way in.",
+      "LastIntakeUnixTime": "1783627230",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1783989866"
     },
     {
       "ID": "3558",
