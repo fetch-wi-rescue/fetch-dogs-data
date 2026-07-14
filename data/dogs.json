@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:45:24Z",
+  "updated": "2026-07-14T14:43:23Z",
   "count": 58,
   "animals": [
     {
@@ -289,101 +289,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783708185"
-    },
-    {
-      "ID": "2350",
-      "Internal-ID": "213178951",
-      "Name": "Jane",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "59.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1652590800,
-      "Age": 49,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
-        "https://new-s3.shelterluv.com/profile-pictures/e4f2851f21aaed211bb0d65892564e41/009321c1277b1fe3b9df21447d978b9c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5c3a3835d30c9e221c7d7524c706cda0/db6502908e0b68885878da95e754eb9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04c134cc6e28ac9fb5fc81e8b5bf1561/84dedb9c60d44fc060f2b213b923bccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/16bf6a1f6064774a71583c20c8c88167/204d516b0e099a100b24c89c852b2aa6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb66f2e42594547b07929da8b30a3b40/fd0994cddbc8a2aa37a101836e5cef1c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Fawn",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
-      "LastIntakeUnixTime": "1748062800",
-      "Attributes": [
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783729084"
     },
     {
       "ID": "2582",
@@ -2183,6 +2088,82 @@
       "LastUpdatedUnixTime": "1783866776"
     },
     {
+      "ID": "3628",
+      "Internal-ID": "214042195",
+      "Name": "Callie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "54",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1562562000,
+      "Age": 84,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc10117cbe992915b412649be9d384f2/df81645be97bcd181acdefcabf9581f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Pembroke Welsh",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Callie is a sweet, easy-going girl looking for a loving new home after her owner moved into a nursing home. She can be a little cautious when meeting new people, but she warms up quickly and becomes very affectionate once she feels comfortable.\n\nCallie is indifferent to other dogs and has done well free-roaming alongside a calm canine companion, but she would also be perfectly happy as the only dog in the home. She is gentle with children, though because she can be startled by loud noises and sudden movements, she would be happiest in a quieter home.\n\nCallie is currently overweight, so she's not up for long hikes or strenuous adventures—especially in the summer heat. Instead, she enjoys leisurely walks, chewing on her favorite toys, and curling up for long naps (either on the cool floor or the couch). \nShe is quiet, trustworthy, and does well free-roaming in an apartment. She is afraid of the apartment elevators, so she just takes the stairs at this time.\n\nCallie would make an excellent companion for a first-time dog owner looking for a loyal, easy-going, affectionate best friend.",
+      "LastIntakeUnixTime": "1783781902",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784034482"
+    },
+    {
       "ID": "3631",
       "Internal-ID": "214061046",
       "Name": "Benedict",
@@ -2581,77 +2562,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783873171"
-    },
-    {
-      "ID": "3628",
-      "Internal-ID": "214042195",
-      "Name": "Callie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "54",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1562562000,
-      "Age": 84,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Corgi, Pembroke Welsh",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Callie is a sweet, easy-going girl looking for a loving new home after her owner moved into a nursing home. She can be a little cautious when meeting new people, but she warms up quickly and becomes very affectionate once she feels comfortable.\n\nCallie is indifferent to other dogs and has done well free-roaming alongside a calm canine companion, but she would also be perfectly happy as the only dog in the home. She is gentle with children, though because she can be startled by loud noises and sudden movements, she would be happiest in a quieter home.\n\nCallie is currently overweight, so she's not up for long hikes or strenuous adventures—especially in the summer heat. Instead, she enjoys leisurely walks, chewing on her favorite toys, and curling up for long naps (either on the cool floor or the couch). \nShe is quiet, trustworthy, and does well free-roaming in an apartment. She is afraid of the apartment elevators, so she just takes the stairs at this time.\n\nCallie would make an excellent companion for a first-time dog owner looking for a loyal, easy-going, affectionate best friend.",
-      "LastIntakeUnixTime": "1783781902",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783982020"
     },
     {
       "ID": "3630",
@@ -4786,6 +4696,101 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
+    },
+    {
+      "ID": "2350",
+      "Internal-ID": "213178951",
+      "Name": "Jane",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "59.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1652590800,
+      "Age": 49,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
+        "https://new-s3.shelterluv.com/profile-pictures/e4f2851f21aaed211bb0d65892564e41/009321c1277b1fe3b9df21447d978b9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c3a3835d30c9e221c7d7524c706cda0/db6502908e0b68885878da95e754eb9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04c134cc6e28ac9fb5fc81e8b5bf1561/84dedb9c60d44fc060f2b213b923bccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/16bf6a1f6064774a71583c20c8c88167/204d516b0e099a100b24c89c852b2aa6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb66f2e42594547b07929da8b30a3b40/fd0994cddbc8a2aa37a101836e5cef1c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Fawn",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
+      "LastIntakeUnixTime": "1748062800",
+      "Attributes": [
+        {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784039210"
     },
     {
       "ID": "3578",
