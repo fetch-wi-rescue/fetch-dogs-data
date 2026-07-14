@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T17:38:49Z",
+  "updated": "2026-07-14T19:06:50Z",
   "count": 58,
   "animals": [
     {
@@ -1733,103 +1733,6 @@
       "LastUpdatedUnixTime": "1784045131"
     },
     {
-      "ID": "3620",
-      "Internal-ID": "213991906",
-      "Name": "Penelope",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "31.8",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1683572954,
-      "Age": 38,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f67338dce86670a5425fd8ace389fcfe/22560bada2ff2311efb5c4d3bb66a51f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f67338dce86670a5425fd8ace389fcfe/22560bada2ff2311efb5c4d3bb66a51f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e7b1cae67a1927b9848f8da1fc5d6c2e/26c1c69549642408e959b4ec757be72b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/95d7be0159da3da1503e3af6a1f8d9ef/c6a3a75538f5792061fd05cc723869ec.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/12fc3e2915fb4705ef441091fd42e2bd/a0a9343a67c969b245fdea9e18c4e960.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb5d02cb82ae6fb97361f9c958151148/fcfeebbd1a170ee4cf3cef5cfa7eec8f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/058aeee9240134958e93c8db981263b9/6bf15c45c7d274a2fbb1aeba2f120ed2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a81cfe77e70a9fb60c8851611b29416/f65b7593cdc996783985db03b1583271.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/Tan",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Penelope has spent the last few months playing the toughest course of all: motherhood. She raised her puppies like a seasoned pro - steady, patient, and always right on par. Now that her little ones have all “graduated from the green,” Penelope is finally ready to focus on her own game and find a family who will cheer her on from the clubhouse.\n\nThis gentle girl is the definition of a smooth swing. She’s calm, affectionate, and loves nothing more than leaning in for pets like she’s lining up the perfect putt. After months of caring for her pups, she’s discovering the joy of comfy beds, squeaky toys, and being the one who gets all the attention. Penelope reads people beautifully - she watches your face, listens closely, and tries her best to stay right in the fairway.\n\nPenelope would thrive in a home that offers patience, routine, and lots of love. She’s ready to learn new things, bond deeply, and settle into a life where she’s the star player. Her days of raising puppies are behind her — now she’s hoping for a family who will let her be the one who’s spoiled rotten.\n\nIf you’re looking for a loyal companion with a tender heart and a swing as sweet as her personality, Penelope is ready to join your team. She’s done her time as a mama. Now she’s ready to tee off into her forever home.\n\nOur Foster-to-Adopt program lets you ensure your new pup is the perfect fit before finalizing adoption. Fetch pairs you with a Foster Partner to guide you through vetting, support the transition, and finalize the adoption - or instead help find their forever home if needed. This option is available for select dogs and noted on their profiles.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783712120"
-    },
-    {
       "ID": "3623",
       "Internal-ID": "213991912",
       "Name": "Emerald",
@@ -2162,6 +2065,124 @@
         }
       ],
       "LastUpdatedUnixTime": "1784034482"
+    },
+    {
+      "ID": "3630",
+      "Internal-ID": "214061040",
+      "Name": "Alistair",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "51",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/99dbfbce752efed3b28f4c126d092b2d/34a3357db604f9690bf3a97981ff245d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/34c5452260d9f607080c19a791dfc05a/21c9e9f8efcd20a3cbafae36430a0128.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/936024a45ae848ff1d998575efa10216/56e9903297eafda6cf9a89f84f45b1ae.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/27af2f11c43dfca767630baefceb329c/38302625fefe9bc3ec0012f710a5801d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/609c9d9783a6f181013003da3f1903a1/3bee516d915e33dabcff0ca45ca9609c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/827b24223aec8ef9990b2d40d424fd2b/91fd400725ab2b5ec89e2089499ffdd3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bd4ca7f51a5c0d25175370c1bb3e493e/7f3e0d87e134493cbb5a538004da9088.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Alistair is a soft‑spoken sweetheart who takes life at his own pace. He’s a thoughtful, cautious guy who prefers to hang back and watch before he joins in. Once he feels safe, you’ll see a calm, steady companion who appreciates gentle people and predictable routines.\n\nAlistair doesn’t seem to mind whether he lives with dogs or cats in his current foster home - he’s easygoing that way. However, he shouldn’t live with cats who want nothing to do with him; he’s respectful, but he’s also curious, and uninterested cats may find him a bit too forward.\n\nLeashes are still a mystery to him, so he’ll need patience and slow introductions as he learns what they’re all about. The good news is he rides beautifully in the car, settling in quietly and taking comfort in the calm environment.\n\nAlistair is looking for a home that understands shy dogs and celebrates small steps forward. With kindness, time, and a peaceful environment, he’ll grow into a devoted, gentle companion who brings a quiet kind of joy to the people who love him.\n\nIf you’re drawn to the sweet, understated dogs who bloom with trust, Alistair is ready to meet you.",
+      "LastIntakeUnixTime": "1783463969",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784055861"
     },
     {
       "ID": "3631",
@@ -2562,124 +2583,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783873171"
-    },
-    {
-      "ID": "3630",
-      "Internal-ID": "214061040",
-      "Name": "Alistair",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "51",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1736229600,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/99dbfbce752efed3b28f4c126d092b2d/34a3357db604f9690bf3a97981ff245d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/34c5452260d9f607080c19a791dfc05a/21c9e9f8efcd20a3cbafae36430a0128.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/936024a45ae848ff1d998575efa10216/56e9903297eafda6cf9a89f84f45b1ae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27af2f11c43dfca767630baefceb329c/38302625fefe9bc3ec0012f710a5801d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/609c9d9783a6f181013003da3f1903a1/3bee516d915e33dabcff0ca45ca9609c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/827b24223aec8ef9990b2d40d424fd2b/91fd400725ab2b5ec89e2089499ffdd3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd4ca7f51a5c0d25175370c1bb3e493e/7f3e0d87e134493cbb5a538004da9088.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Collie/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Alistair is a soft‑spoken sweetheart who takes life at his own pace. He’s a thoughtful, cautious guy who prefers to hang back and watch before he joins in. Once he feels safe, you’ll see a calm, steady companion who appreciates gentle people and predictable routines.\n\nAlistair doesn’t seem to mind whether he lives with dogs or cats in his current foster home - he’s easygoing that way. However, he shouldn’t live with cats who want nothing to do with him; he’s respectful, but he’s also curious, and uninterested cats may find him a bit too forward.\n\nLeashes are still a mystery to him, so he’ll need patience and slow introductions as he learns what they’re all about. The good news is he rides beautifully in the car, settling in quietly and taking comfort in the calm environment.\n\nAlistair is looking for a home that understands shy dogs and celebrates small steps forward. With kindness, time, and a peaceful environment, he’ll grow into a devoted, gentle companion who brings a quiet kind of joy to the people who love him.\n\nIf you’re drawn to the sweet, understated dogs who bloom with trust, Alistair is ready to meet you.",
-      "LastIntakeUnixTime": "1783463969",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783997612"
     },
     {
       "ID": "3634",
@@ -3587,7 +3490,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783716694"
+      "LastUpdatedUnixTime": "1784055305"
     },
     {
       "ID": "3632",
@@ -4157,6 +4060,103 @@
         }
       ],
       "LastUpdatedUnixTime": "1783954734"
+    },
+    {
+      "ID": "3620",
+      "Internal-ID": "213991906",
+      "Name": "Penelope",
+      "LitterGroupId": 9541476,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "31.8",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1683572954,
+      "Age": 38,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f67338dce86670a5425fd8ace389fcfe/22560bada2ff2311efb5c4d3bb66a51f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f67338dce86670a5425fd8ace389fcfe/22560bada2ff2311efb5c4d3bb66a51f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7b1cae67a1927b9848f8da1fc5d6c2e/26c1c69549642408e959b4ec757be72b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/95d7be0159da3da1503e3af6a1f8d9ef/c6a3a75538f5792061fd05cc723869ec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/12fc3e2915fb4705ef441091fd42e2bd/a0a9343a67c969b245fdea9e18c4e960.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb5d02cb82ae6fb97361f9c958151148/fcfeebbd1a170ee4cf3cef5cfa7eec8f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/058aeee9240134958e93c8db981263b9/6bf15c45c7d274a2fbb1aeba2f120ed2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a81cfe77e70a9fb60c8851611b29416/f65b7593cdc996783985db03b1583271.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/Tan",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Penelope has spent the last few months playing the toughest course of all: motherhood. She raised her puppies like a seasoned pro - steady, patient, and always right on par. Now that her little ones have all “graduated from the green,” Penelope is finally ready to focus on her own game and find a family who will cheer her on from the clubhouse.\n\nThis gentle girl is the definition of a smooth swing. She’s calm, affectionate, and loves nothing more than leaning in for pets like she’s lining up the perfect putt. After months of caring for her pups, she’s discovering the joy of comfy beds, squeaky toys, and being the one who gets all the attention. Penelope reads people beautifully - she watches your face, listens closely, and tries her best to stay right in the fairway.\n\nPenelope would thrive in a home that offers patience, routine, and lots of love. She’s ready to learn new things, bond deeply, and settle into a life where she’s the star player. Her days of raising puppies are behind her — now she’s hoping for a family who will let her be the one who’s spoiled rotten.\n\nIf you’re looking for a loyal companion with a tender heart and a swing as sweet as her personality, Penelope is ready to join your team. She’s done her time as a mama. Now she’s ready to tee off into her forever home.\n\nOur Foster-to-Adopt program lets you ensure your new pup is the perfect fit before finalizing adoption. Fetch pairs you with a Foster Partner to guide you through vetting, support the transition, and finalize the adoption - or instead help find their forever home if needed. This option is available for select dogs and noted on their profiles.",
+      "LastIntakeUnixTime": "1782570600",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784055338"
     },
     {
       "ID": "1442",
