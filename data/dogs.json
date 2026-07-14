@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T11:03:05Z",
+  "updated": "2026-07-14T12:45:24Z",
   "count": 58,
   "animals": [
     {
@@ -661,85 +661,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783525799"
-    },
-    {
-      "ID": "3479",
-      "Internal-ID": "213447320",
-      "Name": "Lilly",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "54.7",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1672552800,
-      "Age": 42,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/47f68012a63729290efff6fe267c9b95/8a2dbff94c6ddff6b90bff0c67a001d3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/13a7fbe05c628098a8d4eb5faf2ef763/3327aced7e6fe41240ea236ec2a519c7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/215a673b2ca804086debed03ab346773/43d549646ba542140ebf1f8ff15e6001.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/80c5010ca295423c47d30d4d9e480bca/a5383a8729df2b55867512443f47200b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5dbccf557b4c30e0b75c6157c02ccba6/b2401a6b10d142d2e229e43788319ea8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e45774ad828401f9e3b9118aaa8a7f9a/c7ef427f107b09027b18e82aee2416a9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/54e1c1af87f9669895f2ce98f84fe958/7311630846cde9ca3e075eddc3ef680d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/591827292aca4ad6b71487a1dc5b2e1a/575a4543650fea715ea270b71ab3d47a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/42eaeed7fae73cb1a58cd17dbfbbba1d/c5be592d74e0c827d6d817ca2ae1200a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Foxhound, American",
-      "Color": "Brown/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Lilly is a tall, elegant, 50+ lb foxhound with a heart of gold and legs that seem made for flying. She showed up as a stray on January 6 with two other hounds, all in rough shape but unbelievably sweet—and since then, she’s blossomed into a playful, affectionate companion. Lilly still has that classic hound energy and would thrive with daily walks, hikes, or playtime (plus maybe doggy daycare a few times a week), but she’s learned to settle and loves her naps just as much as her zoomies. She’s especially famous for her joyful “parkour” moves—sprinting full speed and leaping over her dog friends mid-run like a seasoned athlete. A secure fenced yard is a must, as her nose will happily lead her on miles-long adventures if given the chance.\n\nMore than anything, Lilly is pure love. Sit on the floor and she’ll be in your lap in seconds; let her on the bed and she’ll curl right into you, happiest when she’s as close as possible. She adores people (not exactly watchdog material 😉) and has no signs of aggression, though her enthusiastic greetings and ongoing manners training mean she may do best in a home without small children. She’s made huge progress with house training—she even has an adorable “wiggle dance” to tell you she needs to go out—and sleeps beautifully through the night, whether on her bed or yours. Lilly does best with companionship and is still building confidence being alone, but with continued support she’s on a great path. She’s a loving, loyal hound who will reward her future family with endless affection—and yes, plenty of cuddles.",
-      "LastIntakeUnixTime": "1775755459",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783989623"
     },
     {
       "ID": "3480",
@@ -3286,6 +3207,85 @@
         }
       ],
       "LastUpdatedUnixTime": "1783986653"
+    },
+    {
+      "ID": "3479",
+      "Internal-ID": "213447320",
+      "Name": "Lilly",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "54.7",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1672552800,
+      "Age": 42,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/47f68012a63729290efff6fe267c9b95/8a2dbff94c6ddff6b90bff0c67a001d3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/13a7fbe05c628098a8d4eb5faf2ef763/3327aced7e6fe41240ea236ec2a519c7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/215a673b2ca804086debed03ab346773/43d549646ba542140ebf1f8ff15e6001.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/80c5010ca295423c47d30d4d9e480bca/a5383a8729df2b55867512443f47200b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5dbccf557b4c30e0b75c6157c02ccba6/b2401a6b10d142d2e229e43788319ea8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e45774ad828401f9e3b9118aaa8a7f9a/c7ef427f107b09027b18e82aee2416a9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/54e1c1af87f9669895f2ce98f84fe958/7311630846cde9ca3e075eddc3ef680d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/591827292aca4ad6b71487a1dc5b2e1a/575a4543650fea715ea270b71ab3d47a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/42eaeed7fae73cb1a58cd17dbfbbba1d/c5be592d74e0c827d6d817ca2ae1200a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Foxhound, American",
+      "Color": "Brown/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Lilly is a tall, elegant, 50+ lb foxhound with a heart of gold and legs that seem made for flying. She showed up as a stray on January 6 with two other hounds, all in rough shape but unbelievably sweet—and since then, she’s blossomed into a playful, affectionate companion. Lilly still has that classic hound energy and would thrive with daily walks, hikes, or playtime (plus maybe doggy daycare a few times a week), but she’s learned to settle and loves her naps just as much as her zoomies. She’s especially famous for her joyful “parkour” moves—sprinting full speed and leaping over her dog friends mid-run like a seasoned athlete. A secure fenced yard is a must, as her nose will happily lead her on miles-long adventures if given the chance.\n\nMore than anything, Lilly is pure love. Sit on the floor and she’ll be in your lap in seconds; let her on the bed and she’ll curl right into you, happiest when she’s as close as possible. She adores people (not exactly watchdog material 😉) and has no signs of aggression, though her enthusiastic greetings and ongoing manners training mean she may do best in a home without small children. She’s made huge progress with house training—she even has an adorable “wiggle dance” to tell you she needs to go out—and sleeps beautifully through the night, whether on her bed or yours. Lilly does best with companionship and is still building confidence being alone, but with continued support she’s on a great path. She’s a loving, loyal hound who will reward her future family with endless affection—and yes, plenty of cuddles.",
+      "LastIntakeUnixTime": "1775755459",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784028395"
     },
     {
       "ID": "3595",
