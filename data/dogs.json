@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T04:44:18Z",
-  "count": 59,
+  "updated": "2026-07-14T07:05:35Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -3105,105 +3105,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783986579"
-    },
-    {
-      "ID": "3607",
-      "Internal-ID": "213879443",
-      "Name": "Uncle Waldrop",
-      "LitterGroupId": 9531464,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "54.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1519508563,
-      "Age": 100,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b37522078f1d6f0a9323d69ebc05dac/1be6066124dd37cf43556b4656b71b66.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/efd320e28d5ca5949a3a6252a6a9c15d/4eed6f51c33300779b9842c8f72b2212.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d08d6532e91253f338496e69abe3e369/578f4057477388c461cc1e4c243fd8dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f0094b3348925828708d059d0dee0a6b/d3c727928d3eacecdc1e384aaa9abe53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbbbaee96810ade24f19f70786dea6f9/f08431b692c2ddfe006b379759360a9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f113d1edb7c8bcab499781e7d572aa9/5902c40b87f2039e7abaa6456431880b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52765ce050ecec2d94abec2f3797c049/1a7f14d908ac96484de72ae8f82532e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/54338203d260914e09883df36fb9e5d0/a454b120193085317fd3378178709443.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chow Chow",
-      "Color": "Red/Mahogany",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Looking for an easygoing companion who will fit right into your life? Uncle Waldrop might be your guy.\n\nThis handsome senior is the definition of a good dog. He's dog-friendly, loves people, and has a calm, laid-back personality that makes him a joy to have around. Whether he's enjoying a leisurely stroll, lounging nearby while you work, or settling in for some snuggles on the couch, Uncle Waldrop is simply happy to be part of the family.\n\nHe's the kind of dog who doesn't need to be the center of attention or create excitement wherever he goes. In fact, his greatest talent might be just being a wonderful companion. No drama, no chaos—just a sweet, affectionate dog who wants a comfortable spot to nap and humans to love.\nIf you're looking for a loyal friend who has left the puppy antics behind and mastered the art of being a good housemate, Uncle Waldrop is ready to move in and make himself at home.\n\nAdopt Uncle Waldrop and discover how wonderful life can be with a chill old soul by your side. 🐶💕",
-      "LastIntakeUnixTime": "1781206136",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783985962"
     },
     {
       "ID": "1395",

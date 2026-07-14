@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T21:50:03Z",
+  "updated": "2026-07-14T07:05:35Z",
   "animals": [
     {
       "ID": "3458",
@@ -935,6 +935,15 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-13T21:50:03Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3607",
+      "Name": "Uncle Waldrop",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e551b1aecd1c5ee3224be603ed19b7d2/fd14c45df8cdfd1fe72efcf220c14017.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-14T07:05:35Z",
       "status": "pending"
     }
   ]
