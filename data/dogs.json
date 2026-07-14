@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T20:35:15Z",
+  "updated": "2026-07-14T21:51:02Z",
   "count": 58,
   "animals": [
     {
@@ -2525,6 +2525,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
@@ -2540,7 +2550,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783711552"
+      "LastUpdatedUnixTime": "1784064304"
     },
     {
       "ID": "3613",
