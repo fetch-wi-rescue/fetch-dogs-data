@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T01:44:28Z",
+  "updated": "2026-07-15T04:44:07Z",
   "count": 58,
   "animals": [
     {
@@ -2407,6 +2407,90 @@
       "LastUpdatedUnixTime": "1784048212"
     },
     {
+      "ID": "3638",
+      "Internal-ID": "214094994",
+      "Name": "Ruby",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1641794400,
+      "Age": 54,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1bfada26ef6a29857577ec4307677dca/6c32c380ec2364bec0bd2d249eea3ce9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2e4a66484be273b4e3d17cd06a7b5f4/07d789631435ad4733801408a0404562.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Hound",
+      "Color": "Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Ruby's story didn't start the way it should have, but we're determined to make sure her future is filled with love.\n\nFor months, Ruby wandered near an Amish farm after being abandoned. Because she refused to leave, she was eventually tied to a short 4-foot lead with no water while swarms of flies surrounded her. A kind neighbor had been trying to find her help, but when she witnessed one of the children kicking Ruby, she knew she couldn't leave her there another day.\n\nToday, Ruby is safe and despite everything she's been through, it hasn't let it change her gentle heart.\n\nRuby is incredibly sweet, calm, and affectionate. She adores people, gets along wonderfully with other dogs, cats, and even chickens. She's food-motivated, eager to please, and always happy to soak up attention. It appears she's had several litters of puppies in her past, and now it's finally Ruby's turn to be cared for and cherished.\n\nCould Ruby be the missing piece of your family? ❤️\n",
+      "LastIntakeUnixTime": "1783990901",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637007",
+          "AttributeName": "Good around chickens",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784086305"
+    },
+    {
       "ID": "3591",
       "Internal-ID": "213772138",
       "Name": "Moka",
@@ -2834,74 +2918,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784072462"
-    },
-    {
-      "ID": "3638",
-      "Internal-ID": "214094994",
-      "Name": "Ruby",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1641794400,
-      "Age": 54,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1bfada26ef6a29857577ec4307677dca/6c32c380ec2364bec0bd2d249eea3ce9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f2e4a66484be273b4e3d17cd06a7b5f4/07d789631435ad4733801408a0404562.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Hound",
-      "Color": "Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1783990901",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784079794"
     },
     {
       "ID": "1395",
