@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T11:07:43Z",
+  "updated": "2026-07-15T12:48:57Z",
   "count": 58,
   "animals": [
     {
@@ -1817,7 +1817,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783867088"
+      "LastUpdatedUnixTime": "1784115527"
     },
     {
       "ID": "3625",
@@ -2416,17 +2416,27 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "50",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1641794400,
       "Age": 54,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/afaf78dd9b3ba54459df2b4be63b31ba/95500ba2d00a4c108d5dc832bb046dcb.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/afaf78dd9b3ba54459df2b4be63b31ba/95500ba2d00a4c108d5dc832bb046dcb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1bfada26ef6a29857577ec4307677dca/6c32c380ec2364bec0bd2d249eea3ce9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f2e4a66484be273b4e3d17cd06a7b5f4/07d789631435ad4733801408a0404562.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2e4a66484be273b4e3d17cd06a7b5f4/07d789631435ad4733801408a0404562.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3656e3fa4a9bf4b8080c07a15f663086/3ca4f1f35712d946feee1af0faeeee2c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc5ed3779bd68abbfc2089ac0fb4db41/1c48486a6ee7f727512d6f9f2aca702d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e26f3e510712dcd74693b561651bc92b/4475f0bd68f7178c137d09713d9d87e2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0c5dfb72d203f6de03a2a2f640e66e18/be2d4f3f1b16cd10ba10276eb6efd522.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/09a0f82b9eb400a8cbd28110c56f5414/e884a48824c9fa6614564791dafe9ca1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0068c8bb2c44efb7a73b5f475c44694/cf2c69b4374061c149330573bac85694.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c3a1917a45cc97481050056d207af8f7/a16ca666d5e80fa5c9137979271721ed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/35a8e9c09e94bd11781d8f77f1bd21c3/dceef81a0a97a8e1b5d913013835c033.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/07465b46240ff4642f4a19d9100b8a38/1de33881b435e51586608e75f13f866c.jpeg"
       ],
       "Videos": [],
       "Breed": "Hound",
@@ -2488,7 +2498,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784086305"
+      "LastUpdatedUnixTime": "1784118195"
     },
     {
       "ID": "3591",
@@ -2563,7 +2573,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784056069"
+      "LastUpdatedUnixTime": "1784114122"
     },
     {
       "ID": "3612",
@@ -3098,7 +3108,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784044052"
+      "LastUpdatedUnixTime": "1784117781"
     },
     {
       "ID": "3479",
@@ -3454,7 +3464,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783984762"
+      "LastUpdatedUnixTime": "1784118287"
     },
     {
       "ID": "3629",
