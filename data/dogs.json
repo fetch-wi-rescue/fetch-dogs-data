@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T12:48:57Z",
+  "updated": "2026-07-15T14:42:53Z",
   "count": 58,
   "animals": [
     {
@@ -1415,40 +1415,37 @@
       "LastUpdatedUnixTime": "1783708952"
     },
     {
-      "ID": "3592",
-      "Internal-ID": "213786015",
-      "Name": "Mary Beth",
-      "LitterGroupId": 9522141,
+      "ID": "3591",
+      "Internal-ID": "213772138",
+      "Name": "Moka",
+      "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "60.02",
+      "CurrentWeightPounds": "50.6",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1676959200,
-      "Age": 40,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "DOBUnixTime": 1666414800,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
-        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/27af435340a176e29c4d547e605ae387/4fc705d29dd98bf3bd8ef5e222d2ffec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dbdd7ff9bb02a270d13f499097ec5a0a/27ec2dd49c8cd5fe482fbc5d7d5016c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/646f548766b0514629f3dab83e9145a7/d03909f76182bb4e77b8cb6d0ada09a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b5423d6c5b118a0bf3640215787c956/ede68c8baea928d634be5d79240eb5f2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/696df7fddb762cfed16b6fcb8af63865/98e675bbd6ddc12db0622b680e2b0715.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d5bed59ecb70fca49918daaf6c10bb00/65752ba7daa4427742a44af5608ac9f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c0df7ac148c399760e8257f19d9656c/6a49e5813a813eb42b68969996594882.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/393b6f668ef13d8f86006abe84a474b2/ec541bd737e1a531213dfa1c4d096b15.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fcc7135245eb727a69c1620f335ed0c2/9b68832fbea134ce5ab317647dee5267.jpeg"
       ],
       "Videos": [],
-      "Breed": "Terrier, Staffordshire Bull/Mix",
-      "Color": "Chocolate",
-      "Pattern": null,
+      "Breed": "Cattle Dog, Australian (Red Heeler)/Mixed Breed (Medium)",
+      "Color": "White/Red/Mahogany",
+      "Pattern": "Tick",
       "AdoptionFeeGroup": {
         "Id": 37341,
         "Name": "Adult (1-7 years old)",
@@ -1456,8 +1453,8 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
-      "LastIntakeUnixTime": "1780065092",
+      "Description": "Moka is a calm, low-energy sweetheart looking for a peaceful home where she can relax and enjoy life. She's incredibly well-mannered, smart, and easy to live with, making her a wonderful companion for someone looking for a laid-back pup.\n\nOne of Moka's favorite things is spending time with her people—especially if belly rubs are involved! She also enjoys car rides and is always happy to tag along for an adventure.\n\nMoka has previously lived with another dog and seems to be most confident when she has a canine companion by her side. She would love a home with another calm, low-key dog to keep her company and help her feel secure.\n\nShe is fully potty trained and has never had an accident in her foster home. Moka free roams the house during the day without getting into anything, but she's also perfectly happy to settle into her crate if asked. She has excellent house manners and already knows several commands, including sit, down, stay, leave it, and comes when calling her name.\n\nMoka can be sensitive to loud noises when she's outside, although they don't seem to bother her indoors. Because of this, she'd thrive in a quieter neighborhood with a lower-activity lifestyle. This would also be ideal for her because of a pre-existing knee injury. Moka has a dislocated kneecap from an injury she sustained when she was younger, but with joint supplements and moderate exercise, she manages it well and continues to enjoy life.\n\nIf you're looking for a gentle, loving, and well-behaved companion who will happily keep you company, join you for a leisurely car ride, and soak up all the belly rubs you have to offer, Moka could be the perfect addition to your life.",
+      "LastIntakeUnixTime": "1779905108",
       "Attributes": [
         {
           "Internal-ID": "294293",
@@ -1465,28 +1462,23 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
+          "Internal-ID": "634879",
+          "AttributeName": "Unknown with kids",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
+          "Internal-ID": "634880",
+          "AttributeName": "Unknown with cats",
           "Publish": "Yes"
         },
         {
@@ -1495,22 +1487,22 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
         },
         {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783710658"
+      "LastUpdatedUnixTime": "1784121168"
     },
     {
       "ID": "3593",
@@ -2421,13 +2413,14 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1641794400,
       "Age": 54,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/afaf78dd9b3ba54459df2b4be63b31ba/95500ba2d00a4c108d5dc832bb046dcb.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4eb515e37bbae3488ee0ae552c774163/c8aeee7f2a8311d5a1e2d51c5ffbbe8a.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/afaf78dd9b3ba54459df2b4be63b31ba/95500ba2d00a4c108d5dc832bb046dcb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4eb515e37bbae3488ee0ae552c774163/c8aeee7f2a8311d5a1e2d51c5ffbbe8a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1bfada26ef6a29857577ec4307677dca/6c32c380ec2364bec0bd2d249eea3ce9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f2e4a66484be273b4e3d17cd06a7b5f4/07d789631435ad4733801408a0404562.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/afaf78dd9b3ba54459df2b4be63b31ba/95500ba2d00a4c108d5dc832bb046dcb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3656e3fa4a9bf4b8080c07a15f663086/3ca4f1f35712d946feee1af0faeeee2c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bc5ed3779bd68abbfc2089ac0fb4db41/1c48486a6ee7f727512d6f9f2aca702d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e26f3e510712dcd74693b561651bc92b/4475f0bd68f7178c137d09713d9d87e2.jpeg",
@@ -2498,82 +2491,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784118195"
-    },
-    {
-      "ID": "3591",
-      "Internal-ID": "213772138",
-      "Name": "Moka",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "50.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1666414800,
-      "Age": 44,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/27af435340a176e29c4d547e605ae387/4fc705d29dd98bf3bd8ef5e222d2ffec.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dbdd7ff9bb02a270d13f499097ec5a0a/27ec2dd49c8cd5fe482fbc5d7d5016c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/646f548766b0514629f3dab83e9145a7/d03909f76182bb4e77b8cb6d0ada09a7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b5423d6c5b118a0bf3640215787c956/ede68c8baea928d634be5d79240eb5f2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/696df7fddb762cfed16b6fcb8af63865/98e675bbd6ddc12db0622b680e2b0715.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d5bed59ecb70fca49918daaf6c10bb00/65752ba7daa4427742a44af5608ac9f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1c0df7ac148c399760e8257f19d9656c/6a49e5813a813eb42b68969996594882.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/393b6f668ef13d8f86006abe84a474b2/ec541bd737e1a531213dfa1c4d096b15.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fcc7135245eb727a69c1620f335ed0c2/9b68832fbea134ce5ab317647dee5267.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Red Heeler)/Mixed Breed (Medium)",
-      "Color": "White/Red/Mahogany",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1779905108",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784114122"
+      "LastUpdatedUnixTime": "1784120716"
     },
     {
       "ID": "3612",
@@ -3108,7 +3026,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784117781"
+      "LastUpdatedUnixTime": "1784122996"
     },
     {
       "ID": "3479",
@@ -3188,6 +3106,104 @@
         }
       ],
       "LastUpdatedUnixTime": "1784028395"
+    },
+    {
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "60.02",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1676959200,
+      "Age": 40,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
+        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784121252"
     },
     {
       "ID": "3595",
