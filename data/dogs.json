@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T23:44:09Z",
+  "updated": "2026-07-15T01:44:28Z",
   "count": 58,
   "animals": [
     {
@@ -2850,9 +2850,12 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1641794400,
       "Age": 54,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/24a9dfb28defa75bebbe4c4128493e32/7ed27659d10c7f11fa6d7bd869e6ca6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1773d7c20f2789dfc29a88216b89793/5b33c7a8a6dd6e20ee9cf7db22d53f65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1bfada26ef6a29857577ec4307677dca/6c32c380ec2364bec0bd2d249eea3ce9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2e4a66484be273b4e3d17cd06a7b5f4/07d789631435ad4733801408a0404562.jpeg"
       ],
       "Videos": [],
       "Breed": "Hound",
@@ -2861,8 +2864,44 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1783990901",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1783991231"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784079794"
     },
     {
       "ID": "1395",
