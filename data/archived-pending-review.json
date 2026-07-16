@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T11:27:38Z",
+  "updated": "2026-07-16T15:05:46Z",
   "animals": [
     {
       "ID": "3458",
@@ -962,6 +962,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-16T11:27:38Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3551",
+      "Name": "Sebastian",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8dc6bac305370168f309b789c4c81c87/a71269b989b2c2b6978833d82937f585.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-07-16T15:05:46Z",
       "status": "pending"
     }
   ]

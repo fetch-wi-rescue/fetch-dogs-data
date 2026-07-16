@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T12:59:26Z",
-  "count": 56,
+  "updated": "2026-07-16T15:05:46Z",
+  "count": 55,
   "animals": [
     {
       "ID": "2754",
@@ -1725,93 +1725,6 @@
       "LastUpdatedUnixTime": "1784136460"
     },
     {
-      "ID": "3623",
-      "Internal-ID": "213991912",
-      "Name": "Emerald",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1779253200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9f38179bad1e71a927f870c4c08c8f3/55fd3283f4c664adaad5e1b0d784140d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f9f38179bad1e71a927f870c4c08c8f3/55fd3283f4c664adaad5e1b0d784140d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/63e7a0dd24ac7751959fa95197a66195/657fa6c29ef124a4fdd40ee672f3dee2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53bf6dabf9483fd7d4ce21d645c24338/53c5ac33ebeda535652eb58999db8f2a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e077d7c089fe952c3579b5106a8ce4f5/e3261e7a3ea94c9f34ddf0710f7e5403.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b9aeb81dade59a92664beedb174a56ac/e45f2359c0d339213250f9298db50d73.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9c9b1931d022b08e7373673f62318410/7a8a2d12dd0a866491edc86be72c2e73.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/13544bfb620af3724d35e121028ddbf5/2376db64d767f87857d20ddd2cbc8c7d.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/Tan",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Emerald is already sparkling her way through life like a tiny gem on the green. With her bright eyes, bouncy steps, and “let’s explore everything” enthusiasm, she approaches each day like she’s stepping onto a brand‑new fairway - full of excitement and ready to play.\n\nEmerald is curious, joyful, and wonderfully sweet. She trots around like she’s inspecting every hole on the course, sniffing new things, chasing toys, and showing off her signature puppy zoomies (her very impressive drive). And when she’s done practicing her moves, she’s more than happy to curl up for a cozy clubhouse nap right beside her people.\n\nShe’s learning all the basics - how to follow her humans, how to sit for attention, and how to keep her tiny paws out of the rough. With patience, positive training, and lots of love, Emerald will grow into a confident, affectionate companion who’s always ready to walk the fairway with you.\n\nEmerald is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. She may be small now, but she’s got big potential and a heart that shines as bright as her name.\n\nIf you’re ready to help a sweet little girl start her game strong, Emerald is ready to join your team. She’s hoping her forever home will be her hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784115527"
-    },
-    {
       "ID": "3625",
       "Internal-ID": "213991914",
       "Name": "Finn",
@@ -3504,6 +3417,93 @@
       "LastUpdatedUnixTime": "1784118287"
     },
     {
+      "ID": "3623",
+      "Internal-ID": "213991912",
+      "Name": "Emerald",
+      "LitterGroupId": 9541476,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1779253200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9f38179bad1e71a927f870c4c08c8f3/55fd3283f4c664adaad5e1b0d784140d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f9f38179bad1e71a927f870c4c08c8f3/55fd3283f4c664adaad5e1b0d784140d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/63e7a0dd24ac7751959fa95197a66195/657fa6c29ef124a4fdd40ee672f3dee2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53bf6dabf9483fd7d4ce21d645c24338/53c5ac33ebeda535652eb58999db8f2a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e077d7c089fe952c3579b5106a8ce4f5/e3261e7a3ea94c9f34ddf0710f7e5403.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9aeb81dade59a92664beedb174a56ac/e45f2359c0d339213250f9298db50d73.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9c9b1931d022b08e7373673f62318410/7a8a2d12dd0a866491edc86be72c2e73.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/13544bfb620af3724d35e121028ddbf5/2376db64d767f87857d20ddd2cbc8c7d.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/Tan",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Emerald is already sparkling her way through life like a tiny gem on the green. With her bright eyes, bouncy steps, and “let’s explore everything” enthusiasm, she approaches each day like she’s stepping onto a brand‑new fairway - full of excitement and ready to play.\n\nEmerald is curious, joyful, and wonderfully sweet. She trots around like she’s inspecting every hole on the course, sniffing new things, chasing toys, and showing off her signature puppy zoomies (her very impressive drive). And when she’s done practicing her moves, she’s more than happy to curl up for a cozy clubhouse nap right beside her people.\n\nShe’s learning all the basics - how to follow her humans, how to sit for attention, and how to keep her tiny paws out of the rough. With patience, positive training, and lots of love, Emerald will grow into a confident, affectionate companion who’s always ready to walk the fairway with you.\n\nEmerald is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. She may be small now, but she’s got big potential and a heart that shines as bright as her name.\n\nIf you’re ready to help a sweet little girl start her game strong, Emerald is ready to join your team. She’s hoping her forever home will be her hole‑in‑one.",
+      "LastIntakeUnixTime": "1782570600",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784212910"
+    },
+    {
       "ID": "3629",
       "Internal-ID": "214061017",
       "Name": "Fenwick",
@@ -3608,129 +3608,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784055305"
-    },
-    {
-      "ID": "3632",
-      "Internal-ID": "214068750",
-      "Name": "Turtle",
-      "LitterGroupId": 9549437,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "17",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1769184489,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4022cd52316d5af69f51dadd9ed68f4a/7027bdc09b3332fd6fa60e3cea06770b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0eaf9d10554e41f7db674a32ab02f99a/ed4652020cfa753f2c17c9d8ae59ddee.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d0e2f9219501d5a569fcff68709fa4d/6be456d022c4cd689491f1104ac5fc80.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4cf643b8398ef9e9e30bc6e1d9de4e5/4d9308d41bd05703adc49b351b129335.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/037bdeeef44f7c0ece2e85293b26b8b9/c1c745c4c22337ec1e30e66a2dcc6207.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6daa0a559bdd3b2674a603338486fdec/f2bcc806658c43fc2e5de0ba89a51f54.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46fcc070731bb9b9e60c00b706d9b467/b6eaf48fb449c576e5275037c79d20a5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7383c96748b7afeb657730bd190845ee/563bca3590a8d99ec1bbaccf06815c04.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/319dc1feaf995c5132931b312449452c/c71f4ff8ff98b2c91f4b078952e553e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/608d4279c5dfe1a803e158ccb4aac4e1/0f5b63b4ffa89f4090ae92222480b070.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/35604d8c6c00a3f284fc9c172c1f4422/ea39fc1505bc5ebaaff12694ac296a37.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b1e7cc0fe56b49d9fc4a26616c97f344/2c9394ffe7391d1942f838e9216521c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7a88803d370737592c00ae05133b3c35/e6b62eaebd4043a18d831dd9d10afaef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a5ff567457409869bf6e7f78c051a064/d3a35b78c432ddcf6ac2d573d338fcd4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4e396b9b52d98f6819369f7fdf080c4/20b4029e0b5cbc2652ccca7c51272962.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "8mKQSkvYQ0I",
-          "EmbedUrl": "//www.youtube.com/embed/8mKQSkvYQ0I?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=8mKQSkvYQ0I",
-          "ThumbUrl": "https://img.youtube.com/vi/8mKQSkvYQ0I/0.jpg"
-        }
-      ],
-      "Breed": "Terrier",
-      "Color": "Apricot",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Turtle may sound slow and steady, but this little guy is full of gentle curiosity, soft affection, and bursts of goofy puppy energy that make him impossible not to love.\n\nHe adores exploring his world one bouncy step at a time, then suddenly zooming off with a toy when inspiration strikes. Turtle is learning, growing, and discovering his confidence, and he’s already showing how deeply he bonds with the people who care for him. Whether he’s striking a dramatic pose, trotting over with his tail wagging, or curling up for quiet snuggles, Turtle brings joy in every moment.\n\nHe’s smart, social, and wonderfully tender‑hearted — the perfect mix of silly and sweet. Turtle is ready for a forever home that will appreciate his thoughtful nature, encourage his playful side, and help him blossom into the loving companion he’s meant to be.\n\nIf you’re looking for a puppy who will brighten your days, warm your heart, and grow with your family, Turtle is ready to wiggle his way in.",
-      "LastIntakeUnixTime": "1783627230",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784206346"
     },
     {
       "ID": "3558",
@@ -4083,7 +3960,135 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784160807"
+      "LastUpdatedUnixTime": "1784212676"
+    },
+    {
+      "ID": "3632",
+      "Internal-ID": "214068750",
+      "Name": "Turtle",
+      "LitterGroupId": 9549437,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "22",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1769184489,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4022cd52316d5af69f51dadd9ed68f4a/7027bdc09b3332fd6fa60e3cea06770b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0eaf9d10554e41f7db674a32ab02f99a/ed4652020cfa753f2c17c9d8ae59ddee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d0e2f9219501d5a569fcff68709fa4d/6be456d022c4cd689491f1104ac5fc80.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4cf643b8398ef9e9e30bc6e1d9de4e5/4d9308d41bd05703adc49b351b129335.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/037bdeeef44f7c0ece2e85293b26b8b9/c1c745c4c22337ec1e30e66a2dcc6207.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6daa0a559bdd3b2674a603338486fdec/f2bcc806658c43fc2e5de0ba89a51f54.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46fcc070731bb9b9e60c00b706d9b467/b6eaf48fb449c576e5275037c79d20a5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7383c96748b7afeb657730bd190845ee/563bca3590a8d99ec1bbaccf06815c04.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/319dc1feaf995c5132931b312449452c/c71f4ff8ff98b2c91f4b078952e553e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/608d4279c5dfe1a803e158ccb4aac4e1/0f5b63b4ffa89f4090ae92222480b070.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/35604d8c6c00a3f284fc9c172c1f4422/ea39fc1505bc5ebaaff12694ac296a37.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b1e7cc0fe56b49d9fc4a26616c97f344/2c9394ffe7391d1942f838e9216521c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7a88803d370737592c00ae05133b3c35/e6b62eaebd4043a18d831dd9d10afaef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a5ff567457409869bf6e7f78c051a064/d3a35b78c432ddcf6ac2d573d338fcd4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4e396b9b52d98f6819369f7fdf080c4/20b4029e0b5cbc2652ccca7c51272962.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "8mKQSkvYQ0I",
+          "EmbedUrl": "//www.youtube.com/embed/8mKQSkvYQ0I?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=8mKQSkvYQ0I",
+          "ThumbUrl": "https://img.youtube.com/vi/8mKQSkvYQ0I/0.jpg"
+        }
+      ],
+      "Breed": "Terrier",
+      "Color": "Apricot",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Turtle may sound slow and steady, but this little guy is full of gentle curiosity, soft affection, and bursts of goofy puppy energy that make him impossible not to love.\n\nHe adores exploring his world one bouncy step at a time, then suddenly zooming off with a toy when inspiration strikes. Turtle is learning, growing, and discovering his confidence, and he’s already showing how deeply he bonds with the people who care for him. Whether he’s striking a dramatic pose, trotting over with his tail wagging, or curling up for quiet snuggles, Turtle brings joy in every moment.\n\nHe’s smart, social, and wonderfully tender‑hearted — the perfect mix of silly and sweet. Turtle is ready for a forever home that will appreciate his thoughtful nature, encourage his playful side, and help him blossom into the loving companion he’s meant to be.\n\nIf you’re looking for a puppy who will brighten your days, warm your heart, and grow with your family, Turtle is ready to wiggle his way in.",
+      "LastIntakeUnixTime": "1783627230",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784212411"
     },
     {
       "ID": "1442",
@@ -4214,74 +4219,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778616182"
-    },
-    {
-      "ID": "3551",
-      "Internal-ID": "213678645",
-      "Name": "Sebastian",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "70",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1388556000,
-      "Age": 150,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8dc6bac305370168f309b789c4c81c87/a71269b989b2c2b6978833d82937f585.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/8dc6bac305370168f309b789c4c81c87/a71269b989b2c2b6978833d82937f585.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/af08ba4a98d3466e6141934ab70e44e2/77764cda39940ed16f0d2a6567095d3d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8bbaf87205389d2f1101ba0dd1b7ed84/23e458863e89338f5fd7c3975aa291b9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d6a8def94a06237f8d7e375ad9f0b1a/de4d258d33b4ba6c9571c42ffd3e67a2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, American Pit Bull",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Li’l Sebastian! Senior snuggle expert looking for his next cozy home.\n\nAbout Bastian:\n\n· ~12 years old (adopted from Fetch in fall 2017 when he was ~3).\n\n· Big (~70 lbs), affectionate, deeply loyal, bonds closely with his people.\n\n· Loves snuggling, including as many cheek kisses as you are willing to provide. Enjoys short bursts of play and time outside, then prefers to snuggle. Loves blanket piles; his ideal state is being both on top of and under a blanket at the same time.\n\n· Neutered, up to date on vaccines. Recent lab work (March 2026) showed no abnormalities: normal kidney/liver values, normal red/white blood cells, normal thyroid level, normal proteins and electrolytes. He is about 11 and has started showing some arthritis/joint pain, for which carprofen prn has been helpful.\n\nFinding the right fit: Sebastian has been under more stress recently with changes in my routine and a busier household. We’ve found that he would be more comfortable in a home without kids; there have been no incidents, but he is clearly uncomfortable and uncertain about kids.\n\nWith training and support (including recently fluoxetine and gabapentin), he’s doing better (less barking, more calm moments) but it’s become clear he does best in a quieter, more predictable setting.\n\n· Prefers a low-key environment (with more predictable activity and routines). Dislikes ‘slippery’ floors (e.g., hardwood) so we have rugs set out around the areas he walks most frequently—happy to send the rugs with him. It also helps to keep his nails trimmed.\n\n· Can come in very loud at first, very sweet and snuggly once settled. Does usually bark when people approach the front door, does not usually bark when people enter through the garage door (we don’t know why it’s different😊). Does not bark or pull when we’re on walks. The medications have helped stabilize things, but there’s a good chance he may not need them if he’s in a home that naturally fits his pace.\n\n· He’s been happy with my other dog for years and enjoys playing with other dogs outside the home, but can be particular about which dogs he likes so if you have an existing pet then a meet and greet to assess fit will be important.\n\n· Does have allergies (to grass!), which are well controlled with allercept and chlorhexidine baths every ~2 months. We’ve tapered off the allercept this year and his fur still looks good, so depending on the home he may not need this.\n\nWhat he’s really looking for: Someone who wants a loyal companion, enjoys a slower rhythm, and appreciates a dog who will truly attach and love hard.",
-      "LastIntakeUnixTime": "1778634213",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778634517"
     },
     {
       "ID": "3576",
