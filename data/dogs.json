@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T23:31:07Z",
+  "updated": "2026-07-16T01:54:38Z",
   "count": 57,
   "animals": [
     {
@@ -2056,7 +2056,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784034482"
+      "LastUpdatedUnixTime": "1784160240"
     },
     {
       "ID": "3630",
@@ -2174,7 +2174,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784055861"
+      "LastUpdatedUnixTime": "1784160873"
     },
     {
       "ID": "3631",
@@ -2440,7 +2440,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1783969516",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784145469"
+      "LastUpdatedUnixTime": "1784160918"
     },
     {
       "ID": "3637",
@@ -2535,9 +2535,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784145528"
+      "LastUpdatedUnixTime": "1784163854"
     },
     {
       "ID": "3638",
@@ -2645,9 +2650,12 @@
       "Altered": "Yes",
       "DOBUnixTime": 1752555600,
       "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d06fbd0b8d5bd3b9378d7f3aa8249377/341920c1fdb9c2ba8dc878236afe243f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e72f706a1c2a9d9b68228c3a26ac60c1/dfa970cba025500f753b2286d881eb41.jpeg"
       ],
       "Videos": [],
       "Breed": "Beagle",
@@ -2699,7 +2707,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784064304"
+      "LastUpdatedUnixTime": "1784161843"
     },
     {
       "ID": "3613",
@@ -2716,9 +2724,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1746075600,
       "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4cd091caa82cb4a7c342c507b2f20ed0/fa0865d95a1ea480e15b994e95e5678e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc0164e4c4a656416b1e13681cbea54a/d978755712c345e20216c7d17e70be8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/15963739b1846023d949a3fbdd2d4327/45e9a6d3cf51861b9476cd08ba979dff.jpeg"
       ],
       "Videos": [],
       "Breed": "Beagle",
@@ -2770,7 +2782,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783711522"
+      "LastUpdatedUnixTime": "1784161771"
     },
     {
       "ID": "3627",
@@ -4083,7 +4095,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784130319"
+      "LastUpdatedUnixTime": "1784165442"
     },
     {
       "ID": "3620",
@@ -4180,7 +4192,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784055338"
+      "LastUpdatedUnixTime": "1784160807"
     },
     {
       "ID": "1442",
