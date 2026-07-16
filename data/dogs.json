@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T17:59:17Z",
-  "count": 55,
+  "updated": "2026-07-16T19:17:30Z",
+  "count": 54,
   "animals": [
     {
       "ID": "2754",
@@ -2314,7 +2314,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784048212"
+      "LastUpdatedUnixTime": "1784228642"
     },
     {
       "ID": "3635",
@@ -2327,7 +2327,7 @@
       "Status": "Available",
       "InFoster": true,
       "CurrentWeightPounds": "52",
-      "Size": "",
+      "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1736488800,
       "Age": 18,
@@ -2354,11 +2354,17 @@
       "Breed": "Husky/Mixed Breed (Medium)",
       "Color": "White/Yellow",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1783969516",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784160918"
+      "LastUpdatedUnixTime": "1784229410"
     },
     {
       "ID": "3637",
@@ -2460,7 +2466,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784163854"
+      "LastUpdatedUnixTime": "1784229411"
     },
     {
       "ID": "3638",
@@ -2783,8 +2789,74 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1783789783",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1784145642"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784229409"
     },
     {
       "ID": "1395",
@@ -3613,88 +3685,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784055305"
-    },
-    {
-      "ID": "3558",
-      "Internal-ID": "213684446",
-      "Name": "Breezy",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "6.6",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/baf208175dfa9fe38182b857930d022e/fa4535d1f7bf6d7c00b4d5a6859467f4.png",
-        "https://new-s3.shelterluv.com/profile-pictures/7e3a2ff247bb26bf647cf097f8d1a67a/184c62f7a6541ef9aaecf0a01688a284.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Brown/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784172725"
     },
     {
       "ID": "3562",
