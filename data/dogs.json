@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T15:53:56Z",
-  "count": 53,
+  "updated": "2026-07-17T17:03:39Z",
+  "count": 52,
   "animals": [
     {
       "ID": "2754",
@@ -2395,108 +2395,6 @@
       "LastUpdatedUnixTime": "1784302699"
     },
     {
-      "ID": "3637",
-      "Internal-ID": "214093705",
-      "Name": "Cricket",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1770962400,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/64668cd89e2f5c5e17db750de15e5026/76505de25d4db29e37618a8ebe5ce214.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d29d0d69632d0adb14203617eb5e95c/34e720cd85f1902b6b1c6c3794d411cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d1f47d82ea760667d71e3385214bcf1/29ff1b104e90898d5b681e02929e11f0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b75f1a9d9e407038f0985560adbbdb2/8e2c480f2d701682671193bee1dea7b9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/587cc4c7fd0d37c79508da1baecf8a63/460f2613f2683ef1f4be2e8fab946780.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1783975178",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784244706"
-    },
-    {
       "ID": "3638",
       "Internal-ID": "214094994",
       "Name": "Ruby",
@@ -2586,6 +2484,47 @@
         }
       ],
       "LastUpdatedUnixTime": "1784244660"
+    },
+    {
+      "ID": "3603",
+      "Internal-ID": "213855262",
+      "Name": "Sheila",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761154,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1781020646",
+      "Attributes": [
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784304080"
     },
     {
       "ID": "3612",
@@ -2884,7 +2823,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784244786"
+      "LastUpdatedUnixTime": "1784307396"
     },
     {
       "ID": "3639",
@@ -3642,38 +3581,43 @@
       "LastUpdatedUnixTime": "1784118287"
     },
     {
-      "ID": "3562",
-      "Internal-ID": "213684450",
-      "Name": "Augusta",
-      "LitterGroupId": 9510755,
+      "ID": "3637",
+      "Internal-ID": "214093705",
+      "Name": "Cricket",
+      "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
-      "Status": "Pending Adoption",
+      "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "6.2",
-      "Size": "Small (0-24)",
+      "CurrentWeightPounds": "27.2",
+      "Size": "Medium (25-59)",
       "Altered": "Unknown",
-      "DOBUnixTime": 1776920400,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+      "DOBUnixTime": 1718382501,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
-        "https://new-s3.shelterluv.com/profile-pictures/1c5c662a442657c0fd14bc6f96ddf628/35a5419b06fba132d62fea59f9f314a9.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/64668cd89e2f5c5e17db750de15e5026/76505de25d4db29e37618a8ebe5ce214.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d29d0d69632d0adb14203617eb5e95c/34e720cd85f1902b6b1c6c3794d411cd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d1f47d82ea760667d71e3385214bcf1/29ff1b104e90898d5b681e02929e11f0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b75f1a9d9e407038f0985560adbbdb2/8e2c480f2d701682671193bee1dea7b9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/587cc4c7fd0d37c79508da1baecf8a63/460f2613f2683ef1f4be2e8fab946780.jpg"
       ],
       "Videos": [],
-      "Breed": "Chihuahua",
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
       "Color": "Black/White",
-      "Pattern": "None",
+      "Pattern": "Tick",
       "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
-      "LastIntakeUnixTime": "1781669400",
+      "Description": "  \nCricket has a spark in her eyes and a story that proves just how resilient love can be. She was found abandoned outside a Dollar General, waiting patiently for someone to notice her.\n\nDespite her rough start, Cricket is pure sunshine. She’s the kind of dog who trots over with her whole body wagging, hoping you’ll say hello. She’s smart, eager to learn, and full of that classic herder enthusiasm for life. Whether it’s a walk, a game of fetch, or just curling up nearby while you work, Cricket is happiest simply being part of your world.\n\nCricket has an affectionate personality with bright, eager-to-please intelligence. Her playful energy is balanced with sweet cuddle time, and can't wait to bond deeply with her person\n\nCricket will thrive with someone who appreciates an active, clever dog and wants a loyal companion by their side. After being left behind once, she’s more than ready for a forever home where she’ll never have to wonder if she’s wanted again.\n\nIf you’re looking for a dog who will adore you, make you laugh, and remind you daily how special second chances can be, Cricket is your girl.",
+      "LastIntakeUnixTime": "1783975178",
       "Attributes": [
         {
           "Internal-ID": "294293",
@@ -3681,13 +3625,28 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
           "Publish": "Yes"
         },
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
           "Publish": "Yes"
         },
         {
@@ -3701,17 +3660,22 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
         },
         {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783997683"
+      "LastUpdatedUnixTime": "1784306838"
     },
     {
       "ID": "3590",
@@ -4557,47 +4521,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783708579"
-    },
-    {
-      "ID": "3603",
-      "Internal-ID": "213855262",
-      "Name": "Sheila",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761154,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1781020646",
-      "Attributes": [
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783525106"
     }
   ]
 }

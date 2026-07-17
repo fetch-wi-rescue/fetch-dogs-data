@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T05:16:16Z",
+  "updated": "2026-07-17T17:03:40Z",
   "animals": [
     {
       "ID": "3458",
@@ -998,6 +998,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-17T05:16:16Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3562",
+      "Name": "Augusta",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7680bc14336f5fb1df0cdfda5b647936/909d71ca9aa99dc3fda9cafb575282a3.png",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-17T17:03:40Z",
       "status": "pending"
     }
   ]
