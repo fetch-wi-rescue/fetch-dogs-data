@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T12:40:14Z",
-  "count": 52,
+  "updated": "2026-07-17T14:26:14Z",
+  "count": 53,
   "animals": [
     {
       "ID": "2754",
@@ -2857,6 +2857,35 @@
         }
       ],
       "LastUpdatedUnixTime": "1784244786"
+    },
+    {
+      "ID": "3639",
+      "Internal-ID": "214119790",
+      "Name": "Duke",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1499490000,
+      "Age": 108,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1490204de050715a6e2a5c0e4b4fe5d9/6c1e08f73abc6d537ba60a85ab464297.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1490204de050715a6e2a5c0e4b4fe5d9/6c1e08f73abc6d537ba60a85ab464297.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Black Labrador/Mastiff",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784294522",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784297381"
     },
     {
       "ID": "1395",
