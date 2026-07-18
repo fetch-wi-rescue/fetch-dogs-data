@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T12:56:56Z",
+  "updated": "2026-07-18T14:18:49Z",
   "count": 52,
   "animals": [
     {
@@ -2534,9 +2534,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1499490000,
       "Age": 108,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1490204de050715a6e2a5c0e4b4fe5d9/6c1e08f73abc6d537ba60a85ab464297.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1490204de050715a6e2a5c0e4b4fe5d9/6c1e08f73abc6d537ba60a85ab464297.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/427d430d13e490edd6a0b0206605f7fd/b3b5bbd91c6e339a1b0b10fa964a8320.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/042fdbb554504ed373c4d083db01340e/f79a0b7d440ed8e914110f9761f0a2a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7122e5f83e4ccea65aea0a485cb63a07/1c8d1a7c6a836fc7f74c731ac46243ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a56467c91bfc4d351d1edc1bce10f202/8a0f8d9b33cb41eee555dd85165462fa.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Black Labrador/Mastiff",
@@ -2551,8 +2555,74 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1784294522",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1784301742"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784382099"
     },
     {
       "ID": "1395",
