@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T00:52:15Z",
+  "updated": "2026-07-18T03:49:17Z",
   "count": 52,
   "animals": [
     {
@@ -830,89 +830,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783976206"
-    },
-    {
-      "ID": "3541",
-      "Internal-ID": "213591752",
-      "Name": "Marigold",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 106,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c17870823a1d767cd93769afcec909f2/d21d4e23f417d93d96e80beb8c6afb0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out! She is a rare straight-haired bichon, not the typical curly coat.",
-      "LastIntakeUnixTime": "1777708500",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784232866"
     },
     {
       "ID": "3542",
@@ -3579,7 +3496,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784309570"
+      "LastUpdatedUnixTime": "1784343529"
     },
     {
       "ID": "3637",
@@ -3677,6 +3594,89 @@
         }
       ],
       "LastUpdatedUnixTime": "1784306838"
+    },
+    {
+      "ID": "3541",
+      "Internal-ID": "213591752",
+      "Name": "Marigold",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 106,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb6152908ca4c3a2e2ae94df4ec819ae/8f3caa050e32224a558c4cc6ee196fab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c17870823a1d767cd93769afcec909f2/d21d4e23f417d93d96e80beb8c6afb0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7026b03c63d2d075e0e8ebceb4353ec/5f315fb8f5c7e6b858e28c5e47098f7a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Marigold was surrendered from an Amish farm where she was used for breeding. She is shy but very sweet and will wag her tail at everyone and cautiously come up for pets. She is learning housetraining and walking on a leash. She loves other dogs and is very friendly and submissive with my pack. Marigold is a nonshedding dog and will need regular haircuts. She was very matted when we picked her up and had to be completely shaved, but she will be very cute and fluffy when her hair grows out! She is a rare straight-haired bichon, not the typical curly coat.",
+      "LastIntakeUnixTime": "1777708500",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784345626"
     },
     {
       "ID": "3590",
