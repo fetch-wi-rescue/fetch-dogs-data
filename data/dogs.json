@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T17:28:33Z",
-  "count": 53,
+  "updated": "2026-07-18T18:27:15Z",
+  "count": 54,
   "animals": [
     {
       "ID": "2754",
@@ -2650,6 +2650,43 @@
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
       "LastUpdatedUnixTime": "1784385726"
+    },
+    {
+      "ID": "3640",
+      "Internal-ID": "214127997",
+      "Name": "Jasper",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "103",
+      "Size": "Extra-Large (100+)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1564722000,
+      "Age": 83,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
+        "https://new-s3.shelterluv.com/profile-pictures/01a55ee60ae2c2bd0c639c5a7b1b0862/bb58a89ffc84c6d9c9c98fb6a557df7e.png",
+        "https://new-s3.shelterluv.com/profile-pictures/71f549929022dcb46b3e64f137eca2ba/df57c1d1ff6c24d461a1e7bd290f5b42.png"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1784396331",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784396822"
     },
     {
       "ID": "1395",
