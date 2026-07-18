@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T14:18:49Z",
-  "count": 52,
+  "updated": "2026-07-18T15:27:27Z",
+  "count": 53,
   "animals": [
     {
       "ID": "2754",
@@ -2518,6 +2518,33 @@
         }
       ],
       "LastUpdatedUnixTime": "1784309146"
+    },
+    {
+      "ID": "3636",
+      "Internal-ID": "214093513",
+      "Name": "Skye",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1558760400,
+      "Age": 85,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784385320",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784385726"
     },
     {
       "ID": "3639",
