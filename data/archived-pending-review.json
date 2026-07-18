@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:40:52Z",
+  "updated": "2026-07-18T23:44:28Z",
   "animals": [
     {
       "ID": "3458",
@@ -1016,6 +1016,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-18T19:40:52Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3621",
+      "Name": "Clover",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-18T23:44:28Z",
       "status": "pending"
     }
   ]

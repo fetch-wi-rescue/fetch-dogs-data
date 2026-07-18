@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T22:40:47Z",
-  "count": 53,
+  "updated": "2026-07-18T23:44:28Z",
+  "count": 52,
   "animals": [
     {
       "ID": "2754",
@@ -3326,92 +3326,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784230733"
-    },
-    {
-      "ID": "3621",
-      "Internal-ID": "213991908",
-      "Name": "Clover",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779253200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6e6d3038f6e4e8e19c96f8dc56b3ef6d/a058f850a2b5deee79ee7250b864f49d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3d5644c1aefaec635ff87499d4136983/58673f72debc17b64994352ef6c992a0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d02576b382354a3481cd0eef4a48a003/e6537c1e6cfd455b57f9b8038482eb1b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc68bac2e3496a89a7c456f8b19e8bb1/9715a0224e9c7340be8dc7230c64e243.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d7fbdd6c81667969d83eed19c73f75c3/ea0c0f6813bb2291f8754647c316690c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/72ff2d87fbac00512a968474c62ca192/89f6e371546468400110ff4da694a280.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/Tan",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Clover is already proving she’s got the spirit of a tiny golf prodigy. With her bright eyes, bouncy steps, and “let’s explore everything” attitude, she approaches life like she’s stepping onto the green for the very first time - full of excitement and ready to play.\n\nClover is curious, joyful, and always on the move. She trots around like she’s checking out every hole on the course, sniffing new things, chasing toys, and practicing her puppy zoomies (her signature drive). And when she’s done showing off her moves, she’s more than happy to curl up for a cozy clubhouse nap right beside her people.\n\nShe’s learning all the basics - how to follow her humans, how to sit for attention, and how to keep her tiny paws out of the rough. With patience, positive training, and lots of love, Clover will grow into a confident, affectionate companion who’s always ready to walk the fairway with you.\n\nClover is looking for a family who understands puppy energy, puppy mischief, and puppy snuggles. She may be small now, but she’s got big potential and a heart as sweet as a sunny day on the course.\n\nIf you’re ready to help a little girl start her game strong, Clover is ready to join your team. She’s hoping her forever home will be her hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784118287"
     },
     {
       "ID": "3633",
