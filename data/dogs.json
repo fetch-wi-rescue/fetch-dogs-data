@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T18:27:15Z",
-  "count": 54,
+  "updated": "2026-07-18T19:40:52Z",
+  "count": 53,
   "animals": [
     {
       "ID": "2754",
@@ -2198,9 +2198,14 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/427d430d13e490edd6a0b0206605f7fd/b3b5bbd91c6e339a1b0b10fa964a8320.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/042fdbb554504ed373c4d083db01340e/f79a0b7d440ed8e914110f9761f0a2a6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7122e5f83e4ccea65aea0a485cb63a07/1c8d1a7c6a836fc7f74c731ac46243ee.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a56467c91bfc4d351d1edc1bce10f202/8a0f8d9b33cb41eee555dd85165462fa.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/a56467c91bfc4d351d1edc1bce10f202/8a0f8d9b33cb41eee555dd85165462fa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b0d9f8baa2c7ae49ca12907c39b77bdf/b3997c795e6e2ee147f044bd30bfabf0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68fd56f46648a984b507157d9395958b/18ba83bd3c84c46b3e06a77228dfe443.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04257a4b0084b186de0bacb13d6170b8/49491f558df9018fc341b93722d8ad75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/505ea53ba9b60549abab63faaacb3702/9cdc217173b9ea101d73fe86d2a2b32d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0221dc855bf4b090c13af9e75c876baa/582bdf48ffe512ea3abb8002760eb1a9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e741bcb750199a32ca07da5e4cd48708/c5fe57425373e9a684d12ca5971180fb.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Black Labrador/Mastiff",
@@ -2282,7 +2287,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784389602"
+      "LastUpdatedUnixTime": "1784402618"
     },
     {
       "ID": "3603",
@@ -3407,112 +3412,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784118287"
-    },
-    {
-      "ID": "3629",
-      "Internal-ID": "214061017",
-      "Name": "Fenwick",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "77",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1736229600,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
-      "Color": "Fawn/Wheaten",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
-      "LastIntakeUnixTime": "1783463919",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784392930"
     },
     {
       "ID": "3633",

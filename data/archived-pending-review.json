@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T17:03:40Z",
+  "updated": "2026-07-18T19:40:52Z",
   "animals": [
     {
       "ID": "3458",
@@ -1007,6 +1007,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-17T17:03:40Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3629",
+      "Name": "Fenwick",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-18T19:40:52Z",
       "status": "pending"
     }
   ]
