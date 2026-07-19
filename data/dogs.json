@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T23:44:28Z",
-  "count": 52,
+  "updated": "2026-07-19T01:57:37Z",
+  "count": 51,
   "animals": [
     {
       "ID": "2754",
@@ -500,7 +500,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783480531"
+      "LastUpdatedUnixTime": "1784423498"
     },
     {
       "ID": "3238",
@@ -3326,124 +3326,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784230733"
-    },
-    {
-      "ID": "3633",
-      "Internal-ID": "214079918",
-      "Name": "Aqua",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "50",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1687012443,
-      "Age": 37,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/636e4bec8a6aed3a14c45c562588303f/74dde18252537dd077c1776a4da76bee.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/636e4bec8a6aed3a14c45c562588303f/74dde18252537dd077c1776a4da76bee.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/96f0b9b32f3a1731c8dc9a3af22b4dfd/1d79ac36424ae2530a43393aa4cf6109.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f6969b0ea9d49342068c88d6a1e62acb/959f724ec0acdfa754643bd8014b911e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6a2f9a665cabef44049691a343c6cba5/8427db237e7a805c09baf7e16504447d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1202092ff0606bbf470c41e1d858e452/7fe867e8a478c788d0ce5198c953ead2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7acbd74c3356e7f8f33ea5672173e25a/de18ded66b32e2c17d6ad67c04a79ccd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4dd5fe01eb80c964d5cacc5588a23472/9567b527619cc57f888caf43c88c815e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b6c2bc2ea7fdb45d192caa22c994100d/64ff8d2e60430c2b05e4f35689c922b6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/895f6c8993922ad75425985fa9c5a790/aa7cdb22cc608930b9c071834d6600d0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/120edcd05530890532272bb4cace200f/be2b9683232390dbaa540763222a535b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9c49c90b379f6e142dafb9b8424a7ec2/223d397a61faf966eaee4301828398cb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b36684bce6f0dbbdfb152eae79a7d23/818876b0414075235174cbd09a827646.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9da93289b0071e97463e2e9625daadca/73bba505da5d17659b7b3e6a86d2e53a.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Aqua, a gentle, resilient girl with a heart as soft as her name suggests. Aqua’s life hasn’t been easy - she tragically lost her original owner in a highway accident, and shortly after, she gave birth to puppies which will be joining Fetch in a couple of weeks. With her mothering duties behind her, now it’s Aqua’s turn to be cared for, cherished, and chosen.\n\nDespite everything she’s been through, Aqua is truly the easiest dog you’ll ever meet. She’s calm, quiet, and wonderfully low‑maintenance. Her favorite hobbies include napping, lounging, and finding the coziest spot in the house, or preferably yard, to curl up. She’s the kind of dog who brings peace into a home just by being in it.\n\nAqua doesn’t ask for much - just a safe place to rest and someone who appreciates her gentle spirit. She’s affectionate in a quiet way, grateful for every bit of kindness, and happy simply being near her people.\n\nIf you’re looking for a sweet, serene companion who will fill your home with calm and love, Aqua is ready to begin her new chapter. She’s survived the hardest part of her story; now she just needs someone to give her the soft, safe life she deserves.",
-      "LastIntakeUnixTime": "1783716738",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784343529"
     },
     {
       "ID": "3637",
