@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:30:19Z",
+  "updated": "2026-07-20T19:28:20Z",
   "count": 51,
   "animals": [
     {
@@ -941,12 +941,15 @@
       "Altered": "Yes",
       "DOBUnixTime": 1504242000,
       "Age": 106,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d6ea8adb5b78c9f3017134087a959753/d9effc38efad0a3f53d8e43d09563e5a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e49518406c20e6bba0f7ec41987a49f/810601585ead4113d73a00a523f70b88.jpeg"
       ],
       "Videos": [],
       "Breed": "Bichon Frise",
@@ -1012,7 +1015,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784232162"
+      "LastUpdatedUnixTime": "1784574128"
     },
     {
       "ID": "3543",
@@ -1727,7 +1730,151 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784565564"
+      "LastUpdatedUnixTime": "1784573002"
+    },
+    {
+      "ID": "3612",
+      "Internal-ID": "213937985",
+      "Name": "Whiskey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "25.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1752555600,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d06fbd0b8d5bd3b9378d7f3aa8249377/341920c1fdb9c2ba8dc878236afe243f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e72f706a1c2a9d9b68228c3a26ac60c1/dfa970cba025500f753b2286d881eb41.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Whiskey is a spunky beagle who's still figuring out what it means to be a house dog—and he's making great progress! He's currently learning the ropes while living with three other dogs, and those furry friends have become his best teachers.\n\nThis young guy is a bouncy adolescent with plenty of energy to burn. He's a bit shy at first and takes time to warm up to people, but once he trusts you, he's got a sweet side—pick him up and he'll happily settle in for a nap on your lap. He thrives on companionship and needs a home where he can continue learning alongside a confident, well-adjusted dog. With the right mentor and patient humans by his side, Whiskey's confidence grows every day.\n\nWhat Whiskey needs:\n\nA fenced-in yard for safe play and exploration\nA patient family willing to support his continued growth\nAt least one dog friend who can model good behavior\nLove, consistency, and plenty of opportunities to be part of the pack\n\nIf you have a stable home with another dog and the patience to watch Whiskey blossom, he's ready to return all that investment with the loyal companionship only a beagle can offer.",
+      "LastIntakeUnixTime": "1781658720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784570021"
+    },
+    {
+      "ID": "3613",
+      "Internal-ID": "213937986",
+      "Name": "Pete",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "17.58",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1746075600,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4cd091caa82cb4a7c342c507b2f20ed0/fa0865d95a1ea480e15b994e95e5678e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc0164e4c4a656416b1e13681cbea54a/d978755712c345e20216c7d17e70be8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/15963739b1846023d949a3fbdd2d4327/45e9a6d3cf51861b9476cd08ba979dff.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Pete is a shy beagle who's still building his trust in people—but he's making progress. Right now, he feels safest with his canine pack mates and prefers to spend most of his time with them. He doesn't readily trust people, but he's slowly learning that humans can be okay, and that's huge growth for this sensitive guy.\n\nGetting picked up takes Pete a moment to adjust—he'll need some time to settle and feel secure—but once he relaxes, he's willing to accept your gentle touch and affection. He's learning that patience and kindness lead to good things.\n\nPete is a work in progress, and he needs a home that understands his pace. He thrives best without the unpredictability and noise of young children right now, though with time and the right environment, he may warm up to them. What he needs most is consistency, the companionship of another dog who can model confidence, and patience as he learns to trust.\n\nWhat Pete needs:\n\nA patient, calm family committed to his slow progress\nA fenced-in yard for safe, low-pressure exploration\nAt least one dog friend who can help model trust and confidence\nA home without young children at this stage\nTime and quiet spaces to decompress and build trust at his own pace\n\nIf you have the patience to let Pete bloom at his own speed, you'll discover what a sweet, gentle soul he is.",
+      "LastIntakeUnixTime": "1781658720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784570359"
     },
     {
       "ID": "3625",
@@ -2585,155 +2732,6 @@
       "LastUpdatedUnixTime": "1784402618"
     },
     {
-      "ID": "3612",
-      "Internal-ID": "213937985",
-      "Name": "Whiskey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1752555600,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d06fbd0b8d5bd3b9378d7f3aa8249377/341920c1fdb9c2ba8dc878236afe243f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e72f706a1c2a9d9b68228c3a26ac60c1/dfa970cba025500f753b2286d881eb41.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1781658720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784161843"
-    },
-    {
-      "ID": "3613",
-      "Internal-ID": "213937986",
-      "Name": "Pete",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "17.58",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1746075600,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4cd091caa82cb4a7c342c507b2f20ed0/fa0865d95a1ea480e15b994e95e5678e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc0164e4c4a656416b1e13681cbea54a/d978755712c345e20216c7d17e70be8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/15963739b1846023d949a3fbdd2d4327/45e9a6d3cf51861b9476cd08ba979dff.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1781658720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784161771"
-    },
-    {
       "ID": "3627",
       "Internal-ID": "214031944",
       "Name": "Dahla",
@@ -3524,86 +3522,6 @@
       "LastUpdatedUnixTime": "1784136522"
     },
     {
-      "ID": "3605",
-      "Internal-ID": "213855266",
-      "Name": "Skip",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747769699,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df2ea6ed61feacc0a2b140f458072573/4a947d1c204cc4eed46eb452ea51a595.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/df2ea6ed61feacc0a2b140f458072573/4a947d1c204cc4eed46eb452ea51a595.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
-      "LastIntakeUnixTime": "1781020577",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784230733"
-    },
-    {
       "ID": "3637",
       "Internal-ID": "214093705",
       "Name": "Cricket",
@@ -3884,6 +3802,86 @@
         }
       ],
       "LastUpdatedUnixTime": "1783708968"
+    },
+    {
+      "ID": "3605",
+      "Internal-ID": "213855266",
+      "Name": "Skip",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747769699,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df2ea6ed61feacc0a2b140f458072573/4a947d1c204cc4eed46eb452ea51a595.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/df2ea6ed61feacc0a2b140f458072573/4a947d1c204cc4eed46eb452ea51a595.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
+      "LastIntakeUnixTime": "1781020577",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784570384"
     },
     {
       "ID": "3620",
