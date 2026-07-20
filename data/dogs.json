@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:42:50Z",
+  "updated": "2026-07-20T02:39:56Z",
   "count": 51,
   "animals": [
     {
@@ -762,7 +762,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783708009"
+      "LastUpdatedUnixTime": "1784502535"
     },
     {
       "ID": "3532",
@@ -2082,10 +2082,10 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "If joy had four legs and a wagging tail, it would look exactly like Luna Beth, who has a personality as big as her splash radius. Luna is the kind of dog who doesn’t just like water - she celebrates it. Kiddie pools, lakes, sprinklers, hoses, puddles… if it’s wet, Luna is in her element.\n\nBut don’t let her aquatic enthusiasm fool you into thinking she’s a one‑hobby girl. Luna Beth loves everything. Every person she meets is a new best friend. Every toy is the greatest invention of all time. Every walk is a grand adventure. She approaches life with wide‑eyed excitement and a tail that never stops cheering her on.\n\nShe’s social, affectionate, and happiest when she’s part of the action. She’s smart, curious, and always ready to learn — especially if treats or belly rubs are involved. She’s an excellent companion for active families, water‑loving humans, or anyone who appreciates a dog who greets every day like it’s the best one yet.\n\nLuna Beth is ready to bring laughter, adventure, and a whole lot of love to her forever home. If you’re looking for a dog who will adore you endlessly and make even ordinary days feel extraordinary, Luna Beth is waiting to meet you.",
       "LastIntakeUnixTime": "1783969516",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784302699"
+      "LastUpdatedUnixTime": "1784503525"
     },
     {
       "ID": "3638",
@@ -2639,13 +2639,22 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "33.4",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1558760400,
       "Age": 85,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a38ad058ccad90fecccd80156c8b6ca3/673be1326dee34f6343d5438f8d813b0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fda4898c7c0040525ad964d036c94295/00c79298679d1c44c068ff90260f939c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e0ed3b9eb6d6c164ef2031d5fdb7affa/dd690b2c942008e9c0b7929d4c106b84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e4220dcff30cdac84d9f47ff771880ca/e72c9bf2703bcf8db05cd86e315a3ba0.png",
+        "https://new-s3.shelterluv.com/profile-pictures/4637abb0b768fc042e3eec5b1d499a25/6c79b57ae59ac8cd4c80f47568384342.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3019825082baa67a6106d9ea9a11370/ba1c9afe56eb9bed07f213c6ca532002.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1a9013fa1e1ad29a7842df0cdd7a0d7/523d811e8f70e5253edaf7fc74831a54.jpeg"
+      ],
       "Videos": [],
       "Breed": "Cattle Dog, Australian (Blue Heeler)",
       "Color": "White",
@@ -2654,7 +2663,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784385726"
+      "LastUpdatedUnixTime": "1784512012"
     },
     {
       "ID": "3640",
@@ -2817,7 +2826,20 @@
         "https://new-s3.shelterluv.com/profile-pictures/c43b87bef46d60b7eee85a563b2c1807/11e6399f7d207931d95e72bf0ba3b91c.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c32c49d4fd9d9d0016c026d1186d9faf/b80738608783f348abbd4f67ff0d8c29.jpg"
       ],
-      "Videos": [],
+      "Videos": [
+        {
+          "VideoId": "GEZzDPfhTRY",
+          "EmbedUrl": "//www.youtube.com/embed/GEZzDPfhTRY?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=GEZzDPfhTRY",
+          "ThumbUrl": "https://img.youtube.com/vi/GEZzDPfhTRY/0.jpg"
+        },
+        {
+          "VideoId": "BPMzvJdcEUg",
+          "EmbedUrl": "//www.youtube.com/embed/BPMzvJdcEUg?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=BPMzvJdcEUg",
+          "ThumbUrl": "https://img.youtube.com/vi/BPMzvJdcEUg/0.jpg"
+        }
+      ],
       "Breed": "Mixed Breed (Small)",
       "Color": "Black",
       "Pattern": "None",
@@ -2872,7 +2894,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784127535"
+      "LastUpdatedUnixTime": "1784502269"
     },
     {
       "ID": "3479",
