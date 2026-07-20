@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T13:51:19Z",
-  "count": 52,
+  "updated": "2026-07-20T15:45:45Z",
+  "count": 51,
   "animals": [
     {
       "ID": "2754",
@@ -289,6 +289,101 @@
         }
       ],
       "LastUpdatedUnixTime": "1784154787"
+    },
+    {
+      "ID": "2350",
+      "Internal-ID": "213178951",
+      "Name": "Jane",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "59.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1652590800,
+      "Age": 50,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
+        "https://new-s3.shelterluv.com/profile-pictures/e4f2851f21aaed211bb0d65892564e41/009321c1277b1fe3b9df21447d978b9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c3a3835d30c9e221c7d7524c706cda0/db6502908e0b68885878da95e754eb9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04c134cc6e28ac9fb5fc81e8b5bf1561/84dedb9c60d44fc060f2b213b923bccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/16bf6a1f6064774a71583c20c8c88167/204d516b0e099a100b24c89c852b2aa6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb66f2e42594547b07929da8b30a3b40/fd0994cddbc8a2aa37a101836e5cef1c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Fawn",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
+      "LastIntakeUnixTime": "1748062800",
+      "Attributes": [
+        {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784559591"
     },
     {
       "ID": "2582",
@@ -1560,7 +1655,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784223938"
+      "LastUpdatedUnixTime": "1784559568"
     },
     {
       "ID": "3625",
@@ -4128,76 +4223,6 @@
       "LastUpdatedUnixTime": "1781203640"
     },
     {
-      "ID": "3609",
-      "Internal-ID": "213889507",
-      "Name": "Arya",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1762754400,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc05426c3bd278c1a9cb2a2db359afba/ad3d92be1c9d150bcdb8a70a818845fc.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/dc05426c3bd278c1a9cb2a2db359afba/ad3d92be1c9d150bcdb8a70a818845fc.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mastiff, Cane Corso",
-      "Color": "Blue",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Arya is a sweet, happy puppy who is looking for a new home as her owner is dealing with job loss and health issues. Arya is very active and she loves being outside!  She loves going for walks and hikes on the ice age trail 3-5 times a week. She also loves interacting with other dogs at the dog park.  She is submissive with other dogs.  She does great with other animals including cats.  She is very sweet and easy to train.  She is crate trained and all you have to do is say go to bed.   She enjoys carrots, frozen green beans, and hard boiled eggs as a special treat.   She is on Purina Pro Plan Salmon and takes Omega 3 with her food to help her skin.  She is allergic to chicken and my vet recommended to stick with Salmon or Lamb.   \n\nIdeal home would be a home with a active family that will give her attention and exercise with plenty of time outside.  ",
-      "LastIntakeUnixTime": "1781275887",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781416212"
-    },
-    {
       "ID": "3610",
       "Internal-ID": "213899765",
       "Name": "Sabo",
@@ -4335,101 +4360,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
-    },
-    {
-      "ID": "2350",
-      "Internal-ID": "213178951",
-      "Name": "Jane",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "59.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1652590800,
-      "Age": 50,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
-        "https://new-s3.shelterluv.com/profile-pictures/e4f2851f21aaed211bb0d65892564e41/009321c1277b1fe3b9df21447d978b9c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5c3a3835d30c9e221c7d7524c706cda0/db6502908e0b68885878da95e754eb9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04c134cc6e28ac9fb5fc81e8b5bf1561/84dedb9c60d44fc060f2b213b923bccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/16bf6a1f6064774a71583c20c8c88167/204d516b0e099a100b24c89c852b2aa6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb66f2e42594547b07929da8b30a3b40/fd0994cddbc8a2aa37a101836e5cef1c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Fawn",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
-      "LastIntakeUnixTime": "1748062800",
-      "Attributes": [
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784039210"
     },
     {
       "ID": "3578",

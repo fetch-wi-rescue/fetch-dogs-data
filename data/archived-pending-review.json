@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T01:57:37Z",
+  "updated": "2026-07-20T15:45:45Z",
   "animals": [
     {
       "ID": "3458",
@@ -1025,6 +1025,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-19T01:57:37Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3609",
+      "Name": "Arya",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/dc05426c3bd278c1a9cb2a2db359afba/ad3d92be1c9d150bcdb8a70a818845fc.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-07-20T15:45:45Z",
       "status": "pending"
     }
   ]
