@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T15:45:45Z",
+  "updated": "2026-07-20T17:30:19Z",
   "count": 51,
   "animals": [
     {
@@ -1465,7 +1465,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/803a68fb6bc8711b315a64a1cdebc3d5/fcec468923a0c8c84b1dc009ff3959c8.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0e2ac5280b105c88c53d83bccf9863ef/548806cf3cc5ae66ba7bb42e349b69e4.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/a44eaeb926a063f5cc955b3df56906d7/b7cf406e44d674f3cf1cab401fcf76c4.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/a44eaeb926a063f5cc955b3df56906d7/b7cf406e44d674f3cf1cab401fcf76c4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7966b6c44fe2bcb0937a542001d4aaca/78f5983fdf294f970e8a67c7c9ef58cd.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -1542,7 +1543,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784550112"
+      "LastUpdatedUnixTime": "1784564879"
     },
     {
       "ID": "3599",
@@ -1656,6 +1657,77 @@
         }
       ],
       "LastUpdatedUnixTime": "1784559568"
+    },
+    {
+      "ID": "3603",
+      "Internal-ID": "213855262",
+      "Name": "Sheila",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761154,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Sheila is a tiny Shih Tzu who may look like a classic “easy lap dog,” but she is not that dog right now. She came from a breeding/hoarding situation in Texas, and her world has always been small, loud, and scary. Because of that, she is extremely nervous and fearful and she will need an adopter who understands trauma, patience, and slow progress.\nWhat she’s like today:\n• Very fearful of people. She does not currently allow petting and will retreat to her crate when she feels overwhelmed. After a few weeks with us, she will come forward to sniff us, which is a small but meaningful step.\n• Not leash ready. She cannot be walked outside or walked on a leash at this time. She has extreme panic when placed on a leash or with outdoor exposure.\n• Pee pad trained. She uses pads reliably and rarely has accidents off them.\n• Her crate is her safe space. She sleeps and decompresses there, running to her crate whenever she is afraid or overwhelmed. She likes to gather her toys inside.\n• Loves toys. She quietly plays, collects them, and occasionally shows flashes of “real dog” joy—tail chasing, play bows, little bursts of silliness.\n• Kid friendly in the sense that she ignores them. She lives with dog-savvy, animal compassionate kids (8, 13, 15) but does not interact with them.\n• Would benefit from another calm, friendly dog. She watches other dogs closely and would likely learn from a confident, gentle companion.\nWho she needs:\nShe needs someone who can offer grace, time, and zero pressure. She is not going to be a cuddly companion anytime soon. She is not ready for walks, dog parks, or social outings. She is a long term project—tiny and adorable, yes, but emotionally complex and still learning what safety feels like.\nIf you are patient, trauma informed, and willing to celebrate very small victories, she has the potential to grow into a much braver version of herself. She is slowly coming out of her shell, and with the right home, those little glimpses of joy can become the norm rather than tiny moments.\nSheila isn’t an easy dog, but she is a diamond in the rough and deserves all the love and joy in her life.",
+      "LastIntakeUnixTime": "1781020646",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784565564"
     },
     {
       "ID": "3625",
@@ -2511,47 +2583,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784402618"
-    },
-    {
-      "ID": "3603",
-      "Internal-ID": "213855262",
-      "Name": "Sheila",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761154,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1781020646",
-      "Attributes": [
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784304080"
     },
     {
       "ID": "3612",
