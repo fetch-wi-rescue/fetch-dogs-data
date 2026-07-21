@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T01:56:58Z",
-  "count": 50,
+  "updated": "2026-07-21T05:18:51Z",
+  "count": 49,
   "animals": [
     {
       "ID": "2754",
@@ -2611,7 +2611,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "This silly dude originally came from northern Wisconsin, but after his owner passed away, he made his way to Fetch.\n\nSimon is incredibly sweet, calm, and affectionate. He adores people, gets along wonderfully with other creatures, and loves the simple pleasures in life. He’s food-motivated, playful, and always happy to soak up attention. \n\nThe lab in Simon makes him a true water dog who loves to play! Simon loves the summer for the water & loves the winters for finally not being hot.\n\nHe’s just a simple dude, ready to please and share happiness with his silly tippy tappies.",
+      "Description": "Meet ✨Simon✨, the only dog who comes with a FREE emotional support slinky named Stan. That's right—you get a two-for-one deal. \n\nStan is Simon's prized possession. He proudly carries him around the house, shows him off to anyone willing to admire his handsome friend, and even insists on taking Stan outside for little strolls. We don't ask questions. We just accept that Stan is family.\n\nSimon originally came to Fetch from northern Wisconsin after his beloved owner passed away. While his life took an unexpected turn, he hasn't let it dim his sweet, goofy spirit.\n\nThis handsome guy is as easygoing as they come. He's calm, affectionate, wonderful with people, gets along great with other animals, and firmly believes snacks solve most problems. He's playful without being wild, loves attention, and greets life with the happiest little tippy-tappies you've ever seen.\n\nThe Labrador in Simon is impossible to miss. If there's water nearby, he's in it. Lakes? Yes. Kiddie pools? Absolutely. Mud puddles? If you're not looking... probably.\n\nSimon isn't looking for anything fancy. Just a family to love, treats to politely accept, water to splash in, and plenty of opportunities to proudly parade Stan around like the tiny celebrity he is.\n\nAdopt Simon and you'll get one incredible dog... plus Stan, his slightly floppy but very important sidekick.",
       "LastIntakeUnixTime": "1784294522",
       "Attributes": [
         {
@@ -2830,7 +2830,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784591633"
+      "LastUpdatedUnixTime": "1784610847"
     },
     {
       "ID": "3636",
@@ -3567,7 +3567,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784306838"
+      "LastUpdatedUnixTime": "1784599693"
     },
     {
       "ID": "3541",
@@ -3753,92 +3753,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783708968"
-    },
-    {
-      "ID": "3605",
-      "Internal-ID": "213855266",
-      "Name": "Skip",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747769699,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/df2ea6ed61feacc0a2b140f458072573/4a947d1c204cc4eed46eb452ea51a595.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/df2ea6ed61feacc0a2b140f458072573/4a947d1c204cc4eed46eb452ea51a595.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98bb5a7896a9421aee6be26d0f5069fc/f193314d22c94773bfdcd5a00f77c593.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6e0708f46296e4a288ef2896108046/ea8dd8e26357c435377f50ccb4ddfa27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc78ae7d7cd9c506ba4e35afd761d419/e59e0a02c729f05d707625e026a73535.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7765779f29f588e7864d9a406d1723c5/42ae455d3318d161f5ce05eba899fc81.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dbfa8bef84cb926e307c66529232f69c/42227358dd135e2858bfb02f255d7611.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
-      "LastIntakeUnixTime": "1781020577",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784596618"
     },
     {
       "ID": "3620",
