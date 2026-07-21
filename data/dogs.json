@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T23:50:30Z",
+  "updated": "2026-07-21T01:56:58Z",
   "count": 50,
   "animals": [
     {
@@ -1015,7 +1015,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784574128"
+      "LastUpdatedUnixTime": "1784591873"
     },
     {
       "ID": "3543",
@@ -1891,13 +1891,16 @@
       "Altered": "No",
       "DOBUnixTime": 1779253200,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/869a3e79c51138e9cc9eab6b3dfb9101/7ec4956697bdf531522aad17245252fc.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0bbcdac861bd818b4b57fb26ecd64075/311c2100dc246f349b5c6ba55d13debc.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/869a3e79c51138e9cc9eab6b3dfb9101/7ec4956697bdf531522aad17245252fc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0bbcdac861bd818b4b57fb26ecd64075/311c2100dc246f349b5c6ba55d13debc.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8f37992e598df220863a65ee14e5e322/4740b8e15625d63fa82d88c3146b9ffe.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f16947cb9498b06e928a8fb52b8d1f01/687cd6533e4f0f8aacfc07d3de3ba7d4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/869a3e79c51138e9cc9eab6b3dfb9101/7ec4956697bdf531522aad17245252fc.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2468d8cd1db79be2119d40f40d1a871e/f75ce34bb194de66621c7f2374c209e4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd9e392dfcae4ea0522861280c44affa/db1669091468c82eff401aff69669ae0.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/fd9e392dfcae4ea0522861280c44affa/db1669091468c82eff401aff69669ae0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/814b5ecadd1012af334d0a6ddb11b345/a56864271b3b216c926711874d3fd44f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/671b14be26689f806eb65e36e2a026b9/7ef0d1783b567c6ad45659b07eaa3ee5.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
@@ -1959,7 +1962,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784308825"
+      "LastUpdatedUnixTime": "1784598781"
     },
     {
       "ID": "3626",
@@ -2827,7 +2830,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784309146"
+      "LastUpdatedUnixTime": "1784591633"
     },
     {
       "ID": "3636",
@@ -3647,7 +3650,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784345626"
+      "LastUpdatedUnixTime": "1784591989"
     },
     {
       "ID": "3590",
@@ -3779,7 +3782,13 @@
       "Breed": "Shih Tzu",
       "Color": "Brown",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Skip is a fluffy little Shih Tzu who came from a hoarding case in Texas. He is very shy and we are working hard on teaching him to trust humans. He will run away from us at first, but when we pick him up he will snuggle with us. No matter how scared he is, he has never been aggressive.\n\nSkip loves to play with other dogs, especially his buddy Sunrise. He sleeps with Sunrise in a crate at night and they love to snuggle up together. We are working on potty training and they are both doing great but will need continued training. We have not started leash training yet. Right now the leash is very scary so we are working on getting him to trust us first. \n\nSkip’s ideal home would be one with a fenced yard and a patient human who is willing to give him time to develop trust. Another dog would be a plus but not required. I think he would do fine with older kids, but active or loud kids would be scary for him.\n\nSkip is nonshedding and will need regular haircuts.",
       "LastIntakeUnixTime": "1781020577",
       "Attributes": [
@@ -3829,7 +3838,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784590440"
+      "LastUpdatedUnixTime": "1784596618"
     },
     {
       "ID": "3620",
