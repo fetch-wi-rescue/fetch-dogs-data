@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T14:32:04Z",
+  "updated": "2026-07-21T16:17:27Z",
   "count": 50,
   "animals": [
     {
@@ -925,97 +925,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1783976206"
-    },
-    {
-      "ID": "3542",
-      "Internal-ID": "213591754",
-      "Name": "Chloe",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "14.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 106,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d6ea8adb5b78c9f3017134087a959753/d9effc38efad0a3f53d8e43d09563e5a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e49518406c20e6bba0f7ec41987a49f/810601585ead4113d73a00a523f70b88.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
-      "LastIntakeUnixTime": "1777708800",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784591873"
     },
     {
       "ID": "3543",
@@ -1965,92 +1874,6 @@
       "LastUpdatedUnixTime": "1784598781"
     },
     {
-      "ID": "3626",
-      "Internal-ID": "213991915",
-      "Name": "Jade",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.5",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779253200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9df44c28d325a0de08c1b39af7328dc5/30e23987a8fc31ae298f6db1693b7ca1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae548193c8e3d068069088394f4e54bb/e6b2078f69fe08621e80702f5316ffcd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2d9fa8feedae8eb735a6af30ca6762f/c75cb88cd0e46e134aac87794f4636a4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e268223b82fedb144f5a14bcbb46058/5150b3989dad03c7a6747d95770f6e63.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/021cfbf8b4617d7e7168bbf47493ce8b/aaf86e8b86d005991869f0d0a2a22319.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Jade is already proving she’s got the makings of a future champion. This little girl may be new to the game, but she approaches life with the same enthusiasm as a golfer stepping up to their very first tee - bright‑eyed, wiggly, and ready to give it her best shot.\n\nJade is a playful, curious pup who loves exploring her world like it’s a wide‑open fairway. Every leaf, toy, and friendly face is a brand‑new adventure. She’s got a sweet, gentle nature, and when she’s done practicing her “puppy putts,” she’s happiest snuggled up for a well‑earned nap.\n\nShe’s learning all the basics - how to follow her people, how to sit for attention, and how to keep her little paws out of the rough. With positive guidance and a patient family, Jade will grow into a confident, loving companion who’s always ready to trot beside you like your loyal caddy.\n\nJade is looking for a home that understands puppy energy, puppy training, and puppy cuddles. She’s young, eager, and full of potential - the kind of pup who will make every day feel like a sunny day on the course.\n\nIf you’re ready to help a sweet little girl start her game strong, Jade is waiting to join your team. She may be small now, but she’s aiming straight for a forever home that feels like a hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784552627"
-    },
-    {
       "ID": "3628",
       "Internal-ID": "214042195",
       "Name": "Callie",
@@ -2353,132 +2176,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784550864"
-    },
-    {
-      "ID": "3635",
-      "Internal-ID": "214092766",
-      "Name": "Luna Beth",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "52",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1736488800,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8267216c2172a7a54c1a88aff8a45b31/af01064849aa89ef586130f95af68a7e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/8267216c2172a7a54c1a88aff8a45b31/af01064849aa89ef586130f95af68a7e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f05e3e8aacfe7c46d0313128c3abe802/b531248bb2ef2bfe7f5b5cc1826f7716.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/188b6ad4acdb88516ecd62f8c0949b53/27aa9c3961620019ad98a28f61ab198b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1c576882eacdd36641e51199445ea1a6/ff9ff289fea95583b221149ee9adb5e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5fead608d533a983345ed24a4c689fca/dc1086019283b46e86b178db76202501.png",
-        "https://new-s3.shelterluv.com/profile-pictures/2ef2b1a1fc436fb5ffbf0dbe26892792/274fce4f4696127582e440aa3b3a11a7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ec449ffa5471c3f3d98f9404f9402c7/193fd1c7384477c93ee77f591600eff8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68369517ccb6e819306403925bfec532/82c50f76e1c1cf0dce7df94ab97fb094.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/038229b6c61b5e05c2ce0e5ac5efe4e7/6507786c5a33b8f16daecaba889d2ffa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/41d8918e470fb39c7c92101a30ff8259/f6fcc8f5c1f906d2ed17781b73a9be43.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/934f800b1b39617a3d6a1a7cbd5ac678/a0ee7e90fa13ab14fb817c3d7336c91d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3cb966a31077716bdc2c0d65ef5f8cf1/9f889eae8f42119eed917f93996f9bcc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f21a3a18ca60629205a0c154f3d1b4c5/1517a4b105a1c4b4e066e4297c079883.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0faaec620b7ba7e5e27c330279fcbbc7/ff0c04544a502946bc7b640d1a572237.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4b6fd8e6fb02ea73a537802b4c0d6ca2/a52bb54c0d764667d924df190c567933.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/db05b48e185510f801e6097d17b6084b/33f53087880ef5f7e22186e8691d76c9.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White/Yellow",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "If joy had four legs and a wagging tail, it would look exactly like Luna Beth, who has a personality as big as her splash radius. Luna is the kind of dog who doesn’t just like water - she celebrates it. Kiddie pools, lakes, sprinklers, hoses, puddles… if it’s wet, Luna is in her element.\n\nBut don’t let her aquatic enthusiasm fool you into thinking she’s a one‑hobby girl. Luna Beth loves everything. Every person she meets is a new best friend. Every toy is the greatest invention of all time. Every walk is a grand adventure. She approaches life with wide‑eyed excitement and a tail that never stops cheering her on.\n\nShe’s social, affectionate, and happiest when she’s part of the action. She’s smart, curious, and always ready to learn — especially if treats or belly rubs are involved. She’s an excellent companion for active families, water‑loving humans, or anyone who appreciates a dog who greets every day like it’s the best one yet.\n\nLuna Beth is ready to bring laughter, adventure, and a whole lot of love to her forever home. If you’re looking for a dog who will adore you endlessly and make even ordinary days feel extraordinary, Luna Beth is waiting to meet you.",
-      "LastIntakeUnixTime": "1783969516",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784578974"
     },
     {
       "ID": "3638",
@@ -2876,7 +2573,7 @@
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
-      "Status": "Not available",
+      "Status": "Foster to Adopt",
       "InFoster": true,
       "CurrentWeightPounds": "103",
       "Size": "Extra-Large (100+)",
@@ -2902,8 +2599,14 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1784396331",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1784396822"
+      "Attributes": [
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784648553"
     },
     {
       "ID": "1395",
@@ -3473,72 +3176,61 @@
       "LastUpdatedUnixTime": "1784136522"
     },
     {
-      "ID": "3637",
-      "Internal-ID": "214093705",
-      "Name": "Cricket",
-      "LitterGroupId": null,
+      "ID": "3626",
+      "Internal-ID": "213991915",
+      "Name": "Jade",
+      "LitterGroupId": 9541476,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "27.2",
+      "CurrentWeightPounds": "7.5",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1718382501,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
+      "Altered": "No",
+      "DOBUnixTime": 1779253200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/64668cd89e2f5c5e17db750de15e5026/76505de25d4db29e37618a8ebe5ce214.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d29d0d69632d0adb14203617eb5e95c/34e720cd85f1902b6b1c6c3794d411cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d1f47d82ea760667d71e3385214bcf1/29ff1b104e90898d5b681e02929e11f0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b75f1a9d9e407038f0985560adbbdb2/8e2c480f2d701682671193bee1dea7b9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/587cc4c7fd0d37c79508da1baecf8a63/460f2613f2683ef1f4be2e8fab946780.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9df44c28d325a0de08c1b39af7328dc5/30e23987a8fc31ae298f6db1693b7ca1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae548193c8e3d068069088394f4e54bb/e6b2078f69fe08621e80702f5316ffcd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d2d9fa8feedae8eb735a6af30ca6762f/c75cb88cd0e46e134aac87794f4636a4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e268223b82fedb144f5a14bcbb46058/5150b3989dad03c7a6747d95770f6e63.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/021cfbf8b4617d7e7168bbf47493ce8b/aaf86e8b86d005991869f0d0a2a22319.jpeg"
       ],
       "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "Tick",
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/Tan",
+      "Pattern": "Tricolor",
       "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "  \nCricket has a spark in her eyes and a story that proves just how resilient love can be. She was found abandoned outside a Dollar General, waiting patiently for someone to notice her.\n\nDespite her rough start, Cricket is pure sunshine. She’s the kind of dog who trots over with her whole body wagging, hoping you’ll say hello. She’s smart, eager to learn, and full of that classic herder enthusiasm for life. Whether it’s a walk, a game of fetch, or just curling up nearby while you work, Cricket is happiest simply being part of your world.\n\nCricket has an affectionate personality with bright, eager-to-please intelligence. Her playful energy is balanced with sweet cuddle time, and can't wait to bond deeply with her person\n\nCricket will thrive with someone who appreciates an active, clever dog and wants a loyal companion by their side. After being left behind once, she’s more than ready for a forever home where she’ll never have to wonder if she’s wanted again.\n\nIf you’re looking for a dog who will adore you, make you laugh, and remind you daily how special second chances can be, Cricket is your girl.",
-      "LastIntakeUnixTime": "1783975178",
+      "Description": "Jade is already proving she’s got the makings of a future champion. This little girl may be new to the game, but she approaches life with the same enthusiasm as a golfer stepping up to their very first tee - bright‑eyed, wiggly, and ready to give it her best shot.\n\nJade is a playful, curious pup who loves exploring her world like it’s a wide‑open fairway. Every leaf, toy, and friendly face is a brand‑new adventure. She’s got a sweet, gentle nature, and when she’s done practicing her “puppy putts,” she’s happiest snuggled up for a well‑earned nap.\n\nShe’s learning all the basics - how to follow her people, how to sit for attention, and how to keep her little paws out of the rough. With positive guidance and a patient family, Jade will grow into a confident, loving companion who’s always ready to trot beside you like your loyal caddy.\n\nJade is looking for a home that understands puppy energy, puppy training, and puppy cuddles. She’s young, eager, and full of potential - the kind of pup who will make every day feel like a sunny day on the course.\n\nIf you’re ready to help a sweet little girl start her game strong, Jade is waiting to join your team. She may be small now, but she’s aiming straight for a forever home that feels like a hole‑in‑one.",
+      "LastIntakeUnixTime": "1782570600",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
           "Publish": "Yes"
         },
         {
@@ -3557,8 +3249,134 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784648619"
+    },
+    {
+      "ID": "3635",
+      "Internal-ID": "214092766",
+      "Name": "Luna Beth",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "52",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1736488800,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8267216c2172a7a54c1a88aff8a45b31/af01064849aa89ef586130f95af68a7e.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/8267216c2172a7a54c1a88aff8a45b31/af01064849aa89ef586130f95af68a7e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f05e3e8aacfe7c46d0313128c3abe802/b531248bb2ef2bfe7f5b5cc1826f7716.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188b6ad4acdb88516ecd62f8c0949b53/27aa9c3961620019ad98a28f61ab198b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c576882eacdd36641e51199445ea1a6/ff9ff289fea95583b221149ee9adb5e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fead608d533a983345ed24a4c689fca/dc1086019283b46e86b178db76202501.png",
+        "https://new-s3.shelterluv.com/profile-pictures/2ef2b1a1fc436fb5ffbf0dbe26892792/274fce4f4696127582e440aa3b3a11a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ec449ffa5471c3f3d98f9404f9402c7/193fd1c7384477c93ee77f591600eff8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68369517ccb6e819306403925bfec532/82c50f76e1c1cf0dce7df94ab97fb094.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/038229b6c61b5e05c2ce0e5ac5efe4e7/6507786c5a33b8f16daecaba889d2ffa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/41d8918e470fb39c7c92101a30ff8259/f6fcc8f5c1f906d2ed17781b73a9be43.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/934f800b1b39617a3d6a1a7cbd5ac678/a0ee7e90fa13ab14fb817c3d7336c91d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3cb966a31077716bdc2c0d65ef5f8cf1/9f889eae8f42119eed917f93996f9bcc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f21a3a18ca60629205a0c154f3d1b4c5/1517a4b105a1c4b4e066e4297c079883.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0faaec620b7ba7e5e27c330279fcbbc7/ff0c04544a502946bc7b640d1a572237.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b6fd8e6fb02ea73a537802b4c0d6ca2/a52bb54c0d764667d924df190c567933.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/db05b48e185510f801e6097d17b6084b/33f53087880ef5f7e22186e8691d76c9.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White/Yellow",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "If joy had four legs and a wagging tail, it would look exactly like Luna Beth, who has a personality as big as her splash radius. Luna is the kind of dog who doesn’t just like water - she celebrates it. Kiddie pools, lakes, sprinklers, hoses, puddles… if it’s wet, Luna is in her element.\n\nBut don’t let her aquatic enthusiasm fool you into thinking she’s a one‑hobby girl. Luna Beth loves everything. Every person she meets is a new best friend. Every toy is the greatest invention of all time. Every walk is a grand adventure. She approaches life with wide‑eyed excitement and a tail that never stops cheering her on.\n\nShe’s social, affectionate, and happiest when she’s part of the action. She’s smart, curious, and always ready to learn — especially if treats or belly rubs are involved. She’s an excellent companion for active families, water‑loving humans, or anyone who appreciates a dog who greets every day like it’s the best one yet.\n\nLuna Beth is ready to bring laughter, adventure, and a whole lot of love to her forever home. If you’re looking for a dog who will adore you endlessly and make even ordinary days feel extraordinary, Luna Beth is waiting to meet you.",
+      "LastIntakeUnixTime": "1783969516",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
@@ -3567,7 +3385,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784599693"
+      "LastUpdatedUnixTime": "1784648630"
     },
     {
       "ID": "3541",
@@ -3651,6 +3469,103 @@
         }
       ],
       "LastUpdatedUnixTime": "1784591989"
+    },
+    {
+      "ID": "3542",
+      "Internal-ID": "213591754",
+      "Name": "Chloe",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "14.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1504242000,
+      "Age": 106,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d6ea8adb5b78c9f3017134087a959753/d9effc38efad0a3f53d8e43d09563e5a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e49518406c20e6bba0f7ec41987a49f/810601585ead4113d73a00a523f70b88.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bichon Frise",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
+      "LastIntakeUnixTime": "1777708800",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784648949"
     },
     {
       "ID": "3590",
@@ -3850,6 +3765,103 @@
         }
       ],
       "LastUpdatedUnixTime": "1784212676"
+    },
+    {
+      "ID": "3637",
+      "Internal-ID": "214093705",
+      "Name": "Cricket",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "27.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1718382501,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/64668cd89e2f5c5e17db750de15e5026/76505de25d4db29e37618a8ebe5ce214.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d29d0d69632d0adb14203617eb5e95c/34e720cd85f1902b6b1c6c3794d411cd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d1f47d82ea760667d71e3385214bcf1/29ff1b104e90898d5b681e02929e11f0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b75f1a9d9e407038f0985560adbbdb2/8e2c480f2d701682671193bee1dea7b9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/587cc4c7fd0d37c79508da1baecf8a63/460f2613f2683ef1f4be2e8fab946780.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "  \nCricket has a spark in her eyes and a story that proves just how resilient love can be. She was found abandoned outside a Dollar General, waiting patiently for someone to notice her.\n\nDespite her rough start, Cricket is pure sunshine. She’s the kind of dog who trots over with her whole body wagging, hoping you’ll say hello. She’s smart, eager to learn, and full of that classic herder enthusiasm for life. Whether it’s a walk, a game of fetch, or just curling up nearby while you work, Cricket is happiest simply being part of your world.\n\nCricket has an affectionate personality with bright, eager-to-please intelligence. Her playful energy is balanced with sweet cuddle time, and can't wait to bond deeply with her person\n\nCricket will thrive with someone who appreciates an active, clever dog and wants a loyal companion by their side. After being left behind once, she’s more than ready for a forever home where she’ll never have to wonder if she’s wanted again.\n\nIf you’re looking for a dog who will adore you, make you laugh, and remind you daily how special second chances can be, Cricket is your girl.",
+      "LastIntakeUnixTime": "1783975178",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784648620"
     },
     {
       "ID": "1442",
