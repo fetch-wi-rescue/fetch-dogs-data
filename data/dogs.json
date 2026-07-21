@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T16:17:27Z",
+  "updated": "2026-07-21T17:50:56Z",
   "count": 50,
   "animals": [
     {
@@ -1942,12 +1942,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784241446"
+      "LastUpdatedUnixTime": "1784652058"
     },
     {
       "ID": "3630",
@@ -2522,12 +2527,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784610847"
+      "LastUpdatedUnixTime": "1784651818"
     },
     {
       "ID": "3636",
