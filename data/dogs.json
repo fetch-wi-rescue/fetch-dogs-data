@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T05:18:51Z",
-  "count": 49,
+  "updated": "2026-07-21T07:52:50Z",
+  "count": 50,
   "animals": [
     {
       "ID": "2754",
@@ -1031,7 +1031,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
-      "Age": 28,
+      "Age": 29,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1f45624b1a19844f541ee549e0c9a2e5/ee7c2fdce9479d0d0a3e99eb2c50c3d7.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1f45624b1a19844f541ee549e0c9a2e5/ee7c2fdce9479d0d0a3e99eb2c50c3d7.jpeg",
@@ -3276,7 +3276,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1676959200,
-      "Age": 40,
+      "Age": 41,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
@@ -4260,6 +4260,87 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
+    },
+    {
+      "ID": "3641",
+      "Internal-ID": "214138970",
+      "Name": "Scout",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1668837600,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/74e9136f5b890e1bf72274aa37017441/514fc15c49e7499ee395a65272091dfc.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/74e9136f5b890e1bf72274aa37017441/514fc15c49e7499ee395a65272091dfc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8dad9944db6380267c6c614f04b835ed/1f450b9d036c157e4f3c88ae0d43777f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/14577dde1af005ec9516b834fc5daaaf/46b27cf849569e6358cbe004a9a2a198.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8736ce37f81ebe06fd5e0e2ba2b5b08/6bc5ac29c4856c68662af2ed25476bce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c122184ec957f460975963ae2138084/143118d742fcf00b18ed8545858c5ca5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/41741005aa2cefb93eead70add58abc7/60bc81a15b450ee4d65fa61bdd4dd50e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4f7b7f68f799a3ed5f9900fc564b3d0a/27488e1901e2a78cdf1a41e356aee961.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Shepherd",
+      "Color": "Tan/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "We’re looking to find a loving new home for our Scout. ❤️\n\nScout loves chasing balls, going on long walks, and giving lots of hugs. He’s a total snuggle bug who enjoys being close to his people. He’s also very social with other dogs; he regularly attends pack-style doggy daycare and currently lives with an older dog.\n\nScout will bark when people come to the door, but he settles down quickly once he knows everything is okay. He would do best in a home without children where he can thrive with experienced, patient owners.\n\nIf you or someone you know might be the right fit for Scout, please send me a message. We’d love to find him the wonderful home he deserves.",
+      "LastIntakeUnixTime": "1784611320",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784611922"
     },
     {
       "ID": "3578",
