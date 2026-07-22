@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:47:12Z",
+  "updated": "2026-07-22T19:00:24Z",
   "count": 50,
   "animals": [
     {
@@ -1021,6 +1021,77 @@
         }
       ],
       "LastUpdatedUnixTime": "1783707483"
+    },
+    {
+      "ID": "3578",
+      "Internal-ID": "213704197",
+      "Name": "Amara",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "57",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751778000,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Rottweiler",
+      "Color": "Black/Chocolate",
+      "Pattern": "Bicolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
+      "LastIntakeUnixTime": "1778898499",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784742947"
     },
     {
       "ID": "3579",
@@ -3256,7 +3327,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784136522"
+      "LastUpdatedUnixTime": "1784743099"
     },
     {
       "ID": "3599",
@@ -4452,77 +4523,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784611922"
-    },
-    {
-      "ID": "3578",
-      "Internal-ID": "213704197",
-      "Name": "Amara",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "57",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1751778000,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Rottweiler",
-      "Color": "Black/Chocolate",
-      "Pattern": "Bicolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
-      "LastIntakeUnixTime": "1778898499",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1783708579"
     }
   ]
 }
