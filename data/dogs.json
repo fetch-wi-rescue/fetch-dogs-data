@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T23:55:59Z",
-  "count": 51,
+  "updated": "2026-07-22T02:07:05Z",
+  "count": 50,
   "animals": [
     {
       "ID": "2754",
@@ -2556,7 +2556,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784136497"
+      "LastUpdatedUnixTime": "1784683929"
     },
     {
       "ID": "3634",
@@ -3607,103 +3607,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784591989"
-    },
-    {
-      "ID": "3542",
-      "Internal-ID": "213591754",
-      "Name": "Chloe",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "14.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1504242000,
-      "Age": 106,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ea46574af8ae0b78f1869c5794cbbcc/801699fcda99203d0166b9960c90ab6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/226a34639c1af3eaafaa18d63c05802f/21a05a70c6b630d281b2303561700026.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/33da677e67938f316da004b5bbb5cbbc/ab866cb15a5bc9982af3ea108775013d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f530290629598a1ab6bc60d44350c512/025170a587720dd7e6cab408a399513f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d6ea8adb5b78c9f3017134087a959753/d9effc38efad0a3f53d8e43d09563e5a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e49518406c20e6bba0f7ec41987a49f/810601585ead4113d73a00a523f70b88.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bichon Frise",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Chloe was surrendered from an Amish farm where she was used for breeding. She is the sweetest little thing but is very shy. She will wag her tail at us from a few feet away but crouch on the ground when we lean to pet her. She is much more used to other dogs than people, and has loved every dog she has met. She is very good in a crate but is new to living in a house so we are still working on leash and potty training. She has not mastered stairs yet.\n\nChloe is a rare straight-haired bichon. She is non-shedding but does not have the typical curly bichon coat. She was very matted when we picked her up and had to be completely shaved, but she will be so cute when her hair grows out!",
-      "LastIntakeUnixTime": "1777708800",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784648949"
     },
     {
       "ID": "3590",

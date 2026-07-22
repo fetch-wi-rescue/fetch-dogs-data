@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T05:18:51Z",
+  "updated": "2026-07-22T02:07:06Z",
   "animals": [
     {
       "ID": "3458",
@@ -1043,6 +1043,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-21T05:18:51Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3542",
+      "Name": "Chloe",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9771d7ea06c9b245d130a25b62d69510/1e47e180745f24fd7bdf4b9878691034.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-22T02:07:06Z",
       "status": "pending"
     }
   ]
