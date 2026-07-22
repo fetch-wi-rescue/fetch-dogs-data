@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T02:07:06Z",
+  "updated": "2026-07-22T21:59:18Z",
   "animals": [
     {
       "ID": "3458",
@@ -1052,6 +1052,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-22T02:07:06Z",
+      "status": "pending"
+    },
+    {
+      "ID": "1395",
+      "Name": "Alfie (fka Blueberry)",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3b5816688e58e7ea1cbac281eaa2c039/d7298d3383527b79d355f16a3bb80908.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-22T21:59:18Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3599",
+      "Name": "Sage",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fc1522f90ebc3b42a112d5802a34506c/84115fc2fb0600d2c3cb9f0f1f59700d.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-22T21:59:18Z",
       "status": "pending"
     }
   ]
