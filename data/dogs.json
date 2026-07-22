@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T19:00:24Z",
+  "updated": "2026-07-22T20:35:30Z",
   "count": 50,
   "animals": [
     {
@@ -1129,7 +1129,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/3a7bee104c8d3ab632682c69f3e4c8a3/08f79e3e0436ae6359d400de8c336994.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f82830e68c28a0e07144259b71a93372/65d848d89e1dc74c9cf1b9c943e87d5c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/74682c906589e3bf39786ebd05c2f7b1/b231f76d45f936d156d7de71f4fe5775.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a43530ca51055af50f5c28f8373f5801/426e8dec8de91daff9b1ca15e736fe50.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/a43530ca51055af50f5c28f8373f5801/426e8dec8de91daff9b1ca15e736fe50.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/34b6c5f0debe02a3a5c359667b945fe3/bd33eb9134a49787507f55c36ba5a36e.jpeg"
       ],
       "Videos": [
         {
@@ -1214,7 +1215,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784549701"
+      "LastUpdatedUnixTime": "1784749238"
     },
     {
       "ID": "3581",
@@ -2693,7 +2694,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "33.4",
+      "CurrentWeightPounds": "42",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1558760400,
@@ -2717,7 +2718,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784550360"
+      "LastUpdatedUnixTime": "1784750364"
     },
     {
       "ID": "3640",
@@ -2792,7 +2793,13 @@
       "Breed": "Shepherd, Anatolian",
       "Color": "Black/Brown",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Alfie is a sweet and handsome puppy who is looking for a family who will play with him and snuggle! He is fully crate trained and potty trained and knows how to sit and lie down. \n\nInteractions with other dogs:\nAlfie loves other dogs and loves to wrestle and chase our 2 year old lab mix. Once he is done playing he loves to snuggle or chew on a bone. He has also been to doggie daycare and got along great with the other dogs there. \n\nWalking on leash: \nAlfie is a great walker. He typically wears a harness and is happy to see other dogs on walks.\n\nCats: \nAlfie has lived with cats in the past and was OK at first but then became too playful so he may do best in a home without cats. \n\nKids:\nAlfie previously lived in a home with small children and due to his age and size he struggled with interactions with the children in the home. He would do best in a home with no children or older dog savvy children. \n\nAlfie is a wonderful adolescent puppy who is looking for a forever home with a comfy couch and lots of love!",
       "LastIntakeUnixTime": "1781640900",
       "Attributes": [
@@ -2847,7 +2854,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784739085"
+      "LastUpdatedUnixTime": "1784751740"
     },
     {
       "ID": "3452",
@@ -3440,7 +3447,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784731572"
+      "LastUpdatedUnixTime": "1784752168"
     },
     {
       "ID": "3626",
