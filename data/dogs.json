@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T21:59:18Z",
-  "count": 48,
+  "updated": "2026-07-22T23:08:14Z",
+  "count": 47,
   "animals": [
     {
       "ID": "2754",
@@ -3736,103 +3736,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784212676"
-    },
-    {
-      "ID": "3637",
-      "Internal-ID": "214093705",
-      "Name": "Cricket",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "27.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1718382501,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/30c67992e9aa8cdf26d414ff4fa396fb/9cf659445707c95106be6eb76d5ce4b5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/64668cd89e2f5c5e17db750de15e5026/76505de25d4db29e37618a8ebe5ce214.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d29d0d69632d0adb14203617eb5e95c/34e720cd85f1902b6b1c6c3794d411cd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d1f47d82ea760667d71e3385214bcf1/29ff1b104e90898d5b681e02929e11f0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b75f1a9d9e407038f0985560adbbdb2/8e2c480f2d701682671193bee1dea7b9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/587cc4c7fd0d37c79508da1baecf8a63/460f2613f2683ef1f4be2e8fab946780.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "  \nCricket has a spark in her eyes and a story that proves just how resilient love can be. She was found abandoned outside a Dollar General, waiting patiently for someone to notice her.\n\nDespite her rough start, Cricket is pure sunshine. She’s the kind of dog who trots over with her whole body wagging, hoping you’ll say hello. She’s smart, eager to learn, and full of that classic herder enthusiasm for life. Whether it’s a walk, a game of fetch, or just curling up nearby while you work, Cricket is happiest simply being part of your world.\n\nCricket has an affectionate personality with bright, eager-to-please intelligence. Her playful energy is balanced with sweet cuddle time, and can't wait to bond deeply with her person\n\nCricket will thrive with someone who appreciates an active, clever dog and wants a loyal companion by their side. After being left behind once, she’s more than ready for a forever home where she’ll never have to wonder if she’s wanted again.\n\nIf you’re looking for a dog who will adore you, make you laugh, and remind you daily how special second chances can be, Cricket is your girl.",
-      "LastIntakeUnixTime": "1783975178",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784648620"
     },
     {
       "ID": "1442",
