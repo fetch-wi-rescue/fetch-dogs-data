@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T12:55:15Z",
-  "count": 47,
+  "updated": "2026-07-23T15:03:28Z",
+  "count": 50,
   "animals": [
     {
       "ID": "2754",
@@ -2719,6 +2719,253 @@
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
       "LastUpdatedUnixTime": "1784750364"
+    },
+    {
+      "ID": "3652",
+      "Internal-ID": "214152760",
+      "Name": "Kyle",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "13",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1773597575,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3013b0c99c0e5dd4636bb5ce7ffb2e42/0b0fa473ac91e9c1604c4b543e19935a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3013b0c99c0e5dd4636bb5ce7ffb2e42/0b0fa473ac91e9c1604c4b543e19935a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a468a782d33bbb38694fa59cf7c594b/243a97927561ffb16696f4830fd2e202.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c5c57c9a6236a8d7531282efb857336/6516f0d7edc3ee6e22cdef8faeebc41a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dea3c0edf552ff6cb6111ec63a53605d/10cf36869fc960022c5584d9ba3af302.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f6e03cd2bddc426e4481daaba796090/0b74f7f628c888b17d810fd4619d108e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ea8a4804f857b548159127efa0470537/bb9ab074122355e268c1318a65403d69.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6d508a86b9a35cb735c9ffb0fe5c034d/bb4722436571b686ec01478d2bc42792.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Husky",
+      "Color": "Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784817720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784817958"
+    },
+    {
+      "ID": "3653",
+      "Internal-ID": "214152762",
+      "Name": "Zero",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "66.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1719855489,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/faf1b15a1a970e6a39308dd75847f04a/9b78072a3948108da67ae079d95e1569.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/faf1b15a1a970e6a39308dd75847f04a/9b78072a3948108da67ae079d95e1569.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/010ce971ccd298855b38a95a48ab955b/8c060b36a8d880699536f912eba83d4a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman",
+      "Color": "Chocolate/Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784817720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784817958"
+    },
+    {
+      "ID": "3654",
+      "Internal-ID": "214152766",
+      "Name": "Lily",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "51",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1719205200,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pyrenees, Great",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784817720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784817959"
     },
     {
       "ID": "3640",
