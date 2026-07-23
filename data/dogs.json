@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T15:03:28Z",
-  "count": 50,
+  "updated": "2026-07-23T16:54:14Z",
+  "count": 57,
   "animals": [
     {
       "ID": "2754",
@@ -2259,7 +2259,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1769184489,
-      "Age": 5,
+      "Age": 6,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/170ab777bc09a9c86df8aa13ffd0963f/7b26b8aef52e576ba820abeb9517fdba.jpeg",
@@ -2383,9 +2383,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "65.2",
+      "CurrentWeightPounds": "68",
       "Size": "",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1641794400,
       "Age": 54,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7ca4f7ebe7b1bbaad7fcd6ce7e01615/f3bc5a4a11b5040e94be37b49d4dbc83.jpeg",
@@ -2463,7 +2463,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784549593"
+      "LastUpdatedUnixTime": "1784821878"
     },
     {
       "ID": "3639",
@@ -2573,7 +2573,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784402618"
+      "LastUpdatedUnixTime": "1784821544"
     },
     {
       "ID": "3634",
@@ -2682,7 +2682,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784668800"
+      "LastUpdatedUnixTime": "1784821461"
     },
     {
       "ID": "3636",
@@ -2719,6 +2719,258 @@
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
       "LastUpdatedUnixTime": "1784750364"
+    },
+    {
+      "ID": "3642",
+      "Internal-ID": "214152747",
+      "Name": "Carlos",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1725912967,
+      "Age": 22,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3ff4aa5c093e8fa75c7a4ba63b5fa153/e45c30566d0968e328abc7e4758e2bef.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3ff4aa5c093e8fa75c7a4ba63b5fa153/e45c30566d0968e328abc7e4758e2bef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8e550c9b4c9e024d38c3005c1b5a359/81c3adcff0ad0c8e72e9dcccbc68eae8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c5f4f7762f7b05b2ac15e0aef3fd840/12df8c972e3e846b52a8555c089c9f8f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ec324c157a92235bca973fc8ac9df2d9/7d143b84e4b43b02131ee2d4a61042df.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d42b9d6ef7f9503bc82bdd0dcf668a8/988e73fee4c2e60d26d240446b7b3ac6.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "Z-z9PoNuxtc",
+          "EmbedUrl": "//www.youtube.com/embed/Z-z9PoNuxtc?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=Z-z9PoNuxtc",
+          "ThumbUrl": "https://img.youtube.com/vi/Z-z9PoNuxtc/0.jpg"
+        },
+        {
+          "VideoId": "5XaaOdudTZM",
+          "EmbedUrl": "//www.youtube.com/embed/5XaaOdudTZM?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=5XaaOdudTZM",
+          "ThumbUrl": "https://img.youtube.com/vi/5XaaOdudTZM/0.jpg"
+        }
+      ],
+      "Breed": "Bulldog, English/Mix",
+      "Color": "White/Grey",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Found in Midfield ",
+      "LastIntakeUnixTime": "1784820715",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784820747"
+    },
+    {
+      "ID": "3643",
+      "Internal-ID": "214152749",
+      "Name": "KiKi",
+      "LitterGroupId": 9558458,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "25",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1774242000,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/947835a8876f976611bfcfb48c502a35/88ff8a079a520bd396000897ee3a1b9b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/947835a8876f976611bfcfb48c502a35/88ff8a079a520bd396000897ee3a1b9b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7474235dbb34b8b26d06f5e70ff3186/d910dfd35d40c6a98bef592d75575ed7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04055e71e676a67376760db485accdfa/c4e54f4ff52c32f74974934d825174a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784820559",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784820697"
+    },
+    {
+      "ID": "3644",
+      "Internal-ID": "214152752",
+      "Name": "Cain",
+      "LitterGroupId": 9558459,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "41.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763532000,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae5cbcbb00d7e77d8319ef928dcfcc1e/fccc5ee08688a93cf262afccd54ad65a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)/Hound",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Cain, a striking black and white mixed breed hound who's got the whole package! 🐕 At 7 months old, this 41-pound boy is already neutered, heartworm negative, and a parvo survivor — proof that he's one resilient pup. He's affectionate and energetic with a friendly spirit, gets along great with other dogs, and walks nicely on leash. Come say hello to this playful guy and discover why he's ready to bring joy to his forever home! ❤️",
+      "LastIntakeUnixTime": "1784820769",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784820784"
+    },
+    {
+      "ID": "3645",
+      "Internal-ID": "214152753",
+      "Name": "Rumi",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "6",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777957200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/44a9e8834c0a1e9becf2c1a58cf36391/e3bf1b3e2eeac0fb373d1b2d031e9d62.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/44a9e8834c0a1e9becf2c1a58cf36391/e3bf1b3e2eeac0fb373d1b2d031e9d62.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eaf98facbf7b236327ee1774d905f092/e57739777f5753b7e17af4eee219873a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d30dc0d0f3aca83b277b52c6a172d4c6/ebafc2a1392b6f7db22ddcb5a1ef9b68.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aba151b4b9bd2debe182c732d2db8ae8/24287e555d9c7ff53da2d04d168959c1.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Apricot",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784820394",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784820425"
+    },
+    {
+      "ID": "3646",
+      "Internal-ID": "214152754",
+      "Name": "Artemis",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "5.2",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777957200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/71157ae92390c22ee315fdacefc03f24/610c8b173180a27e95fd72cd3b3174b3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/71157ae92390c22ee315fdacefc03f24/610c8b173180a27e95fd72cd3b3174b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f05409e1727f439b0d3ffed86b01843/c1771b15744a434a1e91ee300c294e26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/11bde980d4964c2eaf28946d3abedf2e/1840b7c1f3b67e7aaeca90c50d2ba192.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784820809",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784820872"
+    },
+    {
+      "ID": "3647",
+      "Internal-ID": "214152755",
+      "Name": "Leah",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "6.2",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777957200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/05684f337f6f17a31a55a1a8f1550791/a0ae5e09af8b2809c56d153e8f5bb78c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/05684f337f6f17a31a55a1a8f1550791/a0ae5e09af8b2809c56d153e8f5bb78c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6b40a6c1e468503dd88a5bf663c7c1ac/a9bd82b9c0a90d502e76a9942a5f91e2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/172cbff6f94864af7155239a2531de42/1f5f58d4613a009fa0065bb228696c1d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0a28f617cd532521671ae055c44e936/9a0be4c07cc0ab5a8f96b508a2a1442b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Apricot",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784820448",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784820486"
+    },
+    {
+      "ID": "3651",
+      "Internal-ID": "214152759",
+      "Name": "Malibu",
+      "LitterGroupId": 9558460,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "5.4",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777830809,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6aa000eddb5b3efe1b692536f2e93226/dbaeeca514733da1862a1d9b6d78006a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6aa000eddb5b3efe1b692536f2e93226/dbaeeca514733da1862a1d9b6d78006a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/American Blue Heeler",
+      "Color": "Blue Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784820514",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1784820531"
     },
     {
       "ID": "3652",
@@ -3008,7 +3260,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784648553"
+      "LastUpdatedUnixTime": "1784822381"
     },
     {
       "ID": "3452",
