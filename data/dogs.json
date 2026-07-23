@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T18:08:10Z",
+  "updated": "2026-07-23T19:53:15Z",
   "count": 57,
   "animals": [
     {
@@ -1834,107 +1834,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784598781"
-    },
-    {
-      "ID": "3627",
-      "Internal-ID": "214031944",
-      "Name": "Dahla",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "62.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1595566800,
-      "Age": 71,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb17df79712c3c215b2cab676d15c5eb/d77c59bda06483ee01c6e6f79bbb5c57.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb96053561fabcc75229f0f7ee8db70c/b609adc41843dbefbf96b034c8b6f70f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7818321b19994d136f2615706d9469b5/160d751f813ba23148fcd30de674966f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d111ea919149654a2aecb7ec6bcd468e/c6912b7217e030ff093111936ee56d76.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e94af30734b776303fd8c15daaf09e20/cffc8e7798f3ba1dc430747069ae12b2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2b7076c009db8b393a537f6618fae201/c338a74b67998ca29c84161cb8c8c891.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Golden/Poodle, Standard",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Dahla is such a smart, sweet and loving dog. She thrives being in a pack whether that’s with humans or canines or both. She prefers to be by her people or dogs.\n\nDahla knows lots of commands: sit, down, shakes, cot, kennel and the best one is ‘belly rub’ which makes her roll over and waits until you start the rubs. It is truly the best thing ever.\n\nAs a dog who startles easily, Dahla would thrive in a calm home without young children. To ensure she feels comfortable and safe, slow introductions are necessary. Once she settles in, which may take a few days, she is a giant love bug. \n\nDahla has been a wonderful house guest. There have been no accidents or destructive behavior. She is curious, super goofy and has the most adorable smile. What’s not to love!",
-      "LastIntakeUnixTime": "1783257443",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784727402"
     },
     {
       "ID": "3628",
@@ -3827,6 +3726,107 @@
         }
       ],
       "LastUpdatedUnixTime": "1784648619"
+    },
+    {
+      "ID": "3627",
+      "Internal-ID": "214031944",
+      "Name": "Dahla",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "62.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1595566800,
+      "Age": 71,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb17df79712c3c215b2cab676d15c5eb/d77c59bda06483ee01c6e6f79bbb5c57.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb96053561fabcc75229f0f7ee8db70c/b609adc41843dbefbf96b034c8b6f70f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7818321b19994d136f2615706d9469b5/160d751f813ba23148fcd30de674966f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d111ea919149654a2aecb7ec6bcd468e/c6912b7217e030ff093111936ee56d76.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e94af30734b776303fd8c15daaf09e20/cffc8e7798f3ba1dc430747069ae12b2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2b7076c009db8b393a537f6618fae201/c338a74b67998ca29c84161cb8c8c891.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Golden/Poodle, Standard",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Dahla is such a smart, sweet and loving dog. She thrives being in a pack whether that’s with humans or canines or both. She prefers to be by her people or dogs.\n\nDahla knows lots of commands: sit, down, shakes, cot, kennel and the best one is ‘belly rub’ which makes her roll over and waits until you start the rubs. It is truly the best thing ever.\n\nAs a dog who startles easily, Dahla would thrive in a calm home without young children. To ensure she feels comfortable and safe, slow introductions are necessary. Once she settles in, which may take a few days, she is a giant love bug. \n\nDahla has been a wonderful house guest. There have been no accidents or destructive behavior. She is curious, super goofy and has the most adorable smile. What’s not to love!",
+      "LastIntakeUnixTime": "1783257443",
+      "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784833157"
     },
     {
       "ID": "3635",
