@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T23:08:14Z",
+  "updated": "2026-07-24T17:57:24Z",
   "animals": [
     {
       "ID": "3458",
@@ -1079,6 +1079,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-22T23:08:14Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3630",
+      "Name": "Alistair",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11d4938196a74740260795cdd7a2ac2b/93ce21258e5bc323ec790a712b0d939a.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-24T17:57:24Z",
       "status": "pending"
     }
   ]
