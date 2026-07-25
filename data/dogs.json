@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T00:58:03Z",
+  "updated": "2026-07-25T04:10:32Z",
   "count": 59,
   "animals": [
     {
@@ -2162,6 +2162,116 @@
       "LastUpdatedUnixTime": "1784935117"
     },
     {
+      "ID": "3634",
+      "Internal-ID": "214083631",
+      "Name": "Brittany",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "50",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1720674000,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fc57ab28f762d3082893217bd7b57801/ab67f1652bdf560fccc678fa8e640556.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/97c0ed2248061a540197ce4b4370144e/f5da86c8a356ad172e698765a1c68f58.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5e702ae23b7b33a5e29f1a33830e82e/99d94f23fd8a9b4ab337c2b5abe3badb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4657f50e983c8d417bf8aec0b92bd464/1fbd692237bdf747030ab1c1a095373f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pointer, German Shorthaired",
+      "Color": "Chocolate/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1783789783",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784952534"
+    },
+    {
       "ID": "3638",
       "Internal-ID": "214094994",
       "Name": "Ruby",
@@ -2364,115 +2474,6 @@
       "LastUpdatedUnixTime": "1784821544"
     },
     {
-      "ID": "3634",
-      "Internal-ID": "214083631",
-      "Name": "Brittany",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "50",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1720674000,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc57ab28f762d3082893217bd7b57801/ab67f1652bdf560fccc678fa8e640556.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/97c0ed2248061a540197ce4b4370144e/f5da86c8a356ad172e698765a1c68f58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5e702ae23b7b33a5e29f1a33830e82e/99d94f23fd8a9b4ab337c2b5abe3badb.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pointer, German Shorthaired",
-      "Color": "Chocolate/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1783789783",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784821461"
-    },
-    {
       "ID": "3636",
       "Internal-ID": "214093513",
       "Name": "Skye",
@@ -2563,7 +2564,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784820747"
+      "LastUpdatedUnixTime": "1784944446"
     },
     {
       "ID": "3643",
@@ -2630,9 +2631,19 @@
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784820784"
+      "LastUpdatedUnixTime": "1784944768"
     },
     {
       "ID": "3645",
@@ -2645,8 +2656,8 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "6",
-      "Size": "",
-      "Altered": "Unknown",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
       "DOBUnixTime": 1777957200,
       "Age": 2,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/44a9e8834c0a1e9becf2c1a58cf36391/e3bf1b3e2eeac0fb373d1b2d031e9d62.jpeg",
@@ -2660,11 +2671,17 @@
       "Breed": "Husky/Terrier, Pit Bull",
       "Color": "Grey/White",
       "Pattern": "Merle",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1784820394",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784940776"
+      "LastUpdatedUnixTime": "1784942290"
     },
     {
       "ID": "3646",
@@ -2729,7 +2746,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784820448",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784820486"
+      "LastUpdatedUnixTime": "1784942348"
     },
     {
       "ID": "3648",
@@ -2800,7 +2817,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784923010",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784937625"
+      "LastUpdatedUnixTime": "1784944899"
     },
     {
       "ID": "3650",
@@ -2829,7 +2846,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784923010",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784923028"
+      "LastUpdatedUnixTime": "1784944870"
     },
     {
       "ID": "3651",
@@ -2858,7 +2875,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784820514",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784820531"
+      "LastUpdatedUnixTime": "1784944381"
     },
     {
       "ID": "3652",
@@ -4714,7 +4731,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784918259"
+      "LastUpdatedUnixTime": "1784942262"
     }
   ]
 }
