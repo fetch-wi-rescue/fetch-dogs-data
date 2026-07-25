@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T23:01:46Z",
+  "updated": "2026-07-25T00:58:03Z",
   "count": 59,
   "animals": [
     {
@@ -2026,7 +2026,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784840407"
+      "LastUpdatedUnixTime": "1784935116"
     },
     {
       "ID": "3632",
@@ -2159,7 +2159,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784840238"
+      "LastUpdatedUnixTime": "1784935117"
     },
     {
       "ID": "3638",
@@ -2658,13 +2658,13 @@
       ],
       "Videos": [],
       "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Apricot",
+      "Color": "Grey/White",
       "Pattern": "Merle",
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1784820394",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784820425"
+      "LastUpdatedUnixTime": "1784940776"
     },
     {
       "ID": "3646",
@@ -2742,8 +2742,8 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "6",
-      "Size": "",
-      "Altered": "Unknown",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
       "DOBUnixTime": 1777957200,
       "Age": 2,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/17cdb607356207b8da8aad262976ff31/2308515b54e5fb7690c502df4be266c2.jpeg",
@@ -2753,13 +2753,19 @@
       ],
       "Videos": [],
       "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Apricot",
+      "Color": "Grey/White",
       "Pattern": "Merle",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1784923034",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784923050"
+      "LastUpdatedUnixTime": "1784937346"
     },
     {
       "ID": "3649",
@@ -2772,8 +2778,8 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "10",
-      "Size": "",
-      "Altered": "Unknown",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
       "DOBUnixTime": 1777830979,
       "Age": 2,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a2fef1c11a94b1648852d730c7fa755e/7eda4320c33dd9717db32f79153a3c18.jpeg",
@@ -2781,14 +2787,20 @@
         "https://new-s3.shelterluv.com/profile-pictures/a2fef1c11a94b1648852d730c7fa755e/7eda4320c33dd9717db32f79153a3c18.jpeg"
       ],
       "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Grey",
+      "Breed": "Terrier, Pit Bull/Husky",
+      "Color": "Grey/White",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1784923010",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784923028"
+      "LastUpdatedUnixTime": "1784937625"
     },
     {
       "ID": "3650",
@@ -2932,7 +2944,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784817958"
+      "LastUpdatedUnixTime": "1784938024"
     },
     {
       "ID": "3653",
@@ -2945,8 +2957,8 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "66.6",
-      "Size": "",
-      "Altered": "Yes",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
       "DOBUnixTime": 1719855489,
       "Age": 24,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/faf1b15a1a970e6a39308dd75847f04a/9b78072a3948108da67ae079d95e1569.jpeg",
@@ -2988,8 +3000,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
           "Publish": "Yes"
         },
         {
@@ -3013,7 +3025,50 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784817958"
+      "LastUpdatedUnixTime": "1784939912"
+    },
+    {
+      "ID": "3640",
+      "Internal-ID": "214127997",
+      "Name": "Jasper",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Foster to Adopt",
+      "InFoster": true,
+      "CurrentWeightPounds": "103",
+      "Size": "Extra-Large (100+)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1564722000,
+      "Age": 83,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
+        "https://new-s3.shelterluv.com/profile-pictures/01a55ee60ae2c2bd0c639c5a7b1b0862/bb58a89ffc84c6d9c9c98fb6a557df7e.png",
+        "https://new-s3.shelterluv.com/profile-pictures/71f549929022dcb46b3e64f137eca2ba/df57c1d1ff6c24d461a1e7bd290f5b42.png"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1784396331",
+      "Attributes": [
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1784938959"
     },
     {
       "ID": "3654",
@@ -3023,7 +3078,7 @@
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
-      "Status": "Not available",
+      "Status": "Foster to Adopt",
       "InFoster": true,
       "CurrentWeightPounds": "51",
       "Size": "",
@@ -3093,50 +3148,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784817959"
-    },
-    {
-      "ID": "3640",
-      "Internal-ID": "214127997",
-      "Name": "Jasper",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "103",
-      "Size": "Extra-Large (100+)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1564722000,
-      "Age": 83,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
-        "https://new-s3.shelterluv.com/profile-pictures/01a55ee60ae2c2bd0c639c5a7b1b0862/bb58a89ffc84c6d9c9c98fb6a557df7e.png",
-        "https://new-s3.shelterluv.com/profile-pictures/71f549929022dcb46b3e64f137eca2ba/df57c1d1ff6c24d461a1e7bd290f5b42.png"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1784396331",
-      "Attributes": [
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784822381"
+      "LastUpdatedUnixTime": "1784940457"
     },
     {
       "ID": "3452",
@@ -4016,7 +4028,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "31.8",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1683572954,
       "Age": 38,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f67338dce86670a5425fd8ace389fcfe/22560bada2ff2311efb5c4d3bb66a51f.jpeg",
@@ -4099,7 +4111,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784212676"
+      "LastUpdatedUnixTime": "1784939714"
     },
     {
       "ID": "1442",
