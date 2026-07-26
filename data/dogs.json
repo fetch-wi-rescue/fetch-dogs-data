@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T15:36:42Z",
+  "updated": "2026-07-26T16:51:11Z",
   "count": 58,
   "animals": [
     {
@@ -2645,6 +2645,106 @@
       "LastUpdatedUnixTime": "1784821544"
     },
     {
+      "ID": "3645",
+      "Internal-ID": "214152753",
+      "Name": "Rumi",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "17.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777957200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e2aed4235be1a7a014c22abe60fcd45d/c531c0f3c671124b1764c19166aae2f3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e2aed4235be1a7a014c22abe60fcd45d/c531c0f3c671124b1764c19166aae2f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d30dc0d0f3aca83b277b52c6a172d4c6/ebafc2a1392b6f7db22ddcb5a1ef9b68.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aba151b4b9bd2debe182c732d2db8ae8/24287e555d9c7ff53da2d04d168959c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a456c8bf678a2accdfcdf38e762cc59/5be4500984541ac8f398ba4d932dcf08.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d221f9ba965f427140e919cb71e539e/d509bd1faea8b356ce1799c6c7b39e9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b7bb5d2721d5415aef40a1e537016c3b/36d1e5dac313fad6905859fd22b330fb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a89d19a14557b924aeeda0e9770cd066/8917414807756f4d4e8ea5984f9a9b54.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf110dab9aeb0a252c325e349190cb4a/16d4d1efca42768c91fdfad1bedb627d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4c3f402710684eb40f08ff5cfeaa012d/da15d7ee79efefe5d1c9d911d07e91bd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/debf2e0ad7d6785e7bd5af8685403e3c/deb6a407d9cc4b3551b58017735bb07c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Grey/White",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Hi there! I'm Rumi, a super cute gray and white merle pup. My calm, old-soul demeanor suits my namesake and I'm already showing what a great companion I'll be!\n\nI'm friendly with cats and dogs, good with kids, and I ride like a champ in the car. I’m still a baby and working on my manners and potty training. I might be a little shy when we first meet, but once you get to know me, you'll discover I'm a true snuggle pup who loves being with people, relaxing in his crate, and everything about exploring the world with curiosity and patience.",
+      "LastIntakeUnixTime": "1784820394",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785083633"
+    },
+    {
       "ID": "3647",
       "Internal-ID": "214152755",
       "Name": "Leah",
@@ -2811,7 +2911,6 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3f73ec6b8665d0c64492cc1308ce7618/6736876e07d2d9aa53c5743ce364b68b.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/3f73ec6b8665d0c64492cc1308ce7618/6736876e07d2d9aa53c5743ce364b68b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a2fef1c11a94b1648852d730c7fa755e/7eda4320c33dd9717db32f79153a3c18.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8531079f1914ec8ba9ffd28b98c035c3/e03618c722781d6bba80f34558ee88f4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7c405d0f868776d6ca06ba138b814fd1/4133afff1c5340a22a3f050f6efb2e20.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a0de54be2438e1f1995a0eebcbfda8aa/a10fb7cc99fa2128e14f3e39d037ffdf.jpeg",
@@ -2819,7 +2918,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/c3f83e2511a7cede40d20bea7d3b0562/8d2952f41ff2b5542a8e4b2af55fe566.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2fc03939c589c82f3a91e89a01879259/3364b0e9412de0f8a386cece224a1ee1.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8eb57cbe891ffda17470c1f31cb549df/74dab7e6cf57f1cee50c02a06f06164c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ba7e16799fde05469fd9e35c6f556ea/2d8f86e471de48dbd9fab53d7d020ecc.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/7ba7e16799fde05469fd9e35c6f556ea/2d8f86e471de48dbd9fab53d7d020ecc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d797d7f6468bf67418f342945c8d8d94/6c6b6cd78fe26894189dd2a02c805317.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Husky",
@@ -2832,10 +2932,66 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Meet Rochelle, at just 2½ months old, this beautiful terrier mix puppy is already stealing hearts with her confident personality and sweet nature. Weighing in at 21 pounds, she's going to be a big girl! One of her unique features is the double dew claws on her back paws, a trait often associated with Great Pyrenees heritage.\nThis happy pup is doing very well with potty training and is already comfortable in her crate, making the transition into her new home even easier. She is incredibly social, loves meeting new people, and genuinely enjoys being with her family. She seeks out her people for companionship and affection and is happiest when she's included in the fun.\nShe has spent time playing with my 2-, 3-, and 10-year-old grandchildren and was wonderful with all of them. She's gentle, playful, and knows how to have fun without being too rough. She also loves her toys and plays with them appropriately, happily entertaining herself or inviting you to join in.\nThis little girl is confident, curious, and eager to explore the world. She approaches new experiences with enthusiasm and has the kind of outgoing personality that makes her a joy to be around. Whether she's playing, cuddling, or following you from room to room, she is always ready to be part of whatever you're doing.\nIf you're looking for a smart, affectionate, well-socialized puppy with a delightful personality and the potential to grow into a loyal, loving companion, this special girl may be the perfect addition to your family.",
+      "Description": "Meet Rockelle, at just 2½ months old, this beautiful terrier mix puppy is already stealing hearts with her confident personality and sweet nature. Weighing in at 21 pounds, she's going to be a big girl! One of her unique features is the double dew claws on her back paws, a trait often associated with Great Pyrenees heritage.\nThis happy pup is doing very well with potty training and is already comfortable in her crate, making the transition into her new home even easier. She is incredibly social, loves meeting new people, and genuinely enjoys being with her family. She seeks out her people for companionship and affection and is happiest when she's included in the fun.\nShe has spent time playing with my 2-, 3-, and 10-year-old grandchildren and was wonderful with all of them. She's gentle, playful, and knows how to have fun without being too rough. She also loves her toys and plays with them appropriately, happily entertaining herself or inviting you to join in.\nThis little girl is confident, curious, and eager to explore the world. She approaches new experiences with enthusiasm and has the kind of outgoing personality that makes her a joy to be around. Whether she's playing, cuddling, or following you from room to room, she is always ready to be part of whatever you're doing.\nIf you're looking for a smart, affectionate, well-socialized puppy with a delightful personality and the potential to grow into a loyal, loving companion, this special girl may be the perfect addition to your family.",
       "LastIntakeUnixTime": "1784923010",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785079710"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785080817"
     },
     {
       "ID": "3650",
@@ -2860,7 +3016,13 @@
         "https://new-s3.shelterluv.com/profile-pictures/6574aa44d4e1e6a02abaf816836707a1/7e20006e48905a5608ecbf6212a461f6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/93e16b567974cd21db242341c2a9854c/82888107e01bd0fe5222512e8d4c78da.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c3f4112a75ec92b16c75343324d18f33/6eded3b54f695ca4f053fb66843724f1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/091d7b406a18554e2f57a82de954badb/5b21442de96d61562f65c13ef0472517.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/091d7b406a18554e2f57a82de954badb/5b21442de96d61562f65c13ef0472517.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/204167f77001efd0e7cef57ed50936d1/269c931900cb75354268280627536783.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68c9328c3dea8106a8ec1f24a459b98c/9a370eb80dd1950f1989b2f83dc72cbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a86df632dbc7b69829f3daefae5d763/d2b956902323a52c19d7628213247c2a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db61900b11acf4c9ef9748823ecaae65/d3b773d4a2094d9b6d3c634724fafac6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f10af87a40a155a3954e767b7d5e29f6/dd1a36fb585ef12c13d0757ce0849adb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8da6c6f9e19161da1088c536366cc93f/6f4d63e4fe31dc0d8c432127aab6d3da.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Cattle Dog, Australian (Blue Heeler)",
@@ -2869,8 +3031,49 @@
       "AdoptionFeeGroup": null,
       "Description": "Meet Creed, at just 2½ months old, this adorable puppy is already showing what a wonderful companion he's going to be. Weighing 17 pounds at his young age, he's going to be a big boy! His dew claws on his back paws suggest he has some Great Pyrenees in his family tree, while his looks and personality point to a mix of Catahoula Leopard Dog or Australian Cattle Dog along with Great Pyrenees.\nThis sweet boy is doing very well with potty training and is comfortable relaxing in his crate, making him off to a great start in life. While he's a little more reserved when meeting new people than his sister, he warms up quickly and enjoys spending time with people of all ages. He has done wonderfully with my 2-, 3-, and 10-year-old grandchildren, showing a gentle, patient nature.\nHe also gets along very well with other dogs and enjoys having canine companions to play with. He loves playing with toys and does so appropriately, happily entertaining himself or joining in when it's playtime.\nThis handsome pup has a calm confidence about him. He's curious without being overly bold and enjoys exploring his surroundings at his own pace. Once he knows you're his person, he's affectionate and loyal, seeking out your company and enjoying being part of the family.\nIf you're looking for a smart, gentle, well-socialized puppy with a sweet disposition and the potential to grow into a devoted lifelong companion, this special boy is ready to find his forever home.",
       "LastIntakeUnixTime": "1784923010",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785077988"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785082509"
     },
     {
       "ID": "3652",
@@ -2976,6 +3179,92 @@
         }
       ],
       "LastUpdatedUnixTime": "1785016390"
+    },
+    {
+      "ID": "3653",
+      "Internal-ID": "214152762",
+      "Name": "Zero",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "66.6",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1719855489,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fd56c59d4ca95b2d62437897a1421d8f/fa16839237db48fba07376cf1d8c7d42.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/fd56c59d4ca95b2d62437897a1421d8f/fa16839237db48fba07376cf1d8c7d42.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/010ce971ccd298855b38a95a48ab955b/8c060b36a8d880699536f912eba83d4a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/faf1b15a1a970e6a39308dd75847f04a/9b78072a3948108da67ae079d95e1569.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aafed6ce3a2a209cbd198015736e9df0/89bd02329371d64d4ed48ad5802c26a8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4fc7d331c74c909f8fbe26d33062848c/17a42387942c8ea7f481db825111692f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/692bc17ab6c79c3b9f47fed946030eb1/3a45849ae300dd109831f9f6407d8134.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/369fe7bd1d915f148f8729c4a8d9d70d/8b6609e92b8ca8da6cf9410c98f8aad8.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman",
+      "Color": "Chocolate/Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Zero is a soft‑hearted, sensitive Doberman who wants nothing more than an active and loving home. He may not rush up to strangers or demand attention, but once he decides you’re safe, he’ll melt into you with the sweetest trust.\n\nZero prefers calm introductions and gentle voices. He blossoms with patience. He tends to watch, think, then warm up slowly. Once he feels comfortable, he’s eager to please.\n\nHe loves to play! If another dog isn't available, you'll catch him throwing his toys to himself -- unless he sees you watching. His trust is earned, and that makes it incredibly meaningful while he has a quiet sweetness that feels like a gift when he chooses to share it.  He’s the kind of dog who will bond deeply with his person once he feels safe.\n\nZero isn’t looking for the loudest, busiest home - he’s just looking for the right one. If you want a dog who will quietly follow you from room to room, rest his head on your knee once he feels brave, and reward your patience with unwavering loyalty, Zero is ready to meet you.",
+      "LastIntakeUnixTime": "1784817720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785083586"
     },
     {
       "ID": "3636",
@@ -3156,48 +3445,6 @@
       "LastUpdatedUnixTime": "1784944768"
     },
     {
-      "ID": "3645",
-      "Internal-ID": "214152753",
-      "Name": "Rumi",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "17.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1777957200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e2aed4235be1a7a014c22abe60fcd45d/c531c0f3c671124b1764c19166aae2f3.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e2aed4235be1a7a014c22abe60fcd45d/c531c0f3c671124b1764c19166aae2f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d30dc0d0f3aca83b277b52c6a172d4c6/ebafc2a1392b6f7db22ddcb5a1ef9b68.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aba151b4b9bd2debe182c732d2db8ae8/24287e555d9c7ff53da2d04d168959c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1a456c8bf678a2accdfcdf38e762cc59/5be4500984541ac8f398ba4d932dcf08.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d221f9ba965f427140e919cb71e539e/d509bd1faea8b356ce1799c6c7b39e9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d68893290945b697001edbf7b03a9327/63ce40c29545418f92495fe8f29eba0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b7bb5d2721d5415aef40a1e537016c3b/36d1e5dac313fad6905859fd22b330fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a89d19a14557b924aeeda0e9770cd066/8917414807756f4d4e8ea5984f9a9b54.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Grey/White",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1784820394",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785013056"
-    },
-    {
       "ID": "3646",
       "Internal-ID": "214152754",
       "Name": "Artemis",
@@ -3258,87 +3505,6 @@
       "LastIntakeUnixTime": "1784820514",
       "Attributes": [],
       "LastUpdatedUnixTime": "1784944381"
-    },
-    {
-      "ID": "3653",
-      "Internal-ID": "214152762",
-      "Name": "Zero",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "66.6",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1719855489,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/faf1b15a1a970e6a39308dd75847f04a/9b78072a3948108da67ae079d95e1569.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/faf1b15a1a970e6a39308dd75847f04a/9b78072a3948108da67ae079d95e1569.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/010ce971ccd298855b38a95a48ab955b/8c060b36a8d880699536f912eba83d4a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman",
-      "Color": "Chocolate/Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1784817720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784939912"
     },
     {
       "ID": "3479",
