@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T17:56:20Z",
+  "updated": "2026-07-26T19:04:16Z",
   "count": 58,
   "animals": [
     {
@@ -2522,6 +2522,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637007",
           "AttributeName": "Good around chickens",
           "Publish": "Yes"
@@ -2530,9 +2535,14 @@
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784821878"
+      "LastUpdatedUnixTime": "1785091352"
     },
     {
       "ID": "3639",
@@ -2814,7 +2824,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785075115"
+      "LastUpdatedUnixTime": "1785088620"
     },
     {
       "ID": "3648",
@@ -2891,7 +2901,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785075138"
+      "LastUpdatedUnixTime": "1785088651"
     },
     {
       "ID": "3649",
@@ -2991,7 +3001,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785080817"
+      "LastUpdatedUnixTime": "1785088800"
     },
     {
       "ID": "3650",
@@ -3073,7 +3083,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785082509"
+      "LastUpdatedUnixTime": "1785088726"
     },
     {
       "ID": "3652",
@@ -3264,7 +3274,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785083586"
+      "LastUpdatedUnixTime": "1785088917"
     },
     {
       "ID": "3636",
@@ -3357,7 +3367,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1784944446"
+      "LastUpdatedUnixTime": "1785088837"
     },
     {
       "ID": "3643",
@@ -3394,7 +3404,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785075144"
+      "LastUpdatedUnixTime": "1785088874"
     },
     {
       "ID": "3644",
@@ -3442,7 +3452,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784944768"
+      "LastUpdatedUnixTime": "1785088964"
     },
     {
       "ID": "3646",
@@ -3475,7 +3485,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784820809",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784820872"
+      "LastUpdatedUnixTime": "1785088685"
     },
     {
       "ID": "3651",
@@ -3504,7 +3514,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784820514",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784944381"
+      "LastUpdatedUnixTime": "1785088769"
     },
     {
       "ID": "3479",
