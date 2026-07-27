@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T21:35:39Z",
+  "updated": "2026-07-27T22:54:09Z",
   "count": 57,
   "animals": [
     {
@@ -2725,6 +2725,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
@@ -2745,12 +2750,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "780444",
           "AttributeName": "UGM 2026 candidate",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785182315"
+      "LastUpdatedUnixTime": "1785189638"
     },
     {
       "ID": "3647",
