@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T12:13:33Z",
+  "updated": "2026-07-27T15:21:12Z",
   "count": 57,
   "animals": [
     {
@@ -2223,6 +2223,116 @@
       "LastUpdatedUnixTime": "1784935117"
     },
     {
+      "ID": "3634",
+      "Internal-ID": "214083631",
+      "Name": "Brittany",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "50",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1720674000,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fc57ab28f762d3082893217bd7b57801/ab67f1652bdf560fccc678fa8e640556.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/97c0ed2248061a540197ce4b4370144e/f5da86c8a356ad172e698765a1c68f58.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5e702ae23b7b33a5e29f1a33830e82e/99d94f23fd8a9b4ab337c2b5abe3badb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4657f50e983c8d417bf8aec0b92bd464/1fbd692237bdf747030ab1c1a095373f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pointer, German Shorthaired",
+      "Color": "Chocolate/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "This girl is pure GSP energy ready to find her forever family!\n\nPersonality: Super friendly, affectionate, and loves to cuddle — she’ll be right by your side (or in your lap if you let her). Great with kids and gets along with other dogs; she currently plays great with a resident 3-year-old male GSP.\n\nTraining: House trained and kennel trained. Knows sit, shake, and down. She’s responding well to e-collar training, she’s still learning to come when called outside or in distracted settings, so a family comfortable continuing that training will help her thrive.\n\nThat GSP Drive: True to her breed, she’s got points-at-everything energy — birds, squirrels, leaves blowing by, you name it. She may have been bird hunted before, or would clearly love to be. She needs plenty of outdoor time to run, explore, and use that nose.\n\nGood to know: She’s a counter surfer, so keep those tempting snacks (and freshly baked sourdough 😭) pushed back!\n\nIdeal Home: An active family with a fenced yard or regular access to open space, who wants a running/hiking/hunting companion and doesn’t mind a dog who wants to be part of every moment. Another dog in the home would be a bonus!",
+      "LastIntakeUnixTime": "1783789783",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785162122"
+    },
+    {
       "ID": "3637",
       "Internal-ID": "214093705",
       "Name": "Cricket",
@@ -2317,7 +2427,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785097105"
+      "LastUpdatedUnixTime": "1785160329"
     },
     {
       "ID": "3638",
@@ -3301,12 +3411,19 @@
       "Altered": "Yes",
       "DOBUnixTime": 1763532000,
       "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae5cbcbb00d7e77d8319ef928dcfcc1e/fccc5ee08688a93cf262afccd54ad65a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png"
+        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Large)/Hound",
@@ -3332,7 +3449,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785154254"
+      "LastUpdatedUnixTime": "1785165284"
     },
     {
       "ID": "3646",
@@ -3474,116 +3591,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785015580"
-    },
-    {
-      "ID": "3634",
-      "Internal-ID": "214083631",
-      "Name": "Brittany",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "50",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1720674000,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc57ab28f762d3082893217bd7b57801/ab67f1652bdf560fccc678fa8e640556.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/97c0ed2248061a540197ce4b4370144e/f5da86c8a356ad172e698765a1c68f58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5e702ae23b7b33a5e29f1a33830e82e/99d94f23fd8a9b4ab337c2b5abe3badb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4657f50e983c8d417bf8aec0b92bd464/1fbd692237bdf747030ab1c1a095373f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pointer, German Shorthaired",
-      "Color": "Chocolate/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "This girl is pure GSP energy ready to find her forever family!\n\nPersonality: Super friendly, affectionate, and loves to cuddle — she’ll be right by your side (or in your lap if you let her). Great with kids and gets along with other dogs; she currently plays great with a resident 3-year-old male GSP.\n\nTraining: House trained and kennel trained. Knows sit, shake, and down. She’s responding well to e-collar training, she’s still learning to come when called outside or in distracted settings, so a family comfortable continuing that training will help her thrive.\n\nThat GSP Drive: True to her breed, she’s got points-at-everything energy — birds, squirrels, leaves blowing by, you name it. She may have been bird hunted before, or would clearly love to be. She needs plenty of outdoor time to run, explore, and use that nose.\n\nGood to know: She’s a counter surfer, so keep those tempting snacks (and freshly baked sourdough 😭) pushed back!\n\nIdeal Home: An active family with a fenced yard or regular access to open space, who wants a running/hiking/hunting companion and doesn’t mind a dog who wants to be part of every moment. Another dog in the home would be a bonus!",
-      "LastIntakeUnixTime": "1783789783",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785118900"
     },
     {
       "ID": "3640",
