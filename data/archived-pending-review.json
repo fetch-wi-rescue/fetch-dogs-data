@@ -836,7 +836,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-03T04:23:47Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3461",
@@ -845,7 +845,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-04T20:27:52Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3604",
@@ -854,7 +854,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-06T22:59:50Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "2774",
@@ -863,7 +863,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-08T01:58:27Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3527",
@@ -872,7 +872,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-08T20:41:25Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3601",
@@ -881,7 +881,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-09T16:11:23Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3550",
@@ -890,7 +890,7 @@
       "Status": "Hospice",
       "reason": "hospice_passed",
       "disappearedDate": "2026-07-09T23:04:16Z",
-      "status": "pending"
+      "status": "hospice"
     },
     {
       "ID": "3619",
@@ -899,7 +899,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-10T23:52:37Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3600",
@@ -908,7 +908,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-11T01:56:34Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3624",
@@ -917,7 +917,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-11T01:56:34Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3622",
@@ -926,7 +926,7 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-11T23:22:29Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3528",
@@ -935,7 +935,7 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-13T21:50:03Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3607",
@@ -944,7 +944,7 @@
       "Status": "Foster to Adopt",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-14T07:05:35Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3606",
@@ -953,7 +953,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-15T17:44:01Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3596",
@@ -962,7 +962,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-16T11:27:38Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3551",
@@ -971,7 +971,7 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-07-16T15:05:46Z",
-      "status": "pending"
+      "status": "other"
     },
     {
       "ID": "3558",
@@ -980,7 +980,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-16T19:17:30Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3623",
@@ -989,7 +989,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-17T01:58:49Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3562",
@@ -998,7 +998,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-17T17:03:40Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3629",
@@ -1007,7 +1007,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-18T19:40:52Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3621",
@@ -1016,7 +1016,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-18T23:44:28Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3633",
@@ -1025,7 +1025,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-19T01:57:37Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3609",
@@ -1034,7 +1034,7 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-07-20T15:45:45Z",
-      "status": "pending"
+      "status": "other"
     },
     {
       "ID": "3605",
@@ -1043,7 +1043,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-21T05:18:51Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3542",
@@ -1052,7 +1052,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-22T02:07:06Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "1395",
@@ -1061,7 +1061,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-22T21:59:18Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3599",
@@ -1070,7 +1070,7 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-22T21:59:18Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3630",
@@ -1079,7 +1079,7 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-24T17:57:24Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3620",
@@ -1088,7 +1088,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-26T01:06:36Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "1099",
@@ -1097,7 +1097,7 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-26T22:28:23Z",
-      "status": "pending"
+      "status": "adopted"
     },
     {
       "ID": "3635",
@@ -1106,7 +1106,7 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-26T22:28:24Z",
-      "status": "pending"
+      "status": "adopted"
     }
   ]
 }
