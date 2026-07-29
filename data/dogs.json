@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T15:25:58Z",
+  "updated": "2026-07-29T16:47:33Z",
   "count": 57,
   "animals": [
     {
@@ -87,7 +87,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783707888"
+      "LastUpdatedUnixTime": "1785342838"
     },
     {
       "ID": "3279",
@@ -635,119 +635,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784807576"
-    },
-    {
-      "ID": "3521",
-      "Internal-ID": "213497174",
-      "Name": "Maya",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "48",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1650085200,
-      "Age": 51,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f9f8e992d0cef246297cb283456b7a82/35390645f25a8b853b146c6135dadb1c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ef671105efb710a0818fe275e7aca83/c381e20c7da4be70c27b602acd364d5f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/96065164c721a159c345c788c9840f2a/7feb8434308e43f610ad7ddd83e5d90f.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "May 4, 2026Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
-      "LastIntakeUnixTime": "1776441715",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784502535"
     },
     {
       "ID": "3532",
@@ -1505,80 +1392,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1784918216"
-    },
-    {
-      "ID": "3603",
-      "Internal-ID": "213855262",
-      "Name": "Sheila",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761154,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f639014ea2e6e899e61eab1b3694115/03060147ee5ce963385f202d9f607d6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c76249bee88af72db4b8b59cd8b5faf/fae36aed67d2d322e16ea7969e305a9a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Sheila is a tiny Shih Tzu who may look like a classic “easy lap dog,” but she is not that dog right now. She came from a breeding/hoarding situation in Texas, and her world has always been small, loud, and scary. Because of that, she is extremely nervous and fearful and she will need an adopter who understands trauma, patience, and slow progress.\nWhat she’s like today:\n• Very fearful of people. She does not currently allow petting and will retreat to her crate when she feels overwhelmed. After a few weeks with us, she will come forward to sniff us, which is a small but meaningful step.\n• Not leash ready. She cannot be walked outside or walked on a leash at this time. She has extreme panic when placed on a leash or with outdoor exposure.\n• Pee pad trained. She uses pads reliably and rarely has accidents off them.\n• Her crate is her safe space. She sleeps and decompresses there, running to her crate whenever she is afraid or overwhelmed. She likes to gather her toys inside.\n• Loves toys. She quietly plays, collects them, and occasionally shows flashes of “real dog” joy—tail chasing, play bows, little bursts of silliness.\n• Kid friendly in the sense that she ignores them. She lives with dog-savvy, animal compassionate kids (8, 13, 15) but does not interact with them.\n• Would benefit from another calm, friendly dog. She watches other dogs closely and would likely learn from a confident, gentle companion.\nWho she needs:\nShe needs someone who can offer grace, time, and zero pressure. She is not going to be a cuddly companion anytime soon. She is not ready for walks, dog parks, or social outings. She is a long term project—tiny and adorable, yes, but emotionally complex and still learning what safety feels like.\nIf you are patient, trauma informed, and willing to celebrate very small victories, she has the potential to grow into a much braver version of herself. She is slowly coming out of her shell, and with the right home, those little glimpses of joy can become the norm rather than tiny moments.\nSheila isn’t an easy dog, but she is a diamond in the rough and deserves all the love and joy in her life.",
-      "LastIntakeUnixTime": "1781020646",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784727022"
     },
     {
       "ID": "3612",
@@ -4771,6 +4584,119 @@
       "LastUpdatedUnixTime": "1784611922"
     },
     {
+      "ID": "3521",
+      "Internal-ID": "213497174",
+      "Name": "Maya",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "48",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1650085200,
+      "Age": 51,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f9f8e992d0cef246297cb283456b7a82/35390645f25a8b853b146c6135dadb1c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ef671105efb710a0818fe275e7aca83/c381e20c7da4be70c27b602acd364d5f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/96065164c721a159c345c788c9840f2a/7feb8434308e43f610ad7ddd83e5d90f.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "May 4, 2026Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
+      "LastIntakeUnixTime": "1776441715",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785342873"
+    },
+    {
       "ID": "3595",
       "Internal-ID": "213786020",
       "Name": "Holly",
@@ -4881,6 +4807,80 @@
         }
       ],
       "LastUpdatedUnixTime": "1785070934"
+    },
+    {
+      "ID": "3603",
+      "Internal-ID": "213855262",
+      "Name": "Sheila",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761154,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f639014ea2e6e899e61eab1b3694115/03060147ee5ce963385f202d9f607d6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c76249bee88af72db4b8b59cd8b5faf/fae36aed67d2d322e16ea7969e305a9a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Sheila is a tiny Shih Tzu who may look like a classic “easy lap dog,” but she is not that dog right now. She came from a breeding/hoarding situation in Texas, and her world has always been small, loud, and scary. Because of that, she is extremely nervous and fearful and she will need an adopter who understands trauma, patience, and slow progress.\nWhat she’s like today:\n• Very fearful of people. She does not currently allow petting and will retreat to her crate when she feels overwhelmed. After a few weeks with us, she will come forward to sniff us, which is a small but meaningful step.\n• Not leash ready. She cannot be walked outside or walked on a leash at this time. She has extreme panic when placed on a leash or with outdoor exposure.\n• Pee pad trained. She uses pads reliably and rarely has accidents off them.\n• Her crate is her safe space. She sleeps and decompresses there, running to her crate whenever she is afraid or overwhelmed. She likes to gather her toys inside.\n• Loves toys. She quietly plays, collects them, and occasionally shows flashes of “real dog” joy—tail chasing, play bows, little bursts of silliness.\n• Kid friendly in the sense that she ignores them. She lives with dog-savvy, animal compassionate kids (8, 13, 15) but does not interact with them.\n• Would benefit from another calm, friendly dog. She watches other dogs closely and would likely learn from a confident, gentle companion.\nWho she needs:\nShe needs someone who can offer grace, time, and zero pressure. She is not going to be a cuddly companion anytime soon. She is not ready for walks, dog parks, or social outings. She is a long term project—tiny and adorable, yes, but emotionally complex and still learning what safety feels like.\nIf you are patient, trauma informed, and willing to celebrate very small victories, she has the potential to grow into a much braver version of herself. She is slowly coming out of her shell, and with the right home, those little glimpses of joy can become the norm rather than tiny moments.\nSheila isn’t an easy dog, but she is a diamond in the rough and deserves all the love and joy in her life.",
+      "LastIntakeUnixTime": "1781020646",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785342862"
     }
   ]
 }
