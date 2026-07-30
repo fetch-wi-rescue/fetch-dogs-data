@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T20:11:28Z",
-  "count": 56,
+  "updated": "2026-07-30T21:40:07Z",
+  "count": 57,
   "animals": [
     {
       "ID": "2754",
@@ -3011,6 +3011,52 @@
       "LastIntakeUnixTime": "1784820514",
       "Attributes": [],
       "LastUpdatedUnixTime": "1785088769"
+    },
+    {
+      "ID": "3655",
+      "Internal-ID": "214207698",
+      "Name": "Roo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1465448400,
+      "Age": 121,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1785443311",
+      "Attributes": [
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785443952"
     },
     {
       "ID": "3479",
