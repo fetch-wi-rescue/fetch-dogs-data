@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T22:28:24Z",
+  "updated": "2026-07-30T15:46:05Z",
   "animals": [
     {
       "ID": "3458",
@@ -1107,6 +1107,15 @@
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-26T22:28:24Z",
       "status": "adopted"
+    },
+    {
+      "ID": "3595",
+      "Name": "Holly",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e8285b97012891817e0dbaecc2fa50c4/5f62b3cc3b9585333edc88b6d3746ba4.JPG",
+      "Status": "With Sitter",
+      "reason": "other",
+      "disappearedDate": "2026-07-30T15:46:05Z",
+      "status": "pending"
     }
   ]
 }
