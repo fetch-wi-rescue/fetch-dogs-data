@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T15:46:05Z",
+  "updated": "2026-07-30T22:57:43Z",
   "animals": [
     {
       "ID": "3458",
@@ -1115,6 +1115,15 @@
       "Status": "With Sitter",
       "reason": "other",
       "disappearedDate": "2026-07-30T15:46:05Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3645",
+      "Name": "Rumi",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e2aed4235be1a7a014c22abe60fcd45d/c531c0f3c671124b1764c19166aae2f3.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-07-30T22:57:43Z",
       "status": "pending"
     }
   ]
