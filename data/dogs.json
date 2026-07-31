@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:57:43Z",
+  "updated": "2026-07-31T00:00:55Z",
   "count": 56,
   "animals": [
     {
@@ -1741,6 +1741,118 @@
       "LastUpdatedUnixTime": "1784652058"
     },
     {
+      "ID": "3631",
+      "Internal-ID": "214061046",
+      "Name": "Benedict",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "56",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1736229600,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d6ae6a0bd4c387c888edc894a22b0dac/609dcdf2b1066c1b136de363c492c154.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d6ae6a0bd4c387c888edc894a22b0dac/609dcdf2b1066c1b136de363c492c154.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4090dd81952185e59fe2195fba8c581a/083099daad5b7a2730ad20265c5a6a79.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0cbbaba546a01c463ba67f546c6d1154/e498345e7871975d82f1485337540b58.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8ccb8e77ffb1433cae6d92bd5754e101/a8f86042294bd2f39c4117056f3fdc8d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/385ba65a28f9ba003d63eba763876bd4/d3966a5262cf0d272027b7384c917a36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4ace0ec9d1f0197fa06acb1b902ff0a5/fe32a128a90c56cf7070a3ec533d55be.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dbc83a603417d08f5287fac5ad1c7b43/b944d20c5771fdf533808d0a05701fc4.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Collie/Mixed Breed (Medium)",
+      "Color": "Brown/Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Benedict is a shy, sweet boy who’s still learning that the world isn’t as scary as it feels. So far, he’s been the kind of dog who watches quietly from the sidelines, taking everything in with those soft, thoughtful eyes. Once he trusts you, his whole body relaxes and you get to see the tender, loyal heart underneath.\n\nBenedict absolutely thrives with another dog in the home. A confident canine friend helps him feel safe, shows him the ropes, and reminds him that good things are coming. He’s also perfectly fine with cats and coexists with them politely.\n\nLeashes? Benedict has no idea what those are yet. He’ll need patience, gentle guidance, and a calm environment while he learns. The good news is he rides beautifully in the car, settling in quietly and taking comfort in the steady routine of travel.\n\nBenedict is looking for an adopter who understands shy dogs - someone who won’t rush him, who celebrates small victories, and who can offer a peaceful home with a friendly dog to show him the way. With time, kindness, and stability, Benedict will blossom into the devoted companion he’s meant to be.\n\nIf you’re the kind of person who finds magic in the quiet ones, Benedict is ready to meet you.",
+      "LastIntakeUnixTime": "1783463969",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785453485"
+    },
+    {
       "ID": "3632",
       "Internal-ID": "214068750",
       "Name": "Turtle",
@@ -1968,7 +2080,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785160329"
+      "LastUpdatedUnixTime": "1785453391"
     },
     {
       "ID": "3638",
@@ -2185,7 +2297,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785345620"
+      "LastUpdatedUnixTime": "1785453290"
     },
     {
       "ID": "3644",
@@ -2445,7 +2557,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785333160"
+      "LastUpdatedUnixTime": "1785452482"
     },
     {
       "ID": "3649",
@@ -2545,7 +2657,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785088800"
+      "LastUpdatedUnixTime": "1785452519"
     },
     {
       "ID": "3650",
@@ -2627,7 +2739,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785088726"
+      "LastUpdatedUnixTime": "1785452443"
     },
     {
       "ID": "3651",
@@ -2761,7 +2873,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785016390"
+      "LastUpdatedUnixTime": "1785452956"
     },
     {
       "ID": "3653",
@@ -2883,7 +2995,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1784750364"
+      "LastUpdatedUnixTime": "1785453152"
     },
     {
       "ID": "3642",
@@ -3619,118 +3731,6 @@
       "LastUpdatedUnixTime": "1784648619"
     },
     {
-      "ID": "3631",
-      "Internal-ID": "214061046",
-      "Name": "Benedict",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "56",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1736229600,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d6ae6a0bd4c387c888edc894a22b0dac/609dcdf2b1066c1b136de363c492c154.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d6ae6a0bd4c387c888edc894a22b0dac/609dcdf2b1066c1b136de363c492c154.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4090dd81952185e59fe2195fba8c581a/083099daad5b7a2730ad20265c5a6a79.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0cbbaba546a01c463ba67f546c6d1154/e498345e7871975d82f1485337540b58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8ccb8e77ffb1433cae6d92bd5754e101/a8f86042294bd2f39c4117056f3fdc8d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/385ba65a28f9ba003d63eba763876bd4/d3966a5262cf0d272027b7384c917a36.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4ace0ec9d1f0197fa06acb1b902ff0a5/fe32a128a90c56cf7070a3ec533d55be.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dbc83a603417d08f5287fac5ad1c7b43/b944d20c5771fdf533808d0a05701fc4.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Collie/Mixed Breed (Medium)",
-      "Color": "Brown/Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Benedict is a shy, sweet boy who’s still learning that the world isn’t as scary as it feels. So far, he’s been the kind of dog who watches quietly from the sidelines, taking everything in with those soft, thoughtful eyes. Once he trusts you, his whole body relaxes and you get to see the tender, loyal heart underneath.\n\nBenedict absolutely thrives with another dog in the home. A confident canine friend helps him feel safe, shows him the ropes, and reminds him that good things are coming. He’s also perfectly fine with cats and coexists with them politely.\n\nLeashes? Benedict has no idea what those are yet. He’ll need patience, gentle guidance, and a calm environment while he learns. The good news is he rides beautifully in the car, settling in quietly and taking comfort in the steady routine of travel.\n\nBenedict is looking for an adopter who understands shy dogs - someone who won’t rush him, who celebrates small victories, and who can offer a peaceful home with a friendly dog to show him the way. With time, kindness, and stability, Benedict will blossom into the devoted companion he’s meant to be.\n\nIf you’re the kind of person who finds magic in the quiet ones, Benedict is ready to meet you.",
-      "LastIntakeUnixTime": "1783463969",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785017621"
-    },
-    {
       "ID": "3634",
       "Internal-ID": "214083631",
       "Name": "Brittany",
@@ -3838,7 +3838,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785433811"
+      "LastUpdatedUnixTime": "1785453573"
     },
     {
       "ID": "3541",
