@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T15:54:36Z",
+  "updated": "2026-08-01T16:52:19Z",
   "count": 58,
   "animals": [
     {
@@ -1325,6 +1325,80 @@
         }
       ],
       "LastUpdatedUnixTime": "1784918216"
+    },
+    {
+      "ID": "3603",
+      "Internal-ID": "213855262",
+      "Name": "Sheila",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1747761154,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f639014ea2e6e899e61eab1b3694115/03060147ee5ce963385f202d9f607d6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c76249bee88af72db4b8b59cd8b5faf/fae36aed67d2d322e16ea7969e305a9a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Sheila is a tiny Shih Tzu who may look like a classic “easy lap dog,” but she is not that dog right now. She came from a breeding/hoarding situation in Texas, and her world has always been small, loud, and scary. Because of that, she is extremely nervous and fearful and she will need an adopter who understands trauma, patience, and slow progress.\nWhat she’s like today:\n• Very fearful of people. She does not currently allow petting and will retreat to her crate when she feels overwhelmed. After a few weeks with us, she will come forward to sniff us, which is a small but meaningful step.\n• Not leash ready. She cannot be walked outside or walked on a leash at this time. She has extreme panic when placed on a leash or with outdoor exposure.\n• Pee pad trained. She uses pads reliably and rarely has accidents off them.\n• Her crate is her safe space. She sleeps and decompresses there, running to her crate whenever she is afraid or overwhelmed. She likes to gather her toys inside.\n• Loves toys. She quietly plays, collects them, and occasionally shows flashes of “real dog” joy—tail chasing, play bows, little bursts of silliness.\n• Kid friendly in the sense that she ignores them. She lives with dog-savvy, animal compassionate kids (8, 13, 15) but does not interact with them.\n• Would benefit from another calm, friendly dog. She watches other dogs closely and would likely learn from a confident, gentle companion.\nWho she needs:\nShe needs someone who can offer grace, time, and zero pressure. She is not going to be a cuddly companion anytime soon. She is not ready for walks, dog parks, or social outings. She is a long term project—tiny and adorable, yes, but emotionally complex and still learning what safety feels like.\nIf you are patient, trauma informed, and willing to celebrate very small victories, she has the potential to grow into a much braver version of herself. She is slowly coming out of her shell, and with the right home, those little glimpses of joy can become the norm rather than tiny moments.\nSheila isn’t an easy dog, but she is a diamond in the rough and deserves all the love and joy in her life.",
+      "LastIntakeUnixTime": "1781020646",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785600982"
     },
     {
       "ID": "3612",
@@ -4883,80 +4957,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785342873"
-    },
-    {
-      "ID": "3603",
-      "Internal-ID": "213855262",
-      "Name": "Sheila",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1747761154,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2ea0d9caaa10247b05d1cabe512e1b12/d5e678b365d23039356a423b6c62ae16.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f639014ea2e6e899e61eab1b3694115/03060147ee5ce963385f202d9f607d6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c76249bee88af72db4b8b59cd8b5faf/fae36aed67d2d322e16ea7969e305a9a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Sheila is a tiny Shih Tzu who may look like a classic “easy lap dog,” but she is not that dog right now. She came from a breeding/hoarding situation in Texas, and her world has always been small, loud, and scary. Because of that, she is extremely nervous and fearful and she will need an adopter who understands trauma, patience, and slow progress.\nWhat she’s like today:\n• Very fearful of people. She does not currently allow petting and will retreat to her crate when she feels overwhelmed. After a few weeks with us, she will come forward to sniff us, which is a small but meaningful step.\n• Not leash ready. She cannot be walked outside or walked on a leash at this time. She has extreme panic when placed on a leash or with outdoor exposure.\n• Pee pad trained. She uses pads reliably and rarely has accidents off them.\n• Her crate is her safe space. She sleeps and decompresses there, running to her crate whenever she is afraid or overwhelmed. She likes to gather her toys inside.\n• Loves toys. She quietly plays, collects them, and occasionally shows flashes of “real dog” joy—tail chasing, play bows, little bursts of silliness.\n• Kid friendly in the sense that she ignores them. She lives with dog-savvy, animal compassionate kids (8, 13, 15) but does not interact with them.\n• Would benefit from another calm, friendly dog. She watches other dogs closely and would likely learn from a confident, gentle companion.\nWho she needs:\nShe needs someone who can offer grace, time, and zero pressure. She is not going to be a cuddly companion anytime soon. She is not ready for walks, dog parks, or social outings. She is a long term project—tiny and adorable, yes, but emotionally complex and still learning what safety feels like.\nIf you are patient, trauma informed, and willing to celebrate very small victories, she has the potential to grow into a much braver version of herself. She is slowly coming out of her shell, and with the right home, those little glimpses of joy can become the norm rather than tiny moments.\nSheila isn’t an easy dog, but she is a diamond in the rough and deserves all the love and joy in her life.",
-      "LastIntakeUnixTime": "1781020646",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785342862"
     }
   ]
 }
