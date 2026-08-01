@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:57:43Z",
+  "updated": "2026-08-01T21:24:03Z",
   "animals": [
     {
       "ID": "3458",
@@ -1124,6 +1124,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-07-30T22:57:43Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3637",
+      "Name": "Cricket",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/be9da67a14e3fafea3b8ecfe42bb2813/47154468647024a0309e4b4e56bea156.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-01T21:24:03Z",
       "status": "pending"
     }
   ]
