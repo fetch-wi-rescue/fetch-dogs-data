@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T23:54:42Z",
-  "count": 56,
+  "updated": "2026-08-01T02:05:10Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -2691,8 +2691,39 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1784820514",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785524084"
+      "Attributes": [
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785548496"
     },
     {
       "ID": "3652",
@@ -3093,6 +3124,209 @@
         }
       ],
       "LastUpdatedUnixTime": "1785443952"
+    },
+    {
+      "ID": "3656",
+      "Internal-ID": "214218202",
+      "Name": "Rosie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1469941200,
+      "Age": 120,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6eea29d98448786ea4f6017ad80389e7/aa13f7ae60dd408509c7ee9afc8727c1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/07f78b2a8fd1136a260db5e303f09ab7/a53635ede479bc5d0f3b2221d59ea8ac.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Poodle, Standard",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1785548562",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785548767"
+    },
+    {
+      "ID": "3657",
+      "Internal-ID": "214218207",
+      "Name": "Emma",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1659243600,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/515ff83f1e6623dc24c67a1cd79112d0/746874e67b3b82ec144503c4ba45f0f6.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/515ff83f1e6623dc24c67a1cd79112d0/746874e67b3b82ec144503c4ba45f0f6.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "White/Grey",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "✨ Introducing Emma! ✨\nEmma is a goofy, high-energy girl with a BIG personality 😅 She loves attention and fully believes she should be the center of it at all times. If another dog is getting pets, Emma will absolutely bulldoze her way into the middle of it 💀\nShe’s playful, active, and loves to run around, but she is also insecure/skittish at times and will need a family willing to help continue building her confidence. Emma is a jumper too — and not just a little one 👀 this girl can jump as high as your head without thinking twice.\nShe’s also incredibly smart… unfortunately sometimes she uses her powers for chaos 😂 Emma has mastered counter surfing and has a very expensive hobby of stealing things off counters to chew up. Her current obsession? Cords 😳 Apparently if it plugs in, Emma thinks it’s a snack.\nWhile Emma does okay around other dogs, we personally think she may thrive best as an only dog or where she can soak up all the attention for herself. If there are other dogs in the home, proper introductions will be required.\nEmma is looking for a patient home that understands quirky, energetic dogs and is willing to work with her while also laughing at her ridiculous antics along the way ❤️ she's a ball of energy and needs a job, Her favorite toys are the big roasted cow knee bones. She can figure out a treat puzzle in minutes.",
+      "LastIntakeUnixTime": "1785548817",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785549027"
     },
     {
       "ID": "3479",
