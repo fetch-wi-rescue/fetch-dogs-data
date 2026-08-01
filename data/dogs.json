@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T22:24:44Z",
+  "updated": "2026-08-01T23:26:25Z",
   "count": 57,
   "animals": [
     {
@@ -2189,6 +2189,101 @@
       "LastUpdatedUnixTime": "1785453290"
     },
     {
+      "ID": "3642",
+      "Internal-ID": "214152747",
+      "Name": "Carlos",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1725912967,
+      "Age": 22,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98fd024f3f293b455cd954e1f24f6bec/ed7be521338dd808425c358428f913c6.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/98fd024f3f293b455cd954e1f24f6bec/ed7be521338dd808425c358428f913c6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8e550c9b4c9e024d38c3005c1b5a359/81c3adcff0ad0c8e72e9dcccbc68eae8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c5f4f7762f7b05b2ac15e0aef3fd840/12df8c972e3e846b52a8555c089c9f8f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ff4aa5c093e8fa75c7a4ba63b5fa153/e45c30566d0968e328abc7e4758e2bef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ec324c157a92235bca973fc8ac9df2d9/7d143b84e4b43b02131ee2d4a61042df.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d42b9d6ef7f9503bc82bdd0dcf668a8/988e73fee4c2e60d26d240446b7b3ac6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6b504257a626aa0bd3c4aa06eadcca14/c1f729215793892c1f70386d6b6875c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b358ffce614e2eb6a2efc7a80410aaf1/83a6f1b71396c518b8957ad7bd6e1e96.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "Z-z9PoNuxtc",
+          "EmbedUrl": "//www.youtube.com/embed/Z-z9PoNuxtc?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=Z-z9PoNuxtc",
+          "ThumbUrl": "https://img.youtube.com/vi/Z-z9PoNuxtc/0.jpg"
+        },
+        {
+          "VideoId": "5XaaOdudTZM",
+          "EmbedUrl": "//www.youtube.com/embed/5XaaOdudTZM?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=5XaaOdudTZM",
+          "ThumbUrl": "https://img.youtube.com/vi/5XaaOdudTZM/0.jpg"
+        }
+      ],
+      "Breed": "Bulldog, English/Mix",
+      "Color": "White/Grey",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Found in Midfield ",
+      "LastIntakeUnixTime": "1784820715",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785626249"
+    },
+    {
       "ID": "3644",
       "Internal-ID": "214152752",
       "Name": "Cain",
@@ -2933,63 +3028,6 @@
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [],
       "LastUpdatedUnixTime": "1785453152"
-    },
-    {
-      "ID": "3642",
-      "Internal-ID": "214152747",
-      "Name": "Carlos",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "45",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1725912967,
-      "Age": 22,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a8e550c9b4c9e024d38c3005c1b5a359/81c3adcff0ad0c8e72e9dcccbc68eae8.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a8e550c9b4c9e024d38c3005c1b5a359/81c3adcff0ad0c8e72e9dcccbc68eae8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c5f4f7762f7b05b2ac15e0aef3fd840/12df8c972e3e846b52a8555c089c9f8f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ff4aa5c093e8fa75c7a4ba63b5fa153/e45c30566d0968e328abc7e4758e2bef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ec324c157a92235bca973fc8ac9df2d9/7d143b84e4b43b02131ee2d4a61042df.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d42b9d6ef7f9503bc82bdd0dcf668a8/988e73fee4c2e60d26d240446b7b3ac6.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "Z-z9PoNuxtc",
-          "EmbedUrl": "//www.youtube.com/embed/Z-z9PoNuxtc?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=Z-z9PoNuxtc",
-          "ThumbUrl": "https://img.youtube.com/vi/Z-z9PoNuxtc/0.jpg"
-        },
-        {
-          "VideoId": "5XaaOdudTZM",
-          "EmbedUrl": "//www.youtube.com/embed/5XaaOdudTZM?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=5XaaOdudTZM",
-          "ThumbUrl": "https://img.youtube.com/vi/5XaaOdudTZM/0.jpg"
-        }
-      ],
-      "Breed": "Bulldog, English/Mix",
-      "Color": "White/Grey",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Found in Midfield ",
-      "LastIntakeUnixTime": "1784820715",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785433748"
     },
     {
       "ID": "3643",
