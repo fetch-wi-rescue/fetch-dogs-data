@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T18:59:27Z",
+  "updated": "2026-08-02T20:11:48Z",
   "count": 56,
   "animals": [
     {
@@ -731,90 +731,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785632367"
-    },
-    {
-      "ID": "3556",
-      "Internal-ID": "213684443",
-      "Name": "Birdie",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.8",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714712400,
-      "Age": 26,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
-        "https://new-s3.shelterluv.com/profile-pictures/fd1fd823cf838360a8f2202f4eead0de/7634e01ef14a21906a6898b35b0467f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/32d4f13a84eccb5c4b2132f06fa35664/3986adcbe7e2ce87ee744914e007788d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Birdie is the sweetest, snuggliest girl! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has made lots of progress adjusting to indoor life and is nearly fully potty trained. She sleeps soundly through the night in her crate or snuggled up in bed with her foster parents, and seems to do well when left home alone in her crate. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be vocal, though she's making progress with gentle redirection and reassurance from her foster family.\n\nBirdie has done well being around adults, older children, cats, and other dogs. She currently lives with another dog in her foster home. Birdie can be nervous around new people, but once you've won her over, she is all snuggles and kisses ♥️\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. Fortunately, this seems to be greatly improving as she settles into her foster home. \n\nHer ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785015550"
     },
     {
       "ID": "3578",
@@ -2483,90 +2399,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785518371"
-    },
-    {
-      "ID": "3648",
-      "Internal-ID": "214152756",
-      "Name": "Belle",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1777957200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c7575a21b1ef82e188235488eaef018b/6e771d526a4b8d320a5ab6fc1db196e4.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c7575a21b1ef82e188235488eaef018b/6e771d526a4b8d320a5ab6fc1db196e4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a6bfcb4409c3eb6731f80e37d3c52939/19d96d7811694c3d878f6a24fbee0f26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e55d3c71337cd1416ce7dc1ee6a5c38b/445c7f5b9f14cdb96514c28318553e61.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/34c9f510139908a3fd3a7f018df896df/122602fe70a6a03eda3dcced1b2a8a71.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5bbe2ae763e56679750e553afade29dc/bad6f2e8df0ff964bfa5c725ba6f63aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dd8fb2f4a38f27a4a1688f9c368adbd3/6e5701e33d10cce0c2b1bd3f99437fe9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/168c225bcc66bac13485eb657b2b5777/b2cf82035955c3bf6a50001a89d0b8a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/88f4b77dac827cc907c566913ec2c76e/a13143b0acedf1c1b72d0e7d43aa6855.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/55389f4613ace998e2fe4efca462f438/db82f11e062b4fe9ab91fb34f5343bc0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/371ae5c6a10e4ef5344f82db1c79d60b/6dbb8d9d79e24f92cc38d0748d8635e8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d22b9c5add7884d90ecd12f98e8943d3/899e473f684550d79315b61c58409473.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Grey/White",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Belle a bundle of happiness! This little furball is full of puppy kisses, playful antics, and endless cuddles. She is curious, affectionate, and eager to find a family to call her own. Whether it's playtime, nap time, or cuddle time, Belle is always happy to be by your side. Are you ready to welcome this adorable pup into your heart and home? ❤️🐾",
-      "LastIntakeUnixTime": "1784923034",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785518298"
+      "LastUpdatedUnixTime": "1785699593"
     },
     {
       "ID": "3649",
@@ -3744,6 +3577,90 @@
       "LastUpdatedUnixTime": "1785372583"
     },
     {
+      "ID": "3556",
+      "Internal-ID": "213684443",
+      "Name": "Birdie",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.8",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1714712400,
+      "Age": 26,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
+        "https://new-s3.shelterluv.com/profile-pictures/fd1fd823cf838360a8f2202f4eead0de/7634e01ef14a21906a6898b35b0467f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/32d4f13a84eccb5c4b2132f06fa35664/3986adcbe7e2ce87ee744914e007788d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Birdie is the sweetest, snuggliest girl! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has made lots of progress adjusting to indoor life and is nearly fully potty trained. She sleeps soundly through the night in her crate or snuggled up in bed with her foster parents, and seems to do well when left home alone in her crate. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be vocal, though she's making progress with gentle redirection and reassurance from her foster family.\n\nBirdie has done well being around adults, older children, cats, and other dogs. She currently lives with another dog in her foster home. Birdie can be nervous around new people, but once you've won her over, she is all snuggles and kisses ♥️\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. Fortunately, this seems to be greatly improving as she settles into her foster home. \n\nHer ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785699775"
+    },
+    {
       "ID": "3592",
       "Internal-ID": "213786015",
       "Name": "Mary Beth",
@@ -4013,6 +3930,89 @@
         }
       ],
       "LastUpdatedUnixTime": "1784648619"
+    },
+    {
+      "ID": "3648",
+      "Internal-ID": "214152756",
+      "Name": "Belle",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777957200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a6bfcb4409c3eb6731f80e37d3c52939/19d96d7811694c3d878f6a24fbee0f26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e55d3c71337cd1416ce7dc1ee6a5c38b/445c7f5b9f14cdb96514c28318553e61.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/34c9f510139908a3fd3a7f018df896df/122602fe70a6a03eda3dcced1b2a8a71.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c7575a21b1ef82e188235488eaef018b/6e771d526a4b8d320a5ab6fc1db196e4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5bbe2ae763e56679750e553afade29dc/bad6f2e8df0ff964bfa5c725ba6f63aa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dd8fb2f4a38f27a4a1688f9c368adbd3/6e5701e33d10cce0c2b1bd3f99437fe9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/168c225bcc66bac13485eb657b2b5777/b2cf82035955c3bf6a50001a89d0b8a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/88f4b77dac827cc907c566913ec2c76e/a13143b0acedf1c1b72d0e7d43aa6855.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/55389f4613ace998e2fe4efca462f438/db82f11e062b4fe9ab91fb34f5343bc0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/371ae5c6a10e4ef5344f82db1c79d60b/6dbb8d9d79e24f92cc38d0748d8635e8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d22b9c5add7884d90ecd12f98e8943d3/899e473f684550d79315b61c58409473.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Grey/White",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Belle a bundle of happiness! This little furball is full of puppy kisses, playful antics, and endless cuddles. She is curious, affectionate, and eager to find a family to call her own. Whether it's playtime, nap time, or cuddle time, Belle is always happy to be by your side. Are you ready to welcome this adorable pup into your heart and home? ❤️🐾",
+      "LastIntakeUnixTime": "1784923034",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785699571"
     },
     {
       "ID": "3541",
