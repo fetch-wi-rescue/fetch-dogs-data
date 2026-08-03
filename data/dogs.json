@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T19:02:30Z",
-  "count": 56,
+  "updated": "2026-08-03T20:41:31Z",
+  "count": 58,
   "animals": [
     {
       "ID": "2754",
@@ -916,9 +916,14 @@
           "Internal-ID": "678764",
           "AttributeName": "Housetrained",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785714568"
+      "LastUpdatedUnixTime": "1785787885"
     },
     {
       "ID": "3581",
@@ -1123,119 +1128,6 @@
       "LastUpdatedUnixTime": "1785079403"
     },
     {
-      "ID": "3593",
-      "Internal-ID": "213786017",
-      "Name": "Daisy",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.4",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1775019600,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7aa60d607048149473158de046d0eac/fa079cb5984d379f97328e61f9e15780.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e7aa60d607048149473158de046d0eac/fa079cb5984d379f97328e61f9e15780.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/73beb8ed39c0a6a519d672102c289c5d/8375cde231dc59e4b0cdbedd46d7b21e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a9956dd703d80d22cd71ea327eed2a4/916991026a3230dc6190f1642867bff3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f393aa4fc4e13807389d7a5a37a63445/8df75d2764ba2665babdc29806d2c101.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0abc0391c0511dd94e4916b54f1b46e8/de15a29f503771a8a5cb270fc943dcaa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/66c22cc4161493a19c58424260aee124/c22c6bb4486260fc77953fa60a92ff28.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2fa378e1d98e6646e10a7d809638a5ac/b8a0cfbe2e6c5b67c3fa43a9ec901735.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e12c0463f8bc6669f2f8708f5fd91124/fddb7972a9231a6204879e6673f53b2f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/edf8c9637c949ae813dd7eea57063072/f22d9bf392119a88d4ea8f4126af55e7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5574ca5e0d8bc455e60a9c2f0b7925d/6b2a23fc46f1002631020595ba0124a1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b717cd791680ce295938dd62c66c32b/fa57fa2549c7eabf9b6136b249b7ce1b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/803a68fb6bc8711b315a64a1cdebc3d5/fcec468923a0c8c84b1dc009ff3959c8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e2ac5280b105c88c53d83bccf9863ef/548806cf3cc5ae66ba7bb42e349b69e4.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/a44eaeb926a063f5cc955b3df56906d7/b7cf406e44d674f3cf1cab401fcf76c4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7966b6c44fe2bcb0937a542001d4aaca/78f5983fdf294f970e8a67c7c9ef58cd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Daisy is a tiny firecracker with a whole lot of attitude and even more love to give! Daisy is the definition of personality:  confident, opinionated, and absolutely convinced the world looks better when she’s in charge of it. She’s playful, clever, and always ready to add a little extra “zing” to your day.\n\nDaisy adores attention, thrives on interaction, and isn’t shy about telling you exactly how she feels - whether that’s demanding snacks, announcing her presence, or reminding you that she is, in fact, the star of the show. Under all that sass though is a sweetheart who bonds deeply and loves fiercely.\n\nShe’s looking for a home that appreciates a companion with flair, humor, and a dash of drama. If you’re ready for a lively little sidekick who will keep you laughing and, on your toes, Daisy is your girl.",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784918216"
-    },
-    {
       "ID": "3603",
       "Internal-ID": "213855262",
       "Name": "Sheila",
@@ -1310,75 +1202,6 @@
       "LastUpdatedUnixTime": "1785600982"
     },
     {
-      "ID": "3612",
-      "Internal-ID": "213937985",
-      "Name": "Whiskey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1752555600,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d06fbd0b8d5bd3b9378d7f3aa8249377/341920c1fdb9c2ba8dc878236afe243f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e72f706a1c2a9d9b68228c3a26ac60c1/dfa970cba025500f753b2286d881eb41.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Whiskey is a spunky beagle who's still figuring out what it means to be a house dog—and he's making great progress! He's currently learning the ropes while living with three other dogs, and those furry friends have become his best teachers.\n\nThis young guy is a bouncy adolescent with plenty of energy to burn. He's a bit shy at first and takes time to warm up to people, but once he trusts you, he's got a sweet side—pick him up and he'll happily settle in for a nap on your lap. He thrives on companionship and needs a home where he can continue learning alongside a confident, well-adjusted dog. With the right mentor and patient humans by his side, Whiskey's confidence grows every day.\n\nWhat Whiskey needs:\n\nA fenced-in yard for safe play and exploration\nA patient family willing to support his continued growth\nAt least one dog friend who can model good behavior\nLove, consistency, and plenty of opportunities to be part of the pack\n\nIf you have a stable home with another dog and the patience to watch Whiskey blossom, he's ready to return all that investment with the loyal companionship only a beagle can offer.",
-      "LastIntakeUnixTime": "1781658720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785436705"
-    },
-    {
       "ID": "3613",
       "Internal-ID": "213937986",
       "Name": "Pete",
@@ -1393,13 +1216,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1746075600,
       "Age": 15,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b990e3f6a6abd0cb324bdf37306c2ad3/72df844f128e3c535fb92296894bf0b6.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b7f835e0f67b99022d76bcff9ed6ee81/e1015f0ac56fc8010f2c657e099f6cd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b990e3f6a6abd0cb324bdf37306c2ad3/72df844f128e3c535fb92296894bf0b6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4cd091caa82cb4a7c342c507b2f20ed0/fa0865d95a1ea480e15b994e95e5678e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/cc0164e4c4a656416b1e13681cbea54a/d978755712c345e20216c7d17e70be8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/15963739b1846023d949a3fbdd2d4327/45e9a6d3cf51861b9476cd08ba979dff.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/15963739b1846023d949a3fbdd2d4327/45e9a6d3cf51861b9476cd08ba979dff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b32f1bd1c13d964b0b7710b15812538e/b7f20d6c958f3f0013c7fe06f72445bf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9fa543fd731e069e8d1d53e73b31e7f7/3b1ce4e9a5b4c1a8a27a265de2010127.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f3a3a22835277abd998a75dbfc69f8e8/eb844dd552918b8ff9f231e3ba38d50c.jpeg"
       ],
       "Videos": [],
       "Breed": "Beagle",
@@ -1451,7 +1277,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785436736"
+      "LastUpdatedUnixTime": "1785788613"
     },
     {
       "ID": "3625",
@@ -2290,9 +2116,10 @@
       "Altered": "No",
       "DOBUnixTime": 1777830979,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7ab78f32e3389ee72f6da257a1ec30b/33b99ecdfd61b210d353421507bb81fb.JPG",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7695202194dd86add68c8955b0e3037c/919ef593c214022dafb87ab6baaceeae.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f7ab78f32e3389ee72f6da257a1ec30b/33b99ecdfd61b210d353421507bb81fb.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/7695202194dd86add68c8955b0e3037c/919ef593c214022dafb87ab6baaceeae.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a2fef1c11a94b1648852d730c7fa755e/7eda4320c33dd9717db32f79153a3c18.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8531079f1914ec8ba9ffd28b98c035c3/e03618c722781d6bba80f34558ee88f4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3f73ec6b8665d0c64492cc1308ce7618/6736876e07d2d9aa53c5743ce364b68b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a0de54be2438e1f1995a0eebcbfda8aa/a10fb7cc99fa2128e14f3e39d037ffdf.jpeg",
@@ -2302,8 +2129,21 @@
         "https://new-s3.shelterluv.com/profile-pictures/d797d7f6468bf67418f342945c8d8d94/6c6b6cd78fe26894189dd2a02c805317.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/aeb20b1623d987e6380703085aff8c8a/8c2916417b4f5a13f928b36ebd153121.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/130ed30b56b614b6214b32f3f252d6f4/56579e18f736ab232b00a696d7f4d588.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f7ab78f32e3389ee72f6da257a1ec30b/33b99ecdfd61b210d353421507bb81fb.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/9ed218d2896d60239877bd9b5242f4d4/00828c14401df85550a4efcd387734d5.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/3cd2573b780d6b9385b278594563cf43/4a3c1c5ebce05c5fec3c0329955dfaf5.JPG"
+        "https://new-s3.shelterluv.com/profile-pictures/3cd2573b780d6b9385b278594563cf43/4a3c1c5ebce05c5fec3c0329955dfaf5.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/699afcee7245d5d90f60ec744a388d65/c2cb7b4141fe5417b0fc50d8412be845.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b356673c6f79284a4329e6192b834436/3cf701be602d6f13b1ed8a309f00a3db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/de71fe65408928ce08796c4eaf3cce87/3afa05d5b165f1a84ee61117484069a6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/357b29f30fe18248741a0107b38e50f2/aa08150a9f27c9d816efad97723285bd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ef4012e24464b6a75a5afb168b1d953a/72a2296ed6c9ac03e2de2ef3e8d8404a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/52e71ecb73005e9570d64915e25e1c85/a7b6e95d83a82e173f7652e1fb58f15e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4d907ae263fc6d37a7bb6a0377ef4382/fbbc5da2355f0501840beeae9b1428df.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25aceead12dcf0658722273be507548a/1d9f76607a81992e049ee12e8c7d3c1e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb4e0c34a214d0e07bbe0f1dbabb77df/bc6fc4fbdd9cb9be6d5f7f8549dc24dd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5ee242d1ecb48653785f3f5473b5777e/c36536b60814b10c0db12fb57181c588.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/77e05e92ced512a11f9d13d56257125b/f355763edf0548cd4da0d1eb9275c4b6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aab74b859d2ab1460b7b068dad2c86c8/53f44a5fa7f5486ecd02a95dcb040a04.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Husky",
@@ -2375,7 +2215,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785507853"
+      "LastUpdatedUnixTime": "1785786416"
     },
     {
       "ID": "3650",
@@ -2395,6 +2235,7 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/def039d53269991ad9c36a2751fa7345/ace925ab29a0cff81816e47f19b3ef58.JPG",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/def039d53269991ad9c36a2751fa7345/ace925ab29a0cff81816e47f19b3ef58.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ba1d51fc6460de95ba0fc625e2c6adc3/491be98de6808475bf684c89a1dc6bc6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9e41ca7cf9cfe84e5adbfc72cb0d5b6a/406c9fc10f503eb79091b44b3b40ecad.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/132f27b0f9eddb7cff18b6dbeb52744d/d48cf4b713cc94b05a69961067a695e2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/36cccdef95ed7f8864845e5b33f5396d/e39433b62bcee5716a74b19415d86335.jpeg",
@@ -2406,7 +2247,14 @@
         "https://new-s3.shelterluv.com/profile-pictures/68c9328c3dea8106a8ec1f24a459b98c/9a370eb80dd1950f1989b2f83dc72cbe.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f10af87a40a155a3954e767b7d5e29f6/dd1a36fb585ef12c13d0757ce0849adb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1fe554efbcbb98cf325926823310c15c/c47539afa728ed9f3f5471ac8da3f6bd.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/520ece87b5f36dfa0b15b96980d59c73/c5a848204683e2d7e1191a48bdb49afc.JPG"
+        "https://new-s3.shelterluv.com/profile-pictures/520ece87b5f36dfa0b15b96980d59c73/c5a848204683e2d7e1191a48bdb49afc.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/d87cb54cfa48e23e091086ba809c54e6/c2fe161a4a1f3d50ead89f63038ea583.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47ddd559f471f934954ff678e20864ed/ebf686a6808cf9e945cc1ae56a87dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e56af8ec26bdb5cdeccee44aac90175/515304ac377219534f7cb1e2a1d14d9a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/80ca7edad49f30e02a595556213c47cf/6ab9a4166ce358da6eb5289bec53312b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/acf539f1f781d22c17900dcc2bfc6134/26116755df358728777dbee40f6e5ff9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/91eb6422e7d2bf7c76090d954466c70c/2cac0ab9b3802edc1ff4ee834fdd5b1d.jpg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Cattle Dog, Australian (Blue Heeler)",
@@ -2457,7 +2305,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785508009"
+      "LastUpdatedUnixTime": "1785789613"
     },
     {
       "ID": "3651",
@@ -3068,6 +2916,256 @@
         }
       ],
       "LastUpdatedUnixTime": "1785549027"
+    },
+    {
+      "ID": "3658",
+      "Internal-ID": "214229995",
+      "Name": "Kitten (bonded to Otis)",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1533272400,
+      "Age": 96,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/878ffa9b022f122ad1df6f4475e08759/0993dc496b06b6f4385c6985274d4f02.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/878ffa9b022f122ad1df6f4475e08759/0993dc496b06b6f4385c6985274d4f02.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
+      "Color": "Tan/Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1785774284",
+      "Attributes": [
+        {
+          "Internal-ID": "294266",
+          "AttributeName": "Bonded",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785788794"
+    },
+    {
+      "ID": "3659",
+      "Internal-ID": "214230074",
+      "Name": "Otis (bonded to Kitten)",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1533272400,
+      "Age": 96,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/76bdcfd50b940c31b2333ff711933cec/83f823c0a4a55e6a039bbbdc6f70df68.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/76bdcfd50b940c31b2333ff711933cec/83f823c0a4a55e6a039bbbdc6f70df68.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Border/Mixed Breed (Small)",
+      "Color": "White/Wheaten",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1785787051",
+      "Attributes": [
+        {
+          "Internal-ID": "294266",
+          "AttributeName": "Bonded",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785788514"
     },
     {
       "ID": "3479",
@@ -3940,8 +4038,11 @@
       "Altered": "No",
       "DOBUnixTime": 1777957200,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6078936ea1242981b0a82be9559c3946/e929c299c12ff469c0a291ed4cdfbbcd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/17cdb607356207b8da8aad262976ff31/2308515b54e5fb7690c502df4be266c2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a6bfcb4409c3eb6731f80e37d3c52939/19d96d7811694c3d878f6a24fbee0f26.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e55d3c71337cd1416ce7dc1ee6a5c38b/445c7f5b9f14cdb96514c28318553e61.jpeg",
@@ -3954,7 +4055,21 @@
         "https://new-s3.shelterluv.com/profile-pictures/55389f4613ace998e2fe4efca462f438/db82f11e062b4fe9ab91fb34f5343bc0.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/371ae5c6a10e4ef5344f82db1c79d60b/6dbb8d9d79e24f92cc38d0748d8635e8.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d22b9c5add7884d90ecd12f98e8943d3/899e473f684550d79315b61c58409473.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e802143342bf284ca617cd02c121692c/d0d7f06c9dfcdfbf311538fd50ac8ca3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/00c11eba3c6a6353ec53b46d517eeb4d/f451f7d9a9f5716a4fd75d9c658afd2c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc564dffd2654d862e13c1861e10609f/08cbfce29014fd5cb77a6507500fe74a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c593f61e771c6249a026d5687d1a6d9/4a171cc6ff3f884ae6f0802e103e4ec6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a80931a450ef5f18a2d8585783b3906/122204e1cc7ffef34f39e606b4f6c769.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aef95a9d26b3bd780f9530056fc82d5f/2f823fb0f1697b1bac2cbcae11cad9c8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/63e8d5e84a380f915f4efafc4c5ca551/ca520957cf3409c611b593e909945cab.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/467f898545ca04d9ab03d1e3d3c67170/ab74ebb1a3c6fcdab0394aa081487940.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7517a40c9d95c7e589f268178b6df540/3076f34de552bafd4020d1850ad38183.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5380291b4614b5aa57cd331ccf473380/6bc2550ae16c23a665df1d617462df8e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c14bf302a1ae67d7b3d688d9c34c604/94ed815b19dea0266f3d78a744916886.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e9a1740756ab90df58e335276a7f5a5/1ccef34b60e4ecb24fef2a86978a22e5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e4af55e87113683e323e413c18ea67f0/ea654209a5098eaca995f092e78be469.jpg"
       ],
       "Videos": [],
       "Breed": "Husky/Terrier, Pit Bull",
@@ -4006,7 +4121,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785699571"
+      "LastUpdatedUnixTime": "1785785525"
     },
     {
       "ID": "3541",
@@ -4192,6 +4307,190 @@
         }
       ],
       "LastUpdatedUnixTime": "1785610082"
+    },
+    {
+      "ID": "3593",
+      "Internal-ID": "213786017",
+      "Name": "Daisy",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.4",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1775019600,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7aa60d607048149473158de046d0eac/fa079cb5984d379f97328e61f9e15780.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e7aa60d607048149473158de046d0eac/fa079cb5984d379f97328e61f9e15780.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/73beb8ed39c0a6a519d672102c289c5d/8375cde231dc59e4b0cdbedd46d7b21e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a9956dd703d80d22cd71ea327eed2a4/916991026a3230dc6190f1642867bff3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f393aa4fc4e13807389d7a5a37a63445/8df75d2764ba2665babdc29806d2c101.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/687bbbf64c25b586a313680acb0b657e/c44f6ffc01136aa23e2a6acf4080c7d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0abc0391c0511dd94e4916b54f1b46e8/de15a29f503771a8a5cb270fc943dcaa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/66c22cc4161493a19c58424260aee124/c22c6bb4486260fc77953fa60a92ff28.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fa378e1d98e6646e10a7d809638a5ac/b8a0cfbe2e6c5b67c3fa43a9ec901735.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e12c0463f8bc6669f2f8708f5fd91124/fddb7972a9231a6204879e6673f53b2f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/edf8c9637c949ae813dd7eea57063072/f22d9bf392119a88d4ea8f4126af55e7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5574ca5e0d8bc455e60a9c2f0b7925d/6b2a23fc46f1002631020595ba0124a1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b717cd791680ce295938dd62c66c32b/fa57fa2549c7eabf9b6136b249b7ce1b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb34f42c3e122a0082b52a8e5c8cbcb6/4c5639280fec38d9dd6944abd90f6e87.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/60d676eab03445a67af08c43627d728c/37bdf35e129747d288ddda0f57a74ce6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/803a68fb6bc8711b315a64a1cdebc3d5/fcec468923a0c8c84b1dc009ff3959c8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e2ac5280b105c88c53d83bccf9863ef/548806cf3cc5ae66ba7bb42e349b69e4.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/a44eaeb926a063f5cc955b3df56906d7/b7cf406e44d674f3cf1cab401fcf76c4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7966b6c44fe2bcb0937a542001d4aaca/78f5983fdf294f970e8a67c7c9ef58cd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Daisy is a tiny firecracker with a whole lot of attitude and even more love to give! Daisy is the definition of personality:  confident, opinionated, and absolutely convinced the world looks better when she’s in charge of it. She’s playful, clever, and always ready to add a little extra “zing” to your day.\n\nDaisy adores attention, thrives on interaction, and isn’t shy about telling you exactly how she feels - whether that’s demanding snacks, announcing her presence, or reminding you that she is, in fact, the star of the show. Under all that sass though is a sweetheart who bonds deeply and loves fiercely.\n\nShe’s looking for a home that appreciates a companion with flair, humor, and a dash of drama. If you’re ready for a lively little sidekick who will keep you laughing and, on your toes, Daisy is your girl.",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785786772"
+    },
+    {
+      "ID": "3612",
+      "Internal-ID": "213937985",
+      "Name": "Whiskey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "25.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1752555600,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9680591b4183d7299050ae03712af0d7/531926b86d5b9bf41e2e43c814f4738a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9680591b4183d7299050ae03712af0d7/531926b86d5b9bf41e2e43c814f4738a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d06fbd0b8d5bd3b9378d7f3aa8249377/341920c1fdb9c2ba8dc878236afe243f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e72f706a1c2a9d9b68228c3a26ac60c1/dfa970cba025500f753b2286d881eb41.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/004b874c6a420b4d546938ca9b9d29ba/12e6c8e43e34a90a8605cd1698090e25.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "White/Brown",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Whiskey is a spunky beagle who's still figuring out what it means to be a house dog—and he's making great progress! He's currently learning the ropes while living with three other dogs, and those furry friends have become his best teachers.\n\nThis young guy is a bouncy adolescent with plenty of energy to burn. He's a bit shy at first and takes time to warm up to people, but once he trusts you, he's got a sweet side—pick him up and he'll happily settle in for a nap on your lap. He thrives on companionship and needs a home where he can continue learning alongside a confident, well-adjusted dog. With the right mentor and patient humans by his side, Whiskey's confidence grows every day.\n\nWhat Whiskey needs:\n\nA fenced-in yard for safe play and exploration\nA patient family willing to support his continued growth\nAt least one dog friend who can model good behavior\nLove, consistency, and plenty of opportunities to be part of the pack\n\nIf you have a stable home with another dog and the patience to watch Whiskey blossom, he's ready to return all that investment with the loyal companionship only a beagle can offer.",
+      "LastIntakeUnixTime": "1781658720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785788801"
     },
     {
       "ID": "3634",
