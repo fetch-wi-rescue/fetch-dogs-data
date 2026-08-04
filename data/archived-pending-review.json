@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T14:57:27Z",
+  "updated": "2026-08-04T20:06:55Z",
   "animals": [
     {
       "ID": "3458",
@@ -1151,6 +1151,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-04T14:57:27Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3641",
+      "Name": "Scout",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/74e9136f5b890e1bf72274aa37017441/514fc15c49e7499ee395a65272091dfc.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-08-04T20:06:55Z",
       "status": "pending"
     }
   ]
