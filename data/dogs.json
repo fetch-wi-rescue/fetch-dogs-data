@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T00:57:58Z",
+  "updated": "2026-08-04T04:13:23Z",
   "count": 58,
   "animals": [
     {
@@ -522,6 +522,11 @@
       "LastIntakeUnixTime": "1726376400",
       "Attributes": [
         {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296944",
           "AttributeName": "Crate-trained",
           "Publish": "Yes"
@@ -530,6 +535,11 @@
           "Internal-ID": "630942",
           "AttributeName": "Training check ins",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
         },
         {
           "Internal-ID": "634889",
@@ -552,7 +562,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1783525799"
+      "LastUpdatedUnixTime": "1785808158"
     },
     {
       "ID": "3480",
