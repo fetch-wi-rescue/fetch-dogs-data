@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T21:45:33Z",
+  "updated": "2026-08-04T22:55:00Z",
   "count": 56,
   "animals": [
     {
@@ -2577,7 +2577,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1784820809",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1785182315"
+      "LastUpdatedUnixTime": "1785884039"
     },
     {
       "ID": "3651",
@@ -2913,23 +2913,25 @@
     {
       "ID": "3658",
       "Internal-ID": "214229995",
-      "Name": "Kitten (bonded to Otis)",
+      "Name": "Brutus (bonded to Otis)",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Female",
+      "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "5.14",
       "Size": "Small (0-24)",
       "Altered": "Yes",
-      "DOBUnixTime": 1533272400,
-      "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/878ffa9b022f122ad1df6f4475e08759/0993dc496b06b6f4385c6985274d4f02.jpg",
+      "DOBUnixTime": 1407103120,
+      "Age": 144,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/878ffa9b022f122ad1df6f4475e08759/0993dc496b06b6f4385c6985274d4f02.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9ae4b90e11f9730cc392e3483133706/4f268ff1f8368c196c49b7e4675942a7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/878ffa9b022f122ad1df6f4475e08759/0993dc496b06b6f4385c6985274d4f02.jpg"
       ],
       "Videos": [],
       "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
@@ -3031,27 +3033,29 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785788794"
+      "LastUpdatedUnixTime": "1785881063"
     },
     {
       "ID": "3659",
       "Internal-ID": "214230074",
-      "Name": "Otis (bonded to Kitten)",
+      "Name": "Otis (bonded to Brutus)",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "13",
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1533272400,
       "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/76bdcfd50b940c31b2333ff711933cec/83f823c0a4a55e6a039bbbdc6f70df68.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/76bdcfd50b940c31b2333ff711933cec/83f823c0a4a55e6a039bbbdc6f70df68.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/7f2176f3cf50dec4baf7f9f7810f61bb/c1e61e2477c20faf663d3759e2789242.jpg"
       ],
       "Videos": [],
       "Breed": "Terrier, Border/Mixed Breed (Small)",
@@ -3158,7 +3162,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785788514"
+      "LastUpdatedUnixTime": "1785882722"
     },
     {
       "ID": "3479",
