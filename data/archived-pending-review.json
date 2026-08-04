@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T04:49:09Z",
+  "updated": "2026-08-04T14:57:27Z",
   "animals": [
     {
       "ID": "3458",
@@ -1142,6 +1142,15 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-08-02T04:49:09Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3626",
+      "Name": "Jade",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-04T14:57:27Z",
       "status": "pending"
     }
   ]

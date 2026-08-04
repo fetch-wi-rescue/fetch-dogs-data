@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T12:23:44Z",
-  "count": 58,
+  "updated": "2026-08-04T14:57:27Z",
+  "count": 57,
   "animals": [
     {
       "ID": "2754",
@@ -3823,92 +3823,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785782929"
-    },
-    {
-      "ID": "3626",
-      "Internal-ID": "213991915",
-      "Name": "Jade",
-      "LitterGroupId": 9541476,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.5",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779253200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b261840322885d35e2112d5eff80a175/3d80a407c91b41c697ba2131e831b59c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9df44c28d325a0de08c1b39af7328dc5/30e23987a8fc31ae298f6db1693b7ca1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae548193c8e3d068069088394f4e54bb/e6b2078f69fe08621e80702f5316ffcd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d2d9fa8feedae8eb735a6af30ca6762f/c75cb88cd0e46e134aac87794f4636a4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e268223b82fedb144f5a14bcbb46058/5150b3989dad03c7a6747d95770f6e63.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/021cfbf8b4617d7e7168bbf47493ce8b/aaf86e8b86d005991869f0d0a2a22319.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Jade is already proving she’s got the makings of a future champion. This little girl may be new to the game, but she approaches life with the same enthusiasm as a golfer stepping up to their very first tee - bright‑eyed, wiggly, and ready to give it her best shot.\n\nJade is a playful, curious pup who loves exploring her world like it’s a wide‑open fairway. Every leaf, toy, and friendly face is a brand‑new adventure. She’s got a sweet, gentle nature, and when she’s done practicing her “puppy putts,” she’s happiest snuggled up for a well‑earned nap.\n\nShe’s learning all the basics - how to follow her people, how to sit for attention, and how to keep her little paws out of the rough. With positive guidance and a patient family, Jade will grow into a confident, loving companion who’s always ready to trot beside you like your loyal caddy.\n\nJade is looking for a home that understands puppy energy, puppy training, and puppy cuddles. She’s young, eager, and full of potential - the kind of pup who will make every day feel like a sunny day on the course.\n\nIf you’re ready to help a sweet little girl start her game strong, Jade is waiting to join your team. She may be small now, but she’s aiming straight for a forever home that feels like a hole‑in‑one.",
-      "LastIntakeUnixTime": "1782570600",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784648619"
     },
     {
       "ID": "3627",
