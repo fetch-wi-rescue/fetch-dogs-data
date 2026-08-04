@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T22:55:00Z",
+  "updated": "2026-08-04T23:57:04Z",
   "count": 56,
   "animals": [
     {
@@ -1964,6 +1964,43 @@
       "LastUpdatedUnixTime": "1785257598"
     },
     {
+      "ID": "3646",
+      "Internal-ID": "214152754",
+      "Name": "Artemis",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "5.2",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777957200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/29135172c8fdc6ac3aa8a13c5c700293/5274d516fc5469aadddb48a49c3e0344.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/949e316c36d48557a3966ff64fe2295a/3234bdd67aadce77aa1e79bc5eb67fd2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8988dc0b19aef89f9252138310f537be/959f5e5e97651399678691a8e8aeaf74.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e61873e75c07c4a7568f23af9eb18154/73755233746f9f63e13e46759b836e92.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/216b376c3af8ee3d20ff81d098af0f95/eeb23ebb300f809d23ffcfdc17f5b1c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6b284f59d22eae9591b2b43a72551f3e/bc1964eae64e022c5abd171b35369572.png",
+        "https://new-s3.shelterluv.com/profile-pictures/a3df3f6e3072109f61228ff06daf4d95/d3b7c4efa9cb7938c5d93801132263e9.png"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Grey/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Artemis is a sweet and confident little girl who is ready for a forever home! She is spirited, playful, curious and cuddly. She sleeps through the night (solid 8 hours), goes outside for morning potty and only needs a few reminders during the day. She follows basic commands, and is super smart finding her way. She loves being around other dogs, and has no issue with confidence and sass!  She is new to neighborhood walks and already LOVES them.  She has met children, large pups, and has done great with our resident pup Charley and kitty!  This adorable pup will steal your heart in seconds.",
+      "LastIntakeUnixTime": "1784820809",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1785885721"
+    },
+    {
       "ID": "3647",
       "Internal-ID": "214152755",
       "Name": "Leah",
@@ -2547,39 +2584,6 @@
       "LastUpdatedUnixTime": "1785330157"
     },
     {
-      "ID": "3646",
-      "Internal-ID": "214152754",
-      "Name": "Artemis",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "5.2",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1777957200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/71157ae92390c22ee315fdacefc03f24/610c8b173180a27e95fd72cd3b3174b3.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/71157ae92390c22ee315fdacefc03f24/610c8b173180a27e95fd72cd3b3174b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f05409e1727f439b0d3ffed86b01843/c1771b15744a434a1e91ee300c294e26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/11bde980d4964c2eaf28946d3abedf2e/1840b7c1f3b67e7aaeca90c50d2ba192.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1784820809",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785884039"
-    },
-    {
       "ID": "3651",
       "Internal-ID": "214152759",
       "Name": "Malibu",
@@ -2925,13 +2929,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1407103120,
       "Age": 144,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9ae4b90e11f9730cc392e3483133706/4f268ff1f8368c196c49b7e4675942a7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/878ffa9b022f122ad1df6f4475e08759/0993dc496b06b6f4385c6985274d4f02.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg"
       ],
       "Videos": [],
       "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
@@ -3033,7 +3037,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785881063"
+      "LastUpdatedUnixTime": "1785886165"
     },
     {
       "ID": "3659",
@@ -3054,8 +3058,8 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/76bdcfd50b940c31b2333ff711933cec/83f823c0a4a55e6a039bbbdc6f70df68.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f2176f3cf50dec4baf7f9f7810f61bb/c1e61e2477c20faf663d3759e2789242.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dfda09e26800fdc13b2c70d881036bba/5c1845bd8544375a068065a72ced2590.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Border/Mixed Breed (Small)",
@@ -3162,7 +3166,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785882722"
+      "LastUpdatedUnixTime": "1785886222"
     },
     {
       "ID": "3479",
