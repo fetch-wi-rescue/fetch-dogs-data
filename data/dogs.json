@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T15:09:29Z",
+  "updated": "2026-08-05T16:58:27Z",
   "count": 56,
   "animals": [
     {
@@ -1052,104 +1052,6 @@
       "LastUpdatedUnixTime": "1785079403"
     },
     {
-      "ID": "3592",
-      "Internal-ID": "213786015",
-      "Name": "Mary Beth",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1676959200,
-      "Age": 41,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
-        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Staffordshire Bull/Mix",
-      "Color": "Chocolate",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785795845"
-    },
-    {
       "ID": "3603",
       "Internal-ID": "213855262",
       "Name": "Sheila",
@@ -1898,7 +1800,7 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/29135172c8fdc6ac3aa8a13c5c700293/5274d516fc5469aadddb48a49c3e0344.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f179d7a7f8db583150862ed9d616b6f/8658d4590dc20d0c647d86c79e7462db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/949e316c36d48557a3966ff64fe2295a/3234bdd67aadce77aa1e79bc5eb67fd2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8988dc0b19aef89f9252138310f537be/959f5e5e97651399678691a8e8aeaf74.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e61873e75c07c4a7568f23af9eb18154/73755233746f9f63e13e46759b836e92.jpeg",
@@ -1960,7 +1862,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785893863"
+      "LastUpdatedUnixTime": "1785948452"
     },
     {
       "ID": "3647",
@@ -2175,7 +2077,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785786416"
+      "LastUpdatedUnixTime": "1785948399"
     },
     {
       "ID": "3650",
@@ -2279,7 +2181,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785790014"
+      "LastUpdatedUnixTime": "1785948448"
     },
     {
       "ID": "3652",
@@ -3509,144 +3411,6 @@
       "LastUpdatedUnixTime": "1785860827"
     },
     {
-      "ID": "3452",
-      "Internal-ID": "213344900",
-      "Name": "Inoha",
-      "LitterGroupId": 9483002,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1773378000,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b124e751b6579736469c37159c9a1dab/ce4b4cef6cb6a20b28e844b6ddcc1eac.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b124e751b6579736469c37159c9a1dab/ce4b4cef6cb6a20b28e844b6ddcc1eac.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f62c225564c256e30751dcd7ede04460/d9fd0d1d1c68219c2a0ff842f444dc75.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1852bcd33c950edac0ff7f9df281043f/6398956d7adae6dd0f5fc8ae5aa2c72e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/58681088bf7f51cd713c89adda099e6a/549cdc2745ce785ec029c0f7f1fc184a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b37884bce5cf1e3b9a72cebdd113a28/264f967ea85f1b4f308e306fcb8eccba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/66c5b3782778d60ca8493525608d04b1/3114a2157b81f7f58d12e1f6b2f34ce1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fb4e97640093e4368125febefb116af4/7488455105a012c4796f3382a02d6f29.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/610c7a3f161b529029de421ca713e1a4/8818bfdae284f465f911e1a9a1ec8a86.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a6f42b3b3adc489f8323003fb9894bc/10e26268e20b559d61eb61fc48c86058.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9fb440638aa161a5b910e6f6a0513185/334faa8bd9919dbb0c94d074fb690e8b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/896c275887688c5a9c21c9d18dfcb3b7/92f904b5e160b434b40fd544432dfe8e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8734e4384ffdb0be72b95f6aa3ea58bb/368777eed4a321c9136a9dad853ae9b6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/feeddaab26b4c0249c3b59ad629b9e71/860068fbe2695d32fbcf4d1ef6d7f2b2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9164fc6bfc647b1341268c6a7bd9917f/d0f06637803f7891ba75e6cb3d42f24c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/50fa5a76eade2845ef96e1baea8e65cc/b1e4abc58d2ec435dcf9554aab9a1887.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fefae6a28e244fac1ac54aab4aa25843/5d9e128511db815e605d55a44fa5bddd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c43b87bef46d60b7eee85a563b2c1807/11e6399f7d207931d95e72bf0ba3b91c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c32c49d4fd9d9d0016c026d1186d9faf/b80738608783f348abbd4f67ff0d8c29.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd6763cc31e2fd6b28a19586bbe39732/ffcc141cd3378ef088707b40be5e3604.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3fc5b124f0d2d1ba08f3c268cc3effb8/42c7a268e544439eff336b2d58d9ec64.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/754935914b3e3e411055319205c2d09b/234de615adea499f6d45dff2e81e7c62.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/50b75ef818acf9764a382b224faf51f8/172636fe002c1b45fb0ff406c0e2f8f3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fee55c49209bc97e728a60a4be69bca/f290c9a8c1ae4c1ca8726bef70b4d5f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b4109af3490a5efa1e832f41d7448a84/fd55067fa5fbe9e109318aa408743b8f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/59a7bb329bba7db49d969d80bc7038da/89b88440302000a8933bf2ac82c64121.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a27e325a5dfa7e28a76abb6335f3fe9f/6828cfc294902255642b9e1d370e9a79.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/05107242060023302b5ff6fd5d0fe9a5/b4909a923114119359f9556e8af99318.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a21a9b7b7a2fac8b1a102b471dab831c/cfc37d5d8df0fe04feeec031c9c2c553.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/20b669f28403407579f4b6ade3df457e/89d5df0f1396e628b1f1626a8c56be86.jpg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "GEZzDPfhTRY",
-          "EmbedUrl": "//www.youtube.com/embed/GEZzDPfhTRY?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=GEZzDPfhTRY",
-          "ThumbUrl": "https://img.youtube.com/vi/GEZzDPfhTRY/0.jpg"
-        },
-        {
-          "VideoId": "BPMzvJdcEUg",
-          "EmbedUrl": "//www.youtube.com/embed/BPMzvJdcEUg?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=BPMzvJdcEUg",
-          "ThumbUrl": "https://img.youtube.com/vi/BPMzvJdcEUg/0.jpg"
-        }
-      ],
-      "Breed": "Mixed Breed (Small)",
-      "Color": "Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Don’t let her size fool you…Inoha is a puppy-powerhouse full of spunk and confidence.  When not playing, this little Energizer bunny still takes frequent naps throughout the day to rest and recharge her battery.    \n\nInoha absolutely adores her much larger canine brother and other family dogs (big and small) she’s met.  When it comes to humans, Inoha is equally excited to add to her circle of friends.   \n\nWhen put into her crate, Inoha settles quickly.  If not yet ready to sleep, she occupies herself with toys.  She has a particular fondness for plushies, especially those larger than her (=better to wrestle with and also sleep on!).\n\nAs a young puppy, Inoha continues working on potty training, but has already shown she can reliably go outside if given regular opportunities.\n\nInoha is sweet, curious, and open to any and all new experiences.  She will make a wonderful addition to her forever family.\n",
-      "LastIntakeUnixTime": "1773435600",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785794673"
-    },
-    {
       "ID": "3532",
       "Internal-ID": "213587853",
       "Name": "Henry",
@@ -3798,51 +3562,63 @@
       "LastUpdatedUnixTime": "1785782929"
     },
     {
-      "ID": "3627",
-      "Internal-ID": "214031944",
-      "Name": "Dahla",
-      "LitterGroupId": null,
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "62.4",
+      "CurrentWeightPounds": "60",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1595566800,
-      "Age": 72,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
+      "DOBUnixTime": 1676959200,
+      "Age": 41,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb17df79712c3c215b2cab676d15c5eb/d77c59bda06483ee01c6e6f79bbb5c57.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb96053561fabcc75229f0f7ee8db70c/b609adc41843dbefbf96b034c8b6f70f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7818321b19994d136f2615706d9469b5/160d751f813ba23148fcd30de674966f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d111ea919149654a2aecb7ec6bcd468e/c6912b7217e030ff093111936ee56d76.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e94af30734b776303fd8c15daaf09e20/cffc8e7798f3ba1dc430747069ae12b2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2b7076c009db8b393a537f6618fae201/c338a74b67998ca29c84161cb8c8c891.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
+        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
       ],
       "Videos": [],
-      "Breed": "Retriever, Golden/Poodle, Standard",
-      "Color": "Black",
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Dahla is such a smart, sweet and loving dog. She thrives being in a pack whether that’s with humans or canines or both. She prefers to be by her people or dogs. Dahla has had a canine companion her entire life, she would do best in a similar situation. Or, with a human companion who works from home the majority of the time. \n\nDahla knows lots of commands: sit, down, shakes, cot, kennel and the best one is ‘belly rub’ which makes her roll over and waits until you start the rubs. It is truly the best thing ever.\n\nAs a dog who startles easily, Dahla would thrive in a calm home without young children. To ensure she feels comfortable and safe, slow introductions are necessary. Once she settles in, which may take a few days, she is a giant love bug. \n\nDahla has been a wonderful house guest. There have been no accidents or destructive behavior. She is curious, super goofy and has the most adorable smile. What’s not to love!",
-      "LastIntakeUnixTime": "1783257443",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "LastIntakeUnixTime": "1780065092",
       "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "Good for beginner dog owner",
           "Publish": "Yes"
         },
         {
@@ -3851,38 +3627,23 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296945",
-          "AttributeName": "Good with older kids (12+)",
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634882",
-          "AttributeName": "Attends Doggy Daycare",
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634883",
-          "AttributeName": "Shy at first",
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
@@ -3891,12 +3652,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785780627"
+      "LastUpdatedUnixTime": "1785948837"
     },
     {
       "ID": "3628",
@@ -4187,6 +3948,144 @@
         }
       ],
       "LastUpdatedUnixTime": "1785785525"
+    },
+    {
+      "ID": "3452",
+      "Internal-ID": "213344900",
+      "Name": "Inoha",
+      "LitterGroupId": 9483002,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1773378000,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b124e751b6579736469c37159c9a1dab/ce4b4cef6cb6a20b28e844b6ddcc1eac.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b124e751b6579736469c37159c9a1dab/ce4b4cef6cb6a20b28e844b6ddcc1eac.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f62c225564c256e30751dcd7ede04460/d9fd0d1d1c68219c2a0ff842f444dc75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1852bcd33c950edac0ff7f9df281043f/6398956d7adae6dd0f5fc8ae5aa2c72e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/58681088bf7f51cd713c89adda099e6a/549cdc2745ce785ec029c0f7f1fc184a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/622d6224d5c55b93dbe86f289c961bdc/a5889bbf78fd54fbaa75d577831fdcd2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b37884bce5cf1e3b9a72cebdd113a28/264f967ea85f1b4f308e306fcb8eccba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/66c5b3782778d60ca8493525608d04b1/3114a2157b81f7f58d12e1f6b2f34ce1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb4e97640093e4368125febefb116af4/7488455105a012c4796f3382a02d6f29.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/610c7a3f161b529029de421ca713e1a4/8818bfdae284f465f911e1a9a1ec8a86.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a6f42b3b3adc489f8323003fb9894bc/10e26268e20b559d61eb61fc48c86058.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9fb440638aa161a5b910e6f6a0513185/334faa8bd9919dbb0c94d074fb690e8b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/896c275887688c5a9c21c9d18dfcb3b7/92f904b5e160b434b40fd544432dfe8e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8734e4384ffdb0be72b95f6aa3ea58bb/368777eed4a321c9136a9dad853ae9b6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/feeddaab26b4c0249c3b59ad629b9e71/860068fbe2695d32fbcf4d1ef6d7f2b2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9164fc6bfc647b1341268c6a7bd9917f/d0f06637803f7891ba75e6cb3d42f24c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/50fa5a76eade2845ef96e1baea8e65cc/b1e4abc58d2ec435dcf9554aab9a1887.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fefae6a28e244fac1ac54aab4aa25843/5d9e128511db815e605d55a44fa5bddd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c43b87bef46d60b7eee85a563b2c1807/11e6399f7d207931d95e72bf0ba3b91c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c32c49d4fd9d9d0016c026d1186d9faf/b80738608783f348abbd4f67ff0d8c29.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd6763cc31e2fd6b28a19586bbe39732/ffcc141cd3378ef088707b40be5e3604.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3fc5b124f0d2d1ba08f3c268cc3effb8/42c7a268e544439eff336b2d58d9ec64.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/754935914b3e3e411055319205c2d09b/234de615adea499f6d45dff2e81e7c62.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/50b75ef818acf9764a382b224faf51f8/172636fe002c1b45fb0ff406c0e2f8f3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fee55c49209bc97e728a60a4be69bca/f290c9a8c1ae4c1ca8726bef70b4d5f2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4109af3490a5efa1e832f41d7448a84/fd55067fa5fbe9e109318aa408743b8f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/59a7bb329bba7db49d969d80bc7038da/89b88440302000a8933bf2ac82c64121.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a27e325a5dfa7e28a76abb6335f3fe9f/6828cfc294902255642b9e1d370e9a79.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/05107242060023302b5ff6fd5d0fe9a5/b4909a923114119359f9556e8af99318.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a21a9b7b7a2fac8b1a102b471dab831c/cfc37d5d8df0fe04feeec031c9c2c553.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/20b669f28403407579f4b6ade3df457e/89d5df0f1396e628b1f1626a8c56be86.jpg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "GEZzDPfhTRY",
+          "EmbedUrl": "//www.youtube.com/embed/GEZzDPfhTRY?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=GEZzDPfhTRY",
+          "ThumbUrl": "https://img.youtube.com/vi/GEZzDPfhTRY/0.jpg"
+        },
+        {
+          "VideoId": "BPMzvJdcEUg",
+          "EmbedUrl": "//www.youtube.com/embed/BPMzvJdcEUg?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=BPMzvJdcEUg",
+          "ThumbUrl": "https://img.youtube.com/vi/BPMzvJdcEUg/0.jpg"
+        }
+      ],
+      "Breed": "Mixed Breed (Small)",
+      "Color": "Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Don’t let her size fool you…Inoha is a puppy-powerhouse full of spunk and confidence.  When not playing, this little Energizer bunny still takes frequent naps throughout the day to rest and recharge her battery.    \n\nInoha absolutely adores her much larger canine brother and other family dogs (big and small) she’s met.  When it comes to humans, Inoha is equally excited to add to her circle of friends.   \n\nWhen put into her crate, Inoha settles quickly.  If not yet ready to sleep, she occupies herself with toys.  She has a particular fondness for plushies, especially those larger than her (=better to wrestle with and also sleep on!).\n\nAs a young puppy, Inoha continues working on potty training, but has already shown she can reliably go outside if given regular opportunities.\n\nInoha is sweet, curious, and open to any and all new experiences.  She will make a wonderful addition to her forever family.\n",
+      "LastIntakeUnixTime": "1773435600",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785948311"
     },
     {
       "ID": "3541",
@@ -4556,6 +4455,107 @@
         }
       ],
       "LastUpdatedUnixTime": "1785860775"
+    },
+    {
+      "ID": "3627",
+      "Internal-ID": "214031944",
+      "Name": "Dahla",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "62.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1595566800,
+      "Age": 72,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb17df79712c3c215b2cab676d15c5eb/d77c59bda06483ee01c6e6f79bbb5c57.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb96053561fabcc75229f0f7ee8db70c/b609adc41843dbefbf96b034c8b6f70f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7818321b19994d136f2615706d9469b5/160d751f813ba23148fcd30de674966f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d111ea919149654a2aecb7ec6bcd468e/c6912b7217e030ff093111936ee56d76.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e94af30734b776303fd8c15daaf09e20/cffc8e7798f3ba1dc430747069ae12b2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2b7076c009db8b393a537f6618fae201/c338a74b67998ca29c84161cb8c8c891.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Golden/Poodle, Standard",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Dahla is such a smart, sweet and loving dog. She thrives being in a pack whether that’s with humans or canines or both. She prefers to be by her people or dogs. Dahla has had a canine companion her entire life, she would do best in a similar situation. Or, with a human companion who works from home the majority of the time. \n\nDahla knows lots of commands: sit, down, shakes, cot, kennel and the best one is ‘belly rub’ which makes her roll over and waits until you start the rubs. It is truly the best thing ever.\n\nAs a dog who startles easily, Dahla would thrive in a calm home without young children. To ensure she feels comfortable and safe, slow introductions are necessary. Once she settles in, which may take a few days, she is a giant love bug. \n\nDahla has been a wonderful house guest. There have been no accidents or destructive behavior. She is curious, super goofy and has the most adorable smile. What’s not to love!",
+      "LastIntakeUnixTime": "1783257443",
+      "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785948340"
     },
     {
       "ID": "3634",
