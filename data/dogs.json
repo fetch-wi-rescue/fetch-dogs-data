@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T10:57:21Z",
+  "updated": "2026-08-05T12:49:58Z",
   "count": 56,
   "animals": [
     {
@@ -914,6 +914,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "621458",
+          "AttributeName": "No apartments",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634884",
           "AttributeName": "Walks well on leash",
           "Publish": "Yes"
@@ -954,7 +959,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785628304"
+      "LastUpdatedUnixTime": "1785933033"
     },
     {
       "ID": "3591",
@@ -2960,7 +2965,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785886165"
+      "LastUpdatedUnixTime": "1785932770"
     },
     {
       "ID": "3659",
@@ -3089,7 +3094,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785886222"
+      "LastUpdatedUnixTime": "1785932936"
     },
     {
       "ID": "3479",
@@ -4081,7 +4086,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785864906"
+      "LastUpdatedUnixTime": "1785933144"
     },
     {
       "ID": "3648",
