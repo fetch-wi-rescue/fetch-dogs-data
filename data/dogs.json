@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T23:57:04Z",
+  "updated": "2026-08-05T02:20:23Z",
   "count": 56,
   "animals": [
     {
@@ -1997,8 +1997,54 @@
       "AdoptionFeeGroup": null,
       "Description": "Artemis is a sweet and confident little girl who is ready for a forever home! She is spirited, playful, curious and cuddly. She sleeps through the night (solid 8 hours), goes outside for morning potty and only needs a few reminders during the day. She follows basic commands, and is super smart finding her way. She loves being around other dogs, and has no issue with confidence and sass!  She is new to neighborhood walks and already LOVES them.  She has met children, large pups, and has done great with our resident pup Charley and kitty!  This adorable pup will steal your heart in seconds.",
       "LastIntakeUnixTime": "1784820809",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785885721"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1785893863"
     },
     {
       "ID": "3647",
