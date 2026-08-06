@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T20:06:55Z",
+  "updated": "2026-08-06T01:52:01Z",
   "animals": [
     {
       "ID": "3458",
@@ -1160,6 +1160,24 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-08-04T20:06:55Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3634",
+      "Name": "Brittany",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/340d799679ca665dd31b4fe12674f105/42db2a7a9e8357128eb9d0c4e36a111c.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-06T01:52:01Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3640",
+      "Name": "Jasper",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/747c94d3e620d8a81646ce008ff3275b/e1b39ced1e138af9481092c7b99ee79e.png",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-06T01:52:01Z",
       "status": "pending"
     }
   ]
