@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T01:52:01Z",
+  "updated": "2026-08-06T04:59:38Z",
   "count": 54,
   "animals": [
     {
@@ -486,10 +486,10 @@
       "Altered": "Yes",
       "DOBUnixTime": 1641016800,
       "Age": 55,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61adf8b4be125348664eb9cab1fd56f9/88e31a2185f01360ddd86cf4d9502d86.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/61adf8b4be125348664eb9cab1fd56f9/88e31a2185f01360ddd86cf4d9502d86.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/61adf8b4be125348664eb9cab1fd56f9/88e31a2185f01360ddd86cf4d9502d86.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/367284ead958e509bee7d2d11435ee78/96e7fca8bdf15e7ef3bc6ab7ae8336f5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/cb02ad159049aa0944358a71aa9460f2/0f73ec9992118ee1e32c1e853b753e35.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/12b1dfeba3e4d6df338bf3407e14684b/9764dfdfb5010fb85dcf7f866722d1b5.jpg",
@@ -508,11 +508,6 @@
       "LastIntakeUnixTime": "1775756318",
       "Attributes": [
         {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "296939",
           "AttributeName": "Rides well in a car",
           "Publish": "Yes"
@@ -520,11 +515,6 @@
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "Unknown with kids",
           "Publish": "Yes"
         },
         {
@@ -543,17 +533,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785616135"
+      "LastUpdatedUnixTime": "1785982645"
     },
     {
       "ID": "3543",
