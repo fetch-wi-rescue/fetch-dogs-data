@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T12:52:13Z",
+  "updated": "2026-08-06T15:08:42Z",
   "count": 54,
   "animals": [
     {
@@ -508,6 +508,11 @@
       "LastIntakeUnixTime": "1775756318",
       "Attributes": [
         {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296939",
           "AttributeName": "Rides well in a car",
           "Publish": "Yes"
@@ -523,6 +528,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634889",
           "AttributeName": "Snuggle Pup",
           "Publish": "Yes"
@@ -533,12 +548,131 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785982645"
+      "LastUpdatedUnixTime": "1786021212"
+    },
+    {
+      "ID": "3521",
+      "Internal-ID": "213497174",
+      "Name": "Maya",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "48",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1650085200,
+      "Age": 51,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1b3a04b0eaaa5b7f745d8f1cf0633fe6/abbdd475ec8f695bbbd9c17dab1c7a2d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1b3a04b0eaaa5b7f745d8f1cf0633fe6/abbdd475ec8f695bbbd9c17dab1c7a2d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/96065164c721a159c345c788c9840f2a/7feb8434308e43f610ad7ddd83e5d90f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7545a9435f8bbc7fe0055a45f5854d39/cf2857a45120cd23028d387af2c15452.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa7b72f833a0b44f453aa4e9c9757654/f8ab546b831efc2bdddcf649b99dcfec.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian",
+      "Color": "",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "May 4, 2026Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
+      "LastIntakeUnixTime": "1776441715",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786025600"
     },
     {
       "ID": "3543",
@@ -1195,7 +1329,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785975442"
+      "LastUpdatedUnixTime": "1786021697"
     },
     {
       "ID": "3631",
@@ -1665,17 +1799,19 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1777957200,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28f7d8e59c52813a592faf37ec95f98e/7f33827c648d5c1d58b47e21f3e85717.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/28f7d8e59c52813a592faf37ec95f98e/7f33827c648d5c1d58b47e21f3e85717.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9f179d7a7f8db583150862ed9d616b6f/8658d4590dc20d0c647d86c79e7462db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/949e316c36d48557a3966ff64fe2295a/3234bdd67aadce77aa1e79bc5eb67fd2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8988dc0b19aef89f9252138310f537be/959f5e5e97651399678691a8e8aeaf74.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e61873e75c07c4a7568f23af9eb18154/73755233746f9f63e13e46759b836e92.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/216b376c3af8ee3d20ff81d098af0f95/eeb23ebb300f809d23ffcfdc17f5b1c5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6b284f59d22eae9591b2b43a72551f3e/bc1964eae64e022c5abd171b35369572.png",
-        "https://new-s3.shelterluv.com/profile-pictures/a3df3f6e3072109f61228ff06daf4d95/d3b7c4efa9cb7938c5d93801132263e9.png"
+        "https://new-s3.shelterluv.com/profile-pictures/a3df3f6e3072109f61228ff06daf4d95/d3b7c4efa9cb7938c5d93801132263e9.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6da907774901bb0b0736d1a3960e1346/45826f039b49f7576224514b9d43b9b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23388331a10eee92ea643b2b48e72c19/dae57d9843a67f33c85a5494c602cc30.jpeg"
       ],
       "Videos": [],
       "Breed": "Husky/Terrier, Pit Bull",
@@ -1731,7 +1867,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785948452"
+      "LastUpdatedUnixTime": "1786021288"
     },
     {
       "ID": "3647",
@@ -3483,7 +3619,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785948837"
+      "LastUpdatedUnixTime": "1786025718"
     },
     {
       "ID": "3628",
@@ -4835,120 +4971,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
-    },
-    {
-      "ID": "3521",
-      "Internal-ID": "213497174",
-      "Name": "Maya",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "48",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1650085200,
-      "Age": 51,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1b3a04b0eaaa5b7f745d8f1cf0633fe6/abbdd475ec8f695bbbd9c17dab1c7a2d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1b3a04b0eaaa5b7f745d8f1cf0633fe6/abbdd475ec8f695bbbd9c17dab1c7a2d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/96065164c721a159c345c788c9840f2a/7feb8434308e43f610ad7ddd83e5d90f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7545a9435f8bbc7fe0055a45f5854d39/cf2857a45120cd23028d387af2c15452.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa7b72f833a0b44f453aa4e9c9757654/f8ab546b831efc2bdddcf649b99dcfec.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "May 4, 2026Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
-      "LastIntakeUnixTime": "1776441715",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785864311"
     }
   ]
 }
