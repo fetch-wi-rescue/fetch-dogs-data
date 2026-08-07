@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T01:52:01Z",
+  "updated": "2026-08-07T00:36:24Z",
   "animals": [
     {
       "ID": "3458",
@@ -1178,6 +1178,24 @@
       "Status": "Foster to Adopt",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-06T01:52:01Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3452",
+      "Name": "Inoha",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b124e751b6579736469c37159c9a1dab/ce4b4cef6cb6a20b28e844b6ddcc1eac.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-07T00:36:24Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3627",
+      "Name": "Dahla",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61f9095a5697b873033d9287acbb57ce/12acae5c539b86fbbb8549fb353c672b.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-07T00:36:24Z",
       "status": "pending"
     }
   ]
