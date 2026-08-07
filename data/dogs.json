@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T00:36:24Z",
-  "count": 52,
+  "updated": "2026-08-07T03:43:46Z",
+  "count": 53,
   "animals": [
     {
       "ID": "2754",
@@ -580,13 +580,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1650085200,
       "Age": 51,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1b3a04b0eaaa5b7f745d8f1cf0633fe6/abbdd475ec8f695bbbd9c17dab1c7a2d.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/007cbecc5d53a35749f416dd24c38f5a/8e37f4bf7f879983b88347d24dfe2f81.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1b3a04b0eaaa5b7f745d8f1cf0633fe6/abbdd475ec8f695bbbd9c17dab1c7a2d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8ad8fc99fa00b2adfaeaeb2375350bb/ecb0ef016ec7d39c541bf9300fdffe38.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/007cbecc5d53a35749f416dd24c38f5a/8e37f4bf7f879983b88347d24dfe2f81.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd5d35e785231b05f017a1d78705ee80/9492f492289e201344ae4bb8d8146594.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/96065164c721a159c345c788c9840f2a/7feb8434308e43f610ad7ddd83e5d90f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7545a9435f8bbc7fe0055a45f5854d39/cf2857a45120cd23028d387af2c15452.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa7b72f833a0b44f453aa4e9c9757654/f8ab546b831efc2bdddcf649b99dcfec.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/71b4810be21d6f021c41f9e24232f5b1/1ac3209550fbbfa875eb67ff0646d6f0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7545a9435f8bbc7fe0055a45f5854d39/cf2857a45120cd23028d387af2c15452.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian",
@@ -677,7 +677,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786025600"
+      "LastUpdatedUnixTime": "1786065677"
     },
     {
       "ID": "3543",
@@ -849,7 +849,7 @@
     {
       "ID": "3579",
       "Internal-ID": "213704415",
-      "Name": "Stacy (bonded to Ruthie)",
+      "Name": "Stacy",
       "LitterGroupId": 9389635,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -916,18 +916,8 @@
       "LastIntakeUnixTime": "1778942911",
       "Attributes": [
         {
-          "Internal-ID": "294266",
-          "AttributeName": "Bonded",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
         },
         {
@@ -936,8 +926,13 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
           "Publish": "Yes"
         },
         {
@@ -956,22 +951,17 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
+          "Internal-ID": "811189",
+          "AttributeName": "⚠ Needs another dog in the home",
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1785787885"
+      "LastUpdatedUnixTime": "1786064890"
     },
     {
       "ID": "3581",
       "Internal-ID": "213704418",
-      "Name": "Ruthie (bonded to Stacy)",
+      "Name": "Ruthie",
       "LitterGroupId": 9468676,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -1017,11 +1007,6 @@
       "Description": "Meet Ruthie — the wiggliest girl in town! This sweet lady greets life with a tail that spins in circles like a tiny belly dancer, and she fully believes every human exists to provide belly rubs, snacks, and compliments. Honestly? She may be right.\n\nRuthie is a happy, affectionate girl who loves walks, outdoor adventures, playing with her friends, and staring at squirrels in trees! Ruthie was found pregnant on the streets of Alabama before making her way to Wisconsin. If you remember our adorable “pasta puppy” litter, you might recognize Ruthie as their mama; after all, those freckles and floppy ears are hard to miss!\n\nShe’s eager to please, enjoys learning, and has the kind of goofy charm that makes everyone fall in love fast. Ruthie has been treated for heartworm and is feeling better every day.\nIf you’re looking for a joyful, loving dog with endless personality and a built-in best friend, Ruthie is ready to wiggle her way into your heart.",
       "LastIntakeUnixTime": "1778953881",
       "Attributes": [
-        {
-          "Internal-ID": "294266",
-          "AttributeName": "Bonded",
-          "Publish": "Yes"
-        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -1083,7 +1068,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785933033"
+      "LastUpdatedUnixTime": "1786064481"
     },
     {
       "ID": "3591",
@@ -1804,7 +1789,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "5.2",
+      "CurrentWeightPounds": "16.2",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1777957200,
@@ -1882,7 +1867,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786039099"
+      "LastUpdatedUnixTime": "1786068789"
     },
     {
       "ID": "3647",
@@ -2398,6 +2383,91 @@
         }
       ],
       "LastUpdatedUnixTime": "1785976077"
+    },
+    {
+      "ID": "3654",
+      "Internal-ID": "214152766",
+      "Name": "Lily",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "51",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1719205200,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/63fd28fbabe2672368f73917c83be7ef/2cf6ab3f1e5c6453204bd5388757281f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/63fd28fbabe2672368f73917c83be7ef/2cf6ab3f1e5c6453204bd5388757281f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ebc8488a349298730bddcac038a8e845/d5ca4a420efc2c5131669085f9b788dc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/908f633ea54c0fcb73b0cc01a3295e3d/b71d1a9988c6f631aa01fb31648a33ff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1703f70ba44617e94ee68908824b1779/d374e0a3e655e43aa0625f33c03490d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b3d264ae466e6cdad60398b43c69373/9ea8f3d5bc8c41af0f4e03db727f101b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pyrenees, Great",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Lily!\n\nIf you're looking for a sweet, gentle companion with a heart full of love, Lily just might be your perfect match.\n\nLily has never met a dog she didn't like! She has been friendly with every dog she's encountered and would likely love having a canine brother or sister to romp around with. I think she gets a little bored with just me sometimes and would really enjoy having a playmate.\n\nShe also absolutely adores people. Walks with Lily are more of a leisurely \"sniffari\" than a power walk because she's convinced every smell is worth investigating—and every person deserves a friendly hello! She's wonderful on a leash and is happy to take her time exploring the world.\n\nOne of Lily's best qualities is how easygoing she is. She hardly ever barks (I've only heard her \"talk\" a couple of times), she's respectful during mealtimes and doesn't beg for food, and if you tell her \"no,\" she'll simply lie down and relax. At bedtime, she's happiest curled up next to her person and will happily sleep in as long as you do.\n\nLily also does well with grooming appointments and will happily head into her crate—as long as there's a tasty treat waiting for her!\n\nLike any young dog, Lily is still learning. She's making wonderful progress with potty training (we've even had two perfect days in a row!), but she'll need a family that's patient as she learns to let you know when she needs to go outside. She's also figuring out what's appropriate to chew, so keeping an eye on rugs, pillows, remotes, and other tempting treasures is important. She's working on basic commands like sit, stay, and come, and while car rides aren't her favorite yet, I think she'll gain confidence with a little more experience.\n\nOne thing to know about Lily is that she occasionally gets the zoomies! They're adorable to watch, but because she's a bigger girl, she could accidentally knock over a small child during one of her bursts of excitement.\n\nLily is a loving, affectionate dog with a gentle spirit who's looking for a family willing to continue teaching her the ropes. In return, you'll get a loyal best friend who loves people, gets along beautifully with other dogs, and will happily be your shadow through every sniff-filled walk and cozy morning cuddle.\n\nIf you're ready to open your heart to a wonderful girl who's already well on her way to becoming an amazing family dog, Lily is ready to meet you.",
+      "LastIntakeUnixTime": "1784817720",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786070574"
     },
     {
       "ID": "3657",
@@ -3138,86 +3208,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785901282"
-    },
-    {
-      "ID": "3654",
-      "Internal-ID": "214152766",
-      "Name": "Lily",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "51",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1719205200,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pyrenees, Great",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1784817720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785955802"
     },
     {
       "ID": "3279",
@@ -4752,6 +4742,67 @@
         }
       ],
       "LastUpdatedUnixTime": "1781670428"
+    },
+    {
+      "ID": "3660",
+      "Internal-ID": "214254189",
+      "Name": "Morgan Riley",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "80",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1618722000,
+      "Age": 63,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/29b925eba4136a89f552afda76ea78cf/a4d45ef8e5c1abdac8e7577c819c4475.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/29b925eba4136a89f552afda76ea78cf/a4d45ef8e5c1abdac8e7577c819c4475.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/46d6107e188fa0897805a17caadd9165/c1178514df96210201a816614b4a1298.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bernese Mountain Dog/Poodle, Standard",
+      "Color": "Black/Beige",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Morgan Riley is a 5 y/o Bernedoodle and is being surrendered due to family health issues. He is a very happy boy and loves  to play with other dogs. He plays rough and can be vocal, but he is just playing. He loves to play catch with balls and frisbee. He is housebroken, crate trained and loves to take naps. He loves to have his back scratched and belly rubbed. He watches TV when animals are on and talks to them. He is very strong and does jump on people to greet them when he gets excited. He has not been around many children, but loves all adults. He will definitely make someone a great pet. ",
+      "LastIntakeUnixTime": "1786068119",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786068476"
     }
   ]
 }
