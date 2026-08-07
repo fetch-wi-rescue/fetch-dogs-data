@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T00:36:24Z",
+  "updated": "2026-08-07T14:46:17Z",
   "animals": [
     {
       "ID": "3458",
@@ -1196,6 +1196,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-07T00:36:24Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3638",
+      "Name": "Ruby",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7ca4f7ebe7b1bbaad7fcd6ce7e01615/f3bc5a4a11b5040e94be37b49d4dbc83.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-07T14:46:17Z",
       "status": "pending"
     }
   ]
