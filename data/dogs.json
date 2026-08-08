@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T17:54:36Z",
+  "updated": "2026-08-08T18:25:10Z",
   "count": 53,
   "animals": [
     {
@@ -1322,6 +1322,100 @@
         }
       ],
       "LastUpdatedUnixTime": "1786039024"
+    },
+    {
+      "ID": "3628",
+      "Internal-ID": "214042195",
+      "Name": "Callie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "57.2",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1562562000,
+      "Age": 85,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc10117cbe992915b412649be9d384f2/df81645be97bcd181acdefcabf9581f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/194c7c41295079d5420f6b674085f627/68f784b04444c959a1150c8d6ae5d7f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d884d800662d119ed47dec3ffdf5b35f/b471d3fc31d251b74ff34cdda8fd3412.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a34f00331c279db968a99500d14c88b/a70355911d4b60761984f54c41c9842c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/debbf18775f0683f300c4255d2f05699/c4064872eb66c64c1f428c9d211a6acc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c60b7805559f08c642e093ff9fcdb5c/6a5901a9b60a3138a98cd0e37d144c3e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2d282b250e1d6bf0a889055769ac581e/830773410bc549638fa39d4c8cc5d36b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Pembroke Welsh",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Callie is a sweet, easy-going girl looking for a loving new home after her owner moved into a nursing home. She can be a little cautious when meeting new people, but she warms up quickly and becomes very affectionate once she feels comfortable.\n\nCallie is indifferent to other dogs and has done well free-roaming alongside a calm canine companion, but she would also be perfectly happy as the only dog in the home. She is gentle with children, though because she can be startled by loud noises and sudden movements, she would be happiest in a quieter home.\n\nCallie is currently overweight, so she's not up for long hikes or strenuous adventures—especially in the summer heat. Instead, she enjoys leisurely walks, chewing on her favorite toys, and curling up for long naps (either on the cool floor or the couch). \nShe is quiet, trustworthy, and does well free-roaming in an apartment. She is afraid of the apartment elevators, so she just takes the stairs at this time.\n\nCallie would make an excellent companion for a first-time dog owner looking for a loyal, easy-going, affectionate best friend.",
+      "LastIntakeUnixTime": "1783781902",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786212318"
     },
     {
       "ID": "3631",
@@ -3362,100 +3456,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1786025718"
-    },
-    {
-      "ID": "3628",
-      "Internal-ID": "214042195",
-      "Name": "Callie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "57.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1562562000,
-      "Age": 85,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc10117cbe992915b412649be9d384f2/df81645be97bcd181acdefcabf9581f8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/194c7c41295079d5420f6b674085f627/68f784b04444c959a1150c8d6ae5d7f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d884d800662d119ed47dec3ffdf5b35f/b471d3fc31d251b74ff34cdda8fd3412.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1a34f00331c279db968a99500d14c88b/a70355911d4b60761984f54c41c9842c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/debbf18775f0683f300c4255d2f05699/c4064872eb66c64c1f428c9d211a6acc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c60b7805559f08c642e093ff9fcdb5c/6a5901a9b60a3138a98cd0e37d144c3e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2d282b250e1d6bf0a889055769ac581e/830773410bc549638fa39d4c8cc5d36b.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Corgi, Pembroke Welsh",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Callie is a sweet, easy-going girl looking for a loving new home after her owner moved into a nursing home. She can be a little cautious when meeting new people, but she warms up quickly and becomes very affectionate once she feels comfortable.\n\nCallie is indifferent to other dogs and has done well free-roaming alongside a calm canine companion, but she would also be perfectly happy as the only dog in the home. She is gentle with children, though because she can be startled by loud noises and sudden movements, she would be happiest in a quieter home.\n\nCallie is currently overweight, so she's not up for long hikes or strenuous adventures—especially in the summer heat. Instead, she enjoys leisurely walks, chewing on her favorite toys, and curling up for long naps (either on the cool floor or the couch). \nShe is quiet, trustworthy, and does well free-roaming in an apartment. She is afraid of the apartment elevators, so she just takes the stairs at this time.\n\nCallie would make an excellent companion for a first-time dog owner looking for a loyal, easy-going, affectionate best friend.",
-      "LastIntakeUnixTime": "1783781902",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785899912"
     },
     {
       "ID": "3639",
