@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:55:47Z",
+  "updated": "2026-08-08T01:08:56Z",
   "count": 53,
   "animals": [
     {
@@ -1780,96 +1780,6 @@
       "LastUpdatedUnixTime": "1785257598"
     },
     {
-      "ID": "3646",
-      "Internal-ID": "214152754",
-      "Name": "Artemis",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "16.2",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1777957200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28f7d8e59c52813a592faf37ec95f98e/7f33827c648d5c1d58b47e21f3e85717.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/28f7d8e59c52813a592faf37ec95f98e/7f33827c648d5c1d58b47e21f3e85717.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f179d7a7f8db583150862ed9d616b6f/8658d4590dc20d0c647d86c79e7462db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/949e316c36d48557a3966ff64fe2295a/3234bdd67aadce77aa1e79bc5eb67fd2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8988dc0b19aef89f9252138310f537be/959f5e5e97651399678691a8e8aeaf74.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e61873e75c07c4a7568f23af9eb18154/73755233746f9f63e13e46759b836e92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/216b376c3af8ee3d20ff81d098af0f95/eeb23ebb300f809d23ffcfdc17f5b1c5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a3df3f6e3072109f61228ff06daf4d95/d3b7c4efa9cb7938c5d93801132263e9.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6da907774901bb0b0736d1a3960e1346/45826f039b49f7576224514b9d43b9b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/23388331a10eee92ea643b2b48e72c19/dae57d9843a67f33c85a5494c602cc30.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Artemis is a sweet and confident little girl who is ready for a forever home! She is spirited, playful, curious and cuddly. She sleeps through the night (solid 8 hours), goes outside for morning potty and only needs a few reminders during the day. She follows basic commands, and is super smart finding her way. She loves being around other dogs, and has no issue with confidence and sass!  She is new to neighborhood walks and already LOVES them.  She has met children, large pups, and has done great with our resident pup Charley and kitty!  This adorable pup will steal your heart in seconds.",
-      "LastIntakeUnixTime": "1784820809",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786074378"
-    },
-    {
       "ID": "3647",
       "Internal-ID": "214152755",
       "Name": "Leah",
@@ -3213,7 +3123,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785864846"
+      "LastUpdatedUnixTime": "1786150369"
     },
     {
       "ID": "3556",
@@ -3605,7 +3515,97 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785974135"
+      "LastUpdatedUnixTime": "1786150015"
+    },
+    {
+      "ID": "3646",
+      "Internal-ID": "214152754",
+      "Name": "Artemis",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "16.2",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777957200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28f7d8e59c52813a592faf37ec95f98e/7f33827c648d5c1d58b47e21f3e85717.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/28f7d8e59c52813a592faf37ec95f98e/7f33827c648d5c1d58b47e21f3e85717.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c59af9863c474a71ccad9e891d41c36/74303602d83debc766e32a04c8eb3d89.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b167c0754b9961e1d8322e6ed5650a1/69d95b5b37b541e4e470e42ad937d4ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f179d7a7f8db583150862ed9d616b6f/8658d4590dc20d0c647d86c79e7462db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/949e316c36d48557a3966ff64fe2295a/3234bdd67aadce77aa1e79bc5eb67fd2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8988dc0b19aef89f9252138310f537be/959f5e5e97651399678691a8e8aeaf74.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e61873e75c07c4a7568f23af9eb18154/73755233746f9f63e13e46759b836e92.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/216b376c3af8ee3d20ff81d098af0f95/eeb23ebb300f809d23ffcfdc17f5b1c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3df3f6e3072109f61228ff06daf4d95/d3b7c4efa9cb7938c5d93801132263e9.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6da907774901bb0b0736d1a3960e1346/45826f039b49f7576224514b9d43b9b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23388331a10eee92ea643b2b48e72c19/dae57d9843a67f33c85a5494c602cc30.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Grey/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Artemis is a sweet and confident little girl who is ready for a forever home! She is spirited, playful, curious and cuddly. She sleeps through the night (solid 8 hours), goes outside for morning potty and only needs a few reminders during the day. She follows basic commands, and is super smart finding her way. She loves being around other dogs, and has no issue with confidence and sass!  She is new to neighborhood walks and already LOVES them.  She has met children, large pups, and has done great with our resident pup Charley and kitty!  This adorable pup will steal your heart in seconds.",
+      "LastIntakeUnixTime": "1784820809",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786150805"
     },
     {
       "ID": "3648",
