@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T16:23:03Z",
-  "count": 52,
+  "updated": "2026-08-08T17:01:07Z",
+  "count": 53,
   "animals": [
     {
       "ID": "2754",
@@ -1569,6 +1569,132 @@
         }
       ],
       "LastUpdatedUnixTime": "1786018483"
+    },
+    {
+      "ID": "3635",
+      "Internal-ID": "214092766",
+      "Name": "Luna Beth",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "52",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1736488800,
+      "Age": 18,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8267216c2172a7a54c1a88aff8a45b31/af01064849aa89ef586130f95af68a7e.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/8267216c2172a7a54c1a88aff8a45b31/af01064849aa89ef586130f95af68a7e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f05e3e8aacfe7c46d0313128c3abe802/b531248bb2ef2bfe7f5b5cc1826f7716.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188b6ad4acdb88516ecd62f8c0949b53/27aa9c3961620019ad98a28f61ab198b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c576882eacdd36641e51199445ea1a6/ff9ff289fea95583b221149ee9adb5e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fead608d533a983345ed24a4c689fca/dc1086019283b46e86b178db76202501.png",
+        "https://new-s3.shelterluv.com/profile-pictures/2ef2b1a1fc436fb5ffbf0dbe26892792/274fce4f4696127582e440aa3b3a11a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ec449ffa5471c3f3d98f9404f9402c7/193fd1c7384477c93ee77f591600eff8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68369517ccb6e819306403925bfec532/82c50f76e1c1cf0dce7df94ab97fb094.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/038229b6c61b5e05c2ce0e5ac5efe4e7/6507786c5a33b8f16daecaba889d2ffa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/41d8918e470fb39c7c92101a30ff8259/f6fcc8f5c1f906d2ed17781b73a9be43.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/934f800b1b39617a3d6a1a7cbd5ac678/a0ee7e90fa13ab14fb817c3d7336c91d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3cb966a31077716bdc2c0d65ef5f8cf1/9f889eae8f42119eed917f93996f9bcc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f21a3a18ca60629205a0c154f3d1b4c5/1517a4b105a1c4b4e066e4297c079883.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0faaec620b7ba7e5e27c330279fcbbc7/ff0c04544a502946bc7b640d1a572237.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b6fd8e6fb02ea73a537802b4c0d6ca2/a52bb54c0d764667d924df190c567933.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/db05b48e185510f801e6097d17b6084b/33f53087880ef5f7e22186e8691d76c9.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White/Yellow",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "If joy had four legs and a wagging tail, it would look exactly like Luna Beth, who has a personality as big as her splash radius. Luna is the kind of dog who doesn’t just like water - she celebrates it. Kiddie pools, lakes, sprinklers, hoses, puddles… if it’s wet, Luna is in her element.\n\nBut don’t let her aquatic enthusiasm fool you into thinking she’s a one‑hobby girl. Luna Beth loves everything. Every person she meets is a new best friend. Every toy is the greatest invention of all time. Every walk is a grand adventure. She approaches life with wide‑eyed excitement and a tail that never stops cheering her on.\n\nShe’s social, affectionate, and happiest when she’s part of the action. She’s smart, curious, and always ready to learn — especially if treats or belly rubs are involved. She’s an excellent companion for active families, water‑loving humans, or anyone who appreciates a dog who greets every day like it’s the best one yet.\n\nLuna Beth is ready to bring laughter, adventure, and a whole lot of love to her forever home. If you’re looking for a dog who will adore you endlessly and make even ordinary days feel extraordinary, Luna Beth is waiting to meet you.",
+      "LastIntakeUnixTime": "1786206466",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786206509"
     },
     {
       "ID": "3642",
