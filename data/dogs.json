@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T19:06:55Z",
+  "updated": "2026-08-08T19:51:10Z",
   "count": 53,
   "animals": [
     {
@@ -1020,8 +1020,13 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "621458",
-          "AttributeName": "❌ No apartments",
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
           "Publish": "Yes"
         },
         {
@@ -1058,14 +1063,9 @@
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786156752"
+      "LastUpdatedUnixTime": "1786217482"
     },
     {
       "ID": "3591",
@@ -2679,11 +2679,12 @@
       "Altered": "Yes",
       "DOBUnixTime": 1407103120,
       "Age": 144,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg"
       ],
@@ -2787,7 +2788,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786202428"
+      "LastUpdatedUnixTime": "1786217537"
     },
     {
       "ID": "3659",
@@ -2804,10 +2805,11 @@
       "Altered": "Yes",
       "DOBUnixTime": 1533272400,
       "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/dfda09e26800fdc13b2c70d881036bba/5c1845bd8544375a068065a72ced2590.jpeg"
       ],
@@ -2916,7 +2918,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786202380"
+      "LastUpdatedUnixTime": "1786217570"
     },
     {
       "ID": "3661",
