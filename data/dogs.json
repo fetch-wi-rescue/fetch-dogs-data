@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T19:55:39Z",
+  "updated": "2026-08-09T20:24:01Z",
   "count": 51,
   "animals": [
     {
@@ -1665,6 +1665,83 @@
       "LastUpdatedUnixTime": "1786018483"
     },
     {
+      "ID": "3636",
+      "Internal-ID": "214093513",
+      "Name": "Skye",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "42",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1558760400,
+      "Age": 86,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a38ad058ccad90fecccd80156c8b6ca3/673be1326dee34f6343d5438f8d813b0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fda4898c7c0040525ad964d036c94295/00c79298679d1c44c068ff90260f939c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e0ed3b9eb6d6c164ef2031d5fdb7affa/dd690b2c942008e9c0b7929d4c106b84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e4220dcff30cdac84d9f47ff771880ca/e72c9bf2703bcf8db05cd86e315a3ba0.png",
+        "https://new-s3.shelterluv.com/profile-pictures/4637abb0b768fc042e3eec5b1d499a25/6c79b57ae59ac8cd4c80f47568384342.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3019825082baa67a6106d9ea9a11370/ba1c9afe56eb9bed07f213c6ca532002.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1a9013fa1e1ad29a7842df0cdd7a0d7/523d811e8f70e5253edaf7fc74831a54.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1784385320",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786307038"
+    },
+    {
       "ID": "3642",
       "Internal-ID": "214152747",
       "Name": "Carlos",
@@ -1678,7 +1755,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1725912967,
-      "Age": 22,
+      "Age": 23,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98fd024f3f293b455cd954e1f24f6bec/ed7be521338dd808425c358428f913c6.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/98fd024f3f293b455cd954e1f24f6bec/ed7be521338dd808425c358428f913c6.jpeg",
@@ -2455,42 +2532,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785899823"
-    },
-    {
-      "ID": "3636",
-      "Internal-ID": "214093513",
-      "Name": "Skye",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "42",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1558760400,
-      "Age": 86,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a38ad058ccad90fecccd80156c8b6ca3/673be1326dee34f6343d5438f8d813b0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fda4898c7c0040525ad964d036c94295/00c79298679d1c44c068ff90260f939c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e0ed3b9eb6d6c164ef2031d5fdb7affa/dd690b2c942008e9c0b7929d4c106b84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4220dcff30cdac84d9f47ff771880ca/e72c9bf2703bcf8db05cd86e315a3ba0.png",
-        "https://new-s3.shelterluv.com/profile-pictures/4637abb0b768fc042e3eec5b1d499a25/6c79b57ae59ac8cd4c80f47568384342.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3019825082baa67a6106d9ea9a11370/ba1c9afe56eb9bed07f213c6ca532002.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1a9013fa1e1ad29a7842df0cdd7a0d7/523d811e8f70e5253edaf7fc74831a54.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1784385320",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1785453152"
     },
     {
       "ID": "3655",
