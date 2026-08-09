@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T13:42:26Z",
+  "updated": "2026-08-09T14:26:26Z",
   "count": 53,
   "animals": [
     {
@@ -2377,6 +2377,126 @@
       "LastUpdatedUnixTime": "1786070574"
     },
     {
+      "ID": "3656",
+      "Internal-ID": "214218202",
+      "Name": "Rosie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1469941200,
+      "Age": 120,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6eea29d98448786ea4f6017ad80389e7/aa13f7ae60dd408509c7ee9afc8727c1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/07f78b2a8fd1136a260db5e303f09ab7/a53635ede479bc5d0f3b2221d59ea8ac.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/87a3f19a0840772f9a8f5b3764ffbcc8/112aa8a20d6b30b2cdea4c3ad7ad893e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Poodle, Standard",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Rosie is a lively gal with a joyful spirit and a heart full of love. At 10 years old, she’s the perfect mix of seasoned sweetness and surprising pep; a senior in age, but absolutely not in attitude.\n\nRosie still loves her walks, playtime, and exploring the yard. She’s the kind of dog who greets each day with a happy tail and a little bounce. She adores her people and happily leans in for pets, cuddles, and attention.\n\nPoodles are famously clever, and Rosie is no exception. She enjoys learning, sniffing games, and anything that engages her brain - ESPECIALLY when food is involved. \n\nRosie loves regular walks and bursts of play. She’s not a hyper dog, but she definitely isn’t slowing down yet. She enjoys being around people and has lived with dogs, cats, and kiddos. After her adventures, she’s all about soft beds, warm blankets, and curling up near her favorite humans.\n\nRosie would thrive with someone who appreciates a dog that’s both cuddly and spirited. She’d be a great match for adults, families, or anyone who wants a companion who’s always ready for a walk, a game, or a cozy evening together. Rosie brings joy, loyalty, and a spark of fun wherever she goes. She’s looking for a home that will celebrate her energy, cherish her sweetness, and give her the love she’s been waiting for.",
+      "LastIntakeUnixTime": "1785548562",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786285047"
+    },
+    {
       "ID": "3657",
       "Internal-ID": "214218207",
       "Name": "Emma",
@@ -2543,126 +2663,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785443952"
-    },
-    {
-      "ID": "3656",
-      "Internal-ID": "214218202",
-      "Name": "Rosie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1469941200,
-      "Age": 120,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6eea29d98448786ea4f6017ad80389e7/aa13f7ae60dd408509c7ee9afc8727c1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/07f78b2a8fd1136a260db5e303f09ab7/a53635ede479bc5d0f3b2221d59ea8ac.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/87a3f19a0840772f9a8f5b3764ffbcc8/112aa8a20d6b30b2cdea4c3ad7ad893e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Poodle, Standard",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Rosie is a lively gal with a joyful spirit and a heart full of love. At 10 years old, she’s the perfect mix of seasoned sweetness and surprising pep; a senior in age, but absolutely not in attitude.\n\nRosie still loves her walks, playtime, and exploring the yard. She’s the kind of dog who greets each day with a happy tail and a little bounce. She adores her people and happily leans in for pets, cuddles, and attention.\n\nPoodles are famously clever, and Rosie is no exception. She enjoys learning, sniffing games, and anything that engages her brain - ESPECIALLY when food is involved. \n\nRosie loves regular walks and bursts of play. She’s not a hyper dog, but she definitely isn’t slowing down yet. She enjoys being around people and has lived with dogs, cats, and kiddos. After her adventures, she’s all about soft beds, warm blankets, and curling up near her favorite humans.\n\nRosie would thrive with someone who appreciates a dog that’s both cuddly and spirited. She’d be a great match for adults, families, or anyone who wants a companion who’s always ready for a walk, a game, or a cozy evening together. Rosie brings joy, loyalty, and a spark of fun wherever she goes. She’s looking for a home that will celebrate her energy, cherish her sweetness, and give her the love she’s been waiting for.",
-      "LastIntakeUnixTime": "1785548562",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785977007"
     },
     {
       "ID": "3658",
@@ -3098,7 +3098,13 @@
       "Breed": "Retriever, Labrador",
       "Color": "Black",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1784820559",
       "Attributes": [
@@ -3108,7 +3114,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786209444"
+      "LastUpdatedUnixTime": "1786284154"
     },
     {
       "ID": "3279",
