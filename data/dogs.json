@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T20:24:01Z",
+  "updated": "2026-08-09T21:00:11Z",
   "count": 51,
   "animals": [
     {
@@ -1679,23 +1679,28 @@
       "Altered": "Yes",
       "DOBUnixTime": 1558760400,
       "Age": 86,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/18f32d3f8bf6753d237494685dd3368c/182b2a46b95193674360b16a372d65f7.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/18f32d3f8bf6753d237494685dd3368c/182b2a46b95193674360b16a372d65f7.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/a38ad058ccad90fecccd80156c8b6ca3/673be1326dee34f6343d5438f8d813b0.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/fda4898c7c0040525ad964d036c94295/00c79298679d1c44c068ff90260f939c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e0ed3b9eb6d6c164ef2031d5fdb7affa/dd690b2c942008e9c0b7929d4c106b84.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e4220dcff30cdac84d9f47ff771880ca/e72c9bf2703bcf8db05cd86e315a3ba0.png",
         "https://new-s3.shelterluv.com/profile-pictures/4637abb0b768fc042e3eec5b1d499a25/6c79b57ae59ac8cd4c80f47568384342.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e3019825082baa67a6106d9ea9a11370/ba1c9afe56eb9bed07f213c6ca532002.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1a9013fa1e1ad29a7842df0cdd7a0d7/523d811e8f70e5253edaf7fc74831a54.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/e1a9013fa1e1ad29a7842df0cdd7a0d7/523d811e8f70e5253edaf7fc74831a54.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/97798cbb6c2ab33776426746c38a4024/864411e85b430ef36f86dc1148a8445a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f1e2174200ad128ce00398658e0a4cd/a912817becff32b28a008219861fba08.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c7a221c635e691f230c99194e905e90/7325b335cd6bf498aef8e56e176c4b7d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bdf7e97a2a556ecddbca7bf9e85ffa95/485f38d69b212100fa7effaee067c6e3.jpg"
       ],
       "Videos": [],
       "Breed": "Cattle Dog, Australian (Blue Heeler)",
       "Color": "White",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Skye is a sweet, affectionate girl with a soft heart and an endless amount of love for her people. At 7 years old, she has traded the puppy chaos for the sweeter things in life, being close to her humans, enjoying a comfortable routine, and running around to play to her heart’s content.\n\nTrue to her Blue Heeler genes, she has energy to spare and jumps for joy at the opportunity to chase after squirrels outside.\n\nSkye is the kind of dog who loves deeply and forms a special bond with the people she trusts. She enjoys being included in everyday life and is happiest simply knowing her person is close. Whether she’s joining you for a walk, keeping you company around the house, or winding down beside you at the end of the day, Skye makes an easy and loving companion.\n\nChanges can take time for Skye to adjust to, and being away from her people can sometimes make her nervous. Skye can also show some jealousy or frustration toward other dogs, especially when attention or treats are being shared, so she would do best with thoughtful introductions and a family who can help her feel secure. \n\nWith patience, consistency, and plenty of love, she settles in and lets her sweet, loyal, personality shine. Skye would thrive with someone who appreciates a dog with a tender heart and wants a companion to truly become part of their every day life. She’ll reward that person with affection, loyalty, and the kind of companionship that makes a house feel a little more like home.\n\nSkye is ready to bring adventure, love, and plenty of cuddles to her forever home.",
       "LastIntakeUnixTime": "1784385320",
       "Attributes": [
         {
@@ -1719,6 +1724,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634880",
           "AttributeName": "⚠ Unknown with cats",
           "Publish": "Yes"
@@ -1726,6 +1736,11 @@
         {
           "Internal-ID": "634885",
           "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
           "Publish": "Yes"
         },
         {
@@ -1739,7 +1754,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786307038"
+      "LastUpdatedUnixTime": "1786308305"
     },
     {
       "ID": "3642",
