@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T18:33:26Z",
-  "count": 53,
+  "updated": "2026-08-09T19:26:18Z",
+  "count": 52,
   "animals": [
     {
       "ID": "2754",
@@ -3072,49 +3072,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1785517087"
-    },
-    {
-      "ID": "3643",
-      "Internal-ID": "214152749",
-      "Name": "KiKi",
-      "LitterGroupId": 9558458,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1774242000,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/947835a8876f976611bfcfb48c502a35/88ff8a079a520bd396000897ee3a1b9b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/947835a8876f976611bfcfb48c502a35/88ff8a079a520bd396000897ee3a1b9b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e7474235dbb34b8b26d06f5e70ff3186/d910dfd35d40c6a98bef592d75575ed7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04055e71e676a67376760db485accdfa/c4e54f4ff52c32f74974934d825174a9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1784820559",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786284154"
     },
     {
       "ID": "3279",
