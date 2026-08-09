@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:06:20Z",
+  "updated": "2026-08-09T03:12:09Z",
   "count": 53,
   "animals": [
     {
@@ -2985,9 +2985,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "713609",
+          "AttributeName": "Has many approved adopters waiting to meet them!",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786215425"
+      "LastUpdatedUnixTime": "1786244529"
     },
     {
       "ID": "3479",
