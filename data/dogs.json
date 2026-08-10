@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:44:08Z",
+  "updated": "2026-08-10T18:44:28Z",
   "count": 51,
   "animals": [
     {
@@ -1495,7 +1495,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786039024"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3628",
@@ -2238,7 +2238,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786198371"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3652",
@@ -2341,9 +2341,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785452956"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3653",
@@ -3563,7 +3568,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786150805"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3648",
@@ -3661,9 +3666,14 @@
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786198371"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3541",
@@ -3961,7 +3971,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785786772"
+      "LastUpdatedUnixTime": "1786386964"
     },
     {
       "ID": "3612",
@@ -4545,9 +4555,14 @@
           "Internal-ID": "715250",
           "AttributeName": "NPOG pup",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786116445"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3650",
@@ -4649,9 +4664,14 @@
           "Internal-ID": "715250",
           "AttributeName": "NPOG pup",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786116475"
+      "LastUpdatedUnixTime": "1786386843"
     },
     {
       "ID": "3651",
@@ -4733,7 +4753,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786160988"
+      "LastUpdatedUnixTime": "1786386843"
     }
   ]
 }
