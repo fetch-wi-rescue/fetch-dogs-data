@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:50:51Z",
+  "updated": "2026-08-12T14:15:48Z",
   "count": 48,
   "animals": [
     {
@@ -2038,116 +2038,6 @@
       "LastUpdatedUnixTime": "1786386843"
     },
     {
-      "ID": "3652",
-      "Internal-ID": "214152760",
-      "Name": "Kyle",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1773597575,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5412c2659f16087d7ada743e7bd951b7/6d9cb5a3b6c11d571fa8695dc6177a24.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/5412c2659f16087d7ada743e7bd951b7/6d9cb5a3b6c11d571fa8695dc6177a24.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a468a782d33bbb38694fa59cf7c594b/243a97927561ffb16696f4830fd2e202.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5c5c57c9a6236a8d7531282efb857336/6516f0d7edc3ee6e22cdef8faeebc41a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3013b0c99c0e5dd4636bb5ce7ffb2e42/0b0fa473ac91e9c1604c4b543e19935a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dea3c0edf552ff6cb6111ec63a53605d/10cf36869fc960022c5584d9ba3af302.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f6e03cd2bddc426e4481daaba796090/0b74f7f628c888b17d810fd4619d108e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ea8a4804f857b548159127efa0470537/bb9ab074122355e268c1318a65403d69.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6d508a86b9a35cb735c9ffb0fe5c034d/bb4722436571b686ec01478d2bc42792.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d6ff03cb4dc0ce2deeff298b3e9863b/b14e5c34b68d1749f8bf4370cec52ee8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eba0aa900a3976004e99246ebc21be67/e02f29a00d5a28e896ba51e98b42500b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4430a854ccd84d91d72827770dafc38c/4d70683c661edc0c640f663a4fcbeedc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9dd357b93357461e9df112632b656966/556bed19cbe02b1ad74dcbb0d630e186.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1cf69f29e40ca7b157bf26cd3853c05f/9ddbbc13a0d09d3f990d6182461f57e4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ea8066db57e35c10ffb4c7858100fc07/8e6d8f4cbd074b35ced12618b88b1d39.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f9be6190bf818890e05010565403cb4e/5837791f82c12389945a165c5501b9ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae1bcd56e6baa354b94c31ffa3791576/846c53a428453e493fd1b2f1237f7027.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/678b96540cc9b92c452a78a798e5753d/b758578c04741d5896c923b76b7786c6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff1dc98af25b1c607f4ba5e9397dfe7a/673d5817f8e409140879aeb16acb26ae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e96a22aab3c8f3099a0e00f7cd38a68e/cc3a739e07f5f0883aa6a53c97dad24f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dd86587bbacde27b7e222ad9bcb5f031/a228c0d434442dda5f1955ec33717219.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Husky",
-      "Color": "Blond/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Kyle may be named after Kyle Busch, but this adorable pup is running his own race - straight toward a loving forever home. He’s a lively, lovable, tail‑wagging rookie who’s ready to bring joy, laughter, and plenty of zoomies into your life. He's basically a real-life cartoon!\n\nKyle loves toys, games, and sprinting around like he’s chasing a checkered flag, but after playtime, he’s all about curling up for cuddles. He is a smart little guy who’s already picking up the basics and responds beautifully to praise and encouragement - think of it as cheering him on from the pit crew. With consistency, he’ll be a well‑mannered companion in no time.\n\nKyle will thrive with an active family, someone who loves outdoor adventures, or anyone who appreciates a puppy with a little extra pep in his step. He’s ready to be your hiking buddy, playmate, or snuggle partner. He’s spirited, affectionate, goofy, and full of personality. Kyle isn’t just a puppy - he’s a future best friend who will make every day feel like a victory lap.",
-      "LastIntakeUnixTime": "1784817720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786386843"
-    },
-    {
       "ID": "3653",
       "Internal-ID": "214152762",
       "Name": "Zero",
@@ -3721,6 +3611,116 @@
         }
       ],
       "LastUpdatedUnixTime": "1786458067"
+    },
+    {
+      "ID": "3652",
+      "Internal-ID": "214152760",
+      "Name": "Kyle",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "28",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1773597575,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5412c2659f16087d7ada743e7bd951b7/6d9cb5a3b6c11d571fa8695dc6177a24.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5412c2659f16087d7ada743e7bd951b7/6d9cb5a3b6c11d571fa8695dc6177a24.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a468a782d33bbb38694fa59cf7c594b/243a97927561ffb16696f4830fd2e202.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c5c57c9a6236a8d7531282efb857336/6516f0d7edc3ee6e22cdef8faeebc41a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3013b0c99c0e5dd4636bb5ce7ffb2e42/0b0fa473ac91e9c1604c4b543e19935a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dea3c0edf552ff6cb6111ec63a53605d/10cf36869fc960022c5584d9ba3af302.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f6e03cd2bddc426e4481daaba796090/0b74f7f628c888b17d810fd4619d108e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ea8a4804f857b548159127efa0470537/bb9ab074122355e268c1318a65403d69.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6d508a86b9a35cb735c9ffb0fe5c034d/bb4722436571b686ec01478d2bc42792.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d6ff03cb4dc0ce2deeff298b3e9863b/b14e5c34b68d1749f8bf4370cec52ee8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eba0aa900a3976004e99246ebc21be67/e02f29a00d5a28e896ba51e98b42500b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4430a854ccd84d91d72827770dafc38c/4d70683c661edc0c640f663a4fcbeedc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9dd357b93357461e9df112632b656966/556bed19cbe02b1ad74dcbb0d630e186.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1cf69f29e40ca7b157bf26cd3853c05f/9ddbbc13a0d09d3f990d6182461f57e4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ea8066db57e35c10ffb4c7858100fc07/8e6d8f4cbd074b35ced12618b88b1d39.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f9be6190bf818890e05010565403cb4e/5837791f82c12389945a165c5501b9ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae1bcd56e6baa354b94c31ffa3791576/846c53a428453e493fd1b2f1237f7027.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/678b96540cc9b92c452a78a798e5753d/b758578c04741d5896c923b76b7786c6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff1dc98af25b1c607f4ba5e9397dfe7a/673d5817f8e409140879aeb16acb26ae.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e96a22aab3c8f3099a0e00f7cd38a68e/cc3a739e07f5f0883aa6a53c97dad24f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dd86587bbacde27b7e222ad9bcb5f031/a228c0d434442dda5f1955ec33717219.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Husky",
+      "Color": "Blond/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Kyle may be named after Kyle Busch, but this adorable pup is running his own race - straight toward a loving forever home. He’s a lively, lovable, tail‑wagging rookie who’s ready to bring joy, laughter, and plenty of zoomies into your life. He's basically a real-life cartoon!\n\nKyle loves toys, games, and sprinting around like he’s chasing a checkered flag, but after playtime, he’s all about curling up for cuddles. He is a smart little guy who’s already picking up the basics and responds beautifully to praise and encouragement - think of it as cheering him on from the pit crew. With consistency, he’ll be a well‑mannered companion in no time.\n\nKyle will thrive with an active family, someone who loves outdoor adventures, or anyone who appreciates a puppy with a little extra pep in his step. He’s ready to be your hiking buddy, playmate, or snuggle partner. He’s spirited, affectionate, goofy, and full of personality. Kyle isn’t just a puppy - he’s a future best friend who will make every day feel like a victory lap.",
+      "LastIntakeUnixTime": "1784817720",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786543121"
     },
     {
       "ID": "1442",
