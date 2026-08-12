@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T16:24:33Z",
-  "count": 48,
+  "updated": "2026-08-12T17:25:51Z",
+  "count": 49,
   "animals": [
     {
       "ID": "2754",
@@ -2787,6 +2787,37 @@
         }
       ],
       "LastUpdatedUnixTime": "1786399203"
+    },
+    {
+      "ID": "3662",
+      "Internal-ID": "214281445",
+      "Name": "Sirus",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1665896400,
+      "Age": 45,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/de4f814e7441b3e24aa8a374b87eb8b0/5f1a76f13786f6bf24fb70e70b46226f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Shepherd, Australian",
+      "Color": "Blue Black/Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1786552376",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1786553110"
     },
     {
       "ID": "3479",
