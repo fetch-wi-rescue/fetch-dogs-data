@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T23:31:43Z",
+  "updated": "2026-08-12T01:14:50Z",
   "count": 48,
   "animals": [
     {
@@ -1934,117 +1934,6 @@
       "LastUpdatedUnixTime": "1785975573"
     },
     {
-      "ID": "3644",
-      "Internal-ID": "214152752",
-      "Name": "Cain",
-      "LitterGroupId": 9558459,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "41.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763532000,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
-        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)/Hound",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Cain, a striking black-and-white mixed breed with a heart as big as his smile! At just 8 months old and 41 pounds, this handsome parvo survivor has already overcome a tough start and is ready to find the loving family he's been waiting for.\n\nCain is an affectionate, playful pup who loves spending time with his people. Whether he's exploring on a walk, chasing a tennis ball in the backyard, or sneaking in a kiss, he's happiest when he's part of the action. He gets along well with other active dogs and would enjoy a playmate who can match his energy.\n\nHe's house trained, walks nicely on leash, and is a dream in his crate, sleeping quietly through the night without a fuss. Cain is eager to learn and enjoys practicing new skills. He's currently working on sit, down, and touch, and would love a family that will continue building his confidence and skills through training.\n\nLike most teenage pups, Cain is still figuring out his manners. He can get a little mouthy or jump up when he's excited, but he's easily redirected and improves with consistency.\n\nCain's ideal home is one that enjoys staying active and will include him in daily walks, games of fetch, and plenty of quality time together. In return, you'll get a loyal companion with a goofy personality, a loving heart, and a lifetime of adventures ahead. 🐶 🐮",
-      "LastIntakeUnixTime": "1784820769",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786382731"
-    },
-    {
       "ID": "3647",
       "Internal-ID": "214152755",
       "Name": "Leah",
@@ -2692,14 +2581,15 @@
       "Altered": "Yes",
       "DOBUnixTime": 1407103120,
       "Age": 144,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg"
       ],
       "Videos": [],
       "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
@@ -2801,7 +2691,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786217537"
+      "LastUpdatedUnixTime": "1786496504"
     },
     {
       "ID": "3659",
@@ -2818,13 +2708,14 @@
       "Altered": "Yes",
       "DOBUnixTime": 1533272400,
       "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dfda09e26800fdc13b2c70d881036bba/5c1845bd8544375a068065a72ced2590.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/dfda09e26800fdc13b2c70d881036bba/5c1845bd8544375a068065a72ced2590.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/253b8bfc767adbf8c67a6611be01146a/c31ffefc578a9a4b6c12a4f761f00265.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Border/Mixed Breed (Small)",
@@ -2931,7 +2822,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786217570"
+      "LastUpdatedUnixTime": "1786496524"
     },
     {
       "ID": "3661",
@@ -3168,7 +3059,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786465122"
+      "LastUpdatedUnixTime": "1786494535"
     },
     {
       "ID": "3592",
@@ -4229,6 +4120,117 @@
         }
       ],
       "LastUpdatedUnixTime": "1786114279"
+    },
+    {
+      "ID": "3644",
+      "Internal-ID": "214152752",
+      "Name": "Cain",
+      "LitterGroupId": 9558459,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "41.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763532000,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)/Hound",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Cain, a striking black-and-white mixed breed with a heart as big as his smile! At just 8 months old and 41 pounds, this handsome parvo survivor has already overcome a tough start and is ready to find the loving family he's been waiting for.\n\nCain is an affectionate, playful pup who loves spending time with his people. Whether he's exploring on a walk, chasing a tennis ball in the backyard, or sneaking in a kiss, he's happiest when he's part of the action. He gets along well with other active dogs and would enjoy a playmate who can match his energy.\n\nHe's house trained, walks nicely on leash, and is a dream in his crate, sleeping quietly through the night without a fuss. Cain is eager to learn and enjoys practicing new skills. He's currently working on sit, down, and touch, and would love a family that will continue building his confidence and skills through training.\n\nLike most teenage pups, Cain is still figuring out his manners. He can get a little mouthy or jump up when he's excited, but he's easily redirected and improves with consistency.\n\nCain's ideal home is one that enjoys staying active and will include him in daily walks, games of fetch, and plenty of quality time together. In return, you'll get a loyal companion with a goofy personality, a loving heart, and a lifetime of adventures ahead. 🐶 🐮",
+      "LastIntakeUnixTime": "1784820769",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786496592"
     },
     {
       "ID": "3649",
