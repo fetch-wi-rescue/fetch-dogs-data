@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:25:51Z",
+  "updated": "2026-08-12T18:23:55Z",
   "count": 49,
   "animals": [
     {
@@ -3537,8 +3537,8 @@
       "Sex": "Male",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "Extra-Large (100+)",
+      "CurrentWeightPounds": "92",
+      "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1499490000,
       "Age": 109,
@@ -3641,7 +3641,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786458067"
+      "LastUpdatedUnixTime": "1786558309"
     },
     {
       "ID": "3652",
