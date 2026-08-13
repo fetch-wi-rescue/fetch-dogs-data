@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T11:40:43Z",
-  "count": 48,
+  "updated": "2026-08-13T12:52:09Z",
+  "count": 47,
   "animals": [
     {
       "ID": "2754",
@@ -1932,110 +1932,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1786566657"
-    },
-    {
-      "ID": "3647",
-      "Internal-ID": "214152755",
-      "Name": "Leah",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "6.2",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1777957200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/21aaf593b2a375ffd2f6fa116c0c0a5c/6bdffc6f04e6dfd5eb0c0ed664cede4d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/21aaf593b2a375ffd2f6fa116c0c0a5c/6bdffc6f04e6dfd5eb0c0ed664cede4d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6b40a6c1e468503dd88a5bf663c7c1ac/a9bd82b9c0a90d502e76a9942a5f91e2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/172cbff6f94864af7155239a2531de42/1f5f58d4613a009fa0065bb228696c1d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/05684f337f6f17a31a55a1a8f1550791/a0ae5e09af8b2809c56d153e8f5bb78c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d0a28f617cd532521671ae055c44e936/9a0be4c07cc0ab5a8f96b508a2a1442b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/17f5502b070954ada7a4584585c7adf5/5aba6768d73aa4f01f53c196443766b2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e7edd1d98636605c1da11198d1bb21dd/55f086d50ab95d79618431fa007bfcd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c74703bd9a2fd6abaceb458ff9ff8a09/4b3847f75d3a24ec6fb043ffb5af0389.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ef946d8483fb2c0622c4b28e31a9de62/1f64f66e9e011cace632fd8701fa48b7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8574807b141e219cbc30af4fcee4c909/3a597029aea42b5e177d4c321ce63c6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7cd2cf2406a2fd120b6c27dac64392b2/39ac6c16c6f0eab5a46ddda3673861aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c7e735a16e1d0eb31e58e266ae66f5d/c0a7a508c1268c6caceeaab3e9bb18d2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/20b9fd47ef337b1cfd1693c40977b584/00161990b6f24fd32ab9e097fada448b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/de41e5dd08bfd88c0b9fc73442dfeee8/3884f49c739aa8f525debc45e1630858.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5b3e89d9f32f7ab4744f0fc92fc00b7/59e7c9af30df31c9b5c7f70b2cf28710.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f4020cee3467bb138e83dac4644129a/0e73aa4ee9b367afde75976b793bfecd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/56d68637897b8756dc7b1c1fc9eb620a/f5f322a3820c76ef08aae1e70010ea94.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1effcf4afb3da69d83d4cd88e854582/f997368aec7bd9f6be6344105794be8c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5582376c361a2900e46f7cd95b6165f0/d2d46f5938e91677391a35e88f7cd2b3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d6c1cfe7931cf06d9cf37217470c9f74/01ba4da6937002f4a0e4e75e05b9fa5b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6886b0ef2115db7bb9c4243eecd77560/0fcc882f0539840302f3b1e2911c33a6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/110a9c5760c1ab20c8b17633eaedde1a/f66942391bc96d6e5976ace457415e08.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c7d10dd95a789d5af02cb564464db6fc/9be32b77a202f2d28e5cbe18069db6ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3df101cfd7c171295ff258fca926ddc0/02dcf827fdeff01c9875961b505f3579.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f55eba3dd69c95d4018fa0868096b6b8/7a6cb8643d60f2a6227f7211c32557ea.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/67f00441fde03acc9bd499e0604e03ca/33b27f72d26d02c3783bd7837bf23e0c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4fe69c5da8f191da9666e4091d4fccc7/22b1fa6bb3f24deaa2e1043479c4d591.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f77c52b5199bdc3ef5cf50477a00110/78e178677ccf047f2cd7209252ea64b7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/07a173908968b23fde955e8e0b424e1a/283149575145726d438ed0ae815872fc.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Apricot",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "This precious puppy is ready to start the next chapter of her life with a loving family. With bright eyes, a wagging tail, and a playful spirit, Leah brings joy wherever she goes. She loves attention, snuggles, and discovering new things. Like any young puppy, she will need continued training, socialization, and plenty of love to help her grow into a wonderful companion.",
-      "LastIntakeUnixTime": "1784820448",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786572385"
     },
     {
       "ID": "3651",
