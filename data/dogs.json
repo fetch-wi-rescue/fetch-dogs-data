@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T21:36:42Z",
-  "count": 49,
+  "updated": "2026-08-13T22:32:59Z",
+  "count": 50,
   "animals": [
     {
       "ID": "2754",
@@ -2673,6 +2673,33 @@
         }
       ],
       "LastUpdatedUnixTime": "1786641588"
+    },
+    {
+      "ID": "3665",
+      "Internal-ID": "214291180",
+      "Name": "Bailey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1533186000,
+      "Age": 96,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1786658532",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1786658742"
     },
     {
       "ID": "3479",
