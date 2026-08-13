@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T15:28:43Z",
-  "count": 47,
+  "updated": "2026-08-13T16:24:19Z",
+  "count": 49,
   "animals": [
     {
       "ID": "2754",
@@ -2567,6 +2567,112 @@
       "LastIntakeUnixTime": "1786552376",
       "Attributes": [],
       "LastUpdatedUnixTime": "1786626784"
+    },
+    {
+      "ID": "3663",
+      "Internal-ID": "214287416",
+      "Name": "Ciabatta",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "32.6",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1749618000,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "White/Brown",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1786635854",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786636388"
+    },
+    {
+      "ID": "3664",
+      "Internal-ID": "214287417",
+      "Name": "Zombie ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "65",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1534050000,
+      "Age": 96,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1786635886",
+      "Attributes": [
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "634891",
+          "AttributeName": "⚠ Special Needs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786636935"
     },
     {
       "ID": "3479",
