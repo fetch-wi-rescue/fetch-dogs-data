@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T23:33:09Z",
+  "updated": "2026-08-14T01:15:18Z",
   "count": 50,
   "animals": [
     {
@@ -2210,7 +2210,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785976077"
+      "LastUpdatedUnixTime": "1786668239"
     },
     {
       "ID": "3654",
@@ -2687,19 +2687,30 @@
       "CurrentWeightPounds": "",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1533186000,
-      "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "DOBUnixTime": 1497502800,
+      "Age": 109,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8f491308a8f0118f8bf253bd2d57372f/83a73b0d85f3475f324d40a265eca0d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/820077df2dbf73aa62d6a1cd8e14fa7f/ab55ec1364508bcb412fe7e4a6c45c75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/132d47b5662a6d3bf79e0f6cfcae1148/43918d1e0a400d3cae9c0ebdac31709f.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, Anatolian",
       "Color": "Blond",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "",
       "LastIntakeUnixTime": "1786658532",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1786658742"
+      "LastUpdatedUnixTime": "1786668113"
     },
     {
       "ID": "3479",
