@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T21:17:52Z",
+  "updated": "2026-08-14T21:47:05Z",
   "count": 48,
   "animals": [
     {
@@ -1554,9 +1554,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786018483"
+      "LastUpdatedUnixTime": "1786742886"
     },
     {
       "ID": "3636",
@@ -2050,7 +2055,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786566984"
+      "LastUpdatedUnixTime": "1786742886"
     },
     {
       "ID": "3654",
@@ -3025,7 +3030,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786386843"
+      "LastUpdatedUnixTime": "1786742886"
     },
     {
       "ID": "3657",
@@ -3887,7 +3892,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786386843"
+      "LastUpdatedUnixTime": "1786742886"
     },
     {
       "ID": "3650",
@@ -3996,7 +4001,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786386843"
+      "LastUpdatedUnixTime": "1786742886"
     },
     {
       "ID": "3658",
