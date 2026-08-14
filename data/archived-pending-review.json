@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:10:37Z",
+  "updated": "2026-08-14T15:13:01Z",
   "animals": [
     {
       "ID": "3458",
@@ -1277,6 +1277,15 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-14T14:10:37Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3479",
+      "Name": "Lilly",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13fa41f966385fafdf6fdb9623a3ef25/46d02bd58601e501013f482f4e5a522f.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-14T15:13:01Z",
       "status": "pending"
     }
   ]
