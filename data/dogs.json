@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:45:07Z",
+  "updated": "2026-08-15T21:13:13Z",
   "count": 47,
   "animals": [
     {
@@ -1133,9 +1133,14 @@
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786228481"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3613",
@@ -1307,9 +1312,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786656956"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3631",
@@ -1651,9 +1661,14 @@
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786308305"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3639",
@@ -1860,9 +1875,14 @@
           "Internal-ID": "702286",
           "AttributeName": "FP:  Jen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786671063"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3644",
@@ -2436,9 +2456,14 @@
           "Internal-ID": "702284",
           "AttributeName": "FP:  Aidan",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785443952"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3661",
@@ -2510,9 +2535,14 @@
           "Internal-ID": "713609",
           "AttributeName": "Has many approved adopters waiting to meet them!",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786399203"
+      "LastUpdatedUnixTime": "1786827176"
     },
     {
       "ID": "3663",
@@ -2923,9 +2953,14 @@
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786494535"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3592",
@@ -3095,9 +3130,14 @@
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786715871"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3648",
@@ -4003,7 +4043,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786742886"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3650",
@@ -4112,7 +4152,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786742886"
+      "LastUpdatedUnixTime": "1786827175"
     },
     {
       "ID": "3658",
@@ -4229,6 +4269,11 @@
           "Publish": "No"
         },
         {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "810933",
           "AttributeName": "Would prefer a doggo sibling",
           "Publish": "Yes"
@@ -4239,7 +4284,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786631488"
+      "LastUpdatedUnixTime": "1786827176"
     },
     {
       "ID": "3659",
@@ -4360,6 +4405,11 @@
           "Publish": "No"
         },
         {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "810933",
           "AttributeName": "Would prefer a doggo sibling",
           "Publish": "Yes"
@@ -4370,7 +4420,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786631480"
+      "LastUpdatedUnixTime": "1786827176"
     }
   ]
 }
