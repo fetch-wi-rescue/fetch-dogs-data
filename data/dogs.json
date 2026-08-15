@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:10:10Z",
+  "updated": "2026-08-15T04:01:29Z",
   "count": 47,
   "animals": [
     {
@@ -2392,7 +2392,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "52",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1665896400,
@@ -2411,7 +2411,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1786552376",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1786626784"
+      "LastUpdatedUnixTime": "1786763871"
     },
     {
       "ID": "3663",
@@ -3042,7 +3042,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "45",
+      "CurrentWeightPounds": "33",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1659243600,
@@ -3116,7 +3116,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786458098"
+      "LastUpdatedUnixTime": "1786763904"
     },
     {
       "ID": "3541",
