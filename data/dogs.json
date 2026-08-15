@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T00:47:58Z",
-  "count": 48,
+  "updated": "2026-08-15T02:09:21Z",
+  "count": 47,
   "animals": [
     {
       "ID": "2754",
@@ -3649,67 +3649,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1781500399"
-    },
-    {
-      "ID": "3611",
-      "Internal-ID": "213937628",
-      "Name": "Obie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "20",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1480831200,
-      "Age": 116,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c894c62f4b514359807cd30d5eba0f7/40ddbd4d632e4b6bfd20574b2785f46d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6c894c62f4b514359807cd30d5eba0f7/40ddbd4d632e4b6bfd20574b2785f46d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/127fcf49d950e60e82799c045d77c5d1/aa57f82712b83958fcb42544b41504ff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b764ed58b634db4d4d78cc1ecc63e5d/1e8492ae4ba63804e9fcf74762f314f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4d010fbcfded92650dd3b7577a5bd457/27095e52d938927d716b3b14369ed79f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b72fe8d03c4d2b3a07211ba16b8767f/ca3669bd1f2ce4530ab1265e64580335.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/50730ae6020af51c9f33f4ffa2c02f43/3a6d3d78a2f70e0ea341ffec9096fdea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f98ce044a90c39703cc5665417e7da28/bfbdf6ff65c17e26edf8f42078d005b7.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Jack Russell",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Obie is a sweet little Jack Russell who is looking for a new home because he does not do well with young children. He loves adults, but the unpredictability of toddlers stresses him out and he has snapped at our toddler. He would be more comfortable and happy in a child-free home.\n\nObie is cuddly, calm, and cozy. He loves to lay wherever you are working, is excited about walks, and loves the mailman, and playing with toys in the mornings. He loves to snuggle up with you or roll over for belly rubs, gives sweet (but not excessive) kisses, tolerates being held on his back like a baby, enjoys a good sunspot on the floor, and likes routine but can adapt from day-to-day between ten-mile hikes in the mountains or lounging around on the couch. He is well-trained, well-behaved, and is even good off-leash. He will bark initially when someone knocks at the door, but overall is a very quiet pup.\n\nObie does have isolation distress, meaning he's fine as long as he's not alone, so a home with another dog is ideal, but he can be alone for a few hours without issue (as long as you hide the trash!). He is fine with all other dogs (aside from large breed puppies), and has no issues staying at a friend's or dogsitter's house with other dogs or cats.\n\nObie is up-to-date on all recommended vaccines including Lyme and has been on monthly heartworm/intestinal parasite prevention as well as flea and tick prevention for years. He is generally very healthy; he has had occasional gastroenteritis (maybe 1x/year) but has no chronic physical ailments.",
-      "LastIntakeUnixTime": "1781669920",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781670428"
     },
     {
       "ID": "3660",
