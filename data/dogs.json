@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T13:07:31Z",
-  "count": 47,
+  "updated": "2026-08-16T13:50:24Z",
+  "count": 48,
   "animals": [
     {
       "ID": "2754",
@@ -2758,6 +2758,35 @@
         }
       ],
       "LastUpdatedUnixTime": "1786814281"
+    },
+    {
+      "ID": "3666",
+      "Internal-ID": "214302659",
+      "Name": "Gunner",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1768456800,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/972d9f082d1746131f6c935027089a69/48f15dbe6ed0b9e2334cb9976cba3e1c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/972d9f082d1746131f6c935027089a69/48f15dbe6ed0b9e2334cb9976cba3e1c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Saint Bernard",
+      "Color": "Tan/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1786887590",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1786887857"
     },
     {
       "ID": "3521",
