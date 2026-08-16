@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T18:17:06Z",
-  "count": 48,
+  "updated": "2026-08-16T18:53:10Z",
+  "count": 47,
   "animals": [
     {
       "ID": "2754",
@@ -3544,77 +3544,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1786708962"
-    },
-    {
-      "ID": "3612",
-      "Internal-ID": "213937985",
-      "Name": "Whiskey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "23.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1752555600,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9680591b4183d7299050ae03712af0d7/531926b86d5b9bf41e2e43c814f4738a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9680591b4183d7299050ae03712af0d7/531926b86d5b9bf41e2e43c814f4738a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d47cb4612054c875cdaebe361352139/86a99b81e29d3c2bf70348e040460ce6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a2de0417c8f5e70acc37585be90cb7f6/d6ae57039cd5ee4236c3b60ca2dc0d6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d06fbd0b8d5bd3b9378d7f3aa8249377/341920c1fdb9c2ba8dc878236afe243f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e72f706a1c2a9d9b68228c3a26ac60c1/dfa970cba025500f753b2286d881eb41.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/004b874c6a420b4d546938ca9b9d29ba/12e6c8e43e34a90a8605cd1698090e25.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Whiskey is a spunky beagle who's still figuring out what it means to be a house dog—and he's making great progress! He's currently learning the ropes while living with three other dogs, and those furry friends have become his best teachers.\n\nThis young guy is a bouncy adolescent with plenty of energy to burn. He's a bit shy at first and takes time to warm up to people, but once he trusts you, he's got a sweet side—pick him up and he'll happily settle in for a nap on your lap. He thrives on companionship and needs a home where he can continue learning alongside a confident, well-adjusted dog. With the right mentor and patient humans by his side, Whiskey's confidence grows every day.\n\nWhat Whiskey needs:\n\nA fenced-in yard for safe play and exploration\nA patient family willing to support his continued growth\nAt least one dog friend who can model good behavior\nLove, consistency, and plenty of opportunities to be part of the pack\n\nIf you have a stable home with another dog and the patience to watch Whiskey blossom, he's ready to return all that investment with the loyal companionship only a beagle can offer.",
-      "LastIntakeUnixTime": "1781658720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786801334"
     },
     {
       "ID": "1442",

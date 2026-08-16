@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T02:09:21Z",
+  "updated": "2026-08-16T18:53:10Z",
   "animals": [
     {
       "ID": "3458",
@@ -1295,6 +1295,15 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-08-15T02:09:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3612",
+      "Name": "Whiskey",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9680591b4183d7299050ae03712af0d7/531926b86d5b9bf41e2e43c814f4738a.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-16T18:53:10Z",
       "status": "pending"
     }
   ]
