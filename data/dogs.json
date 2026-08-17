@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:29:35Z",
+  "updated": "2026-08-17T14:54:45Z",
   "count": 47,
   "animals": [
     {
@@ -2717,12 +2717,52 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
       "LastIntakeUnixTime": "1785443311",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634893",
           "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
           "Publish": "Yes"
         },
         {
@@ -2734,9 +2774,14 @@
           "Internal-ID": "780444",
           "AttributeName": "UGM 2026 candidate",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786827175"
+      "LastUpdatedUnixTime": "1786977580"
     },
     {
       "ID": "3661",
