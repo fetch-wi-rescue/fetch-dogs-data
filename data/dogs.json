@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T23:41:09Z",
+  "updated": "2026-08-17T00:48:24Z",
   "count": 47,
   "animals": [
     {
@@ -2770,7 +2770,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "60",
+      "CurrentWeightPounds": "80",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1768456800,
@@ -2786,8 +2786,39 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1786887590",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1786888458"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1786926197"
     },
     {
       "ID": "3521",
