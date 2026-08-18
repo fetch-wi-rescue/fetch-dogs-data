@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:51:02Z",
+  "updated": "2026-08-18T18:25:41Z",
   "count": 46,
   "animals": [
     {
@@ -1245,12 +1245,13 @@
         "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbebecc00ab3857b063f4591ef612ef8/1b8e659af8fc95db7c1f88a8f6f98074.png"
       ],
       "Videos": [],
-      "Breed": "Husky/Mixed Breed (Large)",
+      "Breed": "Shepherd, German/Cattle Dog",
       "Color": "Fawn/Wheaten",
-      "Pattern": null,
+      "Pattern": "None",
       "AdoptionFeeGroup": {
         "Id": 37341,
         "Name": "Adult (1-7 years old)",
@@ -1327,7 +1328,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787052136"
+      "LastUpdatedUnixTime": "1787076991"
     },
     {
       "ID": "3631",
