@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T18:53:10Z",
+  "updated": "2026-08-18T15:34:59Z",
   "animals": [
     {
       "ID": "3458",
@@ -1295,6 +1295,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-16T18:53:10Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3610",
+      "Name": "Sabo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/94ba1b71f3a68b58c2e239b82c4cb6a6/67293b984ab14df7f2ca7a8228127c22.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-08-18T15:34:59Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3660",
+      "Name": "Morgan Riley",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/29b925eba4136a89f552afda76ea78cf/a4d45ef8e5c1abdac8e7577c819c4475.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-08-18T15:34:59Z",
       "status": "pending"
     }
   ]

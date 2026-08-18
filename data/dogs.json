@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T14:59:28Z",
-  "count": 48,
+  "updated": "2026-08-18T15:34:59Z",
+  "count": 46,
   "animals": [
     {
       "ID": "2754",
@@ -4192,7 +4192,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787011227"
+      "LastUpdatedUnixTime": "1787065186"
     },
     {
       "ID": "1442",
@@ -4391,146 +4391,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778859848"
-    },
-    {
-      "ID": "3610",
-      "Internal-ID": "213899765",
-      "Name": "Sabo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "35",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1729832400,
-      "Age": 21,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/94ba1b71f3a68b58c2e239b82c4cb6a6/67293b984ab14df7f2ca7a8228127c22.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/94ba1b71f3a68b58c2e239b82c4cb6a6/67293b984ab14df7f2ca7a8228127c22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc42ed11e56a40a2dcb28842503d6eee/a22282e6efe2ffddb09ec4924b652d25.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f7812c3b04dda0b1cca77a1127066eec/5025dc19a286491d01a5a4c06088b97b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf0890e021262dedb71a692faab4acc9/f4357f1adf0ca2580f03f69b9ae0eb79.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06c864c03c4a6b07e50371686c199247/f7005f78f0d0095c07625d8460884445.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04269e46bbf732671575958a3a121d1d/805189f431de3c2c2e0e91b699427374.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c340f7fd01cdaea90cdecc97bfbb8b77/74221b4609ff2e6d5df7403979e776fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/18f16c1c88f4e1bdea22f34320437c22/847233fc18ad302934671394525ac259.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4f8e2bc21fe37ef019e5701d4090367c/4d2f376f2a3f4049dce2b501eb0ed78a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky, Siberian/Chihuahua",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sabo is an incredibly fun-loving, sweet little guy who loves more than anything to be outdoors. If he could spend his life outside all the time he would, but he comes inside when he's done playing because he knows that's where he gets to cuddle up to his people on the couch. And don't you dare stop petting him during a cuddle-session, he takes personal offense to that; he will sweetly nudge your hand and worm his way into your lap for more belly scratches. \n\nWith how much Sabo loves to explore with his nose to the ground, he would love someone who takes him on LOTS of hiking and/or walking adventures. Sometimes he gets such an intense adventure-itch that he doesn't wait and digs his way out from under the fence to go explore, but he always comes back after a while. \n\nSabo is house trained, but has a small bladder so if someone is extra late letting him out on his schedule, he may have an accident in the house. \n\nSabo is great with other dogs, but may need some supervision around small dogs and cats because sometimes he doesn't respect their space and needs correcting because he's still learning that not everyone wants to play with him, and sometimes he just lacks spacial awareness and accidentally tramples smaller animals in his excitement. He has never been aggressive toward any dogs or cats, but has not had exposure to any other domestic animals. \n\nHe is very respectful when dogs his size or bigger set a boundary, and as long as he has toys/chews he's pretty good at keeping himself entertained for periods of time. \n\nSabo needs more work on his leash manners,  recall, crate-training, jumping, digging out of the fence, and putting paws on the edge of the kitchen counter to smell what you're cooking. Also, if he is left alone with no toys or chews, he may find something he shouldn't be chewing on to keep entertained. \n\nHe is VERY food motivated, which helps tremendously with training, but also means he needs to be fed with supervision, or separately from other pets so that he doesn't steal their food. He is fine with eating meals in a crate. \n\nFor only a medium size dog, Sabo contains so much joy and spirit, and when he finds his outdoors-loving owner we know with some more training he will be the perfect companion for them, and they will have wonderful adventures together!",
-      "LastIntakeUnixTime": "1781454567",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1781500399"
-    },
-    {
-      "ID": "3660",
-      "Internal-ID": "214254189",
-      "Name": "Morgan Riley",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "80",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1618722000,
-      "Age": 64,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/29b925eba4136a89f552afda76ea78cf/a4d45ef8e5c1abdac8e7577c819c4475.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/29b925eba4136a89f552afda76ea78cf/a4d45ef8e5c1abdac8e7577c819c4475.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/46d6107e188fa0897805a17caadd9165/c1178514df96210201a816614b4a1298.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a37f0bbaacbeabe9d6a35dba179953f/53c0a3e59855aa82025953ea6b39421f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bernese Mountain Dog/Poodle, Standard",
-      "Color": "Black/Beige",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Morgan Riley is a 5 y/o Bernedoodle and is being surrendered due to family health issues. He is a very happy boy and loves  to play with other dogs. He plays rough and can be vocal, but he is just playing. He loves to play catch with balls and frisbee. He is housebroken, crate trained and loves to take naps. He loves to have his back scratched and belly rubbed. He watches TV when animals are on and talks to them. He is very strong and does jump on people to greet them when he gets excited. He has not been around many children, but loves all adults. He will definitely make someone a great pet. ",
-      "LastIntakeUnixTime": "1786068119",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786114279"
     }
   ]
 }
