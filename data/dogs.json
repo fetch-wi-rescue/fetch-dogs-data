@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T00:46:46Z",
+  "updated": "2026-08-18T02:10:53Z",
   "count": 47,
   "animals": [
     {
@@ -1045,9 +1045,14 @@
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786367425"
+      "LastUpdatedUnixTime": "1787011778"
     },
     {
       "ID": "3591",
