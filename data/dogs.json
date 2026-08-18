@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:05:57Z",
+  "updated": "2026-08-18T19:46:48Z",
   "count": 46,
   "animals": [
     {
@@ -2626,7 +2626,7 @@
     {
       "ID": "3658",
       "Internal-ID": "214229995",
-      "Name": "Brutus (bonded to Otis)",
+      "Name": "Brutus",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -2638,17 +2638,18 @@
       "Altered": "Yes",
       "DOBUnixTime": 1407103120,
       "Age": 144,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d9ae4b90e11f9730cc392e3483133706/4f268ff1f8368c196c49b7e4675942a7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1117f7ccaa24383abf7788629d35ec56/9c3fe84d876170af4aedfb8cd2f25e31.jpeg"
       ],
       "Videos": [],
       "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
@@ -2664,11 +2665,6 @@
       "Description": "Brutus is a cute little cuddle bug & the definition of a lap dog! He is a happy little guy who will always greet you with the cutest little dance and tail wags. Brutus was surrendered by his owner after their housing situation changed and they were unable to keep their pets. He’s a very sweet senior looking to spend his golden days with someone with an open lap and lots of snuggles to give!\n\nBecause of his small size he will likely do best in a home without very small children. Older, respectful children are likely fine! He loves people and is friendly with everyone he meets. There’s no such thing as a stranger for this guy! He is currently in a foster home with other dogs & a cat and does well with all of them 😊",
       "LastIntakeUnixTime": "1785774284",
       "Attributes": [
-        {
-          "Internal-ID": "294266",
-          "AttributeName": "Bonded",
-          "Publish": "Yes"
-        },
         {
           "Internal-ID": "294284",
           "AttributeName": "Good with Cats",
@@ -2750,12 +2746,12 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787011138"
+      "LastUpdatedUnixTime": "1787081076"
     },
     {
       "ID": "3659",
       "Internal-ID": "214230074",
-      "Name": "Otis (bonded to Brutus)",
+      "Name": "Otis",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -2767,16 +2763,19 @@
       "Altered": "Yes",
       "DOBUnixTime": 1533272400,
       "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/93ce7dc009978023b9807d9bdfc19b96/9c92013872159b43f2fe91b30b14e637.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/76bdcfd50b940c31b2333ff711933cec/83f823c0a4a55e6a039bbbdc6f70df68.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/19e5d8e64c0b60639ba0a3236f721311/fc48af7939fedc390dd075b8379537d3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f2176f3cf50dec4baf7f9f7810f61bb/c1e61e2477c20faf663d3759e2789242.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/dfda09e26800fdc13b2c70d881036bba/5c1845bd8544375a068065a72ced2590.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/253b8bfc767adbf8c67a6611be01146a/c31ffefc578a9a4b6c12a4f761f00265.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/253b8bfc767adbf8c67a6611be01146a/c31ffefc578a9a4b6c12a4f761f00265.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ab3c82efaa32ec23aacbdc4ef3a9e965/2672cc51dcde3565bb5bcba511b2e642.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ac3dab707920b617db1c98f8a2f4b246/857e8accaff8095d4f0fdc7b1af65a0a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f676009083d0e045bf2e465997607a0/45a4ce726394b0dcc12ca6b68b9c8cca.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a4342d74d13341bfe76f3fec109e8808/19e3d59b75fbab511a24e2f928ef016f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfaa2f646d51485cdfa4f8e2604632b2/7a6b3ea5d314db305913497c70d43b17.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/67cdc815c495227d056523d9e13d8e50/2efeb8031000b61aeb4f91e247910b51.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Border/Mixed Breed (Small)",
@@ -2792,11 +2791,6 @@
       "Description": "Otis is a sweet and spunky little guy who loves cuddling, belly rubs, walks, sitting on your lap, and chasing squeaky toys. Otis was surrendered by his owner after their housing situation changed and they were unable to keep their pets.\n\nOtis is friendly with everyone he meets and is doing great in his foster home with other dogs and a cat. He’s a very sweet senior looking to spend his golden days with someone who has lots of love to give!",
       "LastIntakeUnixTime": "1785787051",
       "Attributes": [
-        {
-          "Internal-ID": "294266",
-          "AttributeName": "Bonded",
-          "Publish": "Yes"
-        },
         {
           "Internal-ID": "294284",
           "AttributeName": "Good with Cats",
@@ -2883,7 +2877,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787011116"
+      "LastUpdatedUnixTime": "1787081394"
     },
     {
       "ID": "3665",
@@ -2900,12 +2894,15 @@
       "Altered": "Yes",
       "DOBUnixTime": 1497502800,
       "Age": 110,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ae793c7c60ffb7fef712253ea2b12806/abd8508eaba2904f508dca02287520fe.JPG",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8f491308a8f0118f8bf253bd2d57372f/83a73b0d85f3475f324d40a265eca0d7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/820077df2dbf73aa62d6a1cd8e14fa7f/ab55ec1364508bcb412fe7e4a6c45c75.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/132d47b5662a6d3bf79e0f6cfcae1148/43918d1e0a400d3cae9c0ebdac31709f.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/ae793c7c60ffb7fef712253ea2b12806/abd8508eaba2904f508dca02287520fe.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/41dea8e179388f6c7fcbe47425f71fe8/27b0478bb1cb756cff75fe7232f779d1.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/9e59955f9b0762e6f9af580db2b6f8fe/f457ec1dfb4a972dd3367250aa214323.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae8ca61bc52009582c0a319c7cb62240/7a0773aa0f45827f7c6296aca5cae9ca.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ff733739e44f6fcd98c47b48826d61c1/912689c40ae41e9101203e40215c8f58.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/9c112ba9b507131ab38ab850f756b9c2/03ac17ddf71f169120f4305a71fcd194.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/a38b5414d7872c07311ae07bbe43eb96/7dd9c53a4ad22b51a9ae916cd4fd1e66.JPG"
       ],
       "Videos": [],
       "Breed": "Shepherd, Anatolian",
@@ -2992,7 +2989,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787062042"
+      "LastUpdatedUnixTime": "1787081749"
     },
     {
       "ID": "3655",
