@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:24:30Z",
+  "updated": "2026-08-18T14:03:43Z",
   "count": 48,
   "animals": [
     {
@@ -2885,6 +2885,115 @@
       "LastUpdatedUnixTime": "1787011116"
     },
     {
+      "ID": "3665",
+      "Internal-ID": "214291180",
+      "Name": "Bailey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1497502800,
+      "Age": 110,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8f491308a8f0118f8bf253bd2d57372f/83a73b0d85f3475f324d40a265eca0d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/820077df2dbf73aa62d6a1cd8e14fa7f/ab55ec1364508bcb412fe7e4a6c45c75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/132d47b5662a6d3bf79e0f6cfcae1148/43918d1e0a400d3cae9c0ebdac31709f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Bailey! This sweet 9-year-old Anatolian Shepherd mix may be a senior, but she doesn't always act like one. Bailey is a very loving, affectionate, and cuddly girl with plenty of personality—and she still has some youthful energy to share!\n\nCurrently, Bailey enjoys a couple of 20–30 minute walks each day along with some extra playtime. She also loves a good nap and sleeps quite a bit once she’s had her fun. If she has access to a gated yard where she can stretch her legs and spend some time outside, she may also be perfectly happy with less structured walk time. She’s fully house trained, rides well in the car, and knows her basic commands when treats are involved. She seems to thrive with a routine and has done well in an apartment.\n\nBailey can be left loose in the home without being destructive or overly vocal and can comfortably be left for a workday. She has also done well spending a workday in a smaller gated room and enjoys having a crate available as an option to curl up in. She may whine or bark occasionally when she wants to go outside. She also enjoys occasionally curling up on the couch or bed with her people, but she’s respectful of boundaries and does well when told not to hop up or asked to move to another spot.\n\nBailey has lived with other dogs in her previous home, and we have no indication that it was anything but positive. She has also had good interactions with other dogs while in our care. Bailey does have a strong interest in small animals. If she spots a bunny, squirrel, or other critter, she can pull pretty hard on leash. Previously, she did well with older children, but she did not do well living with a baby, so a home with older kids or adults would likely be the best fit.\n\nBailey is simply a sweetheart. She is ready to bring her affectionate personality, cuddles, and youthful spirit to her new home",
+      "LastIntakeUnixTime": "1786658532",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787061604"
+    },
+    {
       "ID": "3655",
       "Internal-ID": "214207698",
       "Name": "Roo",
@@ -3154,115 +3263,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1786641588"
-    },
-    {
-      "ID": "3665",
-      "Internal-ID": "214291180",
-      "Name": "Bailey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1497502800,
-      "Age": 110,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4d93e4d9737a2ac6241cbc1a91247d5e/3f9fc7a1de7fd367ef01b05ecfd5f2c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8f491308a8f0118f8bf253bd2d57372f/83a73b0d85f3475f324d40a265eca0d7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/820077df2dbf73aa62d6a1cd8e14fa7f/ab55ec1364508bcb412fe7e4a6c45c75.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/132d47b5662a6d3bf79e0f6cfcae1148/43918d1e0a400d3cae9c0ebdac31709f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian",
-      "Color": "Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1786658532",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786814281"
     },
     {
       "ID": "3666",
