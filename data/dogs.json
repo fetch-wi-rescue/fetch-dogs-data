@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T02:10:53Z",
+  "updated": "2026-08-18T03:14:09Z",
   "count": 47,
   "animals": [
     {
@@ -181,101 +181,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1786321967"
-    },
-    {
-      "ID": "2350",
-      "Internal-ID": "213178951",
-      "Name": "Jane",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "59.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1652590800,
-      "Age": 51,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
-        "https://new-s3.shelterluv.com/profile-pictures/e4f2851f21aaed211bb0d65892564e41/009321c1277b1fe3b9df21447d978b9c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5c3a3835d30c9e221c7d7524c706cda0/db6502908e0b68885878da95e754eb9a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04c134cc6e28ac9fb5fc81e8b5bf1561/84dedb9c60d44fc060f2b213b923bccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/16bf6a1f6064774a71583c20c8c88167/204d516b0e099a100b24c89c852b2aa6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb66f2e42594547b07929da8b30a3b40/fd0994cddbc8a2aa37a101836e5cef1c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Fawn",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
-      "LastIntakeUnixTime": "1748062800",
-      "Attributes": [
-        {
-          "Internal-ID": "294340",
-          "AttributeName": "Single Dog Home",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629389",
-          "AttributeName": "❌ No cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1784559591"
     },
     {
       "ID": "2582",
@@ -1776,7 +1681,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786735960"
+      "LastUpdatedUnixTime": "1787020655"
     },
     {
       "ID": "3642",
@@ -2228,7 +2133,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "5.4",
+      "CurrentWeightPounds": "12",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1777830809,
@@ -2298,7 +2203,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786742886"
+      "LastUpdatedUnixTime": "1787019120"
     },
     {
       "ID": "3654",
@@ -3648,14 +3553,14 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "6",
+      "CurrentWeightPounds": "22.4",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1777957200,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6078936ea1242981b0a82be9559c3946/e929c299c12ff469c0a291ed4cdfbbcd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/17cdb607356207b8da8aad262976ff31/2308515b54e5fb7690c502df4be266c2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
@@ -3672,7 +3577,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/d22b9c5add7884d90ecd12f98e8943d3/899e473f684550d79315b61c58409473.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e802143342bf284ca617cd02c121692c/d0d7f06c9dfcdfbf311538fd50ac8ca3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/00c11eba3c6a6353ec53b46d517eeb4d/f451f7d9a9f5716a4fd75d9c658afd2c.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/cc564dffd2654d862e13c1861e10609f/08cbfce29014fd5cb77a6507500fe74a.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/3c593f61e771c6249a026d5687d1a6d9/4a171cc6ff3f884ae6f0802e103e4ec6.jpg",
@@ -3741,7 +3646,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786742886"
+      "LastUpdatedUnixTime": "1787022582"
     },
     {
       "ID": "3657",
@@ -3828,6 +3733,101 @@
         }
       ],
       "LastUpdatedUnixTime": "1786763904"
+    },
+    {
+      "ID": "2350",
+      "Internal-ID": "213178951",
+      "Name": "Jane",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "59.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1652590800,
+      "Age": 51,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6c18b1cf063e1b195dafbbea29ac0d65/dd0662db9097ad9a15ed5476917a5235.png",
+        "https://new-s3.shelterluv.com/profile-pictures/e4f2851f21aaed211bb0d65892564e41/009321c1277b1fe3b9df21447d978b9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c3a3835d30c9e221c7d7524c706cda0/db6502908e0b68885878da95e754eb9a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04c134cc6e28ac9fb5fc81e8b5bf1561/84dedb9c60d44fc060f2b213b923bccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/16bf6a1f6064774a71583c20c8c88167/204d516b0e099a100b24c89c852b2aa6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb66f2e42594547b07929da8b30a3b40/fd0994cddbc8a2aa37a101836e5cef1c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Fawn",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
+      "LastIntakeUnixTime": "1748062800",
+      "Attributes": [
+        {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "❌ No cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787019358"
     },
     {
       "ID": "3541",
