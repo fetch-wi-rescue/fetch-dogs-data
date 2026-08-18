@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:14:09Z",
+  "updated": "2026-08-18T04:04:17Z",
   "count": 47,
   "animals": [
     {
@@ -1894,6 +1894,111 @@
       "LastUpdatedUnixTime": "1786892703"
     },
     {
+      "ID": "3648",
+      "Internal-ID": "214152756",
+      "Name": "Belle",
+      "LitterGroupId": 9550702,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "22.4",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777957200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6078936ea1242981b0a82be9559c3946/e929c299c12ff469c0a291ed4cdfbbcd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/17cdb607356207b8da8aad262976ff31/2308515b54e5fb7690c502df4be266c2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a6bfcb4409c3eb6731f80e37d3c52939/19d96d7811694c3d878f6a24fbee0f26.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e55d3c71337cd1416ce7dc1ee6a5c38b/445c7f5b9f14cdb96514c28318553e61.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/34c9f510139908a3fd3a7f018df896df/122602fe70a6a03eda3dcced1b2a8a71.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c7575a21b1ef82e188235488eaef018b/6e771d526a4b8d320a5ab6fc1db196e4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5bbe2ae763e56679750e553afade29dc/bad6f2e8df0ff964bfa5c725ba6f63aa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dd8fb2f4a38f27a4a1688f9c368adbd3/6e5701e33d10cce0c2b1bd3f99437fe9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/168c225bcc66bac13485eb657b2b5777/b2cf82035955c3bf6a50001a89d0b8a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/88f4b77dac827cc907c566913ec2c76e/a13143b0acedf1c1b72d0e7d43aa6855.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/55389f4613ace998e2fe4efca462f438/db82f11e062b4fe9ab91fb34f5343bc0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/371ae5c6a10e4ef5344f82db1c79d60b/6dbb8d9d79e24f92cc38d0748d8635e8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d22b9c5add7884d90ecd12f98e8943d3/899e473f684550d79315b61c58409473.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e802143342bf284ca617cd02c121692c/d0d7f06c9dfcdfbf311538fd50ac8ca3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/00c11eba3c6a6353ec53b46d517eeb4d/f451f7d9a9f5716a4fd75d9c658afd2c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc564dffd2654d862e13c1861e10609f/08cbfce29014fd5cb77a6507500fe74a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c593f61e771c6249a026d5687d1a6d9/4a171cc6ff3f884ae6f0802e103e4ec6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a80931a450ef5f18a2d8585783b3906/122204e1cc7ffef34f39e606b4f6c769.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aef95a9d26b3bd780f9530056fc82d5f/2f823fb0f1697b1bac2cbcae11cad9c8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/63e8d5e84a380f915f4efafc4c5ca551/ca520957cf3409c611b593e909945cab.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/467f898545ca04d9ab03d1e3d3c67170/ab74ebb1a3c6fcdab0394aa081487940.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7517a40c9d95c7e589f268178b6df540/3076f34de552bafd4020d1850ad38183.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5380291b4614b5aa57cd331ccf473380/6bc2550ae16c23a665df1d617462df8e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c14bf302a1ae67d7b3d688d9c34c604/94ed815b19dea0266f3d78a744916886.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e9a1740756ab90df58e335276a7f5a5/1ccef34b60e4ecb24fef2a86978a22e5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e4af55e87113683e323e413c18ea67f0/ea654209a5098eaca995f092e78be469.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Terrier, Pit Bull",
+      "Color": "Grey/White",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Belle a bundle of happiness! This little furball is full of puppy kisses, playful antics, and endless cuddles. She is curious, affectionate, and eager to find a family to call her own. Whether it's playtime, nap time, or cuddle time, Belle is always happy to be by your side. Are you ready to welcome this adorable pup into your heart and home? ❤️🐾",
+      "LastIntakeUnixTime": "1784923034",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787023973"
+    },
+    {
       "ID": "3649",
       "Internal-ID": "214152757",
       "Name": "Rockelle",
@@ -2206,91 +2311,6 @@
       "LastUpdatedUnixTime": "1787019120"
     },
     {
-      "ID": "3654",
-      "Internal-ID": "214152766",
-      "Name": "Lily",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "51",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1719205200,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/63fd28fbabe2672368f73917c83be7ef/2cf6ab3f1e5c6453204bd5388757281f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/63fd28fbabe2672368f73917c83be7ef/2cf6ab3f1e5c6453204bd5388757281f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ebc8488a349298730bddcac038a8e845/d5ca4a420efc2c5131669085f9b788dc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/908f633ea54c0fcb73b0cc01a3295e3d/b71d1a9988c6f631aa01fb31648a33ff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1703f70ba44617e94ee68908824b1779/d374e0a3e655e43aa0625f33c03490d7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b3d264ae466e6cdad60398b43c69373/9ea8f3d5bc8c41af0f4e03db727f101b.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pyrenees, Great",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Lily!\n\nIf you're looking for a sweet, gentle companion with a heart full of love, Lily just might be your perfect match.\n\nLily has never met a dog she didn't like! She has been friendly with every dog she's encountered and would likely love having a canine brother or sister to romp around with. I think she gets a little bored with just me sometimes and would really enjoy having a playmate.\n\nShe also absolutely adores people. Walks with Lily are more of a leisurely \"sniffari\" than a power walk because she's convinced every smell is worth investigating—and every person deserves a friendly hello! She's wonderful on a leash and is happy to take her time exploring the world.\n\nOne of Lily's best qualities is how easygoing she is. She hardly ever barks (I've only heard her \"talk\" a couple of times), she's respectful during mealtimes and doesn't beg for food, and if you tell her \"no,\" she'll simply lie down and relax. At bedtime, she's happiest curled up next to her person and will happily sleep in as long as you do.\n\nLily also does well with grooming appointments and will happily head into her crate—as long as there's a tasty treat waiting for her!\n\nLike any young dog, Lily is still learning. She's making wonderful progress with potty training (we've even had two perfect days in a row!), but she'll need a family that's patient as she learns to let you know when she needs to go outside. She's also figuring out what's appropriate to chew, so keeping an eye on rugs, pillows, remotes, and other tempting treasures is important. She's working on basic commands like sit, stay, and come, and while car rides aren't her favorite yet, I think she'll gain confidence with a little more experience.\n\nOne thing to know about Lily is that she occasionally gets the zoomies! They're adorable to watch, but because she's a bigger girl, she could accidentally knock over a small child during one of her bursts of excitement.\n\nLily is a loving, affectionate dog with a gentle spirit who's looking for a family willing to continue teaching her the ropes. In return, you'll get a loyal best friend who loves people, gets along beautifully with other dogs, and will happily be your shadow through every sniff-filled walk and cozy morning cuddle.\n\nIf you're ready to open your heart to a wonderful girl who's already well on her way to becoming an amazing family dog, Lily is ready to meet you.",
-      "LastIntakeUnixTime": "1784817720",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786997426"
-    },
-    {
       "ID": "3656",
       "Internal-ID": "214218202",
       "Name": "Rosie",
@@ -2409,6 +2429,92 @@
         }
       ],
       "LastUpdatedUnixTime": "1786285047"
+    },
+    {
+      "ID": "3657",
+      "Internal-ID": "214218207",
+      "Name": "Emma",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "33",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1659243600,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/807159fa12505c2630daaeca8bea5550/c77816933eb7b576f30be7a45e805147.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/807159fa12505c2630daaeca8bea5550/c77816933eb7b576f30be7a45e805147.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/515ff83f1e6623dc24c67a1cd79112d0/746874e67b3b82ec144503c4ba45f0f6.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "White/Grey",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": null,
+      "Description": "Emma is a bright‑eyed, bushy tailed cattle dog with a heart full of devotion and a mind that never stops working. She’s the kind of dog who notices everything, loves deeply, and brings a quiet spark of energy into every room she enters.\n\nTrue to her cattle dog roots, she’s clever, alert, and always ready for a job or a puzzle. Emma thrives on regular exercise, enrichment games, and time outdoors. She loves being near her humans and is happiest when she’s included in family life. She responds beautifully to positive training and enjoys learning new cues.\n\nEmma will make you laugh, keep you moving, and reward you with unwavering loyalty. If you’re looking for a dog who’s as loving as she is spirited, Emma is ready to meet you.",
+      "LastIntakeUnixTime": "1785548817",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787023953"
     },
     {
       "ID": "3658",
@@ -2671,138 +2777,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787011116"
-    },
-    {
-      "ID": "3662",
-      "Internal-ID": "214281445",
-      "Name": "Sirus",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "52",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1665896400,
-      "Age": 46,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/de4f814e7441b3e24aa8a374b87eb8b0/5f1a76f13786f6bf24fb70e70b46226f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Shepherd, Australian",
-      "Color": "Blue Black/Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sirus is one of those dogs who just makes life better by being in the room. He’s a goofy, playful boy with a love for making friends. Dogs? He loves them. Cats? Totally cool with them. Kids and adults? He thinks every human is his new best buddy. Sirus is the kind of pup who fits into a family like he’s always been there.\n\nHe’s always ready to play, explore, chase toys, and join you in whatever fun you’ve got planned. But he’s also a sweetheart who enjoys hanging out, getting pets, and being part of the family. He’s social, silly, and full of personality.\n\nSirus does have occasional seizures, and while they can be a little scary to witness, he bounces back quickly and keeps living his happy little life. He doesn’t let it slow him down and at this time, his veterinarians have elected to monitor and track them rather than prescribe medications as they're infrequent. Mostly, he just needs someone who loves him and won’t mind keeping a little closer of an eye on him.\n\nIf you’re looking for a dog who’s friendly, fun, and full of joy; Sirus might be your perfect match. He’s ready to bring laughter, love, and a whole lot of tail wags into his forever home!",
-      "LastIntakeUnixTime": "1786552376",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634891",
-          "AttributeName": "⚠ Special Needs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786807923"
     },
     {
       "ID": "3655",
@@ -3446,49 +3420,36 @@
       "LastUpdatedUnixTime": "1787011248"
     },
     {
-      "ID": "3592",
-      "Internal-ID": "213786015",
-      "Name": "Mary Beth",
-      "LitterGroupId": 9522141,
+      "ID": "3654",
+      "Internal-ID": "214152766",
+      "Name": "Lily",
+      "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "60",
+      "CurrentWeightPounds": "51",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1676959200,
-      "Age": 41,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "DOBUnixTime": 1719205200,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/63fd28fbabe2672368f73917c83be7ef/2cf6ab3f1e5c6453204bd5388757281f.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
-        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/63fd28fbabe2672368f73917c83be7ef/2cf6ab3f1e5c6453204bd5388757281f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff21710cb3dc9a55740545ef13a80123/2384ffe39ddefdd36a3e321b4e0e9ae0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ebc8488a349298730bddcac038a8e845/d5ca4a420efc2c5131669085f9b788dc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/908f633ea54c0fcb73b0cc01a3295e3d/b71d1a9988c6f631aa01fb31648a33ff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1703f70ba44617e94ee68908824b1779/d374e0a3e655e43aa0625f33c03490d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b3d264ae466e6cdad60398b43c69373/9ea8f3d5bc8c41af0f4e03db727f101b.jpeg"
       ],
       "Videos": [],
-      "Breed": "Terrier, Staffordshire Bull/Mix",
-      "Color": "Chocolate",
+      "Breed": "Pyrenees, Great",
+      "Color": "White",
       "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
-      "LastIntakeUnixTime": "1780065092",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Lily!\n\nIf you're looking for a sweet, gentle companion with a heart full of love, Lily just might be your perfect match.\n\nLily has never met a dog she didn't like! She has been friendly with every dog she's encountered and would likely love having a canine brother or sister to romp around with. I think she gets a little bored with just me sometimes and would really enjoy having a playmate.\n\nShe also absolutely adores people. Walks with Lily are more of a leisurely \"sniffari\" than a power walk because she's convinced every smell is worth investigating—and every person deserves a friendly hello! She's wonderful on a leash and is happy to take her time exploring the world.\n\nOne of Lily's best qualities is how easygoing she is. She hardly ever barks (I've only heard her \"talk\" a couple of times), she's respectful during mealtimes and doesn't beg for food, and if you tell her \"no,\" she'll simply lie down and relax. At bedtime, she's happiest curled up next to her person and will happily sleep in as long as you do.\n\nLily also does well with grooming appointments and will happily head into her crate—as long as there's a tasty treat waiting for her!\n\nLike any young dog, Lily is still learning. She's making wonderful progress with potty training (we've even had two perfect days in a row!), but she'll need a family that's patient as she learns to let you know when she needs to go outside. She's also figuring out what's appropriate to chew, so keeping an eye on rugs, pillows, remotes, and other tempting treasures is important. She's working on basic commands like sit, stay, and come, and while car rides aren't her favorite yet, I think she'll gain confidence with a little more experience.\n\nOne thing to know about Lily is that she occasionally gets the zoomies! They're adorable to watch, but because she's a bigger girl, she could accidentally knock over a small child during one of her bursts of excitement.\n\nLily is a loving, affectionate dog with a gentle spirit who's looking for a family willing to continue teaching her the ropes. In return, you'll get a loyal best friend who loves people, gets along beautifully with other dogs, and will happily be your shadow through every sniff-filled walk and cozy morning cuddle.\n\nIf you're ready to open your heart to a wonderful girl who's already well on her way to becoming an amazing family dog, Lily is ready to meet you.",
+      "LastIntakeUnixTime": "1784817720",
       "Attributes": [
         {
           "Internal-ID": "294293",
@@ -3496,13 +3457,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
           "Publish": "Yes"
         },
         {
@@ -3511,118 +3467,23 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1786459026"
-    },
-    {
-      "ID": "3648",
-      "Internal-ID": "214152756",
-      "Name": "Belle",
-      "LitterGroupId": 9550702,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "22.4",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1777957200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f7355cd6ac5db0dc63eaf8b150fb9a68/9bf6e7b492348ce2c5a10b93306563ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6078936ea1242981b0a82be9559c3946/e929c299c12ff469c0a291ed4cdfbbcd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/17cdb607356207b8da8aad262976ff31/2308515b54e5fb7690c502df4be266c2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b840fd9c862a8a6aa00d4d871b92e3b6/13f2f775275d0a2a26a1fc8e452b6dde.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a6bfcb4409c3eb6731f80e37d3c52939/19d96d7811694c3d878f6a24fbee0f26.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e55d3c71337cd1416ce7dc1ee6a5c38b/445c7f5b9f14cdb96514c28318553e61.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/34c9f510139908a3fd3a7f018df896df/122602fe70a6a03eda3dcced1b2a8a71.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c7575a21b1ef82e188235488eaef018b/6e771d526a4b8d320a5ab6fc1db196e4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5bbe2ae763e56679750e553afade29dc/bad6f2e8df0ff964bfa5c725ba6f63aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dd8fb2f4a38f27a4a1688f9c368adbd3/6e5701e33d10cce0c2b1bd3f99437fe9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/168c225bcc66bac13485eb657b2b5777/b2cf82035955c3bf6a50001a89d0b8a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/88f4b77dac827cc907c566913ec2c76e/a13143b0acedf1c1b72d0e7d43aa6855.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/55389f4613ace998e2fe4efca462f438/db82f11e062b4fe9ab91fb34f5343bc0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/371ae5c6a10e4ef5344f82db1c79d60b/6dbb8d9d79e24f92cc38d0748d8635e8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d22b9c5add7884d90ecd12f98e8943d3/899e473f684550d79315b61c58409473.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9545628ccf4a47eb9070575a72ca2d56/9c44b92268b255ca6e0366880051b1bd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e802143342bf284ca617cd02c121692c/d0d7f06c9dfcdfbf311538fd50ac8ca3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e84c2edd5b809430cdddf47c8b6ae4a/f3a7215f4e6a5d9f19b99bd88014e820.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/00c11eba3c6a6353ec53b46d517eeb4d/f451f7d9a9f5716a4fd75d9c658afd2c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc564dffd2654d862e13c1861e10609f/08cbfce29014fd5cb77a6507500fe74a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c593f61e771c6249a026d5687d1a6d9/4a171cc6ff3f884ae6f0802e103e4ec6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a80931a450ef5f18a2d8585783b3906/122204e1cc7ffef34f39e606b4f6c769.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aef95a9d26b3bd780f9530056fc82d5f/2f823fb0f1697b1bac2cbcae11cad9c8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/63e8d5e84a380f915f4efafc4c5ca551/ca520957cf3409c611b593e909945cab.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/467f898545ca04d9ab03d1e3d3c67170/ab74ebb1a3c6fcdab0394aa081487940.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7517a40c9d95c7e589f268178b6df540/3076f34de552bafd4020d1850ad38183.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5380291b4614b5aa57cd331ccf473380/6bc2550ae16c23a665df1d617462df8e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5c14bf302a1ae67d7b3d688d9c34c604/94ed815b19dea0266f3d78a744916886.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e9a1740756ab90df58e335276a7f5a5/1ccef34b60e4ecb24fef2a86978a22e5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4af55e87113683e323e413c18ea67f0/ea654209a5098eaca995f092e78be469.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Terrier, Pit Bull",
-      "Color": "Grey/White",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Belle a bundle of happiness! This little furball is full of puppy kisses, playful antics, and endless cuddles. She is curious, affectionate, and eager to find a family to call her own. Whether it's playtime, nap time, or cuddle time, Belle is always happy to be by your side. Are you ready to welcome this adorable pup into your heart and home? ❤️🐾",
-      "LastIntakeUnixTime": "1784923034",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
           "Publish": "Yes"
         },
         {
@@ -3636,46 +3497,47 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787022582"
+      "LastUpdatedUnixTime": "1787023854"
     },
     {
-      "ID": "3657",
-      "Internal-ID": "214218207",
-      "Name": "Emma",
+      "ID": "3662",
+      "Internal-ID": "214281445",
+      "Name": "Sirus",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Female",
+      "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "33",
-      "Size": "Medium (25-59)",
+      "CurrentWeightPounds": "52",
+      "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1659243600,
-      "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/807159fa12505c2630daaeca8bea5550/c77816933eb7b576f30be7a45e805147.jpg",
+      "DOBUnixTime": 1665896400,
+      "Age": 46,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/807159fa12505c2630daaeca8bea5550/c77816933eb7b576f30be7a45e805147.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/515ff83f1e6623dc24c67a1cd79112d0/746874e67b3b82ec144503c4ba45f0f6.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/de4f814e7441b3e24aa8a374b87eb8b0/5f1a76f13786f6bf24fb70e70b46226f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg"
       ],
       "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "White/Grey",
-      "Pattern": "Merle",
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Shepherd, Australian",
+      "Color": "Blue Black/Brown",
+      "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Emma is a bright‑eyed, bushy tailed cattle dog with a heart full of devotion and a mind that never stops working. She’s the kind of dog who notices everything, loves deeply, and brings a quiet spark of energy into every room she enters.\n\nTrue to her cattle dog roots, she’s clever, alert, and always ready for a job or a puzzle. Emma thrives on regular exercise, enrichment games, and time outdoors. She loves being near her humans and is happiest when she’s included in family life. She responds beautifully to positive training and enjoys learning new cues.\n\nEmma will make you laugh, keep you moving, and reward you with unwavering loyalty. If you’re looking for a dog who’s as loving as she is spirited, Emma is ready to meet you.",
-      "LastIntakeUnixTime": "1785548817",
+      "Description": "Sirus is one of those dogs who just makes life better by being in the room. He’s a goofy, playful boy with a love for making friends. Dogs? He loves them. Cats? Totally cool with them. Kids and adults? He thinks every human is his new best buddy. Sirus is the kind of pup who fits into a family like he’s always been there.\n\nHe’s always ready to play, explore, chase toys, and join you in whatever fun you’ve got planned. But he’s also a sweetheart who enjoys hanging out, getting pets, and being part of the family. He’s social, silly, and full of personality.\n\nSirus does have occasional seizures, and while they can be a little scary to witness, he bounces back quickly and keeps living his happy little life. He doesn’t let it slow him down and at this time, his veterinarians have elected to monitor and track them rather than prescribe medications as they're infrequent. Mostly, he just needs someone who loves him and won’t mind keeping a little closer of an eye on him.\n\nIf you’re looking for a dog who’s friendly, fun, and full of joy; Sirus might be your perfect match. He’s ready to bring laughter, love, and a whole lot of tail wags into his forever home!",
+      "LastIntakeUnixTime": "1786552376",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -3707,6 +3569,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634885",
           "AttributeName": "✅ House trained",
           "Publish": "Yes"
@@ -3722,17 +3594,47 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634891",
+          "AttributeName": "⚠ Special Needs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
           "Publish": "Yes"
         },
         {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1786763904"
+      "LastUpdatedUnixTime": "1787023912"
     },
     {
       "ID": "2350",
@@ -4013,6 +3915,104 @@
         }
       ],
       "LastUpdatedUnixTime": "1786985422"
+    },
+    {
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1676959200,
+      "Age": 41,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
+        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787024029"
     },
     {
       "ID": "3603",
