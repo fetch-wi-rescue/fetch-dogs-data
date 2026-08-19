@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:34:59Z",
+  "updated": "2026-08-19T00:47:11Z",
   "animals": [
     {
       "ID": "3458",
@@ -1313,6 +1313,15 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-08-18T15:34:59Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3541",
+      "Name": "Marigold",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b9c418c243888b56678f1572fc3c96c/8c2eadb22abeffca0a6767dd40eb24b3.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-19T00:47:11Z",
       "status": "pending"
     }
   ]
