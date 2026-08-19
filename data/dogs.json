@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T21:47:51Z",
+  "updated": "2026-08-19T22:16:08Z",
   "count": 59,
   "animals": [
     {
@@ -4695,7 +4695,13 @@
       "Breed": "Pyrenees, Great",
       "Color": "White",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Meet Lily!\n\nIf you're looking for a sweet, gentle companion with a heart full of love, Lily just might be your perfect match.\n\nLily has never met a dog she didn't like! She has been friendly with every dog she's encountered and would likely love having a canine brother or sister to romp around with. I think she gets a little bored with just me sometimes and would really enjoy having a playmate.\n\nShe also absolutely adores people. Walks with Lily are more of a leisurely \"sniffari\" than a power walk because she's convinced every smell is worth investigating—and every person deserves a friendly hello! She's wonderful on a leash and is happy to take her time exploring the world.\n\nOne of Lily's best qualities is how easygoing she is. She hardly ever barks (I've only heard her \"talk\" a couple of times), she's respectful during mealtimes and doesn't beg for food, and if you tell her \"no,\" she'll simply lie down and relax. At bedtime, she's happiest curled up next to her person and will happily sleep in as long as you do.\n\nLily also does well with grooming appointments and will happily head into her crate—as long as there's a tasty treat waiting for her!\n\nLike any young dog, Lily is still learning. She's making wonderful progress with potty training (we've even had two perfect days in a row!), but she'll need a family that's patient as she learns to let you know when she needs to go outside. She's also figuring out what's appropriate to chew, so keeping an eye on rugs, pillows, remotes, and other tempting treasures is important. She's working on basic commands like sit, stay, and come, and while car rides aren't her favorite yet, I think she'll gain confidence with a little more experience.\n\nOne thing to know about Lily is that she occasionally gets the zoomies! They're adorable to watch, but because she's a bigger girl, she could accidentally knock over a small child during one of her bursts of excitement.\n\nLily is a loving, affectionate dog with a gentle spirit who's looking for a family willing to continue teaching her the ropes. In return, you'll get a loyal best friend who loves people, gets along beautifully with other dogs, and will happily be your shadow through every sniff-filled walk and cozy morning cuddle.\n\nIf you're ready to open your heart to a wonderful girl who's already well on her way to becoming an amazing family dog, Lily is ready to meet you.",
       "LastIntakeUnixTime": "1784817720",
       "Attributes": [
@@ -4750,7 +4756,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787023854"
+      "LastUpdatedUnixTime": "1787176952"
     },
     {
       "ID": "3662",
@@ -4912,7 +4918,13 @@
       "Breed": "Terrier, Pit Bull",
       "Color": "Fawn",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Meet Jane! This sweet 3-year-old momma has already raised 11 adorable puppies, and now it’s finally her turn to find a loving forever home. Jane is a wonderful mix of playful energy and couch-potato charm—she’ll happily romp around outside, explore new places, and then curl up beside you for some serious snuggle time. \n\nJane is a smart cookie who loves learning new things and enjoys playtime with other dogs, but she’d prefer to be the only dog in the home so she can soak up all the love and attention. Because of her playful style, she would do best in a household with children 12 or older. At about 50 pounds of pure sweetness, Jane is the perfect “play hard, snuggle hard” companion. If you’re looking for a loyal friend who will make you laugh, keep you active, and cuddle up at the end of the day, Jane might just be your girl. Ready to give this deserving mama her happily-ever-after? Jane can’t wait to meet you!",
       "LastIntakeUnixTime": "1748062800",
       "Attributes": [
@@ -4977,7 +4989,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787019358"
+      "LastUpdatedUnixTime": "1787177282"
     },
     {
       "ID": "3590",
