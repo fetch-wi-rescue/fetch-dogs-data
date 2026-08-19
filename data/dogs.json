@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T19:46:53Z",
-  "count": 56,
+  "updated": "2026-08-19T20:17:48Z",
+  "count": 59,
   "animals": [
     {
       "ID": "2754",
@@ -746,7 +746,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1732047217,
-      "Age": 20,
+      "Age": 21,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e37c074c126a6e8926d774ffb5bec769/c84b9fa060564a8b29c92d62204dfbfe.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e37c074c126a6e8926d774ffb5bec769/c84b9fa060564a8b29c92d62204dfbfe.jpeg",
@@ -4198,6 +4198,168 @@
       "LastUpdatedUnixTime": "1787167254"
     },
     {
+      "ID": "3684",
+      "Internal-ID": "214320070",
+      "Name": "Addie",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "4.4",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388140,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787168879",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787169056"
+    },
+    {
+      "ID": "3685",
+      "Internal-ID": "214320071",
+      "Name": "Mel",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "4.2",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388246,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787169410",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787169490"
+    },
+    {
       "ID": "3696",
       "Internal-ID": "214320157",
       "Name": "Bindi Sue",
@@ -4272,6 +4434,40 @@
         }
       ],
       "LastUpdatedUnixTime": "1787167132"
+    },
+    {
+      "ID": "3697",
+      "Internal-ID": "214322341",
+      "Name": "Ripple",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1767895748,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e6a7c390845ec526f06f03c200f5f73/41280dc5a9cafb556940e7766266f549.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Poodle",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1787169526",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787169568"
     },
     {
       "ID": "3521",
