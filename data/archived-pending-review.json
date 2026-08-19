@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T00:47:11Z",
+  "updated": "2026-08-19T22:48:09Z",
   "animals": [
     {
       "ID": "3458",
@@ -1322,6 +1322,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-19T00:47:11Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3603",
+      "Name": "Sheila",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d40697917fcb71bfb061664c29678678/ebb95071719e7afd7b5549001ef6ac2d.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-19T22:48:09Z",
       "status": "pending"
     }
   ]
