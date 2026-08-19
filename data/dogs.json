@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T18:22:01Z",
-  "count": 46,
+  "updated": "2026-08-19T19:00:35Z",
+  "count": 50,
   "animals": [
     {
       "ID": "2754",
@@ -3337,6 +3337,146 @@
         }
       ],
       "LastUpdatedUnixTime": "1786975480"
+    },
+    {
+      "ID": "3674",
+      "Internal-ID": "214320059",
+      "Name": "Porter",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997092,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aeaa6855e3d394175e65fd5217eb7e47/58b029def98573b313d4fe9eff0b0ab9.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/aeaa6855e3d394175e65fd5217eb7e47/58b029def98573b313d4fe9eff0b0ab9.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Apricot",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787165394",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787165483"
+    },
+    {
+      "ID": "3675",
+      "Internal-ID": "214320060",
+      "Name": "Jethro",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.7",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997165,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a26fd523c588d34f228b8f501859c400/bb9f71f71d86ecf9f2bb86a6dc86772c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a26fd523c588d34f228b8f501859c400/bb9f71f71d86ecf9f2bb86a6dc86772c.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787165546",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787165609"
+    },
+    {
+      "ID": "3676",
+      "Internal-ID": "214320061",
+      "Name": "Queso Blanco",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.12",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1779996953,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4dc3b6299f8240a3c6ae80d4cb2f3ee8/22f6889b268c8df84dfcc34d3b8e11e3.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4dc3b6299f8240a3c6ae80d4cb2f3ee8/22f6889b268c8df84dfcc34d3b8e11e3.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Apricot/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787165738",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787165759"
+    },
+    {
+      "ID": "3677",
+      "Internal-ID": "214320062",
+      "Name": "Parker",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.15",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1779996933,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Blond",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787165796",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787165902"
     },
     {
       "ID": "3682",
