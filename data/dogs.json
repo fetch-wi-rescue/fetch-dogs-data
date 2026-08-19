@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T15:00:23Z",
+  "updated": "2026-08-19T15:54:29Z",
   "count": 45,
   "animals": [
     {
@@ -1092,8 +1092,18 @@
       "LastIntakeUnixTime": "1781658720",
       "Attributes": [
         {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
           "Publish": "Yes"
         },
         {
@@ -1104,6 +1114,16 @@
         {
           "Internal-ID": "634883",
           "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
           "Publish": "Yes"
         },
         {
@@ -1120,14 +1140,9 @@
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786322009"
+      "LastUpdatedUnixTime": "1787152932"
     },
     {
       "ID": "3628",
