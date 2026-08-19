@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T16:54:00Z",
-  "count": 45,
+  "updated": "2026-08-19T17:19:32Z",
+  "count": 46,
   "animals": [
     {
       "ID": "2754",
@@ -3337,6 +3337,41 @@
         }
       ],
       "LastUpdatedUnixTime": "1786975480"
+    },
+    {
+      "ID": "3682",
+      "Internal-ID": "214320068",
+      "Name": "Cyndi",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.11",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1781672400,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/de1e3fc0e5874abdb5b0eab88b5c8a92/a1c5b03b016a559a8dc46eb891438235.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/de1e3fc0e5874abdb5b0eab88b5c8a92/a1c5b03b016a559a8dc46eb891438235.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Apricot",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787159424",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787159555"
     },
     {
       "ID": "3521",
