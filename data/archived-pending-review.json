@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T03:22:57Z",
+  "updated": "2026-08-20T14:27:13Z",
   "animals": [
     {
       "ID": "3458",
@@ -1340,6 +1340,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-20T03:22:57Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3642",
+      "Name": "Carlos",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/98fd024f3f293b455cd954e1f24f6bec/ed7be521338dd808425c358428f913c6.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-20T14:27:13Z",
       "status": "pending"
     }
   ]
