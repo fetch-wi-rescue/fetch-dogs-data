@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T14:27:13Z",
-  "count": 73,
+  "updated": "2026-08-20T15:04:20Z",
+  "count": 74,
   "animals": [
     {
       "ID": "2754",
@@ -5398,6 +5398,67 @@
       "LastUpdatedUnixTime": "1787169568"
     },
     {
+      "ID": "3698",
+      "Internal-ID": "214327204",
+      "Name": "Heath",
+      "LitterGroupId": 9575947,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778821200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bulldog/Mix",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787236190",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787236274"
+    },
+    {
       "ID": "3699",
       "Internal-ID": "214327205",
       "Name": "Fluffykins",
@@ -5408,8 +5469,8 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "4.2",
-      "Size": "",
-      "Altered": "Unknown",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
       "DOBUnixTime": 1779739740,
       "Age": 2,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
@@ -5429,8 +5490,29 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1787235889",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1787235925"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787236155"
     },
     {
       "ID": "3521",
