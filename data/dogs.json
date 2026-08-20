@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T03:22:57Z",
-  "count": 69,
+  "updated": "2026-08-20T04:05:22Z",
+  "count": 73,
   "animals": [
     {
       "ID": "2754",
@@ -3482,6 +3482,143 @@
       "LastUpdatedUnixTime": "1787196060"
     },
     {
+      "ID": "3672",
+      "Internal-ID": "214319994",
+      "Name": "Baloo",
+      "LitterGroupId": 9575377,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.8",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pei, Shar/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787196999",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787197076"
+    },
+    {
+      "ID": "3673",
+      "Internal-ID": "214319996",
+      "Name": "Fifi Noelle",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "35",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1659848400,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ef46ac3303427a21735d1250a983953c/5709f749086adb9d427f3b4ba1dafc5f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5f8e092de5236bb01ad56e7fb4de662/e750187f142d8cb4ccad252e9a3e452d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/83182ff2708dd02a2259248df3b9426c/f37e8fcbbb8e1d52cb6b071fef16c106.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Poodle, Miniature",
+      "Color": "Cream",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787196632",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787196848"
+    },
+    {
       "ID": "3674",
       "Internal-ID": "214320059",
       "Name": "Porter",
@@ -4984,6 +5121,50 @@
       "LastUpdatedUnixTime": "1787191563"
     },
     {
+      "ID": "3692",
+      "Internal-ID": "214320097",
+      "Name": "Lola May",
+      "LitterGroupId": 9575390,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
+        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png"
+      ],
+      "Videos": [],
+      "Breed": "Terrier/Mixed Breed (Small)",
+      "Color": "Black/Tan",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787196529",
+      "Attributes": [
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787196595"
+    },
+    {
       "ID": "3693",
       "Internal-ID": "214320100",
       "Name": "Scarlet",
@@ -5139,6 +5320,82 @@
         }
       ],
       "LastUpdatedUnixTime": "1787196126"
+    },
+    {
+      "ID": "3695",
+      "Internal-ID": "214320115",
+      "Name": "Pixie",
+      "LitterGroupId": 9575392,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777100400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0f183272f40b8e1c8dc995cf66c0daa6/34dc8c29eae1baff29c40ea86eef2a3f.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Hound",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1787196185",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787196245"
     },
     {
       "ID": "3696",
