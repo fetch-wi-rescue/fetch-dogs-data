@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:01:47Z",
+  "updated": "2026-08-21T15:56:08Z",
   "count": 72,
   "animals": [
     {
@@ -1031,113 +1031,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787010845"
-    },
-    {
-      "ID": "3629",
-      "Internal-ID": "214061017",
-      "Name": "Fenwick",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "77",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1736229600,
-      "Age": 19,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbebecc00ab3857b063f4591ef612ef8/1b8e659af8fc95db7c1f88a8f6f98074.png"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Cattle Dog",
-      "Color": "Fawn/Wheaten",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
-      "LastIntakeUnixTime": "1787030949",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787076991"
     },
     {
       "ID": "3631",
@@ -5537,90 +5430,6 @@
       "LastUpdatedUnixTime": "1786994896"
     },
     {
-      "ID": "3556",
-      "Internal-ID": "213684443",
-      "Name": "Birdie",
-      "LitterGroupId": 9510755,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.6",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714712400,
-      "Age": 27,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
-        "https://new-s3.shelterluv.com/profile-pictures/fd1fd823cf838360a8f2202f4eead0de/7634e01ef14a21906a6898b35b0467f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/32d4f13a84eccb5c4b2132f06fa35664/3986adcbe7e2ce87ee744914e007788d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Birdie is the sweetest, snuggliest girl! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has made lots of progress adjusting to indoor life and is nearly fully potty trained. She sleeps soundly through the night in her crate or snuggled up in bed with her foster parents, and seems to do well when left home alone in her crate. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be vocal, though she's making progress with gentle redirection and reassurance from her foster family.\n\nBirdie has done well being around adults, older children, cats, and other dogs. She currently lives with another dog in her foster home. Birdie can be nervous around new people, but once you've won her over, she is all snuggles and kisses ♥️\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. Fortunately, this seems to be greatly improving as she settles into her foster home. \n\nHer ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
-      "LastIntakeUnixTime": "1778689145",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787011248"
-    },
-    {
       "ID": "3579",
       "Internal-ID": "213704415",
       "Name": "Stacy",
@@ -5827,6 +5636,113 @@
       "LastUpdatedUnixTime": "1787191485"
     },
     {
+      "ID": "3629",
+      "Internal-ID": "214061017",
+      "Name": "Fenwick",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "77",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1736229600,
+      "Age": 19,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbebecc00ab3857b063f4591ef612ef8/1b8e659af8fc95db7c1f88a8f6f98074.png"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Cattle Dog",
+      "Color": "Fawn/Wheaten",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
+      "LastIntakeUnixTime": "1787030949",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787326964"
+    },
+    {
       "ID": "3662",
       "Internal-ID": "214281445",
       "Name": "Sirus",
@@ -5957,6 +5873,90 @@
         }
       ],
       "LastUpdatedUnixTime": "1787023912"
+    },
+    {
+      "ID": "3556",
+      "Internal-ID": "213684443",
+      "Name": "Birdie",
+      "LitterGroupId": 9510755,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.6",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1714712400,
+      "Age": 27,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/258c93d8c416e159b2878a6e818a8aa7/117b7807d913b5f6cc34269735ea0939.png",
+        "https://new-s3.shelterluv.com/profile-pictures/fd1fd823cf838360a8f2202f4eead0de/7634e01ef14a21906a6898b35b0467f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/32d4f13a84eccb5c4b2132f06fa35664/3986adcbe7e2ce87ee744914e007788d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/18f83947ffdde2ed29157405e45c5394/2df95697fb00af019fd39bc18a2927aa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5b25748c983ea2b736122727310ee08/66a052e9134a48f9dc4aae7625022f69.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1ae8089bc2b7b0125127159f3cd5d87/a51ed70d13a666a2680e3677f9e5a06c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c0b5442dade717c3fff063daf9137d16/b40488dd938acbaf543882db6bfaf8bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a2593cedc945d200a606308b52f4eb8/daa578c30c2ec0a9a09b6bb5e4f7f29d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/35f428c2c1a38ceecd3b523dc83e8c6f/ca4c3fdebcc135ef3146e59cab380e6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/df4dc119192a6d36ace9e41222dd4c13/858920677b49cc1c0c5e06d1cecc262a.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Birdie is the sweetest, snuggliest girl! After spending much of her life as a stray and raising six puppies of her own, she's more than ready to enjoy the good life in a loving forever home. Her favorite place to be is right next to her person, whether that's curled up on the couch for cuddles or following you from room to room.\n\nBirdie has made lots of progress adjusting to indoor life and is nearly fully potty trained. She sleeps soundly through the night in her crate or snuggled up in bed with her foster parents, and seems to do well when left home alone in her crate. As she keeps learning the ropes of being a family dog, Birdie will benefit from continued basic training and guidance. Like many Chihuahuas, she can be vocal, though she's making progress with gentle redirection and reassurance from her foster family.\n\nBirdie has done well being around adults, older children, cats, and other dogs. She currently lives with another dog in her foster home. Birdie can be nervous around new people, but once you've won her over, she is all snuggles and kisses ♥️\n\nBecause Birdie forms strong bonds, she can be a little anxious when her favorite person leaves. Fortunately, this seems to be greatly improving as she settles into her foster home. \n\nHer ideal adopter will be patient, understanding, and willing to continue helping her feel secure and independent.\n\nIf you're looking for a loving companion who will adore you with her whole heart, Birdie just might be your perfect match.",
+      "LastIntakeUnixTime": "1778689145",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787325982"
     },
     {
       "ID": "3590",
