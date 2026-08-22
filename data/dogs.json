@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:55:31Z",
+  "updated": "2026-08-22T19:17:37Z",
   "count": 71,
   "animals": [
     {
@@ -3408,7 +3408,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "8.15",
+      "CurrentWeightPounds": "9.6",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1779996933,
@@ -3487,7 +3487,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787317695"
+      "LastUpdatedUnixTime": "1787425586"
     },
     {
       "ID": "3678",
@@ -3499,14 +3499,21 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "11",
+      "CurrentWeightPounds": "9.8",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997141,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbde7330bec83d02421b120907b9194b/30a826c35c3ec69f88c87e8b6263b847.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/faa6aef3fb362754f38e620220bc5f44/745afa55ccfa2978c3cfc34517c568e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6334966f2fb656aa7f3eac902361d37e/e8f88676cd6c83f6c65bb64526dfed82.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -3578,7 +3585,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787317695"
+      "LastUpdatedUnixTime": "1787425318"
     },
     {
       "ID": "3679",
