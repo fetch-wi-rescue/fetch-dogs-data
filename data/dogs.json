@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:13:30Z",
+  "updated": "2026-08-22T20:45:49Z",
   "count": 71,
   "animals": [
     {
@@ -3700,14 +3700,20 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "10.15",
+      "CurrentWeightPounds": "11.6",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997123,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -3779,7 +3785,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787317694"
+      "LastUpdatedUnixTime": "1787430075"
     },
     {
       "ID": "3681",
@@ -3791,14 +3797,21 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "11.4",
+      "CurrentWeightPounds": "12",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779996924,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c8a8ba155e101744ac7f94fc3052abdd/a5cdacd2412b20078c603dd986356634.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e12dfcd0c2fd83659968a95dcafdfc19/718372d4539fdef866998478e5e64345.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c8a8ba155e101744ac7f94fc3052abdd/a5cdacd2412b20078c603dd986356634.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/e12dfcd0c2fd83659968a95dcafdfc19/718372d4539fdef866998478e5e64345.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c8a8ba155e101744ac7f94fc3052abdd/a5cdacd2412b20078c603dd986356634.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e30f83b9986040133ef6334294dcaed8/4f404e78646a9d9cd7e023237fb13b2c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ffd79770e1947fcb9005cbbc5e71e45/e2bfb17e9a55298415933c9c8f5d357b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/71533adabbe9418a29a726863631c9ed/58c27312039d7e2d49aa9f01575af4ec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/076bd2bfa30e0dba7d6037ab50c0863f/832fa4b6fa24990ad2969894876d8cda.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0dd8bce1755c4282523e45d4a2bae264/0ebb8e6766e2637efbf5bed4fc316ef1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7af7f3c58fadc6d088cd1a9e998f8544/1e6e318d12ef665acb71f41bd8a77dfb.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -3870,7 +3883,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787317694"
+      "LastUpdatedUnixTime": "1787431335"
     },
     {
       "ID": "3682",
