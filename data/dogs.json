@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T19:17:37Z",
+  "updated": "2026-08-22T19:43:28Z",
   "count": 71,
   "animals": [
     {
@@ -3317,14 +3317,19 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.12",
+      "CurrentWeightPounds": "10",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1779996953,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4dc3b6299f8240a3c6ae80d4cb2f3ee8/22f6889b268c8df84dfcc34d3b8e11e3.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93d212e43ecf991b80e89bc13ef3a91d/b728810f23edc15035d67fa4dad0d0de.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4dc3b6299f8240a3c6ae80d4cb2f3ee8/22f6889b268c8df84dfcc34d3b8e11e3.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/93d212e43ecf991b80e89bc13ef3a91d/b728810f23edc15035d67fa4dad0d0de.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4dc3b6299f8240a3c6ae80d4cb2f3ee8/22f6889b268c8df84dfcc34d3b8e11e3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fb54617d38ae79cd7e097f9ddfe77f6/169be4faba613a62ff78b45652b25cb9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fcee775c1f22c71e61b295f8ec48041c/8a1a19cf2a8ec8374d90040f26963946.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b66286545db29236331b4eaba9f45c5/cc04c61679dad0d602efb4232eb2e3d2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb1c4271411addc2845f755b03423655/7cb3679e459fc09afc0b1a81f5cb63b4.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -3396,7 +3401,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787317695"
+      "LastUpdatedUnixTime": "1787427333"
     },
     {
       "ID": "3677",
@@ -3413,9 +3418,13 @@
       "Altered": "No",
       "DOBUnixTime": 1779996933,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dae4d429b5eb4e2c97b19e4dc22b664/2deda62718a50b78a7a992f03b338602.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/49afbd77e0f6c66705967c0787027f5e/84af9e30ec74473f772840ac81fed60c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ca0dae27976ffefa7c8933958a495b86/fdb8fddaa5cd9da258343b9e4ad605a9.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -3487,7 +3496,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787425586"
+      "LastUpdatedUnixTime": "1787426460"
     },
     {
       "ID": "3678",
