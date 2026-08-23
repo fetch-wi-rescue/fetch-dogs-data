@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T20:13:08Z",
+  "updated": "2026-08-23T20:45:37Z",
   "count": 70,
   "animals": [
     {
@@ -2872,7 +2872,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "9.4",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1683003600,
@@ -2934,7 +2934,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787251138"
+      "LastUpdatedUnixTime": "1787516622"
     },
     {
       "ID": "3663",
