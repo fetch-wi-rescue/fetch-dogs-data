@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:54:53Z",
+  "updated": "2026-08-23T19:16:49Z",
   "count": 70,
   "animals": [
     {
@@ -1824,6 +1824,88 @@
         }
       ],
       "LastUpdatedUnixTime": "1787091381"
+    },
+    {
+      "ID": "3651",
+      "Internal-ID": "214152759",
+      "Name": "Malibu",
+      "LitterGroupId": 9558460,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1777830809,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6aa000eddb5b3efe1b692536f2e93226/dbaeeca514733da1862a1d9b6d78006a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06707b9e8e13af179b1b591a8c17d1df/daa6e898d0428281263d627a423a786e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06d9c7e0d22f2a7b4a36327765cce637/b0ef0cd36bf69ad3b0b32aa299d3b766.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d04bf43c7e934ca8eeffa6d401b23ae8/4e781ff104093fe97b718e311a2d6dde.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f1e6aad45a826c0be234a3abf25fb1d/89acb6bf48f799fa42fd874d02ffd3c7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6aaa84ef05542dcb4f5bfa519179fb67/39851b866d743c6403d6719c08a93a6f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b1e91fdd04cddf88361fc18378a9cb97/df2b1930403da455829a9ffef4006d9e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b16e322ac11302555e91096d178010ce/9adb603a234705f04e516b04ba3b698c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a82c53614d238abdeffded408872eb13/0c4961cdb0271cbd8da3982283137d37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8c1a6dfe2d617f5b10afdb79b6d3c8b/a3b3944646a6e28d0bf9b8d2abe1f54b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cf8e18c0720f1aa6f17b1436e97334bc/c542e22e96c66c278906d39aadaabefc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d105a7caf6fbfcc72782dd4109b44bfe/35c4c73157a98aa37172490beeba8bb3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/65e1f152ec7b3d62e8a9c16f906f3bad/10bee61ed83161355751fe86a478d4f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd7225ddbff013a7f273e5206589ecc5/2b73154cee8fe0f350663867dad0a019.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/44454afaa7f46d7d1868b8408f519db0/66bded3a08d095f7e11c8cecd82a960b.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/American Blue Heeler",
+      "Color": "Blue Black/Fawn",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Malibu is a sweet, friendly girl with a heart full of love and a tail that never stops wagging. She loves spending time with her people and is happiest when she's by your side, whether that's playing in the yard, going for a walk, or snuggling up after a fun day.\n\nThis happy pup has a playful spirit and enjoys making new friends, both human and canine. Malibu's affectionate personality and gentle nature make her a wonderful companion for a family, couple, or individual looking for a loyal best friend.\n\nIf you're searching for a loving, playful pup who will fill your days with joy, Malibu may be the perfect match for you. Come meet her and see why everyone falls in love with this sweet girl! ❤️🐶",
+      "LastIntakeUnixTime": "1784820514",
+      "Attributes": [
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "780444",
+          "AttributeName": "UGM 2026 candidate",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787511531"
     },
     {
       "ID": "3656",
@@ -4755,6 +4837,50 @@
       "LastUpdatedUnixTime": "1787417031"
     },
     {
+      "ID": "3692",
+      "Internal-ID": "214320097",
+      "Name": "Lola May",
+      "LitterGroupId": 9575390,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
+        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png"
+      ],
+      "Videos": [],
+      "Breed": "Terrier/Mixed Breed (Small)",
+      "Color": "Black/Tan",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787196529",
+      "Attributes": [
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787511518"
+    },
+    {
       "ID": "3693",
       "Internal-ID": "214320100",
       "Name": "Scarlet",
@@ -6089,132 +6215,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778859848"
-    },
-    {
-      "ID": "3651",
-      "Internal-ID": "214152759",
-      "Name": "Malibu",
-      "LitterGroupId": 9558460,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1777830809,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6aa000eddb5b3efe1b692536f2e93226/dbaeeca514733da1862a1d9b6d78006a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06707b9e8e13af179b1b591a8c17d1df/daa6e898d0428281263d627a423a786e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06d9c7e0d22f2a7b4a36327765cce637/b0ef0cd36bf69ad3b0b32aa299d3b766.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d04bf43c7e934ca8eeffa6d401b23ae8/4e781ff104093fe97b718e311a2d6dde.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f1e6aad45a826c0be234a3abf25fb1d/89acb6bf48f799fa42fd874d02ffd3c7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6aaa84ef05542dcb4f5bfa519179fb67/39851b866d743c6403d6719c08a93a6f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b1e91fdd04cddf88361fc18378a9cb97/df2b1930403da455829a9ffef4006d9e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b16e322ac11302555e91096d178010ce/9adb603a234705f04e516b04ba3b698c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a82c53614d238abdeffded408872eb13/0c4961cdb0271cbd8da3982283137d37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8c1a6dfe2d617f5b10afdb79b6d3c8b/a3b3944646a6e28d0bf9b8d2abe1f54b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf8e18c0720f1aa6f17b1436e97334bc/c542e22e96c66c278906d39aadaabefc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d105a7caf6fbfcc72782dd4109b44bfe/35c4c73157a98aa37172490beeba8bb3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/65e1f152ec7b3d62e8a9c16f906f3bad/10bee61ed83161355751fe86a478d4f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd7225ddbff013a7f273e5206589ecc5/2b73154cee8fe0f350663867dad0a019.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44454afaa7f46d7d1868b8408f519db0/66bded3a08d095f7e11c8cecd82a960b.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/American Blue Heeler",
-      "Color": "Blue Black/Fawn",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Malibu is a sweet, friendly girl with a heart full of love and a tail that never stops wagging. She loves spending time with her people and is happiest when she's by your side, whether that's playing in the yard, going for a walk, or snuggling up after a fun day.\n\nThis happy pup has a playful spirit and enjoys making new friends, both human and canine. Malibu's affectionate personality and gentle nature make her a wonderful companion for a family, couple, or individual looking for a loyal best friend.\n\nIf you're searching for a loving, playful pup who will fill your days with joy, Malibu may be the perfect match for you. Come meet her and see why everyone falls in love with this sweet girl! ❤️🐶",
-      "LastIntakeUnixTime": "1784820514",
-      "Attributes": [
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787336249"
-    },
-    {
-      "ID": "3692",
-      "Internal-ID": "214320097",
-      "Name": "Lola May",
-      "LitterGroupId": 9575390,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
-        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png"
-      ],
-      "Videos": [],
-      "Breed": "Terrier/Mixed Breed (Small)",
-      "Color": "Black/Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787196529",
-      "Attributes": [
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787336312"
     }
   ]
 }
