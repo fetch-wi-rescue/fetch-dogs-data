@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T22:44:56Z",
+  "updated": "2026-08-23T23:13:09Z",
   "count": 70,
   "animals": [
     {
@@ -2396,6 +2396,87 @@
       "LastUpdatedUnixTime": "1787081749"
     },
     {
+      "ID": "3672",
+      "Internal-ID": "214319994",
+      "Name": "Baloo",
+      "LitterGroupId": 9575377,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "14",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/88d8e82f1f67ae368fa3669fa4999fa6/d8688bd42745b289af486c50c6c80426.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d971f4f97333c83f9ed1f5d9e8a8f123/b223ee9bac9fc51808b5ff04f13d23e3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pei, Shar/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787196999",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787526662"
+    },
+    {
       "ID": "3674",
       "Internal-ID": "214320059",
       "Name": "Porter",
@@ -3445,84 +3526,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787417920"
-    },
-    {
-      "ID": "3672",
-      "Internal-ID": "214319994",
-      "Name": "Baloo",
-      "LitterGroupId": 9575377,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "14",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pei, Shar/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787196999",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787417800"
     },
     {
       "ID": "3673",
