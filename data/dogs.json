@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T02:20:06Z",
+  "updated": "2026-08-23T03:27:25Z",
   "count": 71,
   "animals": [
     {
@@ -2314,6 +2314,202 @@
       "LastUpdatedUnixTime": "1787081749"
     },
     {
+      "ID": "3674",
+      "Internal-ID": "214320059",
+      "Name": "Porter",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.2",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997092,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aeaa6855e3d394175e65fd5217eb7e47/58b029def98573b313d4fe9eff0b0ab9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/da2f0edf686f548827f7ae2489bcf82d/ae32ce75be4a43ac6db9bf1c068daa40.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3c4b13fbca1c9c317ab5e0fc3191881/bba9cf5faa5d24d04b0486a91d84f91e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5bef5d8cde9189b22f420b11ce334298/f0ecf27041e58566b8575f46403160f2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01acc26b8ea2e7f199d47cb0da2c82ec/9ab4704a5b944b6cb14fd9b151d5f9eb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1eaff8b0780713c45e4546ebeae8a3ab/a61a096bf61f2c1df6f48ebaa043165a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c591c1d942468d4f9a56459a946c59f9/c7e8d7548aae4187b325c1f9a7bffe64.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f559a3ad607178f325d479dc5a9d724/44bae161f620f97951877a916a7f2cef.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Apricot",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Hi, I'm Porter and I can't wait to meet you and become your forever friend!\n\nI'm a typical puppy full of energy and curiosity, and I absolutely love to play and I'm learning to snuggle with my people. I've met dogs, cats, and kids in my foster home, so with continued socialization, I'll fit right into just about any family! I promise to bring double the fun and twice the love to your home.\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787165394",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787453730"
+    },
+    {
+      "ID": "3682",
+      "Internal-ID": "214320068",
+      "Name": "Cyndi",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1781672400,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/de1e3fc0e5874abdb5b0eab88b5c8a92/a1c5b03b016a559a8dc46eb891438235.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/939cb1d1adc2e4c6113857c548ef13dc/5b60d3fc34b34908f01db5e165638af2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b7d457920441dc309cf95ad065968896/302fbafb38720bfe1daf23a418f0a821.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7198514862fdf52bfd5e06c0916c09ef/c7ed9d32b7e85f026d0708105bd2237c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fc263395cbd20df287eda69e2f25ea4e/8aaf48e8ce129af32966cb9c13308735.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/124f8169383bd7a9880a8b97b38f9a6c/4a7a2fc4c7e4307f9b9e718ac0bd228e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Apricot",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Hi, I'm Cyndi and I'm ready to steal your heart!\n\nI'm a typical puppy full of energy and curiosity, and I absolutely love to play and I'm learning to snuggle with my people. I've met dogs, cats, and kids in my foster home, so with continued socialization, I'll fit right into just about any family! I promise to bring double the fun and twice the love to your home.\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787159424",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787453454"
+    },
+    {
       "ID": "3695",
       "Internal-ID": "214320115",
       "Name": "Pixie",
@@ -3203,105 +3399,6 @@
       "LastUpdatedUnixTime": "1787232240"
     },
     {
-      "ID": "3674",
-      "Internal-ID": "214320059",
-      "Name": "Porter",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.2",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997092,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aeaa6855e3d394175e65fd5217eb7e47/58b029def98573b313d4fe9eff0b0ab9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/da2f0edf686f548827f7ae2489bcf82d/ae32ce75be4a43ac6db9bf1c068daa40.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3c4b13fbca1c9c317ab5e0fc3191881/bba9cf5faa5d24d04b0486a91d84f91e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5bef5d8cde9189b22f420b11ce334298/f0ecf27041e58566b8575f46403160f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01acc26b8ea2e7f199d47cb0da2c82ec/9ab4704a5b944b6cb14fd9b151d5f9eb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1eaff8b0780713c45e4546ebeae8a3ab/a61a096bf61f2c1df6f48ebaa043165a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c591c1d942468d4f9a56459a946c59f9/c7e8d7548aae4187b325c1f9a7bffe64.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f559a3ad607178f325d479dc5a9d724/44bae161f620f97951877a916a7f2cef.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Apricot",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787165394",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787435430"
-    },
-    {
       "ID": "3675",
       "Internal-ID": "214320060",
       "Name": "Jethro",
@@ -3975,103 +4072,6 @@
       "LastUpdatedUnixTime": "1787431335"
     },
     {
-      "ID": "3682",
-      "Internal-ID": "214320068",
-      "Name": "Cyndi",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1781672400,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de1e3fc0e5874abdb5b0eab88b5c8a92/a1c5b03b016a559a8dc46eb891438235.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/939cb1d1adc2e4c6113857c548ef13dc/5b60d3fc34b34908f01db5e165638af2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b7d457920441dc309cf95ad065968896/302fbafb38720bfe1daf23a418f0a821.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7198514862fdf52bfd5e06c0916c09ef/c7ed9d32b7e85f026d0708105bd2237c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc263395cbd20df287eda69e2f25ea4e/8aaf48e8ce129af32966cb9c13308735.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/124f8169383bd7a9880a8b97b38f9a6c/4a7a2fc4c7e4307f9b9e718ac0bd228e.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Apricot",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787159424",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787435580"
-    },
-    {
       "ID": "3683",
       "Internal-ID": "214320069",
       "Name": "Taz",
@@ -4590,7 +4590,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787417693"
+      "LastUpdatedUnixTime": "1787452357"
     },
     {
       "ID": "3690",
