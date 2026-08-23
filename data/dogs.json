@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:42:57Z",
+  "updated": "2026-08-23T20:13:08Z",
   "count": 70,
   "animals": [
     {
@@ -2592,6 +2592,109 @@
       "LastUpdatedUnixTime": "1787453454"
     },
     {
+      "ID": "3692",
+      "Internal-ID": "214320097",
+      "Name": "Lola May",
+      "LitterGroupId": 9575390,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png",
+        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0011d4c5ea8a92f489711b344a6aa60e/c527a5cb53a64dc381f323dcab901ebd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0286895108f487b3bdc140a0061be1b1/34b51c322d78d99cb057170704d084b5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb05e873b0b9014865313e3bfe1151bc/adcd41df5231caf17e0302a02276d65f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier/Mixed Breed (Small)",
+      "Color": "Black/Tan",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Lola May is an adorable 8-month-old pup who loves just about everyone she meets! 💕 She’s a total people-dog, loves playing with other dogs, enjoys her treats, and is always ready for a good walk.\nLola May has already received rave reviews from her Alabama foster family and her Wisconsin sitter, and she’s proving to be a wonderful little companion. She is likely potty and crate trained, but I’m confirming that now that she’s living with me.\n\nThis sweet girl is playful, social, affectionate, and ready to find her forever home! 🐾❤️",
+      "LastIntakeUnixTime": "1787196529",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787515753"
+    },
+    {
       "ID": "3695",
       "Internal-ID": "214320115",
       "Name": "Pixie",
@@ -4837,50 +4940,6 @@
       "LastUpdatedUnixTime": "1787417031"
     },
     {
-      "ID": "3692",
-      "Internal-ID": "214320097",
-      "Name": "Lola May",
-      "LitterGroupId": 9575390,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
-        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png"
-      ],
-      "Videos": [],
-      "Breed": "Terrier/Mixed Breed (Small)",
-      "Color": "Black/Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787196529",
-      "Attributes": [
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787511518"
-    },
-    {
       "ID": "3693",
       "Internal-ID": "214320100",
       "Name": "Scarlet",
@@ -4979,7 +5038,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9978fa6403c5e0cff7a6a75b26eff6ea/718c1fb7fa25073d69b8e6242ff9f7fe.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/9978fa6403c5e0cff7a6a75b26eff6ea/718c1fb7fa25073d69b8e6242ff9f7fe.png",
-        "https://new-s3.shelterluv.com/profile-pictures/2dd00280cc1bdf1875fe89f9c407d7a9/69234cd7e17810c50c8c396fb3845fcb.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/2dd00280cc1bdf1875fe89f9c407d7a9/69234cd7e17810c50c8c396fb3845fcb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0399d2613e19eae0f4829ed03a6f4f95/a2541084fb2a5d2567b79029992ad449.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever/Hound",
@@ -5030,7 +5090,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787508255"
+      "LastUpdatedUnixTime": "1787514423"
     },
     {
       "ID": "3696",
