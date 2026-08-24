@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T06:00:56Z",
+  "updated": "2026-08-24T07:34:39Z",
   "count": 70,
   "animals": [
     {
@@ -839,11 +839,6 @@
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
         }
       ],
       "LastUpdatedUnixTime": "1787011778"
@@ -1162,11 +1157,6 @@
         {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
           "Publish": "No"
         }
       ],
@@ -1488,9 +1478,14 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "840277",
+          "AttributeName": "Daycare - Attends Dog Den",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787551116"
+      "LastUpdatedUnixTime": "1787551818"
     },
     {
       "ID": "3648",
@@ -1587,11 +1582,6 @@
         {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
           "Publish": "No"
         }
       ],
@@ -1709,11 +1699,6 @@
           "Internal-ID": "715250",
           "AttributeName": "NPOG pup",
           "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
-          "Publish": "No"
         }
       ],
       "LastUpdatedUnixTime": "1786997131"
@@ -1813,17 +1798,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787091381"
+      "LastUpdatedUnixTime": "1787551497"
     },
     {
       "ID": "3651",
@@ -1897,11 +1877,6 @@
         {
           "Internal-ID": "715250",
           "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "780444",
-          "AttributeName": "UGM 2026 candidate",
           "Publish": "No"
         }
       ],
@@ -3532,7 +3507,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787549776"
+      "LastUpdatedUnixTime": "1787551289"
     },
     {
       "ID": "3694",
