@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T00:49:54Z",
+  "updated": "2026-08-24T02:18:23Z",
   "count": 70,
   "animals": [
     {
@@ -2673,6 +2673,92 @@
       "LastUpdatedUnixTime": "1787453454"
     },
     {
+      "ID": "3689",
+      "Internal-ID": "214320088",
+      "Name": "Cosmo",
+      "LitterGroupId": 9575389,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/58ada6ea2d923b0aec886e81f6b4d9f3/2dc41c69a158e69609e21235f69c1ff2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52dd58a88ede0cbc922f3067f1fd4cc5/c5630890d04902f49efc82f8f204dcd5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e4b0033debf4dd138773b0e438c9650d/a308454fcab2869ad6c69edb2dae1864.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c6deb461cdbb983381c38e5971c8139/63dd6f1a21cf3322925b6c2bd3bd0f78.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ed723588b977a0c4558288a3fcf5aa32/224787d5176ab3199883aa77ffbd1930.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Hound",
+      "Color": "Brindle/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Cosmo is an adorable puppy with the best floppy ears! She is a typical puppy who loves to snuggle and play. She is curious and wants to be by her people. \n\nCosmo is doing really well with crate training and potty training but is still learning. \n\nShe can't wait to meet her family!",
+      "LastIntakeUnixTime": "1787191061",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787533389"
+    },
+    {
       "ID": "3692",
       "Internal-ID": "214320097",
       "Name": "Lola May",
@@ -4771,87 +4857,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787418304"
-    },
-    {
-      "ID": "3689",
-      "Internal-ID": "214320088",
-      "Name": "Cosmo",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58ada6ea2d923b0aec886e81f6b4d9f3/2dc41c69a158e69609e21235f69c1ff2.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/58ada6ea2d923b0aec886e81f6b4d9f3/2dc41c69a158e69609e21235f69c1ff2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Brindle/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787191061",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787522670"
     },
     {
       "ID": "3690",
