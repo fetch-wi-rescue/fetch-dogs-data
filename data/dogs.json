@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T21:51:28Z",
-  "count": 70,
+  "updated": "2026-08-24T22:17:06Z",
+  "count": 69,
   "animals": [
     {
       "ID": "2754",
@@ -5961,101 +5961,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787024029"
-    },
-    {
-      "ID": "3613",
-      "Internal-ID": "213937986",
-      "Name": "Pete",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "17.58",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1746075600,
-      "Age": 15,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b990e3f6a6abd0cb324bdf37306c2ad3/72df844f128e3c535fb92296894bf0b6.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b990e3f6a6abd0cb324bdf37306c2ad3/72df844f128e3c535fb92296894bf0b6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4cd091caa82cb4a7c342c507b2f20ed0/fa0865d95a1ea480e15b994e95e5678e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc0164e4c4a656416b1e13681cbea54a/d978755712c345e20216c7d17e70be8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f9933dade938e1bb89141b7fcea01db9/63ffc33c8f781f24e68e7cacf5d315e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/15963739b1846023d949a3fbdd2d4327/45e9a6d3cf51861b9476cd08ba979dff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b32f1bd1c13d964b0b7710b15812538e/b7f20d6c958f3f0013c7fe06f72445bf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9fa543fd731e069e8d1d53e73b31e7f7/3b1ce4e9a5b4c1a8a27a265de2010127.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f3a3a22835277abd998a75dbfc69f8e8/eb844dd552918b8ff9f231e3ba38d50c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9bd68b77f9478d9f8a98f1dc36f30bfb/b02a9febed3271b1ae9da54e499ad79e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e494c5cba5e42f19429fbb62ec23d6db/9500c0f2540e757fb2a33f891210a69d.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "White/Brown",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Pete is a shy beagle who's still building his trust in people—but he's making progress. Right now, he feels safest with his canine pack mates and prefers to spend most of his time with them. He doesn't readily trust people, but he's slowly learning that humans can be okay, and that's huge growth for this sensitive guy.\n\nGetting picked up takes Pete a moment to adjust—he'll need some time to settle and feel secure—but once he relaxes, he's willing to accept your gentle touch and affection. He's learning that patience and kindness lead to good things.\n\nPete is a work in progress, and he needs a home that understands his pace. He thrives best without the unpredictability and noise of young children right now, though with time and the right environment, he may warm up to them. What he needs most is consistency, the companionship of another dog who can model confidence, and patience as he learns to trust.\n\nWhat Pete needs:\n\nA patient, calm family committed to his slow progress\nA fenced-in yard for safe, low-pressure exploration\nAt least one dog friend who can help model trust and confidence\nA home without young children at this stage\nTime and quiet spaces to decompress and build trust at his own pace\n\nIf you have the patience to let Pete bloom at his own speed, you'll discover what a sweet, gentle soul he is.",
-      "LastIntakeUnixTime": "1781658720",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787606450"
     },
     {
       "ID": "1442",

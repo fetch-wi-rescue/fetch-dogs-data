@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:42:36Z",
+  "updated": "2026-08-24T22:17:06Z",
   "animals": [
     {
       "ID": "3458",
@@ -1385,6 +1385,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-23T17:42:36Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3613",
+      "Name": "Pete",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b990e3f6a6abd0cb324bdf37306c2ad3/72df844f128e3c535fb92296894bf0b6.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-24T22:17:06Z",
       "status": "pending"
     }
   ]
