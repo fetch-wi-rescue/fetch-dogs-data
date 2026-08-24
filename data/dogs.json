@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:23:47Z",
+  "updated": "2026-08-24T21:51:28Z",
   "count": 70,
   "animals": [
     {
@@ -3245,109 +3245,6 @@
       "LastUpdatedUnixTime": "1787603711"
     },
     {
-      "ID": "3692",
-      "Internal-ID": "214320097",
-      "Name": "Lola May",
-      "LitterGroupId": 9575390,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png",
-        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
-        "https://new-s3.shelterluv.com/profile-pictures/0011d4c5ea8a92f489711b344a6aa60e/c527a5cb53a64dc381f323dcab901ebd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0286895108f487b3bdc140a0061be1b1/34b51c322d78d99cb057170704d084b5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb05e873b0b9014865313e3bfe1151bc/adcd41df5231caf17e0302a02276d65f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier/Mixed Breed (Small)",
-      "Color": "Black/Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Lola May is an adorable 8-month-old pup who loves just about everyone she meets! 💕 She’s a total people-dog, loves playing with other dogs, enjoys her treats, and is always ready for a good walk.\nLola May has already received rave reviews from her Alabama foster family and her Wisconsin sitter, and she’s proving to be a wonderful little companion.\n\nAfter a few minutes, she settles into her crate and is quiet overnight or for the work day! She is not completely potty trained, but has very few accidents. She whines a bit in the car, but does not get sick. She is also getting used to a leash but is catching on quick, no chewing on the leash for Lola May!\n\nThis sweet girl is playful, social, affectionate, and ready to find her forever home! 🐾❤️",
-      "LastIntakeUnixTime": "1787196529",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787600470"
-    },
-    {
       "ID": "3694",
       "Internal-ID": "214320112",
       "Name": "Mousse",
@@ -5761,6 +5658,109 @@
         }
       ],
       "LastUpdatedUnixTime": "1787023912"
+    },
+    {
+      "ID": "3692",
+      "Internal-ID": "214320097",
+      "Name": "Lola May",
+      "LitterGroupId": 9575390,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.4",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1765951200,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png",
+        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0011d4c5ea8a92f489711b344a6aa60e/c527a5cb53a64dc381f323dcab901ebd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0286895108f487b3bdc140a0061be1b1/34b51c322d78d99cb057170704d084b5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb05e873b0b9014865313e3bfe1151bc/adcd41df5231caf17e0302a02276d65f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier/Mixed Breed (Small)",
+      "Color": "Black/Tan",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Lola May is an adorable 8-month-old pup who loves just about everyone she meets! 💕 She’s a total people-dog, loves playing with other dogs, enjoys her treats, and is always ready for a good walk.\nLola May has already received rave reviews from her Alabama foster family and her Wisconsin sitter, and she’s proving to be a wonderful little companion.\n\nAfter a few minutes, she settles into her crate and is quiet overnight or for the work day! She is not completely potty trained, but has very few accidents. She whines a bit in the car, but does not get sick. She is also getting used to a leash but is catching on quick, no chewing on the leash for Lola May!\n\nThis sweet girl is playful, social, affectionate, and ready to find her forever home! 🐾❤️",
+      "LastIntakeUnixTime": "1787196529",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787606854"
     },
     {
       "ID": "3590",
