@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T23:42:48Z",
+  "updated": "2026-08-24T00:49:54Z",
   "count": 70,
   "animals": [
     {
@@ -2776,6 +2776,79 @@
       "LastUpdatedUnixTime": "1787515753"
     },
     {
+      "ID": "3694",
+      "Internal-ID": "214320112",
+      "Name": "Mousse",
+      "LitterGroupId": 9575392,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "25",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1777100400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb811a96658e254b0b6e150151a7c38d/f93a0d8f821ef4cd3d959caf2046d3b7.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/eb811a96658e254b0b6e150151a7c38d/f93a0d8f821ef4cd3d959caf2046d3b7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2dd00280cc1bdf1875fe89f9c407d7a9/69234cd7e17810c50c8c396fb3845fcb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9978fa6403c5e0cff7a6a75b26eff6ea/718c1fb7fa25073d69b8e6242ff9f7fe.png",
+        "https://new-s3.shelterluv.com/profile-pictures/26fb576da9f27885d2facd94f30357c7/952540b1b5a4b16cc9f083b99f963111.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Hound",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": null,
+      "Description": "This sweet girl is the perfect mix of playful puppy and professional snuggler. ❤️\n\nShe absolutely loves her humans and is happiest curled up next to you for some quality snuggle time. But she’s also wonderfully independent — she does great relaxing in her crate or a cozy bed when it’s time to settle down.\n\n✨ A few things that make her extra special:\n\n🐶 Loves kids and enjoys being part of the action\n🐶 Mostly potty trained and doing great\n🐶 Making fantastic progress with leash training\n🐶 Smart, quick to learn, and eager to please\n🐶 Loves learning tricks — and really loves showing them off!\n🐶 Playful, sweet and affectionate\n🐶 Comfortable settling in her crate or snuggly bed\n🐶 And then there are THE EARS. They seem to have minds of their own, and they may just be her cutest feature.\n\nShe has such a wonderful balance of puppy fun and sweetness. She’ll happily play and learn with you, then curl up beside you when the day is done.\n\nShe’s looking for a family who will love her as much as she’ll love them — which is saying a lot. \n\nSomeone is going to be very lucky to call this girl theirs. ",
+      "LastIntakeUnixTime": "1787196014",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787531751"
+    },
+    {
       "ID": "3695",
       "Internal-ID": "214320115",
       "Name": "Pixie",
@@ -5022,78 +5095,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787417067"
-    },
-    {
-      "ID": "3694",
-      "Internal-ID": "214320112",
-      "Name": "Mousse",
-      "LitterGroupId": 9575392,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1777100400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9978fa6403c5e0cff7a6a75b26eff6ea/718c1fb7fa25073d69b8e6242ff9f7fe.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9978fa6403c5e0cff7a6a75b26eff6ea/718c1fb7fa25073d69b8e6242ff9f7fe.png",
-        "https://new-s3.shelterluv.com/profile-pictures/2dd00280cc1bdf1875fe89f9c407d7a9/69234cd7e17810c50c8c396fb3845fcb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0399d2613e19eae0f4829ed03a6f4f95/a2541084fb2a5d2567b79029992ad449.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Hound",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1787196014",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787514423"
     },
     {
       "ID": "3696",
