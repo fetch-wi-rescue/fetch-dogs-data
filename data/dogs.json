@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T02:18:23Z",
+  "updated": "2026-08-24T03:29:25Z",
   "count": 70,
   "animals": [
     {
@@ -2576,6 +2576,100 @@
       "LastUpdatedUnixTime": "1787453730"
     },
     {
+      "ID": "3675",
+      "Internal-ID": "214320060",
+      "Name": "Jethro",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997165,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a26fd523c588d34f228b8f501859c400/bb9f71f71d86ecf9f2bb86a6dc86772c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd69c87b95f642a93650b59665c2cbfa/4db8d17daffce020f0501856465a3e15.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b038a81a204f9fa4839a8a22ce010338/e5c96833e343e342daa05d9ab929841f.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Hi, I'm Jethro! I'm the fluffy one of the bunch and I'm ready to bring joy to your home.\n\nI'm a typical puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'll fit right into just about any family! I can't wait to meet you and start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787165546",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787541982"
+    },
+    {
       "ID": "3682",
       "Internal-ID": "214320068",
       "Name": "Cyndi",
@@ -3744,100 +3838,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787232240"
-    },
-    {
-      "ID": "3675",
-      "Internal-ID": "214320060",
-      "Name": "Jethro",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997165,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a26fd523c588d34f228b8f501859c400/bb9f71f71d86ecf9f2bb86a6dc86772c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd69c87b95f642a93650b59665c2cbfa/4db8d17daffce020f0501856465a3e15.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b038a81a204f9fa4839a8a22ce010338/e5c96833e343e342daa05d9ab929841f.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787165546",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787428668"
     },
     {
       "ID": "3676",
