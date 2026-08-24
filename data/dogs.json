@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T19:10:09Z",
+  "updated": "2026-08-24T19:51:43Z",
   "count": 70,
   "animals": [
     {
@@ -1761,6 +1761,97 @@
       "LastUpdatedUnixTime": "1787511531"
     },
     {
+      "ID": "3655",
+      "Internal-ID": "214207698",
+      "Name": "Roo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1465448400,
+      "Age": 122,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
+      "LastIntakeUnixTime": "1785443311",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787600188"
+    },
+    {
       "ID": "3656",
       "Internal-ID": "214218202",
       "Name": "Rosie",
@@ -3190,7 +3281,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Lola May is an adorable 8-month-old pup who loves just about everyone she meets! 💕 She’s a total people-dog, loves playing with other dogs, enjoys her treats, and is always ready for a good walk.\nLola May has already received rave reviews from her Alabama foster family and her Wisconsin sitter, and she’s proving to be a wonderful little companion. She is likely potty and crate trained, but I’m confirming that now that she’s living with me.\n\nThis sweet girl is playful, social, affectionate, and ready to find her forever home! 🐾❤️",
+      "Description": "Lola May is an adorable 8-month-old pup who loves just about everyone she meets! 💕 She’s a total people-dog, loves playing with other dogs, enjoys her treats, and is always ready for a good walk.\nLola May has already received rave reviews from her Alabama foster family and her Wisconsin sitter, and she’s proving to be a wonderful little companion.\n\nAfter a few minutes, she settles into her crate and is quiet overnight or for the work day! She is not completely potty trained, but has very few accidents. She whines a bit in the car, but does not get sick. She is also getting used to a leash but is catching on quick, no chewing on the leash for Lola May!\n\nThis sweet girl is playful, social, affectionate, and ready to find her forever home! 🐾❤️",
       "LastIntakeUnixTime": "1787196529",
       "Attributes": [
         {
@@ -3254,7 +3345,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787551289"
+      "LastUpdatedUnixTime": "1787600470"
     },
     {
       "ID": "3694",
@@ -3405,97 +3496,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787549593"
-    },
-    {
-      "ID": "3655",
-      "Internal-ID": "214207698",
-      "Name": "Roo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "45.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1465448400,
-      "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
-      "LastIntakeUnixTime": "1785443311",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702284",
-          "AttributeName": "FP:  Aidan",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787596644"
     },
     {
       "ID": "3661",
@@ -4138,7 +4138,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787550053"
+      "LastUpdatedUnixTime": "1787599996"
     },
     {
       "ID": "3683",
