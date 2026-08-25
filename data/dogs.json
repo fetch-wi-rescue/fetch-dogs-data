@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:08:02Z",
+  "updated": "2026-08-25T19:53:12Z",
   "count": 69,
   "animals": [
     {
@@ -2308,7 +2308,97 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787676203"
+      "LastUpdatedUnixTime": "1787686250"
+    },
+    {
+      "ID": "3671",
+      "Internal-ID": "214319991",
+      "Name": "Esthi",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/77c7d24f6ce408bfcb2f72987823c983/526c2f1ecf2ff1f368b4ab31c77ea80b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f29b9baeac447d989e5947ad88369dc0/cb48dc7f99153bfb42ebb7e00ae10420.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f8478db99951984714aa29bc501f8ed/bc7718d75863972bbcbadd3c0092e9fc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b3b357986bc7fef5a58c8bef65939ef/1797ec82557b54db31c96d267498635e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Fawn/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Esthi is a delightful puppy, full of energy and curiosity. She quickly adapted to using a crate for naps, downtime, and overnights, and she has been sleeping through the night (6-7 hours) without needing a bathroom break. During the day, she goes outside after naps and meals and so far has not had any accidents indoors. Esthi loves chewing on toys, thinks she is a big as our 50 lb resident dog, and shows no signs of fear about anything. She is extremely food-motivated and learned \"sit\" in two days, which she has nicely demonstrated in almost every photo we have taken of her!\n\nEsthi has perfected the adorable head tilt and will be a great addition to some lucky home!",
+      "LastIntakeUnixTime": "1787195921",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787686377"
     },
     {
       "ID": "3672",
@@ -2399,7 +2489,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787663062"
+      "LastUpdatedUnixTime": "1787686493"
     },
     {
       "ID": "3674",
@@ -3355,7 +3445,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787672836"
+      "LastUpdatedUnixTime": "1787685917"
     },
     {
       "ID": "3685",
@@ -3465,7 +3555,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787672109"
+      "LastUpdatedUnixTime": "1787685959"
     },
     {
       "ID": "3687",
@@ -3574,7 +3664,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787672076"
+      "LastUpdatedUnixTime": "1787685987"
     },
     {
       "ID": "3689",
@@ -3660,7 +3750,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787603711"
+      "LastUpdatedUnixTime": "1787686117"
     },
     {
       "ID": "3694",
@@ -3733,7 +3823,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787573580"
+      "LastUpdatedUnixTime": "1787686419"
     },
     {
       "ID": "3695",
@@ -3810,7 +3900,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787549593"
+      "LastUpdatedUnixTime": "1787686455"
     },
     {
       "ID": "3663",
@@ -4064,7 +4154,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787548398"
+      "LastUpdatedUnixTime": "1787686299"
     },
     {
       "ID": "3670",
@@ -4149,92 +4239,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787548399"
-    },
-    {
-      "ID": "3671",
-      "Internal-ID": "214319991",
-      "Name": "Esthi",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/77c7d24f6ce408bfcb2f72987823c983/526c2f1ecf2ff1f368b4ab31c77ea80b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f29b9baeac447d989e5947ad88369dc0/cb48dc7f99153bfb42ebb7e00ae10420.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f8478db99951984714aa29bc501f8ed/bc7718d75863972bbcbadd3c0092e9fc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b3b357986bc7fef5a58c8bef65939ef/1797ec82557b54db31c96d267498635e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787195921",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787548399"
+      "LastUpdatedUnixTime": "1787686328"
     },
     {
       "ID": "3673",
@@ -4294,7 +4299,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787678360"
+      "LastUpdatedUnixTime": "1787686807"
     },
     {
       "ID": "3684",
@@ -4375,7 +4380,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546584"
+      "LastUpdatedUnixTime": "1787686010"
     },
     {
       "ID": "3686",
@@ -4456,7 +4461,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546808"
+      "LastUpdatedUnixTime": "1787686034"
     },
     {
       "ID": "3688",
@@ -4537,7 +4542,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787548279"
+      "LastUpdatedUnixTime": "1787686084"
     },
     {
       "ID": "3690",
@@ -4618,7 +4623,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787548279"
+      "LastUpdatedUnixTime": "1787686145"
     },
     {
       "ID": "3691",
@@ -4699,7 +4704,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787548279"
+      "LastUpdatedUnixTime": "1787686170"
     },
     {
       "ID": "3693",
@@ -4780,7 +4785,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787548279"
+      "LastUpdatedUnixTime": "1787686219"
     },
     {
       "ID": "3696",
@@ -4856,7 +4861,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787545676"
+      "LastUpdatedUnixTime": "1787686845"
     },
     {
       "ID": "3697",
@@ -4951,7 +4956,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787506429"
+      "LastUpdatedUnixTime": "1787686532"
     },
     {
       "ID": "3699",
@@ -5007,7 +5012,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787550304"
+      "LastUpdatedUnixTime": "1787686559"
     },
     {
       "ID": "3521",
@@ -5907,7 +5912,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787613630"
+      "LastUpdatedUnixTime": "1787686691"
     },
     {
       "ID": "3590",
