@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:32:17Z",
+  "updated": "2026-08-25T13:41:36Z",
   "count": 69,
   "animals": [
     {
@@ -842,96 +842,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787011778"
-    },
-    {
-      "ID": "3591",
-      "Internal-ID": "213772138",
-      "Name": "Moka",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "56.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1666414800,
-      "Age": 46,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/27af435340a176e29c4d547e605ae387/4fc705d29dd98bf3bd8ef5e222d2ffec.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dbdd7ff9bb02a270d13f499097ec5a0a/27ec2dd49c8cd5fe482fbc5d7d5016c1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/646f548766b0514629f3dab83e9145a7/d03909f76182bb4e77b8cb6d0ada09a7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b5423d6c5b118a0bf3640215787c956/ede68c8baea928d634be5d79240eb5f2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/696df7fddb762cfed16b6fcb8af63865/98e675bbd6ddc12db0622b680e2b0715.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d5bed59ecb70fca49918daaf6c10bb00/65752ba7daa4427742a44af5608ac9f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1c0df7ac148c399760e8257f19d9656c/6a49e5813a813eb42b68969996594882.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/393b6f668ef13d8f86006abe84a474b2/ec541bd737e1a531213dfa1c4d096b15.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fcc7135245eb727a69c1620f335ed0c2/9b68832fbea134ce5ab317647dee5267.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Red Heeler)/Mixed Breed (Medium)",
-      "Color": "White/Red/Mahogany",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Moka is a calm, low-energy sweetheart looking for a peaceful home where she can relax and enjoy life. She's incredibly well-mannered, smart, and easy to live with, making her a wonderful companion for someone looking for a laid-back pup.\n\nOne of Moka's favorite things is spending time with her people—especially if belly rubs are involved! She also enjoys car rides and is always happy to tag along for an adventure.\n\nMoka has previously lived with another dog and seems to be most confident when she has a canine companion by her side. She would love a home with another calm, low-key dog to keep her company and help her feel secure.\n\nShe is fully potty trained and has never had an accident in her foster home. Moka free roams the house during the day without getting into anything, but she's also perfectly happy to settle into her crate if asked. She has excellent house manners and already knows several commands, including sit, down, stay, leave it, and comes when calling her name.\n\nMoka can be sensitive to loud noises when she's outside, although they don't seem to bother her indoors. Because of this, she'd thrive in a quieter neighborhood with a lower-activity lifestyle. This would also be ideal for her because of a pre-existing knee injury. Moka has a dislocated kneecap from an injury she sustained when she was younger, but with joint supplements and moderate exercise, she manages it well and continues to enjoy life.\n\nIf you're looking for a gentle, loving, and well-behaved companion who will happily keep you company, join you for a leisurely car ride, and soak up all the belly rubs you have to offer, Moka could be the perfect addition to your life.",
-      "LastIntakeUnixTime": "1779905108",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787509248"
     },
     {
       "ID": "3628",
@@ -2262,8 +2172,18 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
           "Publish": "Yes"
         },
         {
@@ -2287,7 +2207,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787550164"
+      "LastUpdatedUnixTime": "1787663062"
     },
     {
       "ID": "3674",
@@ -5171,6 +5091,96 @@
         }
       ],
       "LastUpdatedUnixTime": "1787190832"
+    },
+    {
+      "ID": "3591",
+      "Internal-ID": "213772138",
+      "Name": "Moka",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "56.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1666414800,
+      "Age": 46,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ffa13da72e5d09ab9444abc313ee25b4/e98f25e2cdd14499f3c90050c8236dcc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/27af435340a176e29c4d547e605ae387/4fc705d29dd98bf3bd8ef5e222d2ffec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dbdd7ff9bb02a270d13f499097ec5a0a/27ec2dd49c8cd5fe482fbc5d7d5016c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/646f548766b0514629f3dab83e9145a7/d03909f76182bb4e77b8cb6d0ada09a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b5423d6c5b118a0bf3640215787c956/ede68c8baea928d634be5d79240eb5f2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/696df7fddb762cfed16b6fcb8af63865/98e675bbd6ddc12db0622b680e2b0715.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d5bed59ecb70fca49918daaf6c10bb00/65752ba7daa4427742a44af5608ac9f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c0df7ac148c399760e8257f19d9656c/6a49e5813a813eb42b68969996594882.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/393b6f668ef13d8f86006abe84a474b2/ec541bd737e1a531213dfa1c4d096b15.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fcc7135245eb727a69c1620f335ed0c2/9b68832fbea134ce5ab317647dee5267.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Red Heeler)/Mixed Breed (Medium)",
+      "Color": "White/Red/Mahogany",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Moka is a calm, low-energy sweetheart looking for a peaceful home where she can relax and enjoy life. She's incredibly well-mannered, smart, and easy to live with, making her a wonderful companion for someone looking for a laid-back pup.\n\nOne of Moka's favorite things is spending time with her people—especially if belly rubs are involved! She also enjoys car rides and is always happy to tag along for an adventure.\n\nMoka has previously lived with another dog and seems to be most confident when she has a canine companion by her side. She would love a home with another calm, low-key dog to keep her company and help her feel secure.\n\nShe is fully potty trained and has never had an accident in her foster home. Moka free roams the house during the day without getting into anything, but she's also perfectly happy to settle into her crate if asked. She has excellent house manners and already knows several commands, including sit, down, stay, leave it, and comes when calling her name.\n\nMoka can be sensitive to loud noises when she's outside, although they don't seem to bother her indoors. Because of this, she'd thrive in a quieter neighborhood with a lower-activity lifestyle. This would also be ideal for her because of a pre-existing knee injury. Moka has a dislocated kneecap from an injury she sustained when she was younger, but with joint supplements and moderate exercise, she manages it well and continues to enjoy life.\n\nIf you're looking for a gentle, loving, and well-behaved companion who will happily keep you company, join you for a leisurely car ride, and soak up all the belly rubs you have to offer, Moka could be the perfect addition to your life.",
+      "LastIntakeUnixTime": "1779905108",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787665206"
     },
     {
       "ID": "3629",
