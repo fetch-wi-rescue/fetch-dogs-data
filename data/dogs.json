@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:36:33Z",
+  "updated": "2026-08-25T15:34:32Z",
   "count": 69,
   "animals": [
     {
@@ -180,7 +180,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786321967"
+      "LastUpdatedUnixTime": "1787670137"
     },
     {
       "ID": "2582",
@@ -3164,6 +3164,113 @@
       "LastUpdatedUnixTime": "1787667531"
     },
     {
+      "ID": "3687",
+      "Internal-ID": "214320081",
+      "Name": "Bane ",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.5",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388423,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Bane is a little guy with big personality! He is up to explore and find the fun anywhere. He likes to be with people and loves to snuggle in close. He and his brothers are very polite, give kisses but refrain from using their teeth which has been so nice! He plays well with his brothers and it has been fun watching him grow and develop. He will make a sweet, cute, fun companion!",
+      "LastIntakeUnixTime": "1787190087",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787672071"
+    },
+    {
       "ID": "3689",
       "Internal-ID": "214320088",
       "Name": "Cosmo",
@@ -4227,7 +4334,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787667767"
+      "LastUpdatedUnixTime": "1787670433"
     },
     {
       "ID": "3686",
@@ -4309,112 +4416,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787546808"
-    },
-    {
-      "ID": "3687",
-      "Internal-ID": "214320081",
-      "Name": "Bane ",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.5",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388423,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Bane is a little guy with big personality! He is up to explore and find the fun anywhere. He likes to be with people and loves to snuggle in close. He and his brothers are very polite, give kisses but refrain from using their teeth which has been so nice! He plays well with his brothers and it has been fun watching him grow and develop. He will make a sweet, cute, fun companion!",
-      "LastIntakeUnixTime": "1787190087",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787667896"
     },
     {
       "ID": "3688",
