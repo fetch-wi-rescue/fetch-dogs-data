@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:26:50Z",
+  "updated": "2026-08-25T17:04:20Z",
   "count": 69,
   "animals": [
     {
@@ -2184,8 +2184,18 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
           "Publish": "Yes"
         },
         {
@@ -2224,7 +2234,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787673523"
+      "LastUpdatedUnixTime": "1787676203"
     },
     {
       "ID": "3672",
@@ -4241,12 +4251,13 @@
       "Altered": "Yes",
       "DOBUnixTime": 1659848400,
       "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ef46ac3303427a21735d1250a983953c/5709f749086adb9d427f3b4ba1dafc5f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b5f8e092de5236bb01ad56e7fb4de662/e750187f142d8cb4ccad252e9a3e452d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/83182ff2708dd02a2259248df3b9426c/f37e8fcbbb8e1d52cb6b071fef16c106.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/83182ff2708dd02a2259248df3b9426c/f37e8fcbbb8e1d52cb6b071fef16c106.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg"
       ],
       "Videos": [],
       "Breed": "Poodle, Miniature",
@@ -4283,7 +4294,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787599996"
+      "LastUpdatedUnixTime": "1787677456"
     },
     {
       "ID": "3684",
