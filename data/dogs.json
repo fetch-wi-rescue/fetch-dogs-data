@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T13:41:36Z",
+  "updated": "2026-08-25T14:36:33Z",
   "count": 69,
   "animals": [
     {
@@ -3079,6 +3079,91 @@
       "LastUpdatedUnixTime": "1787546058"
     },
     {
+      "ID": "3683",
+      "Internal-ID": "214320069",
+      "Name": "Taz",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388085,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Taz is a laid-back, confident puppy! He likes to sleep in, doesn’t get anxious and likes to snuggle. He likes to tell his brothers what to do and loves to eat all the food! He is a sweet, cute pup that should be easy to take into new situations, train well and will grow into a fantastic companion!",
+      "LastIntakeUnixTime": "1787167169",
+      "Attributes": [
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787667531"
+    },
+    {
       "ID": "3689",
       "Internal-ID": "214320088",
       "Name": "Cosmo",
@@ -3958,46 +4043,6 @@
       "LastUpdatedUnixTime": "1787599996"
     },
     {
-      "ID": "3683",
-      "Internal-ID": "214320069",
-      "Name": "Taz",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388085,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1787167169",
-      "Attributes": [
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787612832"
-    },
-    {
       "ID": "3684",
       "Internal-ID": "214320070",
       "Name": "Addie",
@@ -4088,7 +4133,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "4.2",
+      "CurrentWeightPounds": "10",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1779388246,
@@ -4108,7 +4153,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Mel is the sweetest boy! We all adore him. He is calm, will sit nicely in front of us and look up waiting for pets. He loves to be with us and is always polite and snuggly. He enjoys playing with his brothers and lets his little brother sleep on top of him. He has been fantastic with his potty and crate training and has longer legs and the best ears!! Whoever he ends up with will be very lucky.",
       "LastIntakeUnixTime": "1787169410",
       "Attributes": [
         {
@@ -4127,8 +4172,23 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
@@ -4147,6 +4207,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702286",
           "AttributeName": "FP:  Jen",
           "Publish": "No"
@@ -4155,9 +4220,14 @@
           "Internal-ID": "715250",
           "AttributeName": "NPOG pup",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787546730"
+      "LastUpdatedUnixTime": "1787667767"
     },
     {
       "ID": "3686",
@@ -4250,7 +4320,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "4.6",
+      "CurrentWeightPounds": "7.5",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1779388423,
@@ -4270,7 +4340,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Bane is a little guy with big personality! He is up to explore and find the fun anywhere. He likes to be with people and loves to snuggle in close. He and his brothers are very polite, give kisses but refrain from using their teeth which has been so nice! He plays well with his brothers and it has been fun watching him grow and develop. He will make a sweet, cute, fun companion!",
       "LastIntakeUnixTime": "1787190087",
       "Attributes": [
         {
@@ -4289,8 +4359,23 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
@@ -4309,12 +4394,27 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "715250",
           "AttributeName": "NPOG pup",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787546896"
+      "LastUpdatedUnixTime": "1787667896"
     },
     {
       "ID": "3688",
@@ -5175,12 +5275,12 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787665206"
+      "LastUpdatedUnixTime": "1787666499"
     },
     {
       "ID": "3629",
