@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:34:32Z",
+  "updated": "2026-08-25T16:26:50Z",
   "count": 69,
   "animals": [
     {
@@ -683,7 +683,11 @@
         "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/379f921e3bdcc4dd8d86ce6548e387ba/d922ca5761fd03d4524e92094f6a5752.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c4b4a8b2dbfa63fcad5db07c9eec2b1d/fa38261d43d483ae8add67e8fb11aca1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png"
       ],
       "Videos": [],
       "Breed": "Pinscher, Doberman/Rottweiler",
@@ -730,7 +734,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786465178"
+      "LastUpdatedUnixTime": "1787673077"
     },
     {
       "ID": "3581",
@@ -2119,6 +2123,110 @@
       "LastUpdatedUnixTime": "1787081749"
     },
     {
+      "ID": "3668",
+      "Internal-ID": "214319985",
+      "Name": "Bob",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/01e19606675857eaaf961851434186b1/2d168a223f86c4f38e229a6169afcb45.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb66628722413db562a8092b9c14a54b/1393c0c6a753e20f546cb5fec441bf1f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40257de4ca9f4b52af8e24c1e8da4992/368e17710f3967cca244fa62317c8f7e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4064f969cad70c6a56d6c8c800de3f65/5c1a58c33a4c732ff85c7a41c41c4d16.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/08f264815fde464c656548acaa5bf8a6/3285206f29fb2892d5b8edaee3863324.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b247845b1ab0e5a767e7ed7301e454d/2e4ae48257db6b26b7be3ae2f43c8393.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/da303862cdbcbca5b1287331ba4a3b2f/2c4fd93b789faf06d2de0b18581bac90.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e900bbd91fbbfb36a967c5934866f15e/478ee98a21107e5b052765d29a92cc5a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f062fa93de85288faabf2754e1f5e2e9/856ed71200fb921b3335a5a6191699a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70b309c1615c4b14d2d4cdcd7faf040b/db482a200c33f9ed587351a01dcec902.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f3a96a3b393e271de92b4cd16b16ad6/c5f8b0a616b9ff6e6ee72a1d8bfe2f80.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ac9e0ea7dbf26a1e0d3ae543e2789ea/94c3e6030e255a4be4e178356d3cb36e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf9f6bfca4ceff3e3ef082757591b8a2/b02795639419fb858dffa1631c243c84.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Fawn/White",
+      "Pattern": "Spotted",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Bob is your typical happy wiggly cuddly puppy! He loves everyone and everything he’s met so far including dogs, cats, kids and people of all ages! His favorite thing is playing fetch with his toys- he’s already an expert at bringing the toy back. Bob settles down quickly in his crate or playpen when it’s nap time and only wakes up once or twice overnight- but goes back to sleep when told. He hasn’t had a single accident so far in his foster home and is overall doing phenomenal- he would be an easy addition to pretty much any home. Bob is currently on some antibiotics for a small infrequent cough and should be kept separate from other dogs until this clears just to make sure everyone stays happy and healthy, but this shouldn’t be more than a few weeks tops. ",
+      "LastIntakeUnixTime": "1787195352",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787673523"
+    },
+    {
       "ID": "3672",
       "Internal-ID": "214319994",
       "Name": "Baloo",
@@ -3093,9 +3201,11 @@
       "Altered": "No",
       "DOBUnixTime": 1779388085,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0800c7f7f9d57b4f7249b4ba5237556f/d03e47135365f6cfb4aeabdff1c96f61.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/0800c7f7f9d57b4f7249b4ba5237556f/d03e47135365f6cfb4aeabdff1c96f61.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2eb18fceaffa22ab83f57b81f193fda4/9a7965a4e506a398371418405b939517.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian/Mixed Breed (Small)",
@@ -3161,7 +3271,117 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787667531"
+      "LastUpdatedUnixTime": "1787672836"
+    },
+    {
+      "ID": "3685",
+      "Internal-ID": "214320071",
+      "Name": "Mel",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388246,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/618b9ff364bf70997c8dcfd4027be4d0/117f6ff1fd675e1e315f5e387134bb1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62a28a5f38d1f9415bcb1e703e77fc23/cd505a247c539f9051d993fc43240fff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3d04ee777f70a34d1740bc590bcbb3a/e70d90c457cdbb73128388b36ae2f7a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Mel is the sweetest boy! We all adore him. He is calm, will sit nicely in front of us and look up waiting for pets. He loves to be with us and is always polite and snuggly. He enjoys playing with his brothers and lets his little brother sleep on top of him. He has been fantastic with his potty and crate training and has longer legs and the best ears!! Whoever he ends up with will be very lucky.",
+      "LastIntakeUnixTime": "1787169410",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787672109"
     },
     {
       "ID": "3687",
@@ -3178,10 +3398,12 @@
       "Altered": "No",
       "DOBUnixTime": 1779388423,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/97904145ed7fa7bc25abae7873f5e450/adeb393ace8b47e4eb96e858858a00f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b0c508900a811c9a963d501e3ed24f6/af43e923a5900ee1c712f703477038be.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian/Mixed Breed (Small)",
@@ -3268,7 +3490,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787672071"
+      "LastUpdatedUnixTime": "1787672076"
     },
     {
       "ID": "3689",
@@ -3750,92 +3972,6 @@
       "LastUpdatedUnixTime": "1787251114"
     },
     {
-      "ID": "3668",
-      "Internal-ID": "214319985",
-      "Name": "Bob",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e900bbd91fbbfb36a967c5934866f15e/478ee98a21107e5b052765d29a92cc5a.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e900bbd91fbbfb36a967c5934866f15e/478ee98a21107e5b052765d29a92cc5a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01e19606675857eaaf961851434186b1/2d168a223f86c4f38e229a6169afcb45.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb66628722413db562a8092b9c14a54b/1393c0c6a753e20f546cb5fec441bf1f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40257de4ca9f4b52af8e24c1e8da4992/368e17710f3967cca244fa62317c8f7e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b247845b1ab0e5a767e7ed7301e454d/2e4ae48257db6b26b7be3ae2f43c8393.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/da303862cdbcbca5b1287331ba4a3b2f/2c4fd93b789faf06d2de0b18581bac90.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "Spotted",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787195352",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787584228"
-    },
-    {
       "ID": "3669",
       "Internal-ID": "214319986",
       "Name": "Baxter",
@@ -4229,112 +4365,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787546584"
-    },
-    {
-      "ID": "3685",
-      "Internal-ID": "214320071",
-      "Name": "Mel",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388246,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Mel is the sweetest boy! We all adore him. He is calm, will sit nicely in front of us and look up waiting for pets. He loves to be with us and is always polite and snuggly. He enjoys playing with his brothers and lets his little brother sleep on top of him. He has been fantastic with his potty and crate training and has longer legs and the best ears!! Whoever he ends up with will be very lucky.",
-      "LastIntakeUnixTime": "1787169410",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787670433"
     },
     {
       "ID": "3686",
