@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T11:34:54Z",
-  "count": 70,
+  "updated": "2026-08-26T12:35:41Z",
+  "count": 71,
   "animals": [
     {
       "ID": "2754",
@@ -1493,7 +1493,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787524101"
+      "LastUpdatedUnixTime": "1787745877"
     },
     {
       "ID": "3649",
@@ -3666,7 +3666,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787685917"
+      "LastUpdatedUnixTime": "1787747608"
     },
     {
       "ID": "3685",
@@ -3776,7 +3776,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787685959"
+      "LastUpdatedUnixTime": "1787747695"
     },
     {
       "ID": "3687",
@@ -3885,7 +3885,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787685987"
+      "LastUpdatedUnixTime": "1787747732"
     },
     {
       "ID": "3689",
@@ -4066,11 +4066,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
         "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4228bec7e1e40626ec721b9c3a26b214/54d7916dade0f9f4547d726ca2464940.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5af35fdc9040361daadc425ae66f56e3/ba6dc6b0b6a1d572a2e7b7269e829636.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/127505e56a0c9a87e7a969d92d753213/c6c4e2e3df115444e88ac902f3780933.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever/Hound",
@@ -4121,7 +4119,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787691781"
+      "LastUpdatedUnixTime": "1787745847"
     },
     {
       "ID": "3663",
@@ -5236,6 +5234,33 @@
       "LastUpdatedUnixTime": "1787697939"
     },
     {
+      "ID": "3700",
+      "Internal-ID": "214385491",
+      "Name": "Thor",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1783573200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Husky",
+      "Color": "White/Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1787746606",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787746941"
+    },
+    {
       "ID": "3521",
       "Internal-ID": "213497174",
       "Name": "Maya",
@@ -5924,7 +5949,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787023912"
+      "LastUpdatedUnixTime": "1787747403"
     },
     {
       "ID": "3692",
