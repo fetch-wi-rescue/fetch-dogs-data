@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:36:12Z",
+  "updated": "2026-08-26T16:11:16Z",
   "count": 71,
   "animals": [
     {
@@ -4117,7 +4117,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787745847"
+      "LastUpdatedUnixTime": "1787756824"
     },
     {
       "ID": "3663",
@@ -4223,7 +4223,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787697842"
+      "LastUpdatedUnixTime": "1787758321"
     },
     {
       "ID": "3666",
@@ -4286,7 +4286,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787251114"
+      "LastUpdatedUnixTime": "1787756784"
     },
     {
       "ID": "3669",
@@ -4840,7 +4840,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787697890"
+      "LastUpdatedUnixTime": "1787758356"
     },
     {
       "ID": "3691",
@@ -5081,40 +5081,6 @@
       "LastUpdatedUnixTime": "1787686845"
     },
     {
-      "ID": "3697",
-      "Internal-ID": "214322341",
-      "Name": "Ripple",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "44.8",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1767895748,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6a7c390845ec526f06f03c200f5f73/41280dc5a9cafb556940e7766266f549.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Poodle",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1787169526",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1787250930"
-    },
-    {
       "ID": "3698",
       "Internal-ID": "214327204",
       "Name": "Heath",
@@ -5229,7 +5195,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787697939"
+      "LastUpdatedUnixTime": "1787758392"
     },
     {
       "ID": "3700",
@@ -5304,6 +5270,40 @@
         }
       ],
       "LastUpdatedUnixTime": "1787753645"
+    },
+    {
+      "ID": "3697",
+      "Internal-ID": "214322341",
+      "Name": "Ripple",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Boarding",
+      "InFoster": true,
+      "CurrentWeightPounds": "44.8",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1767895748,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e6a7c390845ec526f06f03c200f5f73/41280dc5a9cafb556940e7766266f549.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Poodle",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1787169526",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1787760456"
     },
     {
       "ID": "3521",
