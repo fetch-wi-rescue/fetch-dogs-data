@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T16:11:16Z",
+  "updated": "2026-08-26T18:10:45Z",
   "count": 71,
   "animals": [
     {
@@ -1505,7 +1505,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "22",
+      "CurrentWeightPounds": "29",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1777830979,
@@ -1604,7 +1604,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787578613"
+      "LastUpdatedUnixTime": "1787765970"
     },
     {
       "ID": "3650",
@@ -1616,7 +1616,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "18",
+      "CurrentWeightPounds": "25",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1777830674,
@@ -1704,7 +1704,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787752294"
+      "LastUpdatedUnixTime": "1787765913"
     },
     {
       "ID": "3651",
@@ -2618,97 +2618,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787686377"
-    },
-    {
-      "ID": "3672",
-      "Internal-ID": "214319994",
-      "Name": "Baloo",
-      "LitterGroupId": 9575377,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "14",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/88d8e82f1f67ae368fa3669fa4999fa6/d8688bd42745b289af486c50c6c80426.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d971f4f97333c83f9ed1f5d9e8a8f123/b223ee9bac9fc51808b5ff04f13d23e3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pei, Shar/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787196999",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787689993"
     },
     {
       "ID": "3674",
@@ -3886,92 +3795,6 @@
       "LastUpdatedUnixTime": "1787747732"
     },
     {
-      "ID": "3689",
-      "Internal-ID": "214320088",
-      "Name": "Cosmo",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/58ada6ea2d923b0aec886e81f6b4d9f3/2dc41c69a158e69609e21235f69c1ff2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52dd58a88ede0cbc922f3067f1fd4cc5/c5630890d04902f49efc82f8f204dcd5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4b0033debf4dd138773b0e438c9650d/a308454fcab2869ad6c69edb2dae1864.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c6deb461cdbb983381c38e5971c8139/63dd6f1a21cf3322925b6c2bd3bd0f78.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed723588b977a0c4558288a3fcf5aa32/224787d5176ab3199883aa77ffbd1930.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Brindle/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Cosmo is an adorable puppy with the best floppy ears! She is a typical puppy who loves to snuggle and play. She is curious and wants to be by her people. \n\nCosmo is doing really well with crate training and potty training but is still learning. \n\nShe can't wait to meet her family!",
-      "LastIntakeUnixTime": "1787191061",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787751072"
-    },
-    {
       "ID": "3694",
       "Internal-ID": "214320112",
       "Name": "Mousse",
@@ -4289,91 +4112,6 @@
       "LastUpdatedUnixTime": "1787756784"
     },
     {
-      "ID": "3669",
-      "Internal-ID": "214319986",
-      "Name": "Baxter",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787195637",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787686299"
-    },
-    {
       "ID": "3670",
       "Internal-ID": "214319988",
       "Name": "Ginger",
@@ -4456,7 +4194,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787686328"
+      "LastUpdatedUnixTime": "1787765610"
     },
     {
       "ID": "3673",
@@ -5212,13 +4950,15 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1783573200,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
       ],
       "Videos": [],
       "Breed": "Husky",
@@ -5269,7 +5009,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787753645"
+      "LastUpdatedUnixTime": "1787762511"
     },
     {
       "ID": "3697",
@@ -6292,7 +6032,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787024029"
+      "LastUpdatedUnixTime": "1787764897"
     },
     {
       "ID": "1442",
@@ -6491,6 +6231,271 @@
         }
       ],
       "LastUpdatedUnixTime": "1778859848"
+    },
+    {
+      "ID": "3669",
+      "Internal-ID": "214319986",
+      "Name": "Baxter",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787195637",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787761045"
+    },
+    {
+      "ID": "3672",
+      "Internal-ID": "214319994",
+      "Name": "Baloo",
+      "LitterGroupId": 9575377,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "14",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/88d8e82f1f67ae368fa3669fa4999fa6/d8688bd42745b289af486c50c6c80426.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d971f4f97333c83f9ed1f5d9e8a8f123/b223ee9bac9fc51808b5ff04f13d23e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a5b4c6f43b79adc64f39491d0f119f9/b7af0fc4b3220490f6f42111170f3842.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ef4163454ff077be6e01882413fee205/914caa34051c18edce980111b29dfd6f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pei, Shar/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787196999",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787763065"
+    },
+    {
+      "ID": "3689",
+      "Internal-ID": "214320088",
+      "Name": "Cosmo",
+      "LitterGroupId": 9575389,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/58ada6ea2d923b0aec886e81f6b4d9f3/2dc41c69a158e69609e21235f69c1ff2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52dd58a88ede0cbc922f3067f1fd4cc5/c5630890d04902f49efc82f8f204dcd5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e4b0033debf4dd138773b0e438c9650d/a308454fcab2869ad6c69edb2dae1864.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c6deb461cdbb983381c38e5971c8139/63dd6f1a21cf3322925b6c2bd3bd0f78.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ed723588b977a0c4558288a3fcf5aa32/224787d5176ab3199883aa77ffbd1930.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Hound",
+      "Color": "Brindle/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Cosmo is an adorable puppy with the best floppy ears! She is a typical puppy who loves to snuggle and play. She is curious and wants to be by her people. \n\nCosmo is doing really well with crate training and potty training but is still learning. \n\nShe can't wait to meet her family!",
+      "LastIntakeUnixTime": "1787191061",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787761023"
     }
   ]
 }
