@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:47:00Z",
+  "updated": "2026-08-26T14:36:12Z",
   "count": 71,
   "animals": [
     {
@@ -1621,23 +1621,22 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1777830674,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9e41ca7cf9cfe84e5adbfc72cb0d5b6a/406c9fc10f503eb79091b44b3b40ecad.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/132f27b0f9eddb7cff18b6dbeb52744d/d48cf4b713cc94b05a69961067a695e2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/36cccdef95ed7f8864845e5b33f5396d/e39433b62bcee5716a74b19415d86335.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6574aa44d4e1e6a02abaf816836707a1/7e20006e48905a5608ecbf6212a461f6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/93e16b567974cd21db242341c2a9854c/82888107e01bd0fe5222512e8d4c78da.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c3f4112a75ec92b16c75343324d18f33/6eded3b54f695ca4f053fb66843724f1.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/091d7b406a18554e2f57a82de954badb/5b21442de96d61562f65c13ef0472517.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/204167f77001efd0e7cef57ed50936d1/269c931900cb75354268280627536783.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/68c9328c3dea8106a8ec1f24a459b98c/9a370eb80dd1950f1989b2f83dc72cbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f10af87a40a155a3954e767b7d5e29f6/dd1a36fb585ef12c13d0757ce0849adb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1fe554efbcbb98cf325926823310c15c/c47539afa728ed9f3f5471ac8da3f6bd.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/def039d53269991ad9c36a2751fa7345/ace925ab29a0cff81816e47f19b3ef58.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/520ece87b5f36dfa0b15b96980d59c73/c5a848204683e2d7e1191a48bdb49afc.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/d87cb54cfa48e23e091086ba809c54e6/c2fe161a4a1f3d50ead89f63038ea583.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/47ddd559f471f934954ff678e20864ed/ebf686a6808cf9e945cc1ae56a87dafa.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8e56af8ec26bdb5cdeccee44aac90175/515304ac377219534f7cb1e2a1d14d9a.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/91eb6422e7d2bf7c76090d954466c70c/2cac0ab9b3802edc1ff4ee834fdd5b1d.jpg",
@@ -1705,7 +1704,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787752009"
+      "LastUpdatedUnixTime": "1787752294"
     },
     {
       "ID": "3651",
@@ -5235,20 +5234,26 @@
     {
       "ID": "3700",
       "Internal-ID": "214385491",
-      "Name": "Thor",
+      "Name": "Teddy",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "8.6",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1783573200,
       "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg"
+      ],
       "Videos": [],
       "Breed": "Husky",
       "Color": "White/Blond",
@@ -5256,8 +5261,49 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1787746606",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1787746941"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787753645"
     },
     {
       "ID": "3521",
