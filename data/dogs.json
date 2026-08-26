@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:10:45Z",
+  "updated": "2026-08-26T20:25:05Z",
   "count": 71,
   "animals": [
     {
@@ -1441,7 +1441,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/5380291b4614b5aa57cd331ccf473380/6bc2550ae16c23a665df1d617462df8e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5c14bf302a1ae67d7b3d688d9c34c604/94ed815b19dea0266f3d78a744916886.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8e9a1740756ab90df58e335276a7f5a5/1ccef34b60e4ecb24fef2a86978a22e5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4af55e87113683e323e413c18ea67f0/ea654209a5098eaca995f092e78be469.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/e4af55e87113683e323e413c18ea67f0/ea654209a5098eaca995f092e78be469.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/58d284406998b14196a080d1050e2f7a/d81c01c1a561f0283fff658b3a3ddbb1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70d2042c3aa02669f4350e6e8da20a02/32bcd906ef0a0717810448dc3b47d45a.jpeg"
       ],
       "Videos": [],
       "Breed": "Husky/Terrier, Pit Bull",
@@ -1493,7 +1495,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787745877"
+      "LastUpdatedUnixTime": "1787769030"
     },
     {
       "ID": "3649",
@@ -2413,7 +2415,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787081749"
+      "LastUpdatedUnixTime": "1787775887"
     },
     {
       "ID": "3668",
@@ -3882,21 +3884,24 @@
       "Altered": "No",
       "DOBUnixTime": 1777100400,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5af35fdc9040361daadc425ae66f56e3/ba6dc6b0b6a1d572a2e7b7269e829636.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever/Hound",
       "Color": "Black/White",
       "Pattern": "Tick",
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
       "LastIntakeUnixTime": "1787196185",
       "Attributes": [
         {
@@ -3940,7 +3945,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787756824"
+      "LastUpdatedUnixTime": "1787769159"
     },
     {
       "ID": "3663",
@@ -3952,7 +3957,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "34",
+      "CurrentWeightPounds": "31",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1749618000,
@@ -3991,7 +3996,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787712153"
+      "LastUpdatedUnixTime": "1787775812"
     },
     {
       "ID": "3664",
@@ -4046,7 +4051,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787758321"
+      "LastUpdatedUnixTime": "1787772980"
     },
     {
       "ID": "3666",
@@ -4578,7 +4583,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787758356"
+      "LastUpdatedUnixTime": "1787772899"
     },
     {
       "ID": "3691",
@@ -4833,9 +4838,11 @@
       "Altered": "No",
       "DOBUnixTime": 1778821200,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg"
       ],
       "Videos": [],
       "Breed": "Bulldog/Mix",
@@ -4867,6 +4874,31 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
@@ -4877,7 +4909,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787686532"
+      "LastUpdatedUnixTime": "1787769694"
     },
     {
       "ID": "3699",
@@ -4933,7 +4965,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787758392"
+      "LastUpdatedUnixTime": "1787772876"
     },
     {
       "ID": "3700",
