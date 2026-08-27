@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T23:54:00Z",
+  "updated": "2026-08-27T06:26:47Z",
   "count": 71,
   "animals": [
     {
@@ -4045,6 +4045,87 @@
       "LastUpdatedUnixTime": "1787769159"
     },
     {
+      "ID": "3700",
+      "Internal-ID": "214385491",
+      "Name": "Teddy",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.6",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1783573200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky",
+      "Color": "White/Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Teddy is a sweet, playful, calm puppy who is amazingly well adjusted and loves everyone. He is confident but submissive, great with people and other dogs, and just a very easy, happy little puppy. Teddy’s mom was a husky mix and he inherited the husky blue eyes, but dad is unknown so we are unsure how big he’ll get. He is a very quiet guy and does great  in his crate, so definitely doesn’t have the typical husky voice! Teddy is very social and would love to be your sidekick at a brewery or restaurant patio.",
+      "LastIntakeUnixTime": "1787746606",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787794079"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -4223,7 +4304,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "33.12",
+      "CurrentWeightPounds": "38",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1659848400,
@@ -4251,6 +4332,11 @@
       "LastIntakeUnixTime": "1787196632",
       "Attributes": [
         {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
@@ -4261,17 +4347,67 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787747783"
+      "LastUpdatedUnixTime": "1787789774"
     },
     {
       "ID": "3684",
@@ -4978,82 +5114,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787772876"
-    },
-    {
-      "ID": "3700",
-      "Internal-ID": "214385491",
-      "Name": "Teddy",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.6",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1783573200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky",
-      "Color": "White/Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1787746606",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787762511"
     },
     {
       "ID": "3697",
