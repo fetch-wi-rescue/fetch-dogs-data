@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T13:50:59Z",
+  "updated": "2026-08-28T23:20:04Z",
   "count": 71,
   "animals": [
     {
@@ -197,11 +197,12 @@
       "Altered": "Yes",
       "DOBUnixTime": 1419228000,
       "Age": 140,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2fe803f110c26c1335979f2461dcd30b/7b2edf5da063078e75077bc742f5e476.png",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bb94833ba7ee254f5f56abec4439305c/a8ee344ee9e9f7d027999317699995e4.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2fe803f110c26c1335979f2461dcd30b/7b2edf5da063078e75077bc742f5e476.png",
+        "https://new-s3.shelterluv.com/profile-pictures/bb94833ba7ee254f5f56abec4439305c/a8ee344ee9e9f7d027999317699995e4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/04285aad384eb8c87cc9a93b8ae27b08/acee9d65e54b82ffac3c16e20e9cc9b4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b2a5a4e898c226e2707f0a82c479d86a/b21a3fb4c2f324550872f395e4f12bea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fe803f110c26c1335979f2461dcd30b/7b2edf5da063078e75077bc742f5e476.png",
         "https://new-s3.shelterluv.com/profile-pictures/7a80fe506a0ad1bc6b94aa615c93f617/1c3950670ce4a6387c06a60d13580077.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e8152180f59da840fda90be5f1c0f797/c65fe19ff73c92bc547910f35fbc7a95.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4157186dcf9ff2a3705c2990d0e38d80/a9c40bff5c78f7d81dd3854c6d980dc3.jpeg",
@@ -219,7 +220,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Buddy is a senior cocker spaniel who was surrendered to Fetch when his elderly owner developed health issues and had to go into long term care. He is a happy guy with a big heart, a touch of doggy dementia and the bladder of a polite grandpa.\n\nBuddy absolutely loves other dogs and wants to be near them all the time. He is hard of hearing and doesn’t always notice when other dogs growl at him or don’t want his affection, and he can be a bit persistent with his love, but he responds well if another dog very firmly tells him to leave them alone. Buddy loves his people very much and is always up for attention and snuggles. He is not so good with strangers and will bark loudly when he sees someone he doesn’t know. Sometimes he forgets that he has already met someone and will bark loudly again. He is not a bite risk as he only has a few teeth left (more on that later) but I typically put him in his crate when new people come over so he doesn’t get worked up.\n\nBuddy has some health issues typical of senior dogs. He has a heart murmur that does not currently cause any symptoms and some arthritis that does not keep him from loving his walks and pulling hard on his leash. He has been diagnosed with chronic stenosis of the ear canals so will need to be monitored for ear infections. He also has KCS which is common in smaller breeds and means his eyes do not produce enough tears. He is on an eye ointment twice a day to stimulate tear production and his eyes look perfect now, but he will need to stay on the eye ointment for the rest of his life. He had most of his teeth removed due to severe dental disease, but he still prefers hard kibble to softened food. He can’t chew but he just swallows it whole.\n\nBuddy is mostly good in his crate but he will bark randomly if he wants attention or if he needs to potty, which is about every 2-3 hours during the day. He sleeps in his crate for 9-10 hours at night without a problem. As long as he is let out frequently during the day, he does not have accidents.\n\nIf you have a spot in your home for a fuzzy old man who will bark loudly at you for about 10 minutes and then love you forever, come meet Buddy!",
+      "Description": "Buddy is a senior cocker spaniel who was surrendered to Fetch when his elderly owner developed health issues and had to go into long term care. He is a happy guy with a big heart and a touch of doggy dementia.\n\nBuddy absolutely loves other dogs and is tolerant of all ages, including puppies. He loves his people very much and is always up for attention and snuggles. He is not so good with strangers and will bark loudly when he sees someone he doesn’t know. Sometimes he forgets that he has already met someone and will bark loudly again. He is not a bite risk as he only has a few teeth left (more on that later) but I typically put him in his crate when new people come over so he doesn’t get worked up.\n\nBuddy has some health issues typical of senior dogs. He has a heart murmur that does not currently cause any symptoms and some arthritis that does not keep him from loving his walks and pulling hard on his leash. He has been diagnosed with chronic stenosis of the ear canals so will need to be monitored for ear infections. He also has KCS which is common in smaller breeds and means his eyes do not produce enough tears. He gets eye drops twice a day to stimulate tear production and his eyes look perfect now, but he will need to stay on the eye drops for the rest of his life. He had most of his teeth removed due to severe dental disease, but he still prefers hard kibble to softened food. He can’t chew but he just swallows it whole.\n\nBuddy is very well behaved in his crate and will go in there on his own during the day to nap. He typically is crated for about 6 hours during the workday and about 10 hours at night and does great on that schedule. He is fully potty trained. He does not shed and needs regular haircuts which he does very well with.\n\nIf you have a spot in your home for a fuzzy old man who will bark loudly at you for about 10 minutes and then love you forever, come meet Buddy!",
       "LastIntakeUnixTime": "1770703200",
       "Attributes": [
         {
@@ -283,7 +284,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1784232056"
+      "LastUpdatedUnixTime": "1787931563"
     },
     {
       "ID": "3200",
@@ -2386,6 +2387,69 @@
       "LastUpdatedUnixTime": "1787857388"
     },
     {
+      "ID": "3666",
+      "Internal-ID": "214302659",
+      "Name": "Gunner",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "87",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1768456800,
+      "Age": 7,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4ad62741448ee6dfe098e399cbf39ae5/cc2f89ba4498928ca8f101a1f75f66cb.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4ad62741448ee6dfe098e399cbf39ae5/cc2f89ba4498928ca8f101a1f75f66cb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/972d9f082d1746131f6c935027089a69/48f15dbe6ed0b9e2334cb9976cba3e1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e65799479117869f49653252cf5cbc3f/7043680e7d239b63f897ac11773e7f5e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77d622533ae01ba7e3a0f15b57bd220a/fcfb972f945b2eb3ad305c9859c2e723.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Saint Bernard",
+      "Color": "Tan/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1786887590",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787939013"
+    },
+    {
       "ID": "3668",
       "Internal-ID": "214319985",
       "Name": "Bob",
@@ -2700,7 +2764,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997092,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
@@ -2799,7 +2863,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997165,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
@@ -2893,7 +2957,7 @@
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1779996953,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93d212e43ecf991b80e89bc13ef3a91d/b728810f23edc15035d67fa4dad0d0de.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/93d212e43ecf991b80e89bc13ef3a91d/b728810f23edc15035d67fa4dad0d0de.jpg",
@@ -2989,7 +3053,7 @@
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1779996933,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
@@ -3084,7 +3148,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997141,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
@@ -3182,7 +3246,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779996943,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ff85cf6839a70b7ea057e83ba9ac19e7/91d5ac1f38659d7a980ff3882840aaa8.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/ff85cf6839a70b7ea057e83ba9ac19e7/91d5ac1f38659d7a980ff3882840aaa8.jpg",
@@ -3277,7 +3341,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997123,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
@@ -3374,7 +3438,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779996924,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e12dfcd0c2fd83659968a95dcafdfc19/718372d4539fdef866998478e5e64345.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e12dfcd0c2fd83659968a95dcafdfc19/718372d4539fdef866998478e5e64345.jpg",
@@ -3947,6 +4011,98 @@
       "LastUpdatedUnixTime": "1787921486"
     },
     {
+      "ID": "3690",
+      "Internal-ID": "214320091",
+      "Name": "Frenchi",
+      "LitterGroupId": 9575389,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Hound",
+      "Color": "Tan",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Frenchi is a fun-loving little girl who loves to play with her pack.  She is learning potty training and is getting used to her kennel.  She settles into it after a bit of mouthiness, but will then sleep through the night.",
+      "LastIntakeUnixTime": "1787191183",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787937422"
+    },
+    {
       "ID": "3694",
       "Internal-ID": "214320112",
       "Name": "Mousse",
@@ -4321,69 +4477,6 @@
       "LastUpdatedUnixTime": "1787775812"
     },
     {
-      "ID": "3666",
-      "Internal-ID": "214302659",
-      "Name": "Gunner",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "87",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1768456800,
-      "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4ad62741448ee6dfe098e399cbf39ae5/cc2f89ba4498928ca8f101a1f75f66cb.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4ad62741448ee6dfe098e399cbf39ae5/cc2f89ba4498928ca8f101a1f75f66cb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/972d9f082d1746131f6c935027089a69/48f15dbe6ed0b9e2334cb9976cba3e1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e65799479117869f49653252cf5cbc3f/7043680e7d239b63f897ac11773e7f5e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77d622533ae01ba7e3a0f15b57bd220a/fcfb972f945b2eb3ad305c9859c2e723.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Saint Bernard",
-      "Color": "Tan/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1786887590",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787834016"
-    },
-    {
       "ID": "3673",
       "Internal-ID": "214319996",
       "Name": "Fifi Noelle",
@@ -4496,7 +4589,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787872438"
+      "LastUpdatedUnixTime": "1787952488"
     },
     {
       "ID": "3684",
@@ -4661,87 +4754,6 @@
       "LastUpdatedUnixTime": "1787833827"
     },
     {
-      "ID": "3690",
-      "Internal-ID": "214320091",
-      "Name": "Frenchi",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787191183",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787839402"
-    },
-    {
       "ID": "3691",
       "Internal-ID": "214320095",
       "Name": "Clay",
@@ -4837,9 +4849,15 @@
       "Altered": "No",
       "DOBUnixTime": 1780865288,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f61686371d20f4b786e06fbc22ddfb4b/2258840008a9d9ea30bef1199f516f8d.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47f6da62431a6fbe9a3c31e4980656bd/c266079571a1b4f920199dea3730554a.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f61686371d20f4b786e06fbc22ddfb4b/2258840008a9d9ea30bef1199f516f8d.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/47f6da62431a6fbe9a3c31e4980656bd/c266079571a1b4f920199dea3730554a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f61686371d20f4b786e06fbc22ddfb4b/2258840008a9d9ea30bef1199f516f8d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/feeb0f4f92bd5e67ca8cb358ff807c6a/826c435940dc60cf13d86b10507c3ee1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6602f7e9d05ae9cf8ad5b583c2cb3c12/3dd43dce584d32ea4d8460608ceb9db7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a77a06776a207a6bc83876eea2ffab2/d11d2a4dc6bc0af1d2d911b74c46dd6a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db5bc624a8075252571071ef4ae9e3ac/86980307c1c153d50e2d5b5c81d47616.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/34ce3645bb4dba17e1bca035233e242e/880533a3f1876cce609f5f589d9e8155.png"
       ],
       "Videos": [],
       "Breed": "Shepherd/Hound",
@@ -4901,7 +4919,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787686219"
+      "LastUpdatedUnixTime": "1787944253"
     },
     {
       "ID": "3696",
@@ -4994,9 +5012,11 @@
       "Altered": "No",
       "DOBUnixTime": 1779739740,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0c2d4e8282fc18d703296b3dda6da08d/ec99a6553a51d0d837c6ab6bd23a773a.jpg"
       ],
       "Videos": [],
       "Breed": "Husky/Mixed Breed (Medium)",
@@ -5009,7 +5029,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Fluffykins is a truly beautiful young lady.  She is full of puppy energy and is learning crate training and potty training.  She loves to play all day with her playmates, but sleeps through the night in her crate.",
       "LastIntakeUnixTime": "1787235889",
       "Attributes": [
         {
@@ -5018,8 +5038,43 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
           "Publish": "Yes"
         },
         {
@@ -5033,7 +5088,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787772876"
+      "LastUpdatedUnixTime": "1787937313"
     },
     {
       "ID": "3697",
@@ -6525,7 +6580,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787853072"
+      "LastUpdatedUnixTime": "1787940254"
     },
     {
       "ID": "3689",
