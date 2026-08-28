@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T01:57:55Z",
+  "updated": "2026-08-28T13:50:59Z",
   "count": 71,
   "animals": [
     {
@@ -2138,7 +2138,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787748031"
+      "LastUpdatedUnixTime": "1787919646"
     },
     {
       "ID": "3661",
@@ -3642,7 +3642,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787875029"
+      "LastUpdatedUnixTime": "1787921440"
     },
     {
       "ID": "3685",
@@ -3752,7 +3752,90 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787834858"
+      "LastUpdatedUnixTime": "1787921532"
+    },
+    {
+      "ID": "3686",
+      "Internal-ID": "214320076",
+      "Name": "Syd",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "4.2",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1779388330,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a056a38d5429d37884dc4ac9eb679ded/64d52f3611eb0132128e3ea74b88bbe6.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a056a38d5429d37884dc4ac9eb679ded/64d52f3611eb0132128e3ea74b88bbe6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/76b2b8d4b36ce3aa98bb9e45b5a93aed/8ef51ac06efa4c2b5047d79eecba7bce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/307ce10fa59cf1ade9db03572741bbdd/5b447c5c6241e56fa8089c81be9c47d0.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Syd is a joyful and silly puppy who is always ready to play. She is curious, a bit mischievous, very cuddly, and loves playing with our 6 year old son and other dogs. This smart and food motivated girl is quickly picking up potty training. For now, Syd still needs bathroom breaks every 3-4 hours but is very comfortable in her crate during work days. Best of all, she is regularly sleeping through the night! She is a sweet, spunky girl that will be a wonderful addition to your family! ",
+      "LastIntakeUnixTime": "1787189831",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787887357"
     },
     {
       "ID": "3687",
@@ -3861,7 +3944,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787834893"
+      "LastUpdatedUnixTime": "1787921486"
     },
     {
       "ID": "3694",
@@ -3934,7 +4017,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787743431"
+      "LastUpdatedUnixTime": "1787913925"
     },
     {
       "ID": "3695",
@@ -4495,87 +4578,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787686010"
-    },
-    {
-      "ID": "3686",
-      "Internal-ID": "214320076",
-      "Name": "Syd",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "4.2",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1779388330,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/76b2b8d4b36ce3aa98bb9e45b5a93aed/8ef51ac06efa4c2b5047d79eecba7bce.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/76b2b8d4b36ce3aa98bb9e45b5a93aed/8ef51ac06efa4c2b5047d79eecba7bce.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787189831",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787686034"
     },
     {
       "ID": "3688",
@@ -6201,7 +6203,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1566968400,
-      "Age": 83,
+      "Age": 84,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b4c4c36d34813177eb57a3c3e89321c2/c49ae73a85b6a4a4f59f2300b6f64828.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/b4c4c36d34813177eb57a3c3e89321c2/c49ae73a85b6a4a4f59f2300b6f64828.jpeg",
