@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T17:49:45Z",
-  "count": 72,
+  "updated": "2026-08-28T01:57:55Z",
+  "count": 71,
   "animals": [
     {
       "ID": "2754",
@@ -676,16 +676,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1751778000,
       "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/379f921e3bdcc4dd8d86ce6548e387ba/d922ca5761fd03d4524e92094f6a5752.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c4b4a8b2dbfa63fcad5db07c9eec2b1d/fa38261d43d483ae8add67e8fb11aca1.png",
         "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png"
       ],
@@ -734,7 +734,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787673077"
+      "LastUpdatedUnixTime": "1787857891"
     },
     {
       "ID": "3579",
@@ -2210,6 +2210,70 @@
       "LastUpdatedUnixTime": "1787826796"
     },
     {
+      "ID": "3664",
+      "Internal-ID": "214287417",
+      "Name": "Zombie ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "65",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1660145419,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1786635886",
+      "Attributes": [
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "634891",
+          "AttributeName": "⚠ Special Needs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787875005"
+    },
+    {
       "ID": "3665",
       "Internal-ID": "214291180",
       "Name": "Bailey",
@@ -2319,7 +2383,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787775927"
+      "LastUpdatedUnixTime": "1787857388"
     },
     {
       "ID": "3668",
@@ -2620,7 +2684,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787686377"
+      "LastUpdatedUnixTime": "1787880219"
     },
     {
       "ID": "3674",
@@ -3510,7 +3574,9 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/0800c7f7f9d57b4f7249b4ba5237556f/d03e47135365f6cfb4aeabdff1c96f61.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2eb18fceaffa22ab83f57b81f193fda4/9a7965a4e506a398371418405b939517.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/2eb18fceaffa22ab83f57b81f193fda4/9a7965a4e506a398371418405b939517.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/79195432969dd2b7faa88eae76ba6035/903867591effa24dc85606510e4ffd8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/736ecbede99aa27550e3fe42cceb33d4/d684781d53b2050395c3cba8f925fe36.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian/Mixed Breed (Small)",
@@ -3576,7 +3642,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787835618"
+      "LastUpdatedUnixTime": "1787875029"
     },
     {
       "ID": "3685",
@@ -3949,6 +4015,96 @@
       "LastUpdatedUnixTime": "1787769159"
     },
     {
+      "ID": "3698",
+      "Internal-ID": "214327204",
+      "Name": "Heath",
+      "LitterGroupId": 9575947,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "20",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778821200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52745934b9ec61772c435b4149122aed/5ce934cbe7a7602533fc9bfc03db9a4a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d4e4b6b1f1b96edd97d188ca9aedd792/7794d060aa172ebfb58235641b3911b3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bulldog/Mix",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Heath! \n\nA three month old puppy who loves his sleep and has his high energy moments too. Heath is very ready to find his forever home\n\nHe is making great strides in his potty training (we've only had one accident inside in his first week of fostering), and he is a little familiar with potty bells. Heath is also working on his crate training, he makes it through the night in the crate with his people nearby.\n\nLike most puppies he is loving to chew anything he can find, but this can be easily be taken care of with a raw hide chew, peanut butter stuffed kong, or other treats. \n\nWhen Heath has his person he will love being close to them! ",
+      "LastIntakeUnixTime": "1787236190",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1787857683"
+    },
+    {
       "ID": "3700",
       "Internal-ID": "214385491",
       "Name": "Teddy",
@@ -4080,70 +4236,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787775812"
-    },
-    {
-      "ID": "3664",
-      "Internal-ID": "214287417",
-      "Name": "Zombie ",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "65",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1660145419,
-      "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1786635886",
-      "Attributes": [
-        {
-          "Internal-ID": "294330",
-          "AttributeName": "Not Housetrained",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "634891",
-          "AttributeName": "⚠ Special Needs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787844620"
     },
     {
       "ID": "3666",
@@ -4321,7 +4413,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787826241"
+      "LastUpdatedUnixTime": "1787872438"
     },
     {
       "ID": "3684",
@@ -4886,94 +4978,6 @@
       "LastUpdatedUnixTime": "1787686845"
     },
     {
-      "ID": "3698",
-      "Internal-ID": "214327204",
-      "Name": "Heath",
-      "LitterGroupId": 9575947,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778821200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bulldog/Mix",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787236190",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787769694"
-    },
-    {
       "ID": "3699",
       "Internal-ID": "214327205",
       "Name": "Fluffykins",
@@ -5028,79 +5032,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787772876"
-    },
-    {
-      "ID": "3701",
-      "Internal-ID": "214398346",
-      "Name": "Puppy 2",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1783573200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
-      "Videos": [],
-      "Breed": "Husky",
-      "Color": "Cream",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1787831706",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787831804"
     },
     {
       "ID": "3697",
@@ -5710,11 +5641,12 @@
       "Altered": "Yes",
       "DOBUnixTime": 1665896400,
       "Age": 46,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e51519e8611975635ee8a63f85e231ec/821a30a1aee5faf3ca8421361f394303.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e51519e8611975635ee8a63f85e231ec/821a30a1aee5faf3ca8421361f394303.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/de4f814e7441b3e24aa8a374b87eb8b0/5f1a76f13786f6bf24fb70e70b46226f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg"
       ],
       "Videos": [],
       "Breed": "Cattle Dog, Australian (Blue Heeler)/Shepherd, Australian",
@@ -5825,7 +5757,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787747403"
+      "LastUpdatedUnixTime": "1787876607"
     },
     {
       "ID": "3692",
@@ -6537,7 +6469,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Meet Baloo! Similar to his namesake, he is a happy, chill guy. He is doing great with both potty and crate training and is already sleeping through the night! Baloo loves people and is good with other dogs. Though he is not currently fostered with cats or children, he is pretty laid back, so he could live with both with proper intros. \n\nBaloo loves toys and enjoys playing fetch. He is learning to walk on a leash and catches on quickly. His favorite things to do are lay in the yard or snuggle his foster family. This sweet boy will make a perfect addition to virtually any family! ",
       "LastIntakeUnixTime": "1787196999",
       "Attributes": [
         {
@@ -6591,7 +6523,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787834087"
+      "LastUpdatedUnixTime": "1787853072"
     },
     {
       "ID": "3689",
