@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T11:15:32Z",
+  "updated": "2026-08-29T15:42:23Z",
   "count": 74,
   "animals": [
     {
@@ -4122,7 +4122,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787937422"
+      "LastUpdatedUnixTime": "1788014434"
     },
     {
       "ID": "3698",
@@ -4501,7 +4501,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787952488"
+      "LastUpdatedUnixTime": "1788012647"
     },
     {
       "ID": "3684",
@@ -4924,7 +4924,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787937313"
+      "LastUpdatedUnixTime": "1788014486"
     },
     {
       "ID": "3702",
@@ -5959,7 +5959,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787967865"
+      "LastUpdatedUnixTime": "1788004059"
     },
     {
       "ID": "3695",
@@ -6215,7 +6215,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787832297"
+      "LastUpdatedUnixTime": "1788005768"
     },
     {
       "ID": "3592",
@@ -6430,6 +6430,100 @@
         }
       ],
       "LastUpdatedUnixTime": "1787974150"
+    },
+    {
+      "ID": "3672",
+      "Internal-ID": "214319994",
+      "Name": "Baloo",
+      "LitterGroupId": 9575377,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "14",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/88d8e82f1f67ae368fa3669fa4999fa6/d8688bd42745b289af486c50c6c80426.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d971f4f97333c83f9ed1f5d9e8a8f123/b223ee9bac9fc51808b5ff04f13d23e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a5b4c6f43b79adc64f39491d0f119f9/b7af0fc4b3220490f6f42111170f3842.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ef4163454ff077be6e01882413fee205/914caa34051c18edce980111b29dfd6f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pei, Shar/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Baloo! Similar to his namesake, he is a happy, chill guy. He is doing great with both potty and crate training and is already sleeping through the night! Baloo loves people and is good with other dogs. Though he is not currently fostered with cats or children, he is pretty laid back, so he could live with both with proper intros. \n\nBaloo loves toys and enjoys playing fetch. He is learning to walk on a leash and catches on quickly. His favorite things to do are lay in the yard or snuggle his foster family. This sweet boy will make a perfect addition to virtually any family! ",
+      "LastIntakeUnixTime": "1787196999",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788014652"
     },
     {
       "ID": "1442",
@@ -6804,100 +6898,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787761045"
-    },
-    {
-      "ID": "3672",
-      "Internal-ID": "214319994",
-      "Name": "Baloo",
-      "LitterGroupId": 9575377,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "14",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/88d8e82f1f67ae368fa3669fa4999fa6/d8688bd42745b289af486c50c6c80426.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d971f4f97333c83f9ed1f5d9e8a8f123/b223ee9bac9fc51808b5ff04f13d23e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a5b4c6f43b79adc64f39491d0f119f9/b7af0fc4b3220490f6f42111170f3842.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ef4163454ff077be6e01882413fee205/914caa34051c18edce980111b29dfd6f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pei, Shar/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Baloo! Similar to his namesake, he is a happy, chill guy. He is doing great with both potty and crate training and is already sleeping through the night! Baloo loves people and is good with other dogs. Though he is not currently fostered with cats or children, he is pretty laid back, so he could live with both with proper intros. \n\nBaloo loves toys and enjoys playing fetch. He is learning to walk on a leash and catches on quickly. His favorite things to do are lay in the yard or snuggle his foster family. This sweet boy will make a perfect addition to virtually any family! ",
-      "LastIntakeUnixTime": "1787196999",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787940254"
     },
     {
       "ID": "3689",
