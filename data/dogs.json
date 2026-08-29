@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T15:42:23Z",
+  "updated": "2026-08-29T19:02:50Z",
   "count": 74,
   "animals": [
     {
@@ -3727,7 +3727,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787969697"
+      "LastUpdatedUnixTime": "1788026241"
     },
     {
       "ID": "3685",
@@ -4050,7 +4050,9 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9ab19d26cfafe82f629ede7baf104ad/f48573d1885edc1bb4fa24e1c3530ebe.jpg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Hound",
@@ -4122,7 +4124,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788014434"
+      "LastUpdatedUnixTime": "1788026547"
     },
     {
       "ID": "3698",
@@ -4297,57 +4299,6 @@
       "LastUpdatedUnixTime": "1787848122"
     },
     {
-      "ID": "3663",
-      "Internal-ID": "214287416",
-      "Name": "Ciabatta",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "31",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1749618000,
-      "Age": 14,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "White/Brown",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1786635854",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787775812"
-    },
-    {
       "ID": "3667",
       "Internal-ID": "214317250",
       "Name": "Minnie",
@@ -4364,7 +4315,8 @@
       "Age": 24,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9e76f14c5407ebb0a9cc10f1b7fc6ad0/ceed78693e663e29d4d24ea73fccd16e.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9e76f14c5407ebb0a9cc10f1b7fc6ad0/ceed78693e663e29d4d24ea73fccd16e.png"
+        "https://new-s3.shelterluv.com/profile-pictures/9e76f14c5407ebb0a9cc10f1b7fc6ad0/ceed78693e663e29d4d24ea73fccd16e.png",
+        "https://new-s3.shelterluv.com/profile-pictures/52ee7271dea3450deba80650b4d616c0/009ee49220a0f5225b7d1f2ba28cdd79.png"
       ],
       "Videos": [],
       "Breed": "Pug/Mixed Breed (Small)",
@@ -4386,7 +4338,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787965566"
+      "LastUpdatedUnixTime": "1788026518"
     },
     {
       "ID": "3673",
@@ -4744,7 +4696,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787686170"
+      "LastUpdatedUnixTime": "1788018582"
     },
     {
       "ID": "3693",
@@ -4852,7 +4804,9 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0c2d4e8282fc18d703296b3dda6da08d/ec99a6553a51d0d837c6ab6bd23a773a.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/0c2d4e8282fc18d703296b3dda6da08d/ec99a6553a51d0d837c6ab6bd23a773a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/211c1674fdaf12ff3a7cf3279f0c8634/4615d6baafd239a6685d7aac62c3cb37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/435a6f5c9d545f86e69187136b56b35d/aaa64646b6a4667b9f7a0681886d46ee.jpg"
       ],
       "Videos": [],
       "Breed": "Husky/Mixed Breed (Medium)",
@@ -4924,7 +4878,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788014486"
+      "LastUpdatedUnixTime": "1788026530"
     },
     {
       "ID": "3702",
@@ -6813,6 +6767,57 @@
         }
       ],
       "LastUpdatedUnixTime": "1787846898"
+    },
+    {
+      "ID": "3663",
+      "Internal-ID": "214287416",
+      "Name": "Ciabatta",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "31",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1749618000,
+      "Age": 14,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "White/Brown",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1786635854",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788026178"
     },
     {
       "ID": "3669",
