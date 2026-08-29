@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:02:50Z",
+  "updated": "2026-08-29T21:51:06Z",
   "count": 74,
   "animals": [
     {
@@ -2679,7 +2679,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787778547"
+      "LastUpdatedUnixTime": "1788040086"
     },
     {
       "ID": "3671",
@@ -3730,6 +3730,112 @@
       "LastUpdatedUnixTime": "1788026241"
     },
     {
+      "ID": "3684",
+      "Internal-ID": "214320070",
+      "Name": "Addie",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "4.4",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388140,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce9982967cad16ce731aec71e9d6c0cf/fd1af4237aa5ca4123bbd8e7663ae672.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ce9982967cad16ce731aec71e9d6c0cf/fd1af4237aa5ca4123bbd8e7663ae672.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/268a800662ef8cec94921e9bc335e2c4/b1f236220f4c4e07be18d0291fdc1489.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f200f7a230cbe725fc4cb39347006262/699df943cba1d6994caa20e5685308f4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e42c0f96bfdcbeba5d17afbbb1b1bc61/b4d6004c7353fbeb9ced0b4b38dce6a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2e8745b6d5b04dbb20e80e322e2a9c2/0ec6172cb0c00a4ac90d3137629b2200.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Addie!\nAddie is a 3.5-month-old Australian Kelpie puppy looking for her forever home. This spunky girl is full of energy and ready to put that classic Kelpie drive to good use with an active family!\n\nEnergy & Exercise\nAddie is still a young puppy and hasn't completed her puppy vaccine series yet, so she hasn't been out on walks or in public spaces. That said, she's already showing the classic Kelpie love of activity. In the backyard, she'll happily run after her people, chase balls, and keep herself busy with chew toys for 20 to 30 minutes at a stretch. She's not yet leash trained for walks, but she's getting good practice on leash during nighttime yard breaks and is adjusting well.\n\nGood with the Crew\nAddie lives happily with another dog (a 9-year-old dog) and genuinely enjoys canine company. She's also great with cats. She's living with two 2-year-old cats and is learning her manners around them. She does have a strong herding instinct and will chase them or get in their space, but she hasn't nipped at them, and she's already learning to back off when the cats correct her. We're confident this can be shaped with continued training.\n\nWith kids, Addie is doing great with an 11-year-old in her foster home. She loves to chase him around the backyard and play fetch.\n\nAddie gets excited when she gets to meet new people, but since she hasn't been out in public, we haven't seen how she reacts to meeting new dogs. We slowly introduced her to the animals in our house, and that was key to making sure they all got along. Addie will be attending daycare soon, so we will have more information on that.\n\nTraining & Temperament\nAddie is a quick learner. She's picking up basic commands like sit and leave it, and she's responding well to potty training, currently on a schedule of every 2 to 4 hours during the day since she has access to water bowls throughout the house. She's a quiet pup who barely barks. She was only separated from her littermates about a week ago and has adjusted impressively fast, though like most young puppies, she can get anxious if she wakes up in her crate and doesn't see her people nearby. She's actively working on building confidence with alone time and making steady progress. As a growing puppy, she still needs regular potty breaks throughout the day and isn't yet ready to be left alone for a full workday, though she does great in her crate on a consistent schedule. No resource guarding has been observed.\n\nWhen she's not busy playing, Addie loves to snuggle. She enjoys pets and curling up on the couch with her people.\n\nWe think Addie would love a home with a yard to run in, ideally with another resident dog for company, and until she's a bit older, someone who can be around for regular puppy potty breaks. Some dog experience or a beginner with a willingness to commit to training will be important, given her herding instincts and puppy energy. And her giant ears and blue-grey eyes will make up for any puppy antics in the meantime.",
+      "LastIntakeUnixTime": "1787168879",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788039200"
+    },
+    {
       "ID": "3685",
       "Internal-ID": "214320071",
       "Name": "Mel",
@@ -4456,87 +4562,6 @@
       "LastUpdatedUnixTime": "1788012647"
     },
     {
-      "ID": "3684",
-      "Internal-ID": "214320070",
-      "Name": "Addie",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "4.4",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388140,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787168879",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702284",
-          "AttributeName": "FP:  Aidan",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787686010"
-    },
-    {
       "ID": "3688",
       "Internal-ID": "214320084",
       "Name": "Mani",
@@ -4960,7 +4985,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787965912"
+      "LastUpdatedUnixTime": "1788040185"
     },
     {
       "ID": "3697",
