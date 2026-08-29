@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T04:14:48Z",
+  "updated": "2026-08-29T11:15:32Z",
   "count": 74,
   "animals": [
     {
@@ -1068,9 +1068,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1769184489,
       "Age": 7,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/40a775538f951a67aac329d390c11405/9eefc401ca65feba977ab65c5c13771d.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3ec9a973c4b8f0629ee98ff1fa5fb239/3eaa702a4faca7a2877d1f0e3db86b5f.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/40a775538f951a67aac329d390c11405/9eefc401ca65feba977ab65c5c13771d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ec9a973c4b8f0629ee98ff1fa5fb239/3eaa702a4faca7a2877d1f0e3db86b5f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4022cd52316d5af69f51dadd9ed68f4a/7027bdc09b3332fd6fa60e3cea06770b.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0eaf9d10554e41f7db674a32ab02f99a/ed4652020cfa753f2c17c9d8ae59ddee.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1d0e2f9219501d5a569fcff68709fa4d/6be456d022c4cd689491f1104ac5fc80.jpeg",
@@ -1092,7 +1092,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/f5048c2351e065bf01aa9baa5c6e53c3/a644c365bba6c37436f9d51e96b6c084.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/f8e7c19597bba09feb2781ec8cba8516/ed131cce0c116b95c0ec6a4fb067ea4f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/f3af375c4d5d5f51f9921cfcab953c76/35e8a5451d7036c7cebfdc6d141b1468.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7472ebda9b8955e94ec6a4111398fced/078b71b107a767ccc4886589a126d9c2.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/40a775538f951a67aac329d390c11405/9eefc401ca65feba977ab65c5c13771d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7472ebda9b8955e94ec6a4111398fced/078b71b107a767ccc4886589a126d9c2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3b430b1d9c5e8e047e479651140d4e9/b14c1dfbea377a4664b9aeac902e2287.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d7f2994299595c86203d743f9147cb84/a839f48328c29cdd1b88ccf2fd98da9d.jpg"
       ],
       "Videos": [
         {
@@ -1102,9 +1105,9 @@
           "ThumbUrl": "https://img.youtube.com/vi/8mKQSkvYQ0I/0.jpg"
         }
       ],
-      "Breed": "Terrier",
+      "Breed": "Terrier/Mixed Breed (Medium)",
       "Color": "Apricot",
-      "Pattern": null,
+      "Pattern": "None",
       "AdoptionFeeGroup": {
         "Id": 37340,
         "Name": "Puppy + S/N deposit",
@@ -1136,8 +1139,18 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296944",
           "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
           "Publish": "Yes"
         },
         {
@@ -1148,11 +1161,6 @@
         {
           "Internal-ID": "634882",
           "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
           "Publish": "Yes"
         },
         {
@@ -1176,6 +1184,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
@@ -1184,9 +1197,24 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "811189",
+          "AttributeName": "⚠ Needs another dog in the home",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787149499"
+      "LastUpdatedUnixTime": "1787977644"
     },
     {
       "ID": "3636",
@@ -1818,11 +1846,6 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "810934",
           "AttributeName": "Wouldn't mind being an only dog",
           "Publish": "Yes"
@@ -1833,7 +1856,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787976680"
+      "LastUpdatedUnixTime": "1787976892"
     },
     {
       "ID": "3656",
@@ -5007,7 +5030,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ed9d91e0d2d959b776c30fee8cae507b/c7c266e065d165748876c54bb4d6957b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/812d6a5186ba895f29540de4ad60bdea/2a4470934b52fa485721c14dca8a3e09.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e98ecda840720567842101f36f99e309/851e068638c9faf2a0dd10c68819f512.jpg"
       ],
       "Videos": [],
       "Breed": "Pinscher, Doberman/Poodle",
@@ -5099,7 +5125,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787976572"
+      "LastUpdatedUnixTime": "1787978848"
     },
     {
       "ID": "3521",
@@ -5370,8 +5396,18 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296944",
           "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
           "Publish": "Yes"
         },
         {
@@ -5400,6 +5436,21 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
@@ -5408,9 +5459,19 @@
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "713609",
+          "AttributeName": "Has many approved adopters waiting to meet them!",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787326964"
+      "LastUpdatedUnixTime": "1787977765"
     },
     {
       "ID": "3644",
