@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T21:18:47Z",
-  "count": 74,
+  "updated": "2026-08-30T23:39:09Z",
+  "count": 73,
   "animals": [
     {
       "ID": "2754",
@@ -1862,6 +1862,97 @@
       "LastUpdatedUnixTime": "1787976892"
     },
     {
+      "ID": "3655",
+      "Internal-ID": "214207698",
+      "Name": "Roo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1465448400,
+      "Age": 122,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
+      "LastIntakeUnixTime": "1785443311",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788130707"
+    },
+    {
       "ID": "3656",
       "Internal-ID": "214218202",
       "Name": "Rosie",
@@ -2472,120 +2563,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787939013"
-    },
-    {
-      "ID": "3668",
-      "Internal-ID": "214319985",
-      "Name": "Bob",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/01e19606675857eaaf961851434186b1/2d168a223f86c4f38e229a6169afcb45.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb66628722413db562a8092b9c14a54b/1393c0c6a753e20f546cb5fec441bf1f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40257de4ca9f4b52af8e24c1e8da4992/368e17710f3967cca244fa62317c8f7e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4064f969cad70c6a56d6c8c800de3f65/5c1a58c33a4c732ff85c7a41c41c4d16.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/08f264815fde464c656548acaa5bf8a6/3285206f29fb2892d5b8edaee3863324.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b247845b1ab0e5a767e7ed7301e454d/2e4ae48257db6b26b7be3ae2f43c8393.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/da303862cdbcbca5b1287331ba4a3b2f/2c4fd93b789faf06d2de0b18581bac90.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e900bbd91fbbfb36a967c5934866f15e/478ee98a21107e5b052765d29a92cc5a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f062fa93de85288faabf2754e1f5e2e9/856ed71200fb921b3335a5a6191699a7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70b309c1615c4b14d2d4cdcd7faf040b/db482a200c33f9ed587351a01dcec902.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f3a96a3b393e271de92b4cd16b16ad6/c5f8b0a616b9ff6e6ee72a1d8bfe2f80.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ac9e0ea7dbf26a1e0d3ae543e2789ea/94c3e6030e255a4be4e178356d3cb36e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bf9f6bfca4ceff3e3ef082757591b8a2/b02795639419fb858dffa1631c243c84.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "Spotted",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Bob is your typical happy wiggly cuddly puppy! He loves everyone and everything he’s met so far including dogs, cats, kids and people of all ages! His favorite thing is playing fetch with his toys- he’s already an expert at bringing the toy back. Bob settles down quickly in his crate or playpen when it’s nap time and only wakes up once or twice overnight- but goes back to sleep when told. He hasn’t had a single accident so far in his foster home and is overall doing phenomenal- he would be an easy addition to pretty much any home. Bob is currently on some antibiotics for a small infrequent cough and should be kept separate from other dogs until this clears just to make sure everyone stays happy and healthy, but this shouldn’t be more than a few weeks tops. ",
-      "LastIntakeUnixTime": "1787195352",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788104293"
     },
     {
       "ID": "3670",
@@ -4250,14 +4227,15 @@
       "Altered": "No",
       "DOBUnixTime": 1778389200,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a59df4dc7c1f07010d0ae22aeea820fb/baf5fc879ff654c37f91dec37c9eb065.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a59df4dc7c1f07010d0ae22aeea820fb/baf5fc879ff654c37f91dec37c9eb065.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/177bb8b1bb6101bd6cca3caa662a3bad/7a43c54457174fe0b9dc12dcb24a176b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9a7a6ed2183c58c3c2ebf581e75ec70e/4546d1ebe5572c7c533bd833b6fc47c4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/da9d0e2912cb13bb13f907c44d8eaf7d/9ef244836e37016ea2615124298bea53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf51512e5b739ad8505468469a9e4d2d/c1f02d90f773775d480c385c2f5039d1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6a6d711eb9beba55acb402f9a82987a6/7761ea07afdd4f341a6e753fb1f7f516.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c150b4b987030bec3146ac692dcbd74e/77dc71485600eacbb27608e2da32f882.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a59df4dc7c1f07010d0ae22aeea820fb/baf5fc879ff654c37f91dec37c9eb065.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/4609c48d3f104e9f72672fedb4a5d4af/e1b7eb8213df85d380ddc0b7e486f41a.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Hound",
@@ -4319,7 +4297,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788103074"
+      "LastUpdatedUnixTime": "1788132343"
     },
     {
       "ID": "3698",
@@ -5432,6 +5410,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634891",
+          "AttributeName": "⚠ Special Needs",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634892",
           "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
@@ -5462,7 +5445,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787977765"
+      "LastUpdatedUnixTime": "1788129050"
     },
     {
       "ID": "3644",
@@ -5780,104 +5763,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788098963"
-    },
-    {
-      "ID": "3692",
-      "Internal-ID": "214320097",
-      "Name": "Lola May",
-      "LitterGroupId": 9575390,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.4",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1765951200,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e1d31224c45570238aac56b69500446f/050ef57eefd6eb90128a434632890c1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/873d9c94ae774870b2f3ef060b102478/6f3d63a3ac78c6d8fac35afb0480dbf6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/56866d23c8b3ef497c4423404b3d0d1f/1d0c883dc7e0914ce8c4bda83c3c01e7.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c305c68009c9059a1884cb16c8fb805c/2f783580ff414c8fea704c9abaf9a059.png",
-        "https://new-s3.shelterluv.com/profile-pictures/2ce5b4b9ece45290ea35681f1758c278/da93d7f676a1db4f76755a842ce35068.png",
-        "https://new-s3.shelterluv.com/profile-pictures/0011d4c5ea8a92f489711b344a6aa60e/c527a5cb53a64dc381f323dcab901ebd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0286895108f487b3bdc140a0061be1b1/34b51c322d78d99cb057170704d084b5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb05e873b0b9014865313e3bfe1151bc/adcd41df5231caf17e0302a02276d65f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier/Mixed Breed (Small)",
-      "Color": "Black/Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Lola May is an adorable 8-month-old pup who loves just about everyone she meets! 💕 She’s a total people-dog, loves playing with other dogs, enjoys her treats, and is always ready for a good walk.\nLola May has already received rave reviews from her Alabama foster family and her Wisconsin sitter, and she’s proving to be a wonderful little companion.\n\nAfter a few minutes, she settles into her crate and is quiet overnight or for the work day! She is not completely potty trained, but has very few accidents. She whines a bit in the car, but does not get sick. She is also getting used to a leash but is catching on quick, no chewing on the leash for Lola May!\n\nThis sweet girl is playful, social, affectionate, and ready to find her forever home! 🐾❤️",
-      "LastIntakeUnixTime": "1787196529",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788098851"
     },
     {
       "ID": "3694",
@@ -6715,97 +6600,6 @@
       "LastUpdatedUnixTime": "1778859848"
     },
     {
-      "ID": "3655",
-      "Internal-ID": "214207698",
-      "Name": "Roo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "45.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1465448400,
-      "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
-      "LastIntakeUnixTime": "1785443311",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702284",
-          "AttributeName": "FP:  Aidan",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787846898"
-    },
-    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -6855,6 +6649,120 @@
         }
       ],
       "LastUpdatedUnixTime": "1788026178"
+    },
+    {
+      "ID": "3668",
+      "Internal-ID": "214319985",
+      "Name": "Bob",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "With Sitter",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/01e19606675857eaaf961851434186b1/2d168a223f86c4f38e229a6169afcb45.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb66628722413db562a8092b9c14a54b/1393c0c6a753e20f546cb5fec441bf1f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40257de4ca9f4b52af8e24c1e8da4992/368e17710f3967cca244fa62317c8f7e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4064f969cad70c6a56d6c8c800de3f65/5c1a58c33a4c732ff85c7a41c41c4d16.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/08f264815fde464c656548acaa5bf8a6/3285206f29fb2892d5b8edaee3863324.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b247845b1ab0e5a767e7ed7301e454d/2e4ae48257db6b26b7be3ae2f43c8393.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/da303862cdbcbca5b1287331ba4a3b2f/2c4fd93b789faf06d2de0b18581bac90.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e900bbd91fbbfb36a967c5934866f15e/478ee98a21107e5b052765d29a92cc5a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f062fa93de85288faabf2754e1f5e2e9/856ed71200fb921b3335a5a6191699a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70b309c1615c4b14d2d4cdcd7faf040b/db482a200c33f9ed587351a01dcec902.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f3a96a3b393e271de92b4cd16b16ad6/c5f8b0a616b9ff6e6ee72a1d8bfe2f80.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ac9e0ea7dbf26a1e0d3ae543e2789ea/94c3e6030e255a4be4e178356d3cb36e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf9f6bfca4ceff3e3ef082757591b8a2/b02795639419fb858dffa1631c243c84.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Fawn/White",
+      "Pattern": "Spotted",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Bob is your typical happy wiggly cuddly puppy! He loves everyone and everything he’s met so far including dogs, cats, kids and people of all ages! His favorite thing is playing fetch with his toys- he’s already an expert at bringing the toy back. Bob settles down quickly in his crate or playpen when it’s nap time and only wakes up once or twice overnight- but goes back to sleep when told. He hasn’t had a single accident so far in his foster home and is overall doing phenomenal- he would be an easy addition to pretty much any home. Bob is currently on some antibiotics for a small infrequent cough and should be kept separate from other dogs until this clears just to make sure everyone stays happy and healthy, but this shouldn’t be more than a few weeks tops. ",
+      "LastIntakeUnixTime": "1787195352",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788130785"
     },
     {
       "ID": "3669",
