@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T02:42:12Z",
+  "updated": "2026-08-31T09:08:31Z",
   "count": 73,
   "animals": [
     {
@@ -865,7 +865,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1704002400,
-      "Age": 31,
+      "Age": 32,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
@@ -2116,7 +2116,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1469941200,
-      "Age": 120,
+      "Age": 121,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg",
@@ -2362,11 +2362,20 @@
       "Altered": "Yes",
       "DOBUnixTime": 1665896400,
       "Age": 46,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e51519e8611975635ee8a63f85e231ec/821a30a1aee5faf3ca8421361f394303.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2396895f5d519a9ad4330d796758acb5/580b2411a9a06ebc6fa82c97a53c5d1e.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e51519e8611975635ee8a63f85e231ec/821a30a1aee5faf3ca8421361f394303.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2396895f5d519a9ad4330d796758acb5/580b2411a9a06ebc6fa82c97a53c5d1e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e51519e8611975635ee8a63f85e231ec/821a30a1aee5faf3ca8421361f394303.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/220a179d0f21f99b161fa35fc7bd11e1/042786e94aa1327f2255bcedc36062cc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ab68db1f1edf84612c3d3c01ce6f1aaf/3d0fb6549eb8adcfeec22b7db6bcb820.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dfc80161eed2c807d78bad4c10b90388/52a437df2797899d572c8cb0259a6748.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/df261ac2d64aa5a5e899c610d88eb35a/2eb9b7fd3f422cb98a72fd7c912ffa66.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f1abeee94a0d396a5d2a5639dddcf5e/7a6c61cbafe1e44fc27ed0402c0040c9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9164ad969b61abb15eb09b4ac5f7289d/6f0e31b57559e6fda3123abc9dc527c8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cca07d9cd221cce8788f2751b1bd5e76/af82f65092ae44ace649597f27349231.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d876c4559a05d13e6e5677c9020907d7/1daf78a09297d1d0ce54667ab6c0a279.jpg"
       ],
       "Videos": [],
       "Breed": "Cattle Dog, Australian (Blue Heeler)/Shepherd, Australian",
@@ -2477,7 +2486,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788144017"
+      "LastUpdatedUnixTime": "1788144428"
     },
     {
       "ID": "3664",
@@ -5713,75 +5722,6 @@
       "LastUpdatedUnixTime": "1787833923"
     },
     {
-      "ID": "3661",
-      "Internal-ID": "214255016",
-      "Name": "Arlo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1683003600,
-      "Age": 39,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/50ccec8f1bdf986fd62f42deeac74d96/c009ee8a2032032bcc20afcb0202f3eb.png",
-        "https://new-s3.shelterluv.com/profile-pictures/b7feb7a8451b2d8b095ec84f309adae3/b2a981bf3f11b4a3daa864dd19420087.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/948eae8312aed06c7af12975f813ff29/4c32cb303c58484637ed5a20848ee27d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ad14c43ddeed3451961d6d1fdcc4d5d/9cdce55e6ab01ed6690406b541bafc10.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Yorkshire, Yorkie/Shih Tzu",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Arlo is a 3 year old Shorkie who is very sweet, social and playful. He coexists well with other dogs and will play with them, but his true love is to be with his people. He loves to get attention and snuggles. He previously lived with school aged children and did great with them but has not lived with babies or toddlers. He loves to go for walks and play with squeaky toys, but also settles well when indoors. Arlo is still working on crate training and will whine in his crate but gets better every day. His previous owner noted that he would mark in the house, likely because he was not neutered and was living with another male dog. He has not marked while with me and has now been neutered so this behavior should resolve within a few weeks. In the meantime he can use a belly band if marking is an issue.",
-      "LastIntakeUnixTime": "1786111427",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788098963"
-    },
-    {
       "ID": "3694",
       "Internal-ID": "214320112",
       "Name": "Mousse",
@@ -6323,6 +6263,75 @@
         }
       ],
       "LastUpdatedUnixTime": "1787974150"
+    },
+    {
+      "ID": "3661",
+      "Internal-ID": "214255016",
+      "Name": "Arlo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1683003600,
+      "Age": 39,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/50ccec8f1bdf986fd62f42deeac74d96/c009ee8a2032032bcc20afcb0202f3eb.png",
+        "https://new-s3.shelterluv.com/profile-pictures/b7feb7a8451b2d8b095ec84f309adae3/b2a981bf3f11b4a3daa864dd19420087.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/948eae8312aed06c7af12975f813ff29/4c32cb303c58484637ed5a20848ee27d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ad14c43ddeed3451961d6d1fdcc4d5d/9cdce55e6ab01ed6690406b541bafc10.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Yorkshire, Yorkie/Shih Tzu",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Arlo is a 3 year old Shorkie who is very sweet, social and playful. He coexists well with other dogs and will play with them, but his true love is to be with his people. He loves to get attention and snuggles. He previously lived with school aged children and did great with them but has not lived with babies or toddlers. He loves to go for walks and play with squeaky toys, but also settles well when indoors. Arlo is still working on crate training and will whine in his crate but gets better every day. His previous owner noted that he would mark in the house, likely because he was not neutered and was living with another male dog. He has not marked while with me and has now been neutered so this behavior should resolve within a few weeks. In the meantime he can use a belly band if marking is an issue.",
+      "LastIntakeUnixTime": "1786111427",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788160591"
     },
     {
       "ID": "3672",
