@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T17:09:03Z",
-  "count": 73,
+  "updated": "2026-08-31T21:57:41Z",
+  "count": 71,
   "animals": [
     {
       "ID": "2754",
@@ -3069,7 +3069,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "12.9",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997165,
@@ -3151,7 +3151,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788205527"
     },
     {
       "ID": "3676",
@@ -3163,7 +3163,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "10",
+      "CurrentWeightPounds": "11.6",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1779996953,
@@ -3247,7 +3247,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788212022"
     },
     {
       "ID": "3677",
@@ -3259,7 +3259,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.6",
+      "CurrentWeightPounds": "9.12",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1779996933,
@@ -3342,7 +3342,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787976252"
+      "LastUpdatedUnixTime": "1788205565"
     },
     {
       "ID": "3678",
@@ -3354,7 +3354,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.8",
+      "CurrentWeightPounds": "10.12",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997141,
@@ -3440,7 +3440,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788204528"
     },
     {
       "ID": "3679",
@@ -3452,7 +3452,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "6.8",
+      "CurrentWeightPounds": "7.2",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779996943,
@@ -3535,7 +3535,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788207115"
     },
     {
       "ID": "3680",
@@ -3547,7 +3547,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "11.6",
+      "CurrentWeightPounds": "12",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997123,
@@ -3632,7 +3632,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788205119"
     },
     {
       "ID": "3681",
@@ -3644,7 +3644,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "13.8",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779996924,
@@ -3730,7 +3730,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788206661"
     },
     {
       "ID": "3682",
@@ -3742,7 +3742,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.6",
+      "CurrentWeightPounds": "9.8",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1781672400,
@@ -3827,7 +3827,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546058"
+      "LastUpdatedUnixTime": "1788206303"
     },
     {
       "ID": "3683",
@@ -4699,94 +4699,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787857683"
-    },
-    {
-      "ID": "3700",
-      "Internal-ID": "214385491",
-      "Name": "Teddy",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.6",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1783573200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Teddy is a sweet, playful, calm puppy who is amazingly well adjusted and loves everyone. He is confident but submissive, great with people and other dogs, and just a very easy, happy little puppy. Teddy’s mom was a husky mix and he inherited the husky blue eyes, but dad is unknown so we are unsure how big he’ll get. He is a very quiet guy and does great  in his crate, so definitely doesn’t have the typical husky voice! Teddy is very social and would love to be your sidekick at a brewery or restaurant patio.",
-      "LastIntakeUnixTime": "1787746606",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788186189"
     },
     {
       "ID": "3663",
@@ -6107,6 +6019,94 @@
       "LastUpdatedUnixTime": "1787968704"
     },
     {
+      "ID": "3700",
+      "Internal-ID": "214385491",
+      "Name": "Teddy",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.6",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1783573200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White/Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Teddy is a sweet, playful, calm puppy who is amazingly well adjusted and loves everyone. He is confident but submissive, great with people and other dogs, and just a very easy, happy little puppy. Teddy’s mom was a husky mix and he inherited the husky blue eyes, but dad is unknown so we are unsure how big he’ll get. He is a very quiet guy and does great  in his crate, so definitely doesn’t have the typical husky voice! Teddy is very social and would love to be your sidekick at a brewery or restaurant patio.",
+      "LastIntakeUnixTime": "1787746606",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788204934"
+    },
+    {
       "ID": "3590",
       "Internal-ID": "213765756",
       "Name": "Cash",
@@ -6490,179 +6490,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788160591"
-    },
-    {
-      "ID": "3672",
-      "Internal-ID": "214319994",
-      "Name": "Baloo",
-      "LitterGroupId": 9575377,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "14",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04d6b362486f269c46a23b7e330cb812/a70f7d9fb8eb6a4c6ccc39e006cfa163.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b67108ed8534c8d878b08019766594b2/524c07365704dab1136999fdb2c951a0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ce2b4d05a35e7adea2954272559f677/0898c69352f92ddb48ae932f9e7d4f32.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/88d8e82f1f67ae368fa3669fa4999fa6/d8688bd42745b289af486c50c6c80426.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d971f4f97333c83f9ed1f5d9e8a8f123/b223ee9bac9fc51808b5ff04f13d23e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/11c0676717f85202c16ec0f9c7617444/fbbcdf5201fb101aa34362dc9b4a26d7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a5b4c6f43b79adc64f39491d0f119f9/b7af0fc4b3220490f6f42111170f3842.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ef4163454ff077be6e01882413fee205/914caa34051c18edce980111b29dfd6f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pei, Shar/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Baloo! Similar to his namesake, he is a happy, chill guy. He is doing great with both potty and crate training and is already sleeping through the night! Baloo loves people and is good with other dogs. Though he is not currently fostered with cats or children, he is pretty laid back, so he could live with both with proper intros. \n\nBaloo loves toys and enjoys playing fetch. He is learning to walk on a leash and catches on quickly. His favorite things to do are lay in the yard or snuggle his foster family. This sweet boy will make a perfect addition to virtually any family! ",
-      "LastIntakeUnixTime": "1787196999",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788014652"
-    },
-    {
-      "ID": "3694",
-      "Internal-ID": "214320112",
-      "Name": "Mousse",
-      "LitterGroupId": 9575392,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1777100400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb811a96658e254b0b6e150151a7c38d/f93a0d8f821ef4cd3d959caf2046d3b7.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/eb811a96658e254b0b6e150151a7c38d/f93a0d8f821ef4cd3d959caf2046d3b7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2dd00280cc1bdf1875fe89f9c407d7a9/69234cd7e17810c50c8c396fb3845fcb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9978fa6403c5e0cff7a6a75b26eff6ea/718c1fb7fa25073d69b8e6242ff9f7fe.png",
-        "https://new-s3.shelterluv.com/profile-pictures/26fb576da9f27885d2facd94f30357c7/952540b1b5a4b16cc9f083b99f963111.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Hound",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "This sweet girl is the perfect mix of playful puppy and professional snuggler. ❤️\n\nShe absolutely loves her humans and is happiest curled up next to you for some quality snuggle time. But she’s also wonderfully independent — she does great relaxing in her crate or a cozy bed when it’s time to settle down.\n\n✨ A few things that make her extra special:\n\n🐶 Loves kids and enjoys being part of the action\n🐶 Mostly potty trained and doing great\n🐶 Making fantastic progress with leash training\n🐶 Smart, quick to learn, and eager to please\n🐶 Loves learning tricks — and really loves showing them off!\n🐶 Playful, sweet and affectionate\n🐶 Comfortable settling in her crate or snuggly bed\n🐶 And then there are THE EARS. They seem to have minds of their own, and they may just be her cutest feature.\n\nShe has such a wonderful balance of puppy fun and sweetness. She’ll happily play and learn with you, then curl up beside you when the day is done.\n\nShe’s looking for a family who will love her as much as she’ll love them — which is saying a lot. \n\nSomeone is going to be very lucky to call this girl theirs. ",
-      "LastIntakeUnixTime": "1787196014",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788189732"
     },
     {
       "ID": "1442",

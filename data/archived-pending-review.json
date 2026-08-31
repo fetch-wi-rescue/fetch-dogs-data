@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T23:39:10Z",
+  "updated": "2026-08-31T21:57:42Z",
   "animals": [
     {
       "ID": "3458",
@@ -1403,6 +1403,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-08-30T23:39:10Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3672",
+      "Name": "Baloo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/13ab59adbbae4bb2c4c0631a6114da43/9dc47eab80a8de0c07b59b4570588380.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-31T21:57:41Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3694",
+      "Name": "Mousse",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb811a96658e254b0b6e150151a7c38d/f93a0d8f821ef4cd3d959caf2046d3b7.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-08-31T21:57:42Z",
       "status": "pending"
     }
   ]
