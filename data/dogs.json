@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T11:51:43Z",
-  "count": 71,
+  "updated": "2026-09-01T15:51:00Z",
+  "count": 72,
   "animals": [
     {
       "ID": "2754",
@@ -1561,7 +1561,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787769030"
+      "LastUpdatedUnixTime": "1788265986"
     },
     {
       "ID": "3649",
@@ -1672,107 +1672,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787965858"
-    },
-    {
-      "ID": "3650",
-      "Internal-ID": "214152758",
-      "Name": "Creed",
-      "LitterGroupId": 9558460,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1775264422,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e41ca7cf9cfe84e5adbfc72cb0d5b6a/406c9fc10f503eb79091b44b3b40ecad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/132f27b0f9eddb7cff18b6dbeb52744d/d48cf4b713cc94b05a69961067a695e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/36cccdef95ed7f8864845e5b33f5396d/e39433b62bcee5716a74b19415d86335.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/93e16b567974cd21db242341c2a9854c/82888107e01bd0fe5222512e8d4c78da.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3f4112a75ec92b16c75343324d18f33/6eded3b54f695ca4f053fb66843724f1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/091d7b406a18554e2f57a82de954badb/5b21442de96d61562f65c13ef0472517.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/204167f77001efd0e7cef57ed50936d1/269c931900cb75354268280627536783.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68c9328c3dea8106a8ec1f24a459b98c/9a370eb80dd1950f1989b2f83dc72cbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fe554efbcbb98cf325926823310c15c/c47539afa728ed9f3f5471ac8da3f6bd.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/def039d53269991ad9c36a2751fa7345/ace925ab29a0cff81816e47f19b3ef58.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/520ece87b5f36dfa0b15b96980d59c73/c5a848204683e2d7e1191a48bdb49afc.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/d87cb54cfa48e23e091086ba809c54e6/c2fe161a4a1f3d50ead89f63038ea583.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47ddd559f471f934954ff678e20864ed/ebf686a6808cf9e945cc1ae56a87dafa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e56af8ec26bdb5cdeccee44aac90175/515304ac377219534f7cb1e2a1d14d9a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/91eb6422e7d2bf7c76090d954466c70c/2cac0ab9b3802edc1ff4ee834fdd5b1d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5a2c15989bad11ab060be4626088dac/8645139343ef7243644cc11e853f7e65.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f557fd2ecdff6fb7ae5cf184866476b/542d423c5de64004960012baa5a295ab.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3ecf414cb6f4394818ae8ebc51c97fa/83b2538c87d47da1f663bb9d95b9ea4e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/accc8f0fc2b1429dee80731a2b8d3f67/6c720ab003a7dfe9c857e6b6ca89752a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5f53f80dbb14ab8ae2fcb9c00f76565/641b5e88910a94d0f0fc5cc0399205a8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3b417e35a4c906fe41af78c072da581/8d4226e987ab976334e1f60d66752371.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/12df3e5865e0fc3e24c4dd618b807a4f/6dbd82dfd5d7d3e63b6a2cb35a2425e5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ae5b152a266e737a12e834998dc83f0/4e74bb84054e158708172664e9c9f670.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Cattle Dog, Australian (Blue Heeler)",
-      "Color": "Cream/Blue",
-      "Pattern": "Spotted",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Creed is almost 5 months old, this adorable puppy is already showing what a wonderful companion he's going to be. Weighing 25 pounds at his young age, he's going to be a good sized  boy! While his looks and personality point to a mix of Catahoula Leopard Dog or Australian Cattle Dog . The vet adjusted his age to closer to 5 months due to the potty training progress, sleeping through the night, adult teeth coming in and general demeanor. \nThis sweet boy is doing very well with potty training and is comfortable relaxing in his crate, making him off to a great start in life. While he's a little more reserved when meeting new people than his sister, he warms up quickly and enjoys spending time with people of all ages. He has done wonderfully with my 2-, 3-, and 10-year-old grandchildren, showing a gentle, patient nature. He can be a little noisy when he is scared by noises or  when playing with another dog. He settles quickly with a reminder. \nHe also gets along very well with other dogs and enjoys having canine companions to play with. He loves playing with toys and does so appropriately, happily entertaining himself or joining in when it's playtime.\nThis handsome pup has a calm confidence about him. He's curious without being overly bold and enjoys exploring his surroundings at his own pace. Once he knows you're his person, he's affectionate and loyal, seeking out your company and enjoying being part of the family.\nIf you're looking for a smart, gentle, well-socialized puppy with a sweet disposition and the potential to grow into a devoted lifelong companion, this special boy is ready to find his forever home.\n",
-      "LastIntakeUnixTime": "1784923010",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788106875"
+      "LastUpdatedUnixTime": "1788277808"
     },
     {
       "ID": "3651",
@@ -2221,131 +2121,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1786285047"
-    },
-    {
-      "ID": "3658",
-      "Internal-ID": "214229995",
-      "Name": "Brutus",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "5.14",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1407103120,
-      "Age": 144,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9ae4b90e11f9730cc392e3483133706/4f268ff1f8368c196c49b7e4675942a7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1117f7ccaa24383abf7788629d35ec56/9c3fe84d876170af4aedfb8cd2f25e31.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
-      "Color": "Tan/Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Brutus is a cute little cuddle bug & the definition of a lap dog! He is a happy little guy who will always greet you with the cutest little dance and tail wags. Brutus was surrendered by his owner after their housing situation changed and they were unable to keep their pets. He’s a very sweet senior looking to spend his golden days with someone with an open lap and lots of snuggles to give!\n\nBecause of his small size he will likely do best in a home without very small children. Older, respectful children are likely fine! He loves people and is friendly with everyone he meets. There’s no such thing as a stranger for this guy! He is currently in a foster home with other dogs & a cat and does well with all of them 😊",
-      "LastIntakeUnixTime": "1785774284",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787919646"
     },
     {
       "ID": "3662",
@@ -4701,6 +4476,85 @@
       "LastUpdatedUnixTime": "1787857683"
     },
     {
+      "ID": "3701",
+      "Internal-ID": "214398346",
+      "Name": "Toby",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1783573200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1788263841",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788276364"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -5671,6 +5525,231 @@
       "LastUpdatedUnixTime": "1787579803"
     },
     {
+      "ID": "3650",
+      "Internal-ID": "214152758",
+      "Name": "Creed",
+      "LitterGroupId": 9558460,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "25",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1775264422,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e41ca7cf9cfe84e5adbfc72cb0d5b6a/406c9fc10f503eb79091b44b3b40ecad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/132f27b0f9eddb7cff18b6dbeb52744d/d48cf4b713cc94b05a69961067a695e2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/36cccdef95ed7f8864845e5b33f5396d/e39433b62bcee5716a74b19415d86335.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/93e16b567974cd21db242341c2a9854c/82888107e01bd0fe5222512e8d4c78da.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c3f4112a75ec92b16c75343324d18f33/6eded3b54f695ca4f053fb66843724f1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/091d7b406a18554e2f57a82de954badb/5b21442de96d61562f65c13ef0472517.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/204167f77001efd0e7cef57ed50936d1/269c931900cb75354268280627536783.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/68c9328c3dea8106a8ec1f24a459b98c/9a370eb80dd1950f1989b2f83dc72cbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fe554efbcbb98cf325926823310c15c/c47539afa728ed9f3f5471ac8da3f6bd.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/def039d53269991ad9c36a2751fa7345/ace925ab29a0cff81816e47f19b3ef58.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/520ece87b5f36dfa0b15b96980d59c73/c5a848204683e2d7e1191a48bdb49afc.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/d87cb54cfa48e23e091086ba809c54e6/c2fe161a4a1f3d50ead89f63038ea583.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/47ddd559f471f934954ff678e20864ed/ebf686a6808cf9e945cc1ae56a87dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e56af8ec26bdb5cdeccee44aac90175/515304ac377219534f7cb1e2a1d14d9a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/91eb6422e7d2bf7c76090d954466c70c/2cac0ab9b3802edc1ff4ee834fdd5b1d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5a2c15989bad11ab060be4626088dac/8645139343ef7243644cc11e853f7e65.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f557fd2ecdff6fb7ae5cf184866476b/542d423c5de64004960012baa5a295ab.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c3ecf414cb6f4394818ae8ebc51c97fa/83b2538c87d47da1f663bb9d95b9ea4e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/accc8f0fc2b1429dee80731a2b8d3f67/6c720ab003a7dfe9c857e6b6ca89752a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5f53f80dbb14ab8ae2fcb9c00f76565/641b5e88910a94d0f0fc5cc0399205a8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3b417e35a4c906fe41af78c072da581/8d4226e987ab976334e1f60d66752371.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/12df3e5865e0fc3e24c4dd618b807a4f/6dbd82dfd5d7d3e63b6a2cb35a2425e5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ae5b152a266e737a12e834998dc83f0/4e74bb84054e158708172664e9c9f670.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Cattle Dog, Australian (Blue Heeler)",
+      "Color": "Cream/Blue",
+      "Pattern": "Spotted",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Creed is almost 5 months old, this adorable puppy is already showing what a wonderful companion he's going to be. Weighing 25 pounds at his young age, he's going to be a good sized  boy! While his looks and personality point to a mix of Catahoula Leopard Dog or Australian Cattle Dog . The vet adjusted his age to closer to 5 months due to the potty training progress, sleeping through the night, adult teeth coming in and general demeanor. \nThis sweet boy is doing very well with potty training and is comfortable relaxing in his crate, making him off to a great start in life. While he's a little more reserved when meeting new people than his sister, he warms up quickly and enjoys spending time with people of all ages. He has done wonderfully with my 2-, 3-, and 10-year-old grandchildren, showing a gentle, patient nature. He can be a little noisy when he is scared by noises or  when playing with another dog. He settles quickly with a reminder. \nHe also gets along very well with other dogs and enjoys having canine companions to play with. He loves playing with toys and does so appropriately, happily entertaining himself or joining in when it's playtime.\nThis handsome pup has a calm confidence about him. He's curious without being overly bold and enjoys exploring his surroundings at his own pace. Once he knows you're his person, he's affectionate and loyal, seeking out your company and enjoying being part of the family.\nIf you're looking for a smart, gentle, well-socialized puppy with a sweet disposition and the potential to grow into a devoted lifelong companion, this special boy is ready to find his forever home.\n",
+      "LastIntakeUnixTime": "1784923010",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788277755"
+    },
+    {
+      "ID": "3658",
+      "Internal-ID": "214229995",
+      "Name": "Brutus",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "5.14",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1407103120,
+      "Age": 144,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9ae4b90e11f9730cc392e3483133706/4f268ff1f8368c196c49b7e4675942a7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1117f7ccaa24383abf7788629d35ec56/9c3fe84d876170af4aedfb8cd2f25e31.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
+      "Color": "Tan/Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Brutus is a cute little cuddle bug & the definition of a lap dog! He is a happy little guy who will always greet you with the cutest little dance and tail wags. Brutus was surrendered by his owner after their housing situation changed and they were unable to keep their pets. He’s a very sweet senior looking to spend his golden days with someone with an open lap and lots of snuggles to give!\n\nBecause of his small size he will likely do best in a home without very small children. Older, respectful children are likely fine! He loves people and is friendly with everyone he meets. There’s no such thing as a stranger for this guy! He is currently in a foster home with other dogs & a cat and does well with all of them 😊",
+      "LastIntakeUnixTime": "1785774284",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788273856"
+    },
+    {
       "ID": "3659",
       "Internal-ID": "214230074",
       "Name": "Otis",
@@ -5940,7 +6019,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788184169"
+      "LastUpdatedUnixTime": "1788266111"
     },
     {
       "ID": "3696",
@@ -6104,7 +6183,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788204934"
+      "LastUpdatedUnixTime": "1788276267"
     },
     {
       "ID": "3590",
