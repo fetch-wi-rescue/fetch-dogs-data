@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T19:04:30Z",
+  "updated": "2026-09-01T21:52:32Z",
   "count": 72,
   "animals": [
     {
@@ -4278,17 +4278,17 @@
       "ID": "3693",
       "Internal-ID": "214320100",
       "Name": "Scarlet",
-      "LitterGroupId": null,
+      "LitterGroupId": 9575389,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "11",
+      "CurrentWeightPounds": "14",
       "Size": "Medium (25-59)",
       "Altered": "No",
-      "DOBUnixTime": 1780865288,
-      "Age": 2,
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47f6da62431a6fbe9a3c31e4980656bd/c266079571a1b4f920199dea3730554a.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/47f6da62431a6fbe9a3c31e4980656bd/c266079571a1b4f920199dea3730554a.jpeg",
@@ -4374,7 +4374,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788133854"
+      "LastUpdatedUnixTime": "1788294172"
     },
     {
       "ID": "3698",
@@ -4465,6 +4465,101 @@
         }
       ],
       "LastUpdatedUnixTime": "1787857683"
+    },
+    {
+      "ID": "3699",
+      "Internal-ID": "214327205",
+      "Name": "Fluffykins",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "15",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779739740,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0c2d4e8282fc18d703296b3dda6da08d/ec99a6553a51d0d837c6ab6bd23a773a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/211c1674fdaf12ff3a7cf3279f0c8634/4615d6baafd239a6685d7aac62c3cb37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/435a6f5c9d545f86e69187136b56b35d/aaa64646b6a4667b9f7a0681886d46ee.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White/Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Fluffy is an amazing curious little Husky mix. She loves wrestling with her puppy playmates as well as other adult dogs. She loves playing in the water and spending the afternoons sleeping with her friends.\n\nShe is full of puppy energy and is learning crate training and potty training. She loves to play all day with her playmates, but sleeps through the night in her crate.",
+      "LastIntakeUnixTime": "1787235889",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788296905"
     },
     {
       "ID": "3701",
@@ -4756,7 +4851,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788171275"
+      "LastUpdatedUnixTime": "1788292952"
     },
     {
       "ID": "3688",
@@ -4838,101 +4933,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787833827"
-    },
-    {
-      "ID": "3699",
-      "Internal-ID": "214327205",
-      "Name": "Fluffykins",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "15",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779739740,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0c2d4e8282fc18d703296b3dda6da08d/ec99a6553a51d0d837c6ab6bd23a773a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/211c1674fdaf12ff3a7cf3279f0c8634/4615d6baafd239a6685d7aac62c3cb37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/435a6f5c9d545f86e69187136b56b35d/aaa64646b6a4667b9f7a0681886d46ee.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White/Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fluffykins is a truly beautiful young lady.  She is full of puppy energy and is learning crate training and potty training.  She loves to play all day with her playmates, but sleeps through the night in her crate.",
-      "LastIntakeUnixTime": "1787235889",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788026530"
     },
     {
       "ID": "3702",
