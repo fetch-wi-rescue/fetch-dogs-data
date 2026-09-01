@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:52:32Z",
+  "updated": "2026-09-01T23:42:20Z",
   "count": 72,
   "animals": [
     {
@@ -4646,6 +4646,111 @@
       "LastUpdatedUnixTime": "1788278411"
     },
     {
+      "ID": "3702",
+      "Internal-ID": "214435034",
+      "Name": "Apache",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1535432400,
+      "Age": 96,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5c6e8f27954a6db82c6121c2f6cca451/405f15441015cd11bb39c2f8ccfcdd06.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5c6e8f27954a6db82c6121c2f6cca451/405f15441015cd11bb39c2f8ccfcdd06.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff78983b67fef127f9f78c9e36723048/e1c203fca212ba82c8998b97740e7049.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f430db469be81f425f89b1a86d9b2936/e627388daff770310a09119ba189152a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fa78411616b402d300fe8a2a69e60b3/92f5ac7f7aa3c21cadfefccdc6c44a22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/987e3f5b456163e6e339e97d59c437e0/06938c55249c19ced4c4dc6c13722564.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Boxer/Mixed Breed (Medium)",
+      "Color": "Brindle",
+      "Pattern": "Brindle",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "This beautiful 8-year-old Boxer girl is looking for a family to call her own. 💕 Don’t let her age fool you—she’s the perfect mix of playful and relaxed, with a medium energy level and a whole lot of love to give!\n\n✨ A little about her:\n🐶 8-year-old female Boxer\n❤️ An absolute sweetheart\n👧 Great with kids\n🐕🐈 Gets along well with other animals\n🏡 Potty trained\n😴 Does great in her crate\n🎾 Medium energy—happy to have some fun but doesn’t need to be entertained all day\n🛋️ And most importantly… she LOVES to cuddle!\n\nShe’s the kind of girl who can join in on the family fun and then happily curl up next to you on the couch. At 8 years old, she’s already past the puppy chaos and comes with some of the best things already figured out—like potty training and crate manners! 🙌\n\nShe would make such a wonderful addition to a family looking for a sweet, affectionate, easygoing companion. She just needs someone willing to give an older girl the loving home she deserves. 🥹❤️",
+      "LastIntakeUnixTime": "1787965584",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788302920"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -4933,111 +5038,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787833827"
-    },
-    {
-      "ID": "3702",
-      "Internal-ID": "214435034",
-      "Name": "Apache",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "45.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1535432400,
-      "Age": 96,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5c6e8f27954a6db82c6121c2f6cca451/405f15441015cd11bb39c2f8ccfcdd06.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/5c6e8f27954a6db82c6121c2f6cca451/405f15441015cd11bb39c2f8ccfcdd06.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff78983b67fef127f9f78c9e36723048/e1c203fca212ba82c8998b97740e7049.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f430db469be81f425f89b1a86d9b2936/e627388daff770310a09119ba189152a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5fa78411616b402d300fe8a2a69e60b3/92f5ac7f7aa3c21cadfefccdc6c44a22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/987e3f5b456163e6e339e97d59c437e0/06938c55249c19ced4c4dc6c13722564.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Boxer/Mixed Breed (Medium)",
-      "Color": "Brindle",
-      "Pattern": "Brindle",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "This beautiful 8-year-old Boxer girl is looking for a family to call her own. 💕 Don’t let her age fool you—she’s the perfect mix of playful and relaxed, with a medium energy level and a whole lot of love to give!\n\n✨ A little about her:\n🐶 8-year-old female Boxer\n❤️ An absolute sweetheart\n👧 Great with kids\n🐕🐈 Gets along well with other animals\n🏡 Potty trained\n😴 Does great in her crate\n🎾 Medium energy—happy to have some fun but doesn’t need to be entertained all day\n🛋️ And most importantly… she LOVES to cuddle!\n\nShe’s the kind of girl who can join in on the family fun and then happily curl up next to you on the couch. At 8 years old, she’s already past the puppy chaos and comes with some of the best things already figured out—like potty training and crate manners! 🙌\n\nShe would make such a wonderful addition to a family looking for a sweet, affectionate, easygoing companion. She just needs someone willing to give an older girl the loving home she deserves. 🥹❤️",
-      "LastIntakeUnixTime": "1787965584",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788183479"
     },
     {
       "ID": "3703",
