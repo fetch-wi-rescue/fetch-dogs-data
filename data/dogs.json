@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:14:32Z",
+  "updated": "2026-09-02T07:12:38Z",
   "count": 72,
   "animals": [
     {
@@ -284,7 +284,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787931563"
+      "LastUpdatedUnixTime": "1788323255"
     },
     {
       "ID": "3200",
@@ -751,7 +751,7 @@
       "Status": "Available",
       "InFoster": true,
       "CurrentWeightPounds": "52",
-      "Size": "",
+      "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1732047217,
       "Age": 21,
@@ -804,7 +804,13 @@
       "Breed": "Mixed Breed (Large)/Mixed Breed (Large)",
       "Color": "Grey/White",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Stacy: Your Dog’s Very Own Cat-Dog Hybrid (Now in a shorter, sillier edition)\nLooking for a cat for your dog? Perfect. Stacy has arrived to fill that extremely niche job.\n\nSweet, tiny Stacy is basically a travel‑sized Great Pyrenees with the soul of a mildly judgmental house cat. She and her brother Demo started life on the streets of Alabama, then somehow ended up in Wisconsin, where she now supervises humans with quiet disapproval.\n\nShe’s gentle, quirky, shy at first, and absolutely convinced she is cooler than everyone. Stacy loves affection—after she decides you deserve it. She does not follow you everywhere, for she has important cat‑dog business to attend to.\n\nHer favorite things:\n* Her dog friends (non‑negotiable—she needs at least one).\n* Butt wiggles that appear without warning.\n* Randomly showing up with a stick in her mouth, peeking around the corner like she’s checking if you’re busy.\n* Making ridiculous faces that seem designed to make you laugh.\n* Acting like a cat who accidentally downloaded the “dog” expansion pack.\n\nShe’s house trained, walks beautifully on leash, and can free‑roam like a tiny, furry landlord. Quiet, polite, expressive, and occasionally smirky—Stacy is 72% dog, 28% cat, and 100% cute weirdo.\n\nStacy is looking for:\n* A patient human who understands shy dogs.\n* A calm home where she can bloom.\n* A friendly dog buddy to be her emotional-support extrovert.\n* Someone who appreciates cat energy in a dog body.\nIf you’ve ever said, “I want a cat… but also a dog,” congratulations. Stacy is your girl.",
       "LastIntakeUnixTime": "1778942911",
       "Attributes": [
@@ -849,7 +855,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788111888"
+      "LastUpdatedUnixTime": "1788321245"
     },
     {
       "ID": "3581",
@@ -892,10 +898,16 @@
         "https://new-s3.shelterluv.com/profile-pictures/66b07431ad1625d3f11b5cfc27d8b437/b17e51d6d53db46a6c492aae72be6d07.jpeg"
       ],
       "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "White/Brindle",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Meet Ruthie — the wiggliest sunshine noodle of a dog.\nRuthie greets life like it’s a talent show and she’s performing “Extreme Wiggles, Interpretive Edition.” Her tail spins like a tiny helicopter, her smile is pure mischief, and she fully believes humans exist for belly rubs. If you stop petting her, she’ll gently paw at you like, “Hello??? Customer service??? I ordered affection.”\nShe’s a joyful, affectionate girl who loves outdoor adventures, walkies, sunshine, and rolling under the covers like a gremlin who just discovered slapstick comedy. Ruthie was found pregnant on the streets of Alabama before making her way to Wisconsin, where she raised the famous “pasta puppy” litter — because of course the goofiest dog also makes the cutest babies.\nRuthie LOVES being outside. She LOVES her people. She LOVES being goofy. She LOVES belly rubs. Honestly, she’s just out here living her best sitcom‑dog life.\nShe’s eager to please, enjoys learning, and has the kind of personality that makes strangers say, “Oh my gosh, look at her!” right before falling in love. She’s been treated for heartworm and is feeling better every day.\nIf you’re a human who wants a built‑in adventure buddy, Ruthie is ready to trot into your life and dramatically flop onto your lap for rubs.",
       "LastIntakeUnixTime": "1778953881",
       "Attributes": [
@@ -960,7 +972,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788112066"
+      "LastUpdatedUnixTime": "1788321025"
     },
     {
       "ID": "3628",
@@ -1054,7 +1066,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787010845"
+      "LastUpdatedUnixTime": "1788321120"
     },
     {
       "ID": "3629",
@@ -1204,7 +1216,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788143971"
+      "LastUpdatedUnixTime": "1788319370"
     },
     {
       "ID": "3632",
@@ -1367,7 +1379,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787977644"
+      "LastUpdatedUnixTime": "1788320691"
     },
     {
       "ID": "3636",
@@ -2111,7 +2123,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786285047"
+      "LastUpdatedUnixTime": "1788323696"
     },
     {
       "ID": "3662",
@@ -2252,7 +2264,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788144428"
+      "LastUpdatedUnixTime": "1788319819"
     },
     {
       "ID": "3664",
@@ -2423,7 +2435,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787857388"
+      "LastUpdatedUnixTime": "1788319544"
     },
     {
       "ID": "3668",
@@ -2724,7 +2736,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787880219"
+      "LastUpdatedUnixTime": "1788322497"
     },
     {
       "ID": "3674",
@@ -2823,7 +2835,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787546057"
+      "LastUpdatedUnixTime": "1788318248"
     },
     {
       "ID": "3675",
@@ -2917,7 +2929,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788205527"
+      "LastUpdatedUnixTime": "1788318061"
     },
     {
       "ID": "3676",
@@ -3013,7 +3025,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788212022"
+      "LastUpdatedUnixTime": "1788317925"
     },
     {
       "ID": "3677",
@@ -3108,7 +3120,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788205565"
+      "LastUpdatedUnixTime": "1788317563"
     },
     {
       "ID": "3678",
@@ -3206,7 +3218,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788204528"
+      "LastUpdatedUnixTime": "1788317368"
     },
     {
       "ID": "3679",
@@ -3301,7 +3313,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788207115"
+      "LastUpdatedUnixTime": "1788316954"
     },
     {
       "ID": "3680",
@@ -3398,7 +3410,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788205119"
+      "LastUpdatedUnixTime": "1788316772"
     },
     {
       "ID": "3681",
@@ -3496,7 +3508,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788206661"
+      "LastUpdatedUnixTime": "1788316486"
     },
     {
       "ID": "3682",
@@ -3593,7 +3605,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788206303"
+      "LastUpdatedUnixTime": "1788318452"
     },
     {
       "ID": "3683",
@@ -6511,7 +6523,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1683003600,
-      "Age": 39,
+      "Age": 40,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
@@ -6564,7 +6576,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788160591"
+      "LastUpdatedUnixTime": "1788319891"
     },
     {
       "ID": "1442",
