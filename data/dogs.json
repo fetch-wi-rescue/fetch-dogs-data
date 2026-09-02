@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T12:11:10Z",
+  "updated": "2026-09-02T16:44:10Z",
   "count": 72,
   "animals": [
     {
@@ -1752,7 +1752,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787601923"
+      "LastUpdatedUnixTime": "1788358544"
     },
     {
       "ID": "3652",
@@ -2003,7 +2003,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788130707"
+      "LastUpdatedUnixTime": "1788359301"
     },
     {
       "ID": "3656",
@@ -2323,7 +2323,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788182271"
+      "LastUpdatedUnixTime": "1788355442"
     },
     {
       "ID": "3665",
@@ -2335,7 +2335,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "57",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1497502800,
@@ -2435,7 +2435,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788319544"
+      "LastUpdatedUnixTime": "1788361164"
     },
     {
       "ID": "3668",
@@ -2480,7 +2480,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Bob is your typical happy wiggly cuddly puppy! He loves everyone and everything he’s met so far including dogs, cats, kids and people of all ages! His favorite thing is playing fetch with his toys- he’s already an expert at bringing the toy back. Bob settles down quickly in his crate or playpen when it’s nap time and only wakes up once or twice overnight- but goes back to sleep when told. He hasn’t had a single accident so far in his foster home and is overall doing phenomenal- he would be an easy addition to pretty much any home. Bob is currently on some antibiotics for a small infrequent cough and should be kept separate from other dogs until this clears just to make sure everyone stays happy and healthy, but this shouldn’t be more than a few weeks tops. ",
+      "Description": "Bob is your typical happy wiggly cuddly puppy! He loves everyone and everything he’s met so far including dogs, cats, kids and people of all ages! \nHis favorite thing is playing fetch with his toys- he’s already an expert at bringing the toy back and does the cutest little bunny hops when he runs. He’s super food motivated so training has been a breeze! He already knows “Sit”, “down” and “leave it”! \nBob settles down quickly in his crate or playpen when it’s nap time and sleeps 8 hours through the night. \nAs long as he is taken out regularly he does not have any accidents! Bob is overall doing phenomenal- he would be an easy addition to pretty much any home. ",
       "LastIntakeUnixTime": "1787195352",
       "Attributes": [
         {
@@ -2549,7 +2549,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788312269"
+      "LastUpdatedUnixTime": "1788351709"
     },
     {
       "ID": "3670",
@@ -2736,7 +2736,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788322497"
+      "LastUpdatedUnixTime": "1788356884"
     },
     {
       "ID": "3674",
@@ -4106,6 +4106,106 @@
       "LastUpdatedUnixTime": "1787969767"
     },
     {
+      "ID": "3688",
+      "Internal-ID": "214320084",
+      "Name": "Mani",
+      "LitterGroupId": 9575389,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "15",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ff533a75043ec88bac349c216a0adb66/a9a711fd50775e7ee6b7d91bd8e3f4e2.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ff533a75043ec88bac349c216a0adb66/a9a711fd50775e7ee6b7d91bd8e3f4e2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0dbf37c0ca16c417dcc2fb35259700b4/b3a2f780db7a65a78c5ffb2e797c48ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9e86891cf4ee1ab2aaf1ad38a09ffbd/906da017c35ccae8ac15d38fce5f2ee7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6221718b2a0f6131d159b3c72e23c046/b5ad68a09093325ee5e132b2409f9f08.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/90016c754a2096e6a5ca53c9383e4c51/cbb4d4f883b9ad7514f52103cf4c13d2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/27c08b94629e21d2f1c17505118a2fe4/082f22c7fff5a7576bd834c574800460.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e30cf4f1fa7955fca2770877a24c461b/f259070b7be2c550cd4bf0841f106558.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd1261713fbd7af50b4ac27053eef065/3a25bf0e140515327b57741b1d867e3a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7831f60ac456f2d004390de00f78d0ef/550655b920f991f7289b667610df5617.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c831bf3c52e50294a315198680a2bbcd/253a09f7f5712eecb45bb2ada6cef5e2.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Hound",
+      "Color": "Tan/White",
+      "Pattern": "Badger",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet sweet Mani, a gorgeous, affectionate hound puppy with ears as big as his heart.  Not a lot can faze this mellow little guy.  He’s equally content to be napping as he is playing with his big canine brother or any available human.  Mani loves all manners of toys, especially soft plushies as big or bigger than him.\n\nMani likes exploring the outdoors and has a particular fondness for dramatic and uncoordinated flops into the soft grass.  He also enjoys car rides, especially when they result in meeting new people and/or getting a pup cup!  He has found his baby hound voice already, with occasional (though short lived) baying.  \n\nMani sleeps through the night and settles well in his crate.  As a young puppy, he is still working on potty training, but does great on a schedule.  \n\nMani has a wonderful temperament; he’s gentle, easy-going, and very sweet-natured.  Will you give this lovely boy the forever home he deserves?\n",
+      "LastIntakeUnixTime": "1787190862",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788363209"
+    },
+    {
       "ID": "3690",
       "Internal-ID": "214320091",
       "Name": "Frenchi",
@@ -4322,7 +4422,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Scarlet loves to explore the yard. One smell leads her to the next and the next. She's playful, yet also is an excellent power napper. Scarlet will go from running to sleeping in mere minutes. She has the cutest bark when she wants your attention. She enjoys following human and canines as they go about their day.\n\nCurrent schedule\n4 am - 6 am - occasionally needs to go outside\n6:30 am - wake up, go outside, eat\n7 am - 5:30 pm - play, crate, outside, nap, repeat\n10:30 pm - crate for the night\n\nAn explanation of a couple photos: I wanted to show how Scarlet's fur/coloring is evolving each day. Also, how can you not love a puppy who combines two favorite things: laying down and eating! This is a puppy with personality.\n\nScarlet is dreaming about her furever family during each nap. Will it be you who makes her dream come true?",
+      "Description": "Just like her Gone with the Wind namesake, Miss Scarlet, is a true Southern gal, though she is not a diva. Within two days she learned to sit for a treat. Potty and crate training is going well. Scarlet was sleeping through the night within five days.\n\nScarlet loves to explore the yard. One smell leads her to the next and the next. She's playful yet also is an excellent power napper. Scarlet will go from running to sleeping in mere minutes. She has the cutest bark when she wants your attention. She enjoys following humans and canines as they go about their day. Her little bark is the cutest thing ever.\n\nCurrent schedule \n4 am - 6 am - occasionally needs to go outside \n6:30 am - wake up, go outside, eat \n7 am - 5:30 pm - play, crate, outside, nap, repeat \n10:30 pm - crate for the night \n\nAn explanation of a couple photos: I wanted to show how Scarlet's fur/coloring is evolving each day. Also, how can you not love a puppy who combines two favorite things: laying down and eating! This is a puppy with personality. \n\nScarlet is dreaming about her furever family during each nap. Will it be you who makes her dream come true?\n",
       "LastIntakeUnixTime": "1787191830",
       "Attributes": [
         {
@@ -4386,7 +4486,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788294172"
+      "LastUpdatedUnixTime": "1788363140"
     },
     {
       "ID": "3698",
@@ -4655,7 +4755,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788311169"
+      "LastUpdatedUnixTime": "1788363119"
     },
     {
       "ID": "3702",
@@ -4760,7 +4860,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788312769"
+      "LastUpdatedUnixTime": "1788360774"
     },
     {
       "ID": "3663",
@@ -4848,12 +4948,27 @@
       "LastIntakeUnixTime": "1787965556",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702281",
           "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788183866"
+      "LastUpdatedUnixTime": "1788363300"
     },
     {
       "ID": "3673",
@@ -4969,87 +5084,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788314902"
-    },
-    {
-      "ID": "3688",
-      "Internal-ID": "214320084",
-      "Name": "Mani",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "15",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0dbf37c0ca16c417dcc2fb35259700b4/b3a2f780db7a65a78c5ffb2e797c48ee.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0dbf37c0ca16c417dcc2fb35259700b4/b3a2f780db7a65a78c5ffb2e797c48ee.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787190862",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787833827"
     },
     {
       "ID": "3703",
@@ -6191,7 +6225,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788313710"
+      "LastUpdatedUnixTime": "1788363314"
     },
     {
       "ID": "3590",
@@ -6293,7 +6327,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788005768"
+      "LastUpdatedUnixTime": "1788351304"
     },
     {
       "ID": "3592",
