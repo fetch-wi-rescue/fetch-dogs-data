@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T16:44:10Z",
+  "updated": "2026-09-02T19:34:36Z",
   "count": 72,
   "animals": [
     {
@@ -1675,7 +1675,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788289254"
+      "LastUpdatedUnixTime": "1788372548"
     },
     {
       "ID": "3651",
@@ -2324,118 +2324,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788355442"
-    },
-    {
-      "ID": "3665",
-      "Internal-ID": "214291180",
-      "Name": "Bailey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "57",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1497502800,
-      "Age": 110,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ae793c7c60ffb7fef712253ea2b12806/abd8508eaba2904f508dca02287520fe.JPG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ae793c7c60ffb7fef712253ea2b12806/abd8508eaba2904f508dca02287520fe.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/41dea8e179388f6c7fcbe47425f71fe8/27b0478bb1cb756cff75fe7232f779d1.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/9e59955f9b0762e6f9af580db2b6f8fe/f457ec1dfb4a972dd3367250aa214323.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae8ca61bc52009582c0a319c7cb62240/7a0773aa0f45827f7c6296aca5cae9ca.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/ff733739e44f6fcd98c47b48826d61c1/912689c40ae41e9101203e40215c8f58.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/9c112ba9b507131ab38ab850f756b9c2/03ac17ddf71f169120f4305a71fcd194.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/a38b5414d7872c07311ae07bbe43eb96/7dd9c53a4ad22b51a9ae916cd4fd1e66.JPG"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian",
-      "Color": "Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Meet Bailey! This sweet 9-year-old Anatolian Shepherd mix may be a senior, but she doesn't always act like one. Bailey is a very loving, affectionate, and cuddly girl with plenty of personality—and she still has some youthful energy to share!\n\nCurrently, Bailey enjoys a couple of 20–30 minute walks each day along with some extra playtime. She also loves a good nap and sleeps quite a bit once she’s had her fun. If she has access to a gated yard where she can stretch her legs and spend some time outside, she may also be perfectly happy with less structured walk time. She’s fully house trained, rides well in the car, and knows her basic commands when treats are involved. She seems to thrive with a routine and has done well in an apartment.\n\nBailey can be left loose in the home without being destructive or overly vocal and can comfortably be left for a workday. She has also done well spending a workday in a smaller gated room and enjoys having a crate available as an option to curl up in. She may whine or bark occasionally when she wants to go outside. She also enjoys occasionally curling up on the couch or bed with her people, but she’s respectful of boundaries and does well when told not to hop up or asked to move to another spot.\n\nBailey has lived with other dogs in her previous home, and we have no indication that it was anything but positive. She has also had good interactions with other dogs while in our care. Bailey does have a strong interest in small animals. If she spots a bunny, squirrel, or other critter, she can pull pretty hard on leash. Previously, she did well with older children, but she did not do well living with a baby, so a home with older kids or adults would likely be the best fit.\n\nBailey is simply a sweetheart. She is ready to bring her affectionate personality, cuddles, and youthful spirit to her new home",
-      "LastIntakeUnixTime": "1786658532",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788361164"
     },
     {
       "ID": "3668",
@@ -4683,7 +4571,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "9.1",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1783573200,
@@ -4755,7 +4643,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788363119"
+      "LastUpdatedUnixTime": "1788377606"
     },
     {
       "ID": "3702",
@@ -5083,7 +4971,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788314902"
+      "LastUpdatedUnixTime": "1788373473"
     },
     {
       "ID": "3703",
@@ -5664,7 +5552,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788277755"
+      "LastUpdatedUnixTime": "1788374423"
     },
     {
       "ID": "3658",
@@ -5923,6 +5811,118 @@
       "LastUpdatedUnixTime": "1788188712"
     },
     {
+      "ID": "3665",
+      "Internal-ID": "214291180",
+      "Name": "Bailey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "57",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1497502800,
+      "Age": 110,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ae793c7c60ffb7fef712253ea2b12806/abd8508eaba2904f508dca02287520fe.JPG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ae793c7c60ffb7fef712253ea2b12806/abd8508eaba2904f508dca02287520fe.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/41dea8e179388f6c7fcbe47425f71fe8/27b0478bb1cb756cff75fe7232f779d1.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/9e59955f9b0762e6f9af580db2b6f8fe/f457ec1dfb4a972dd3367250aa214323.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae8ca61bc52009582c0a319c7cb62240/7a0773aa0f45827f7c6296aca5cae9ca.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ff733739e44f6fcd98c47b48826d61c1/912689c40ae41e9101203e40215c8f58.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/9c112ba9b507131ab38ab850f756b9c2/03ac17ddf71f169120f4305a71fcd194.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/a38b5414d7872c07311ae07bbe43eb96/7dd9c53a4ad22b51a9ae916cd4fd1e66.JPG"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian",
+      "Color": "Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Meet Bailey! This sweet 9-year-old Anatolian Shepherd mix may be a senior, but she doesn't always act like one. Bailey is a very loving, affectionate, and cuddly girl with plenty of personality—and she still has some youthful energy to share!\n\nCurrently, Bailey enjoys a couple of 20–30 minute walks each day along with some extra playtime. She also loves a good nap and sleeps quite a bit once she’s had her fun. If she has access to a gated yard where she can stretch her legs and spend some time outside, she may also be perfectly happy with less structured walk time. She’s fully house trained, rides well in the car, and knows her basic commands when treats are involved. She seems to thrive with a routine and has done well in an apartment.\n\nBailey can be left loose in the home without being destructive or overly vocal and can comfortably be left for a workday. She has also done well spending a workday in a smaller gated room and enjoys having a crate available as an option to curl up in. She may whine or bark occasionally when she wants to go outside. She also enjoys occasionally curling up on the couch or bed with her people, but she’s respectful of boundaries and does well when told not to hop up or asked to move to another spot.\n\nBailey has lived with other dogs in her previous home, and we have no indication that it was anything but positive. She has also had good interactions with other dogs while in our care. Bailey does have a strong interest in small animals. If she spots a bunny, squirrel, or other critter, she can pull pretty hard on leash. Previously, she did well with older children, but she did not do well living with a baby, so a home with older kids or adults would likely be the best fit.\n\nBailey is simply a sweetheart. She is ready to bring her affectionate personality, cuddles, and youthful spirit to her new home",
+      "LastIntakeUnixTime": "1786658532",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788372417"
+    },
+    {
       "ID": "3666",
       "Internal-ID": "214302659",
       "Name": "Gunner",
@@ -6149,7 +6149,7 @@
       "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "8.6",
+      "CurrentWeightPounds": "8.9",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1783573200,
@@ -6225,7 +6225,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788363314"
+      "LastUpdatedUnixTime": "1788377606"
     },
     {
       "ID": "3590",
