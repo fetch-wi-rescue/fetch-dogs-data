@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T17:24:28Z",
-  "count": 72,
+  "updated": "2026-09-03T19:58:52Z",
+  "count": 71,
   "animals": [
     {
       "ID": "2754",
@@ -1691,7 +1691,7 @@
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1777830809,
-      "Age": 3,
+      "Age": 4,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
@@ -3688,7 +3688,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788184397"
+      "LastUpdatedUnixTime": "1788461756"
     },
     {
       "ID": "3685",
@@ -5543,106 +5543,6 @@
       "LastUpdatedUnixTime": "1788449276"
     },
     {
-      "ID": "3650",
-      "Internal-ID": "214152758",
-      "Name": "Creed",
-      "LitterGroupId": 9558460,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "25",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1775264422,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/896d51aa6ec759535ebfb3783ca7db57/51eecd664a8b19cbcd950058a8fdf831.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e41ca7cf9cfe84e5adbfc72cb0d5b6a/406c9fc10f503eb79091b44b3b40ecad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/132f27b0f9eddb7cff18b6dbeb52744d/d48cf4b713cc94b05a69961067a695e2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/36cccdef95ed7f8864845e5b33f5396d/e39433b62bcee5716a74b19415d86335.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/93e16b567974cd21db242341c2a9854c/82888107e01bd0fe5222512e8d4c78da.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3f4112a75ec92b16c75343324d18f33/6eded3b54f695ca4f053fb66843724f1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/091d7b406a18554e2f57a82de954badb/5b21442de96d61562f65c13ef0472517.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/204167f77001efd0e7cef57ed50936d1/269c931900cb75354268280627536783.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68c9328c3dea8106a8ec1f24a459b98c/9a370eb80dd1950f1989b2f83dc72cbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fe554efbcbb98cf325926823310c15c/c47539afa728ed9f3f5471ac8da3f6bd.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/def039d53269991ad9c36a2751fa7345/ace925ab29a0cff81816e47f19b3ef58.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/520ece87b5f36dfa0b15b96980d59c73/c5a848204683e2d7e1191a48bdb49afc.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/d87cb54cfa48e23e091086ba809c54e6/c2fe161a4a1f3d50ead89f63038ea583.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/357f47a5f82b950c46bfc56119fe419f/157948f89c342ba7beb4a6dd53f5ef28.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47ddd559f471f934954ff678e20864ed/ebf686a6808cf9e945cc1ae56a87dafa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e56af8ec26bdb5cdeccee44aac90175/515304ac377219534f7cb1e2a1d14d9a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/91eb6422e7d2bf7c76090d954466c70c/2cac0ab9b3802edc1ff4ee834fdd5b1d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5a2c15989bad11ab060be4626088dac/8645139343ef7243644cc11e853f7e65.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f557fd2ecdff6fb7ae5cf184866476b/542d423c5de64004960012baa5a295ab.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3ecf414cb6f4394818ae8ebc51c97fa/83b2538c87d47da1f663bb9d95b9ea4e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/accc8f0fc2b1429dee80731a2b8d3f67/6c720ab003a7dfe9c857e6b6ca89752a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5f53f80dbb14ab8ae2fcb9c00f76565/641b5e88910a94d0f0fc5cc0399205a8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3b417e35a4c906fe41af78c072da581/8d4226e987ab976334e1f60d66752371.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/12df3e5865e0fc3e24c4dd618b807a4f/6dbd82dfd5d7d3e63b6a2cb35a2425e5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ae5b152a266e737a12e834998dc83f0/4e74bb84054e158708172664e9c9f670.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Cattle Dog, Australian (Blue Heeler)",
-      "Color": "Cream/Blue",
-      "Pattern": "Spotted",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Creed is almost 5 months old, this adorable puppy is already showing what a wonderful companion he's going to be. Weighing 25 pounds at his young age, he's going to be a good sized  boy! While his looks and personality point to a mix of Catahoula Leopard Dog or Australian Cattle Dog . The vet adjusted his age to closer to 5 months due to the potty training progress, sleeping through the night, adult teeth coming in and general demeanor. \nThis sweet boy is doing very well with potty training and is comfortable relaxing in his crate, making him off to a great start in life. While he's a little more reserved when meeting new people than his sister, he warms up quickly and enjoys spending time with people of all ages. He has done wonderfully with my 2-, 3-, and 10-year-old grandchildren, showing a gentle, patient nature. He can be a little noisy when he is scared by noises or  when playing with another dog. He settles quickly with a reminder. \nHe also gets along very well with other dogs and enjoys having canine companions to play with. He loves playing with toys and does so appropriately, happily entertaining himself or joining in when it's playtime.\nThis handsome pup has a calm confidence about him. He's curious without being overly bold and enjoys exploring his surroundings at his own pace. Once he knows you're his person, he's affectionate and loyal, seeking out your company and enjoying being part of the family.\nIf you're looking for a smart, gentle, well-socialized puppy with a sweet disposition and the potential to grow into a devoted lifelong companion, this special boy is ready to find his forever home.\n",
-      "LastIntakeUnixTime": "1784923010",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788374423"
-    },
-    {
       "ID": "3658",
       "Internal-ID": "214229995",
       "Name": "Brutus",
@@ -6553,7 +6453,7 @@
       "Sex": "Male",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "9.4",
+      "CurrentWeightPounds": "9.6",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1683003600,
@@ -6610,7 +6510,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788319891"
+      "LastUpdatedUnixTime": "1788465484"
     },
     {
       "ID": "1442",
