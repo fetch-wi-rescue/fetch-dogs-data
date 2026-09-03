@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T00:25:17Z",
+  "updated": "2026-09-03T04:48:48Z",
   "count": 72,
   "animals": [
     {
@@ -855,7 +855,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788321245"
+      "LastUpdatedUnixTime": "1788398957"
     },
     {
       "ID": "3581",
@@ -972,7 +972,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788321025"
+      "LastUpdatedUnixTime": "1788399001"
     },
     {
       "ID": "3628",
@@ -4562,6 +4562,94 @@
       "LastUpdatedUnixTime": "1788296905"
     },
     {
+      "ID": "3700",
+      "Internal-ID": "214385491",
+      "Name": "Teddy",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.9",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1783573200,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White/Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Teddy is a sweet, playful, calm puppy who is amazingly well adjusted and loves everyone. He is confident but submissive, great with people and other dogs, and just a very easy, happy little puppy. Teddy’s mom was a husky mix and he inherited the husky blue eyes, but dad is unknown so we are unsure how big he’ll get. He is a very quiet guy and does great  in his crate, so definitely doesn’t have the typical husky voice! Teddy is very social and would love to be your sidekick at a brewery or restaurant patio.",
+      "LastIntakeUnixTime": "1787746606",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788395116"
+    },
+    {
       "ID": "3701",
       "Internal-ID": "214398346",
       "Name": "Toby",
@@ -4983,7 +5071,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "62",
+      "CurrentWeightPounds": "68.2",
       "Size": "Large (60-99)",
       "Altered": "No",
       "DOBUnixTime": 1598590800,
@@ -5003,7 +5091,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Name: Katherine Watson\n\nEmail: cygnus2016@gmail.com\n\nYour Foster Partner: Jaden\n\nFoster Dog's Name: Seymour\n\nOverall, how has your foster pup done this week?: Seymour just arrived on Saturday but is settling in great! He is a big teddy bear and just wants to snuggle and give kisses to everyone. He hasn't had any accidents in the house, already knows \"sit\" and \"shake\", and does well in a crate or free roaming.\n\nHas your foster shown any new or undesirable behaviors since your last progress report?: Seymour needs work walking on a leash. He is very enthusiastic on walks and likes to pull--and he's strong!\n\nIf your foster interacted with other dogs in your home, how have these gone?: We have been taking things slow with our resident dog, just because she seems a little intimidated by Seymour's size. He's been an absolute angel around her, even when she's being grumpy to him. They were getting along well last night, playing and wrestling for the first time! I think he would do great in a home with other dogs.\n\nIf your foster interacted with other dogs outside of your home (on walks, play dates, restaurants, etc.), how have these gone?: No, not yet\n\nHow does your foster react to seeing and/or meeting other dogs while on leash?: He seems interested in dogs he sees walk past, watching them and wagging his tail.\n\nHas your foster met any puppies, young dogs, or highly energetic dogs? How did they react?: Not yet\n\nHas your foster interacted with cats?: Nope, not yet! Hope to cat test him soon.\n\nHow does your foster react to meeting new people?: Seymour loves people! He is SUPER friendly and not shy at all when meeting strangers.\n\nHas your foster ever lunged at or nipped a person or other animal?: No, other than trying to chase rabbits in the yard :)\n\nMy Foster Dog Is...: Loves being crated when alone, Loves being crated overnight, Is allowed to free-roam during the day, Having perfectly normal bowel movements, Difficult to walk, Loves playing with other animals in my home, Wants to greet everyone on walks, Loves car rides\n\nAny other comments/concerns not reflected in this questionnaire?: We currently crate Seymour when we leave and at night, but he would probably be find free roaming. He is very well behaved and doesn't get into things.",
       "LastIntakeUnixTime": "1787965584",
       "Attributes": [
         {
@@ -5012,7 +5100,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788311372"
+      "LastUpdatedUnixTime": "1788401905"
     },
     {
       "ID": "3697",
@@ -6138,94 +6226,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1787968704"
-    },
-    {
-      "ID": "3700",
-      "Internal-ID": "214385491",
-      "Name": "Teddy",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.9",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1783573200,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d63172b84b550f79cdef895fc2feb836/9e6dd2d494c826392c9bf03373f39e1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd91b27fdc031ca124e43cab1bf40416/0c240b26d0186d74ade860243fc8314e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/63d6ba857b0859d8191ecea426f88722/e824db67087fbc3008f42f4ad28a91ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a773b77eb3d8905737ae6dd3f00b0271/36e9581726aed3f77008bc5fe7409ccb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c1e9a5945027675560a38883e1cbb315/f53a512a5ad5d4b8950b0985c24eabdf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f71c8cc6a7467a7414cd5c7f3abcf99/d038072f6f2fe26126d0202b55a03f09.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/23c83f9fd18fac4faedd367897c08fc1/ff3eb26c542c22e28f719bf25fe6ee22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3aed9e1e1811aeef075e6ec5cd006365/1a801c3d46e5be465b137fbb564b7498.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Teddy is a sweet, playful, calm puppy who is amazingly well adjusted and loves everyone. He is confident but submissive, great with people and other dogs, and just a very easy, happy little puppy. Teddy’s mom was a husky mix and he inherited the husky blue eyes, but dad is unknown so we are unsure how big he’ll get. He is a very quiet guy and does great  in his crate, so definitely doesn’t have the typical husky voice! Teddy is very social and would love to be your sidekick at a brewery or restaurant patio.",
-      "LastIntakeUnixTime": "1787746606",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788377606"
     },
     {
       "ID": "3590",
