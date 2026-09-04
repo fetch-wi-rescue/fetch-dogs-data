@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:58:50Z",
+  "updated": "2026-09-04T23:47:53Z",
   "count": 71,
   "animals": [
     {
@@ -1236,11 +1236,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
@@ -1306,7 +1301,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788319370"
+      "LastUpdatedUnixTime": "1788561273"
     },
     {
       "ID": "3632",
@@ -3808,116 +3803,6 @@
       "LastUpdatedUnixTime": "1788461756"
     },
     {
-      "ID": "3685",
-      "Internal-ID": "214320071",
-      "Name": "Mel",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388246,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/618b9ff364bf70997c8dcfd4027be4d0/117f6ff1fd675e1e315f5e387134bb1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62a28a5f38d1f9415bcb1e703e77fc23/cd505a247c539f9051d993fc43240fff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3d04ee777f70a34d1740bc590bcbb3a/e70d90c457cdbb73128388b36ae2f7a9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Mel is the sweetest boy! We all adore him. He is calm, will sit nicely in front of us and look up waiting for pets. He loves to be with us and is always polite and snuggly. He enjoys playing with his brothers and lets his little brother sleep on top of him. He has been fantastic with his potty and crate training and has longer legs and the best ears!! Whoever he ends up with will be very lucky.",
-      "LastIntakeUnixTime": "1787169410",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787969732"
-    },
-    {
       "ID": "3686",
       "Internal-ID": "214320076",
       "Name": "Syd",
@@ -5371,7 +5256,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Name: Katherine Watson\n\nEmail: cygnus2016@gmail.com\n\nYour Foster Partner: Jaden\n\nFoster Dog's Name: Seymour\n\nOverall, how has your foster pup done this week?: Seymour just arrived on Saturday but is settling in great! He is a big teddy bear and just wants to snuggle and give kisses to everyone. He hasn't had any accidents in the house, already knows \"sit\" and \"shake\", and does well in a crate or free roaming.\n\nHas your foster shown any new or undesirable behaviors since your last progress report?: Seymour needs work walking on a leash. He is very enthusiastic on walks and likes to pull--and he's strong!\n\nIf your foster interacted with other dogs in your home, how have these gone?: We have been taking things slow with our resident dog, just because she seems a little intimidated by Seymour's size. He's been an absolute angel around her, even when she's being grumpy to him. They were getting along well last night, playing and wrestling for the first time! I think he would do great in a home with other dogs.\n\nIf your foster interacted with other dogs outside of your home (on walks, play dates, restaurants, etc.), how have these gone?: No, not yet\n\nHow does your foster react to seeing and/or meeting other dogs while on leash?: He seems interested in dogs he sees walk past, watching them and wagging his tail.\n\nHas your foster met any puppies, young dogs, or highly energetic dogs? How did they react?: Not yet\n\nHas your foster interacted with cats?: Nope, not yet! Hope to cat test him soon.\n\nHow does your foster react to meeting new people?: Seymour loves people! He is SUPER friendly and not shy at all when meeting strangers.\n\nHas your foster ever lunged at or nipped a person or other animal?: No, other than trying to chase rabbits in the yard :)\n\nMy Foster Dog Is...: Loves being crated when alone, Loves being crated overnight, Is allowed to free-roam during the day, Having perfectly normal bowel movements, Difficult to walk, Loves playing with other animals in my home, Wants to greet everyone on walks, Loves car rides\n\nAny other comments/concerns not reflected in this questionnaire?: We currently crate Seymour when we leave and at night, but he would probably be find free roaming. He is very well behaved and doesn't get into things.",
+      "Description": "",
       "LastIntakeUnixTime": "1787965584",
       "Attributes": [
         {
@@ -6147,6 +6032,116 @@
         }
       ],
       "LastUpdatedUnixTime": "1788191621"
+    },
+    {
+      "ID": "3685",
+      "Internal-ID": "214320071",
+      "Name": "Mel",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "10",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388246,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/618b9ff364bf70997c8dcfd4027be4d0/117f6ff1fd675e1e315f5e387134bb1c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62a28a5f38d1f9415bcb1e703e77fc23/cd505a247c539f9051d993fc43240fff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3d04ee777f70a34d1740bc590bcbb3a/e70d90c457cdbb73128388b36ae2f7a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Mel is the sweetest boy! We all adore him. He is calm, will sit nicely in front of us and look up waiting for pets. He loves to be with us and is always polite and snuggly. He enjoys playing with his brothers and lets his little brother sleep on top of him. He has been fantastic with his potty and crate training and has longer legs and the best ears!! Whoever he ends up with will be very lucky.",
+      "LastIntakeUnixTime": "1787169410",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788559315"
     },
     {
       "ID": "3695",
