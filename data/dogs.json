@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T13:38:31Z",
+  "updated": "2026-09-04T17:17:54Z",
   "count": 71,
   "animals": [
     {
@@ -1649,7 +1649,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "Name: Amy Culver\n\nEmail: amyculver22@gmail.com\n\nYour Foster Partner: Kelsa Lowe\n\nFoster Dog's Name: Belle\n\nOverall, how has your foster pup done this week?: She is awesome! Crate trained, pretty good potty training, loves kids, dogs, cats and wants to get a squirrel or a bird.\n\nHas your foster shown any new or undesirable behaviors since your last progress report?: No issues\n\nIf your foster interacted with other dogs in your home, how have these gone?: She plays like a puppy.\n\nIf your foster interacted with other dogs outside of your home (on walks, play dates, restaurants, etc.), how have these gone?: She is good\n\nHow does your foster react to seeing and/or meeting other dogs while on leash?: She is fine\n\nHas your foster met any puppies, young dogs, or highly energetic dogs? How did they react?: Acts normal for a puppy. Wants to play\n\nHas your foster interacted with cats?: Yes we have a cat. She is fine with the cat.\n\nHow does your foster react to meeting new people?: She loves everyone\n\nHas your foster ever lunged at or nipped a person or other animal?: Nope\n\nMy Foster Dog Is...: Having perfectly normal bowel movements, Walks well on a leash, Struggling with other dogs in my home, Loves playing with other animals in my home, Loves my kids, Wants to greet everyone on walks, Loves car rides\n\nAny other comments/concerns not reflected in this questionnaire?: While she sleeps all night in her crate she would rather free roam. She is not crated much during the day because someone is almost always home. I am sure she would tolerate it.",
+      "Description": "Meet Belle a bundle of happiness! This little furball is full of puppy kisses, playful antics, and endless cuddles. She is curious, affectionate, and eager to find a family to call her own. Whether it's playtime, nap time, or cuddle time, Belle is always happy to be by your side. Are you ready to welcome this adorable pup into your heart and home? ❤️🐾",
       "LastIntakeUnixTime": "1784923034",
       "Attributes": [
         {
@@ -2312,13 +2312,23 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "After a rough start, Zombie is really coming along wonderfully.  He is a low energy gentle giant and really just loves to hang out with his people.  ",
       "LastIntakeUnixTime": "1786635886",
       "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294330",
           "AttributeName": "Not Housetrained",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
         },
         {
           "Internal-ID": "634891",
@@ -2336,7 +2346,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788439652"
+      "LastUpdatedUnixTime": "1788541089"
     },
     {
       "ID": "3668",
@@ -4236,7 +4246,7 @@
         "Discount": 0,
         "Tax": 0
       },
-      "Description": "",
+      "Description": "Clay is the perfect blend of puppy energy and snuggle bug. He loves to play and run outside and he’s already knows what “sit”. He will be a great addition for who is looking for a new best friend. He gets along with dogs, cats, and children.",
       "LastIntakeUnixTime": "1787191494",
       "Attributes": [
         {
@@ -4952,6 +4962,91 @@
       "LastUpdatedUnixTime": "1788363300"
     },
     {
+      "ID": "3669",
+      "Internal-ID": "214319986",
+      "Name": "Baxter",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1787195637",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788540886"
+    },
+    {
       "ID": "3673",
       "Internal-ID": "214319996",
       "Name": "Fifi Noelle",
@@ -5254,7 +5349,7 @@
       "Color": "",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "May 4, 2026Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
+      "Description": "Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
       "LastIntakeUnixTime": "1776441715",
       "Attributes": [
         {
@@ -5949,7 +6044,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788438571"
+      "LastUpdatedUnixTime": "1788534118"
     },
     {
       "ID": "3590",
@@ -6711,91 +6806,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788468039"
-    },
-    {
-      "ID": "3669",
-      "Internal-ID": "214319986",
-      "Name": "Baxter",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "With Sitter",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787195637",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1787761045"
     },
     {
       "ID": "3689",
