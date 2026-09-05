@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T18:42:13Z",
-  "count": 70,
+  "updated": "2026-09-05T20:51:09Z",
+  "count": 71,
   "animals": [
     {
       "ID": "2754",
@@ -968,7 +968,6 @@
         "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc10117cbe992915b412649be9d384f2/df81645be97bcd181acdefcabf9581f8.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg",
@@ -977,8 +976,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/1a34f00331c279db968a99500d14c88b/a70355911d4b60761984f54c41c9842c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/debbf18775f0683f300c4255d2f05699/c4064872eb66c64c1f428c9d211a6acc.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3c60b7805559f08c642e093ff9fcdb5c/6a5901a9b60a3138a98cd0e37d144c3e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2d282b250e1d6bf0a889055769ac581e/830773410bc549638fa39d4c8cc5d36b.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg"
       ],
       "Videos": [],
       "Breed": "Corgi, Pembroke Welsh",
@@ -1039,7 +1037,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788545314"
+      "LastUpdatedUnixTime": "1788638314"
     },
     {
       "ID": "3629",
@@ -1196,7 +1194,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "22",
+      "CurrentWeightPounds": "25.8",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1769184489,
@@ -1347,7 +1345,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788320691"
+      "LastUpdatedUnixTime": "1788636995"
     },
     {
       "ID": "3648",
@@ -1540,8 +1538,8 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "Large (60-99)",
+      "CurrentWeightPounds": "27",
+      "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1773597575,
       "Age": 5,
@@ -1569,7 +1567,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/dd86587bbacde27b7e222ad9bcb5f031/a228c0d434442dda5f1955ec33717219.jpg"
       ],
       "Videos": [],
-      "Breed": "Shepherd/Husky",
+      "Breed": "Mixed Breed (Medium)",
       "Color": "Blond/White",
       "Pattern": "None",
       "AdoptionFeeGroup": {
@@ -1688,7 +1686,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1787976892"
+      "LastUpdatedUnixTime": "1788635921"
     },
     {
       "ID": "3655",
@@ -2328,7 +2326,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788617043"
+      "LastUpdatedUnixTime": "1788633797"
     },
     {
       "ID": "3671",
@@ -3190,7 +3188,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788316486"
+      "LastUpdatedUnixTime": "1788636128"
     },
     {
       "ID": "3682",
@@ -4577,6 +4575,35 @@
       "LastUpdatedUnixTime": "1788438489"
     },
     {
+      "ID": "3704",
+      "Internal-ID": "214485671",
+      "Name": "Little Bear",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1693890000,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Small)",
+      "Color": "Fawn",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1788634609",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1788635266"
+    },
+    {
       "ID": "3697",
       "Internal-ID": "214322341",
       "Name": "Ripple",
@@ -4693,7 +4720,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787978848"
+      "LastUpdatedUnixTime": "1788636085"
     },
     {
       "ID": "3521",
@@ -5133,7 +5160,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788628145"
+      "LastUpdatedUnixTime": "1788636139"
     },
     {
       "ID": "3649",
