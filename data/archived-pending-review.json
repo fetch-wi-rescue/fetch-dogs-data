@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T19:58:52Z",
+  "updated": "2026-09-05T18:42:13Z",
   "animals": [
     {
       "ID": "3458",
@@ -1421,6 +1421,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-03T19:58:52Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3661",
+      "Name": "Arlo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e9ad5dcbe7fb0e9adb2e212b7d5c4e62/9b0b28fa29111076bca2ff5c1126484a.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-05T18:42:13Z",
       "status": "pending"
     }
   ]
