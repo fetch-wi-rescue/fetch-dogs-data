@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T11:19:42Z",
+  "updated": "2026-09-05T13:56:43Z",
   "count": 71,
   "animals": [
     {
@@ -2460,7 +2460,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "21",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1778648400,
@@ -2562,7 +2562,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788351709"
+      "LastUpdatedUnixTime": "1788616581"
     },
     {
       "ID": "3670",
@@ -3719,7 +3719,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "4.4",
+      "CurrentWeightPounds": "8.6",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1779388140,
@@ -3813,7 +3813,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788461756"
+      "LastUpdatedUnixTime": "1788615107"
     },
     {
       "ID": "3686",
@@ -4286,7 +4286,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788026547"
+      "LastUpdatedUnixTime": "1788616581"
     },
     {
       "ID": "3691",
@@ -4475,7 +4475,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788550597"
+      "LastUpdatedUnixTime": "1788615407"
     },
     {
       "ID": "3696",
@@ -4736,7 +4736,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788296905"
+      "LastUpdatedUnixTime": "1788616582"
     },
     {
       "ID": "3700",
@@ -4992,7 +4992,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "12.6",
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1723784400,
@@ -5037,7 +5037,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788363300"
+      "LastUpdatedUnixTime": "1788614385"
     },
     {
       "ID": "3669",
@@ -5511,7 +5511,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788182359"
+      "LastUpdatedUnixTime": "1788616205"
     },
     {
       "ID": "3649",
@@ -6166,7 +6166,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "25",
+      "CurrentWeightPounds": "26.8",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1777100400,
@@ -6178,7 +6178,6 @@
         "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5af35fdc9040361daadc425ae66f56e3/ba6dc6b0b6a1d572a2e7b7269e829636.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg"
@@ -6232,7 +6231,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788534118"
+      "LastUpdatedUnixTime": "1788616206"
     },
     {
       "ID": "3590",
