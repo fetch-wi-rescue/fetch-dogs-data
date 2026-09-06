@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:21:22Z",
+  "updated": "2026-09-06T18:28:00Z",
   "count": 70,
   "animals": [
     {
@@ -946,151 +946,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788468252"
-    },
-    {
-      "ID": "3629",
-      "Internal-ID": "214061017",
-      "Name": "Fenwick",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "71.7",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1736229600,
-      "Age": 19,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbebecc00ab3857b063f4591ef612ef8/1b8e659af8fc95db7c1f88a8f6f98074.png",
-        "https://new-s3.shelterluv.com/profile-pictures/a9b54211542a907dffd9f9fe38d8421c/fd35e34533b384e34359d7f42f5d35ee.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/14ac20f06519f798736b52b34a550840/dfe38206e10c7e6abff593fb5f45b257.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e2e4af750241933e511a8f319a0fe926/703be2d9b405bc2623d12509a7451d62.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, German/Cattle Dog",
-      "Color": "Fawn/Wheaten",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
-      "LastIntakeUnixTime": "1787030949",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634891",
-          "AttributeName": "⚠ Special Needs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "713609",
-          "AttributeName": "Has many approved adopters waiting to meet them!",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788576587"
     },
     {
       "ID": "3632",
@@ -2324,7 +2179,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788619008"
+      "LastUpdatedUnixTime": "1788716377"
     },
     {
       "ID": "3674",
@@ -3848,7 +3703,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788281095"
+      "LastUpdatedUnixTime": "1788712727"
     },
     {
       "ID": "3698",
@@ -6275,6 +6130,151 @@
         }
       ],
       "LastUpdatedUnixTime": "1788659973"
+    },
+    {
+      "ID": "3629",
+      "Internal-ID": "214061017",
+      "Name": "Fenwick",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "71.7",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1736229600,
+      "Age": 19,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a36980e4fe92a1a9c49db368ea77bfb5/e74792d10ccd1defbe5d18b133a8c10d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/194ff05f7182bd92b2a28d527595c120/30dc0edfd61627adf2c6019ac9b76976.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4c95dc2d4f777e582ee38dd22b3d22af/8499f8573f3692733cf667fc6f01bd06.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f1e7c48f53f9221ab690fc43be1338d/951dcc5b2f2da69ff8f54b63aaec9577.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8acbb14356b3f52a313ad2e119a35241/9a830de45403b898c2258a99dcbab20d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e6d8259c44fae840fc39aa7d2496d69/a1724e8ebee750897491e58236f67af3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbebecc00ab3857b063f4591ef612ef8/1b8e659af8fc95db7c1f88a8f6f98074.png",
+        "https://new-s3.shelterluv.com/profile-pictures/a9b54211542a907dffd9f9fe38d8421c/fd35e34533b384e34359d7f42f5d35ee.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/14ac20f06519f798736b52b34a550840/dfe38206e10c7e6abff593fb5f45b257.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e2e4af750241933e511a8f319a0fe926/703be2d9b405bc2623d12509a7451d62.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Cattle Dog",
+      "Color": "Fawn/Wheaten",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Fenwick is one of those rare dogs who simply gets along with everyone and everything. He’s calm, kind, and wonderfully adaptable - the sort of dog who walks into a room and immediately commands attention.\n\nFenwick previously belonged to a veteran who loved him deeply but could no longer care for him. Because of that, Fenwick carries a quiet steadiness and a deep loyalty that shows in the way he leans in for affection and watches his people with warm, trusting eyes.\n\nHe’s great with other dogs, respectful with cats, and friendly with every person he meets. Fenwick rides beautifully in the car, settles easily in new spaces, and has that gentle, old‑soul presence that makes him a comforting companion.\n\nFenwick isn’t demanding - he just wants a home where he can be part of the family again. If you’re looking for a dog who brings peace, kindness, and quiet joy into your life, Fenwick is ready to start his next chapter with you.",
+      "LastIntakeUnixTime": "1787030949",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634891",
+          "AttributeName": "⚠ Special Needs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "713609",
+          "AttributeName": "Has many approved adopters waiting to meet them!",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788714610"
     },
     {
       "ID": "3639",
