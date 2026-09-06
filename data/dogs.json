@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T13:00:09Z",
-  "count": 71,
+  "updated": "2026-09-06T16:21:22Z",
+  "count": 70,
   "animals": [
     {
       "ID": "2754",
@@ -2998,7 +2998,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788316772"
+      "LastUpdatedUnixTime": "1788709277"
     },
     {
       "ID": "3681",
@@ -4251,7 +4251,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "18",
+      "CurrentWeightPounds": "21.8",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1778648400,
@@ -4324,7 +4324,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788540886"
+      "LastUpdatedUnixTime": "1788709051"
     },
     {
       "ID": "3673",
@@ -4439,7 +4439,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788519978"
+      "LastUpdatedUnixTime": "1788704908"
     },
     {
       "ID": "3703",
@@ -5701,116 +5701,6 @@
       "LastUpdatedUnixTime": "1788191621"
     },
     {
-      "ID": "3685",
-      "Internal-ID": "214320071",
-      "Name": "Mel",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.9",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388246,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/48c6734270f9b3f56f951e726a22cb18/1e90667b64484bd2fc89b9af48b42eea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3b14061761e169bebf18f784639efee/08ad01fa8b6a1a759d1afc5b067b4da8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/618b9ff364bf70997c8dcfd4027be4d0/117f6ff1fd675e1e315f5e387134bb1c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62a28a5f38d1f9415bcb1e703e77fc23/cd505a247c539f9051d993fc43240fff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3d04ee777f70a34d1740bc590bcbb3a/e70d90c457cdbb73128388b36ae2f7a9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Mel is the sweetest boy! We all adore him. He is calm, will sit nicely in front of us and look up waiting for pets. He loves to be with us and is always polite and snuggly. He enjoys playing with his brothers and lets his little brother sleep on top of him. He has been fantastic with his potty and crate training and has longer legs and the best ears!! Whoever he ends up with will be very lucky.",
-      "LastIntakeUnixTime": "1787169410",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788697438"
-    },
-    {
       "ID": "3688",
       "Internal-ID": "214320084",
       "Name": "Mani",
@@ -6010,7 +5900,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788626190"
+      "LastUpdatedUnixTime": "1788711466"
     },
     {
       "ID": "3695",
@@ -6660,7 +6550,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788468143"
+      "LastUpdatedUnixTime": "1788704535"
     },
     {
       "ID": "1442",
