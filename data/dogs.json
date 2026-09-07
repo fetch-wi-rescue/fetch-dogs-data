@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:11:42Z",
+  "updated": "2026-09-07T16:34:05Z",
   "count": 70,
   "animals": [
     {
@@ -1995,6 +1995,91 @@
       "LastUpdatedUnixTime": "1788731483"
     },
     {
+      "ID": "3669",
+      "Internal-ID": "214319986",
+      "Name": "Baxter",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "21.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Baxter is the perfect mix of puppy energy and warm snuggles. He is always looking for his people whether it’s to snuggle up, give kisses, or play. He loves ear scratches, and learning new tricks for a treat. He’s recently discovered he loves taller grass (not taller than him so he can still see around), but rolling in tall grass and baking in the sun makes him the happiest.",
+      "LastIntakeUnixTime": "1787195637",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788792523"
+    },
+    {
       "ID": "3670",
       "Internal-ID": "214319988",
       "Name": "Ginger",
@@ -2089,7 +2174,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788633797"
+      "LastUpdatedUnixTime": "1788781572"
     },
     {
       "ID": "3671",
@@ -3723,7 +3808,6 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd3e692da603dd801720915f20b65573/9d4f2ef264b15e9b7cf41b8a112491f0.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/52745934b9ec61772c435b4149122aed/5ce934cbe7a7602533fc9bfc03db9a4a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d4e4b6b1f1b96edd97d188ca9aedd792/7794d060aa172ebfb58235641b3911b3.jpeg"
@@ -3793,7 +3877,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788745216"
+      "LastUpdatedUnixTime": "1788795145"
     },
     {
       "ID": "3700",
@@ -4095,91 +4179,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788614385"
-    },
-    {
-      "ID": "3669",
-      "Internal-ID": "214319986",
-      "Name": "Baxter",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "21.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787195637",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788727120"
     },
     {
       "ID": "3673",
@@ -5834,7 +5833,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788699165"
+      "LastUpdatedUnixTime": "1788797065"
     },
     {
       "ID": "3699",
