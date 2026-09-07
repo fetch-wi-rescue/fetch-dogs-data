@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:33:43Z",
+  "updated": "2026-09-07T05:31:13Z",
   "count": 70,
   "animals": [
     {
@@ -3715,7 +3715,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "20",
+      "CurrentWeightPounds": "25.5",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1778821200,
@@ -3793,7 +3793,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788733042"
+      "LastUpdatedUnixTime": "1788745216"
     },
     {
       "ID": "3700",
@@ -4195,7 +4195,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1659848400,
-      "Age": 48,
+      "Age": 49,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
