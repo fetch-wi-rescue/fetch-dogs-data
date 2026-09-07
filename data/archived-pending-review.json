@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:21:22Z",
+  "updated": "2026-09-07T22:55:20Z",
   "animals": [
     {
       "ID": "3458",
@@ -1439,6 +1439,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-06T16:21:22Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3688",
+      "Name": "Mani",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ff533a75043ec88bac349c216a0adb66/a9a711fd50775e7ee6b7d91bd8e3f4e2.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-07T22:55:20Z",
       "status": "pending"
     }
   ]
