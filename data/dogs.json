@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T09:59:53Z",
-  "count": 68,
+  "updated": "2026-09-08T14:17:04Z",
+  "count": 67,
   "animals": [
     {
       "ID": "2754",
@@ -3028,7 +3028,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788697407"
+      "LastUpdatedUnixTime": "1788873999"
     },
     {
       "ID": "3684",
@@ -3134,7 +3134,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788836286"
+      "LastUpdatedUnixTime": "1788875106"
     },
     {
       "ID": "3686",
@@ -3327,7 +3327,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788697469"
+      "LastUpdatedUnixTime": "1788874025"
     },
     {
       "ID": "3689",
@@ -3595,6 +3595,85 @@
         }
       ],
       "LastUpdatedUnixTime": "1788712727"
+    },
+    {
+      "ID": "3695",
+      "Internal-ID": "214320115",
+      "Name": "Pixie",
+      "LitterGroupId": 9575392,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "26.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777100400,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/91b40ebbe2779a6e902be99439e52733/9315bce7c4301f9c3a07b271c4407a29.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Hound",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": null,
+      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
+      "LastIntakeUnixTime": "1787196185",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788872211"
     },
     {
       "ID": "3698",
@@ -4828,108 +4907,6 @@
       "LastUpdatedUnixTime": "1788636139"
     },
     {
-      "ID": "3649",
-      "Internal-ID": "214152757",
-      "Name": "Rockelle",
-      "LitterGroupId": 9558460,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "29",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1775264366,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/028914ea1154b0ea38ead39e3456faae/831f57a27a76a14ba54917522ef880ca.JPG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/028914ea1154b0ea38ead39e3456faae/831f57a27a76a14ba54917522ef880ca.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/3f73ec6b8665d0c64492cc1308ce7618/6736876e07d2d9aa53c5743ce364b68b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8eb57cbe891ffda17470c1f31cb549df/74dab7e6cf57f1cee50c02a06f06164c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d797d7f6468bf67418f342945c8d8d94/6c6b6cd78fe26894189dd2a02c805317.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aeb20b1623d987e6380703085aff8c8a/8c2916417b4f5a13f928b36ebd153121.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/130ed30b56b614b6214b32f3f252d6f4/56579e18f736ab232b00a696d7f4d588.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f7ab78f32e3389ee72f6da257a1ec30b/33b99ecdfd61b210d353421507bb81fb.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/9ed218d2896d60239877bd9b5242f4d4/00828c14401df85550a4efcd387734d5.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/3cd2573b780d6b9385b278594563cf43/4a3c1c5ebce05c5fec3c0329955dfaf5.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/699afcee7245d5d90f60ec744a388d65/c2cb7b4141fe5417b0fc50d8412be845.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de71fe65408928ce08796c4eaf3cce87/3afa05d5b165f1a84ee61117484069a6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ef4012e24464b6a75a5afb168b1d953a/72a2296ed6c9ac03e2de2ef3e8d8404a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7695202194dd86add68c8955b0e3037c/919ef593c214022dafb87ab6baaceeae.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/77e05e92ced512a11f9d13d56257125b/f355763edf0548cd4da0d1eb9275c4b6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/caa314983a12e95aa1617672e8d9e41f/2fbc38dde25890876e02c7eda2085cac.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/c6e06028eee7d455bcd004657f3cdd23/b8f835d9678d9751702293d37b72626d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3024c9fe0d22e5a61e66a4ef91d6a8f5/8b8624f8dee8a4caa7f245fe96788404.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Husky",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Rockelle, is a beautiful seal colored terrier mix puppy is already stealing hearts with her confident personality and sweet nature. Weighing in at 29 pounds, she's going to be a good sized girl! One of her unique features is the double dew claws on her back paws, a trait often associated with Catahoula Leopard dogs (Her brother has that coloring). The vet felt she is closer to 5 months due to the potty training progress, sleeping through the night, adult teeth coming in and general demeanor.\nThis happy pup is doing very well with potty training and is already comfortable in her crate, making the transition into her new home even easier. She is incredibly social, loves meeting new people, and genuinely enjoys being with her family. She seeks out her people for companionship and affection and is happiest when she's included in the fun.\nShe has spent time playing with my 2-, 3-, and 10-year-old grandchildren and was wonderful with all of them. She's gentle, playful, and knows how to have fun without being too rough. She also loves her toys and plays with them appropriately, happily entertaining herself or inviting you to join in.\nThis little girl is confident, curious, and eager to explore the world. She approaches new experiences with enthusiasm and has the kind of outgoing personality that makes her a joy to be around. Whether she's playing, cuddling, or following you from room to room, she is always ready to be part of whatever you're doing.\nIf you're looking for a smart, affectionate, well-socialized puppy with a delightful personality and the potential to grow into a loyal, loving companion, this special girl may be the perfect addition to your family.\n",
-      "LastIntakeUnixTime": "1784923010",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788832252"
-    },
-    {
       "ID": "3655",
       "Internal-ID": "214207698",
       "Name": "Roo",
@@ -5156,7 +5133,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788808003"
+      "LastUpdatedUnixTime": "1788874061"
     },
     {
       "ID": "3659",
@@ -5571,85 +5548,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788711466"
-    },
-    {
-      "ID": "3695",
-      "Internal-ID": "214320115",
-      "Name": "Pixie",
-      "LitterGroupId": 9575392,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "26.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1777100400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
-        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/91b40ebbe2779a6e902be99439e52733/9315bce7c4301f9c3a07b271c4407a29.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Hound",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": null,
-      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
-      "LastIntakeUnixTime": "1787196185",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788797065"
     },
     {
       "ID": "3699",
