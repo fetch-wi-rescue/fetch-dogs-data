@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T17:58:44Z",
+  "updated": "2026-09-08T20:51:22Z",
   "count": 67,
   "animals": [
     {
@@ -2883,7 +2883,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788636128"
+      "LastUpdatedUnixTime": "1788893988"
     },
     {
       "ID": "3682",
@@ -4009,6 +4009,53 @@
       "LastUpdatedUnixTime": "1788360774"
     },
     {
+      "ID": "3703",
+      "Internal-ID": "214435037",
+      "Name": "Seymour",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "68.2",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1598590800,
+      "Age": 72,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fafbfeae19978c81a907af910a0a5763/ae31943b894bc70bbb44ca4185108387.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f80492a12117b1333c9bace1e87cb39/59cbce67fee79241e902d7c61b3b24c6.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Yellow Labrador/Mixed Breed (Large)",
+      "Color": "Blond/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Seymour! This happy guy is 70 lbs of pure teddy bear energy. Seymour loves nothing more than hanging out with his people, preferably snuggling and showering them in kisses! He spends most of his days following his fosters from room to room or curled up in a cozy spot.\n\nAt six years old, Seymour is fairly mellow but does have a playful side. He loves to chase a ball around or play with the resident dog in his foster home. Seymour is enthusiastic about walks, and his foster family is working with him to cut down on pulling. \n\nSeymour clearly had some training in his past life and is quite well-mannered around the house. He is fully potty trained, crate trained (but would probably be just fine free roaming when home alone), and already knows how to sit and shake. He would likely be a quick study with any additional obedience training.\n\nSeymour can’t wait to meet you and hopefully become your forever best friend!",
+      "LastIntakeUnixTime": "1787965584",
+      "Attributes": [
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788899415"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -4235,53 +4282,6 @@
       "LastUpdatedUnixTime": "1788704908"
     },
     {
-      "ID": "3703",
-      "Internal-ID": "214435037",
-      "Name": "Seymour",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "68.2",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1598590800,
-      "Age": 72,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fafbfeae19978c81a907af910a0a5763/ae31943b894bc70bbb44ca4185108387.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f80492a12117b1333c9bace1e87cb39/59cbce67fee79241e902d7c61b3b24c6.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Yellow Labrador/Mixed Breed (Large)",
-      "Color": "Blond/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Seymour! This happy guy is 70 lbs of pure teddy bear energy. Seymour loves nothing more than hanging out with his people, preferably snuggling and showering them in kisses! He spends most of his days following his fosters from room to room or curled up in a cozy spot.\n\nAt six years old, Seymour is fairly mellow but does have a playful side. He loves to chase a ball around or play with the resident dog in his foster home. Seymour is enthusiastic about walks, and his foster family is working with him to cut down on pulling. \n\nSeymour clearly had some training in his past life and is quite well-mannered around the house. He is fully potty trained, crate trained (but would probably be just fine free roaming when home alone), and already knows how to sit and shake. He would likely be a quick study with any additional obedience training.\n\nSeymour can’t wait to meet you and hopefully become your forever best friend!",
-      "LastIntakeUnixTime": "1787965584",
-      "Attributes": [
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788886066"
-    },
-    {
       "ID": "3704",
       "Internal-ID": "214485671",
       "Name": "Little Bear",
@@ -4296,9 +4296,12 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1693890000,
       "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ac3dc03f80b4ac008f8ad8664a8ed95/6d9200428519138e134ac28526888040.jpeg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Small)",
@@ -4307,8 +4310,59 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1788634609",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1788836021"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788900417"
     },
     {
       "ID": "3697",
@@ -4324,7 +4378,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1767895748,
-      "Age": 7,
+      "Age": 8,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
