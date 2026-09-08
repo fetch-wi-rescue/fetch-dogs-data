@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:51:22Z",
+  "updated": "2026-09-08T23:05:16Z",
   "count": 67,
   "animals": [
     {
@@ -4053,7 +4053,89 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788899415"
+      "LastUpdatedUnixTime": "1788905265"
+    },
+    {
+      "ID": "3704",
+      "Internal-ID": "214485671",
+      "Name": "Little Bear",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.8",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1693890000,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Small)",
+      "Color": "Fawn",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Little Bear is a sweet goofy guy with an adorable underbite who is looking for a home who will give him endless love and cuddles.\n\nLittle Bear was abused by his former owners and was rescued by a kind neighbor who surrendered him to Fetch. When they initially rescued him, he was scared of everyone, matted and underweight. Now he has blossomed into a sweet, playful guy who loves to jump around and give you kisses. He is still working on house training and should wear a belly band inside. He also will bark in his crate if he hears things going on outside that he thinks he’s missing out on, so he would not be a good apartment dog. He is currently living with other dogs and does great with them but gets scared if they try to play with him. He is slowly warming up to them but would not do well with a dog with a rough or over enthusiastic play style.\n\nLittle Bear is non shedding and will need regular haircuts.",
+      "LastIntakeUnixTime": "1788634609",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788901616"
     },
     {
       "ID": "3663",
@@ -4280,89 +4362,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788704908"
-    },
-    {
-      "ID": "3704",
-      "Internal-ID": "214485671",
-      "Name": "Little Bear",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.8",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1693890000,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ac3dc03f80b4ac008f8ad8664a8ed95/6d9200428519138e134ac28526888040.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Small)",
-      "Color": "Fawn",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1788634609",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "❌ No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788900417"
     },
     {
       "ID": "3697",
@@ -4806,7 +4805,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788649738"
+      "LastUpdatedUnixTime": "1788908535"
     },
     {
       "ID": "3636",
