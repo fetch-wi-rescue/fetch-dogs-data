@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T00:50:53Z",
+  "updated": "2026-09-08T05:29:56Z",
   "count": 68,
   "animals": [
     {
@@ -1360,110 +1360,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788635921"
-    },
-    {
-      "ID": "3655",
-      "Internal-ID": "214207698",
-      "Name": "Roo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "45.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1465448400,
-      "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/807900400cbaf2057b1a99bec98572c3/8130ba779247dffcd15f9410b696cf0c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/807900400cbaf2057b1a99bec98572c3/8130ba779247dffcd15f9410b696cf0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c4fbcf758266df834baad2e31300e20e/caa5f74dbba41fe27e00c9a7b84dc5b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/693d1e312ec97ce9687cfe8830a35ac9/71ab6c8af715daa85483e4dd64239a07.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d4d57a8246edd90837cf3ee01af7337/173297753fa5ff1f5531d8f7ecdf8d53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/05e09195e22a81824d25cbfda10cd1d9/8204d413abf22674f03ec1ad5dfc0b2c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/955ef568cf0bfaa6165ed76c04ea1a31/a841ca5aaafd92e195d8a42c8e8ec74c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2d35b7f498a24758771456d69564055b/56edfea724bfa46d5e138bc93c34b336.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c0294ab13cbec700a02a50de6a682b0d/57b31318ea07939f947fc3b40a875fc4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7149b6fc4971fd4f8e8f76a7d3a5da2e/70ae9b92d16aaae701bdfc4dddf6dd0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/48e20ce954dd778c83b89a3dc71df528/e5e4e33629921d06413052b11aef8a3f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c86020f83fa47ff30659c8b8cb666ed1/6604f3c6301f47e7886fcb1489bef2ce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/01c5f838ec80e49543d4f3a415082510/587bddcc33fea71e6d5d4fe847dee2b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d8b3c330b5de86b95d16692328fdd79/768d59cf6d22a11d35a34745fde879bb.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0
-      },
-      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
-      "LastIntakeUnixTime": "1785443311",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702284",
-          "AttributeName": "FP:  Aidan",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788573469"
     },
     {
       "ID": "3656",
@@ -3238,7 +3134,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788615107"
+      "LastUpdatedUnixTime": "1788836286"
     },
     {
       "ID": "3686",
@@ -3517,7 +3413,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788545318"
+      "LastUpdatedUnixTime": "1788830910"
     },
     {
       "ID": "3690",
@@ -4261,7 +4157,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "9.8",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1693890000,
@@ -4278,7 +4174,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1788634609",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1788635266"
+      "LastUpdatedUnixTime": "1788836021"
     },
     {
       "ID": "3697",
@@ -4644,7 +4540,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1562562000,
-      "Age": 85,
+      "Age": 86,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
@@ -5031,7 +4927,111 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788468189"
+      "LastUpdatedUnixTime": "1788832252"
+    },
+    {
+      "ID": "3655",
+      "Internal-ID": "214207698",
+      "Name": "Roo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "45.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1465448400,
+      "Age": 122,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/807900400cbaf2057b1a99bec98572c3/8130ba779247dffcd15f9410b696cf0c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/807900400cbaf2057b1a99bec98572c3/8130ba779247dffcd15f9410b696cf0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c4fbcf758266df834baad2e31300e20e/caa5f74dbba41fe27e00c9a7b84dc5b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/693d1e312ec97ce9687cfe8830a35ac9/71ab6c8af715daa85483e4dd64239a07.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d4d57a8246edd90837cf3ee01af7337/173297753fa5ff1f5531d8f7ecdf8d53.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/05e09195e22a81824d25cbfda10cd1d9/8204d413abf22674f03ec1ad5dfc0b2c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/955ef568cf0bfaa6165ed76c04ea1a31/a841ca5aaafd92e195d8a42c8e8ec74c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2d35b7f498a24758771456d69564055b/56edfea724bfa46d5e138bc93c34b336.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c0294ab13cbec700a02a50de6a682b0d/57b31318ea07939f947fc3b40a875fc4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7149b6fc4971fd4f8e8f76a7d3a5da2e/70ae9b92d16aaae701bdfc4dddf6dd0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/48e20ce954dd778c83b89a3dc71df528/e5e4e33629921d06413052b11aef8a3f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c86020f83fa47ff30659c8b8cb666ed1/6604f3c6301f47e7886fcb1489bef2ce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/01c5f838ec80e49543d4f3a415082510/587bddcc33fea71e6d5d4fe847dee2b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d8b3c330b5de86b95d16692328fdd79/768d59cf6d22a11d35a34745fde879bb.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
+      "Color": "Grey/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0
+      },
+      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
+      "LastIntakeUnixTime": "1785443311",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788831437"
     },
     {
       "ID": "3658",
@@ -5427,7 +5427,13 @@
       "Breed": "Saint Bernard",
       "Color": "Tan/White",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0
+      },
       "Description": "Gunner has been with us for a couple of weeks now and is an absolute pleasure. He’s a big goofy nine month old purebred (not registered) St. Bernard with all of the charm and easy-going nature of that breed. He gets along well with dogs and I have not tried him with a cat, but he shows little interest in our caged small furry pets. He is recently neutered and has had all of his vaccinations. He appears to have some hip dysplasia and is quite underweight. He is getting a supplement and a whole lot of food for this issue. My hope is that as he gains weight his hip strength will increase. He is a big boy and by the time he reaches his full adult weight there will be even more of him to love. He plays with my dogs very gently and then pretty much crashes out for a few hours. He’s a very easy dog to have around.\nAlso, true to his breed, he slobbers when he is nervous and he drips water around the water bowl whenever he drinks.\nIf you’re looking for a large and gentle friend, gunner might be it.",
       "LastIntakeUnixTime": "1786887590",
       "Attributes": [
@@ -5462,7 +5468,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788191621"
+      "LastUpdatedUnixTime": "1788832400"
     },
     {
       "ID": "3693",
@@ -6044,7 +6050,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1499490000,
-      "Age": 109,
+      "Age": 110,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
