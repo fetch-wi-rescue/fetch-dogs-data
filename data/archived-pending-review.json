@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T14:17:04Z",
+  "updated": "2026-09-09T01:20:25Z",
   "animals": [
     {
       "ID": "3458",
@@ -1466,6 +1466,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-08T14:17:04Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3662",
+      "Name": "Sirus",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2396895f5d519a9ad4330d796758acb5/580b2411a9a06ebc6fa82c97a53c5d1e.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-09T01:20:25Z",
       "status": "pending"
     }
   ]

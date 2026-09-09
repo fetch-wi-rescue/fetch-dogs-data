@@ -1,95 +1,7 @@
 {
-  "updated": "2026-09-08T23:05:16Z",
-  "count": 67,
+  "updated": "2026-09-09T01:20:25Z",
+  "count": 66,
   "animals": [
-    {
-      "ID": "2754",
-      "Internal-ID": "213177575",
-      "Name": "Twinkle Toes",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "58",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1551160800,
-      "Age": 90,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
-        "https://new-s3.shelterluv.com/profile-pictures/09577e29cce5dffe83f250209a778d48/bea7c10f4b08c809ea37f2e5e80ec341.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27e28101339f3bc4460f7d286eb67f53/b6f40afc22cc41e167eb04dc3e7670d5.png",
-        "https://new-s3.shelterluv.com/profile-pictures/ce961110b55adabbbcac880d0881c4ee/220024b500c2ccfe15fd11f0e3326714.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/376db6ec273510437212cc5343c9ffa7/bc6a5fb4a2c27d95d85f3662edb7b5f3.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6f30fa484711b95d648c14d30248e655/16b8d3c0b1b9a7a359e3c048244d5f74.png",
-        "https://new-s3.shelterluv.com/profile-pictures/cefb1e7e5ca3b7d24e75f2207e25eefd/69222bb2691c9660ed8215e0eac11f71.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6479226b2d9f7e51660d1f833a6ad1ed/f7e4c5ff0adfe9b5db3a423c0831c7e2.png",
-        "https://new-s3.shelterluv.com/profile-pictures/ca08ace3856dbe5f6ddd487f18a40864/7738c4d898cb0f0179859d6bf9a66c23.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c1e62d8e1ecd4eea835dfacbcd1d35a9/9edaca1d70cee0ec947c2d67e6458d82.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad56d5cc562229454adf18a13c8fae90/f9ca2a4063351c8160fc5cf1aa93ce0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/43ae5616ed7c9dd9c7c83c35894cb2c8/0adb30484bc3b8713e88612d65a563ac.png"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Twinkle Toes. A 7 year old Pittie x lab mix with great house manners and a zest for life. She came to us after being found as a stray in Texas and as soon as you meet her you can tell that she was a well-loved pet. She knows all her basic tricks, doesn't counter surf, and hasn't had a single potty accident with us. She's matured out her puppy energy and just wants a warm home and a best friend to play and go on adventures with.\n\nHer daily routine:\n\n7 am - she dozes away in her dog bed on the floor until I am awake then she patiently waits for me to take her outside by resting her chin on the edge of her bed, staring at me, and wagging her tail. She goes outside for a potty, eats her breakfast, and goes on a walk (10-30 min).\n\n9 am - she stays in her room while I go to work for the day. She's stayed home up to 9 hours outside of her kennel without any potty or chewing incidents.\n\n6 pm - She goes for another walk (10-30 min) and eats dinner.\n\n7 pm - She loves to play with her favorite toy, Froggie. Tug, catch, or just squeaking away on her own. When she's done playing or I have to rescue Froggie from a squeaker-ectomy she curls up in her bed and relaxes for the rest of the night.\n\n10 pm - she has her last potty break and goes to sleep on her bed in my room.\n\nTraining:\nTwinkle Toes knows the basics: sit, stay, lie down, come, paw, and speak. She's food motivated and can learn new tricks with a bit of patience. She learned to trim her own nails with a scratch board in just a couple of days. She's still working on her leash manners and at the beginning of her walks she usually pulls to explore some sniffs or chase a squirrel. Once she gets some of her excitement out she settles down and walks much more calmly by your side.\n\nTwinkle Toes is wary of strangers and other dogs on leash. She handles moderate foot traffic just fine — it's when people make direct eye contact or approach her that she gets uncomfortable and may bark or growl. She's not aggressive; she's just telling you she needs space. Other dogs on walks are best observed from across the street. With a calm handler who knows how to read the environment and advocate for her, she does great.\n\nTwinkle Toes can get a little too excited sometimes and would prefer a home without cats, rabbits, or other small critters.\n\nIf you want to adopt a dog but don't want to start at square one, Twinkle Toes might be perfect for you. Don't let her silver muzzle fool you, Twinkle Toes is young at heart and has plenty of energy and adventures left in her.",
-      "LastIntakeUnixTime": "1772258400",
-      "Attributes": [
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1785342838"
-    },
     {
       "ID": "3279",
       "Internal-ID": "213177967",
@@ -745,124 +657,6 @@
       "LastUpdatedUnixTime": "1787857891"
     },
     {
-      "ID": "3581",
-      "Internal-ID": "213704418",
-      "Name": "Ruthie",
-      "LitterGroupId": 9468676,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "64",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1704002400,
-      "Age": 32,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/592488ef2d42bd51e964f5889ce55882/dac06f11f071888ff3eaada465c15429.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/196bdb6959100279918ecd8e8db62da3/52efc6c378d88892f832ba633286ee6f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/712162306a1f4477f6f225d5f4c774cb/bb7a5acbbfe417cd19e13c9f54b3dc25.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/968d3277c7df4228c3db23fcc49d8a58/eba2e4a4e19215344daef59d51cac160.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/974635041576b0736cc9e64ed0162b16/cd11e37c1a0d72ad3d13508cf93e8510.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/87818e3c6fc73646a7d077f3602083d9/fedbefb55e62a241eee54f77754c3236.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f47948c77972edbc9c702f9c5e32cef/6a466612fe07455d0d993495e3bdda51.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa868c0e818f58e3924388ce8123ef26/4e8f823fe7ad8be8a4d9a57b8ff39b59.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5aec4ff400e47634f619f9f94f6af0c0/8ecfbcc864f7718ad241f2ca48bf67f8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d64e8370949f70f02eaedbf80e0fc607/04046cc6dffb2b65e905a7ba699a10e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/540040a63995f7cb4de347c9e091c329/0806a3662690938db9e77f4a62c48c2d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3147a52981b93c09e46a74b72df0726/643795bdb289f243d30a992226562e7f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/010e973486e6784250d63e3736498adf/e70e971d1017d6fa622d2db48b63ecea.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d5488b0dde81dba752ad4726461deaea/34ca71af733740d8e1c7cd970552142f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/584d7bb03d508ab681af658a6cb2c886/256300fabe31eb1a2929746058bae5df.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1618b5730a20e779fd8d642492794a3d/c60791a47954176e76965c3a21684e73.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/03e9d510d1ea080405037ac29ca5c49d/d1a98e75cf808249fcd950634ad4302b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd765d6e76446213d54c5df538da13b2/610fe18e11f1aea90a4246baedf06c81.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/378c5cb63c02a15a9f444a79c281b0c5/ac495d6597b71fb15c818cef22b07ff3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aeac07e0e1b9cef44434081fee14b8f6/b2f4e7806d89cba9a4272e58234e898a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/66b07431ad1625d3f11b5cfc27d8b437/b17e51d6d53db46a6c492aae72be6d07.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "White/Brindle",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Ruthie — the wiggliest sunshine noodle of a dog.\nRuthie greets life like it’s a talent show and she’s performing “Extreme Wiggles, Interpretive Edition.” Her tail spins like a tiny helicopter, her smile is pure mischief, and she fully believes humans exist for belly rubs. If you stop petting her, she’ll gently paw at you like, “Hello??? Customer service??? I ordered affection.”\nShe’s a joyful, affectionate girl who loves outdoor adventures, walkies, sunshine, and rolling under the covers like a gremlin who just discovered slapstick comedy. Ruthie was found pregnant on the streets of Alabama before making her way to Wisconsin, where she raised the famous “pasta puppy” litter — because of course the goofiest dog also makes the cutest babies.\nRuthie LOVES being outside. She LOVES her people. She LOVES being goofy. She LOVES belly rubs. Honestly, she’s just out here living her best sitcom‑dog life.\nShe’s eager to please, enjoys learning, and has the kind of personality that makes strangers say, “Oh my gosh, look at her!” right before falling in love. She’s been treated for heartworm and is feeling better every day.\nIf you’re a human who wants a built‑in adventure buddy, Ruthie is ready to trot into your life and dramatically flop onto your lap for rubs.",
-      "LastIntakeUnixTime": "1778953881",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788646058"
-    },
-    {
       "ID": "3632",
       "Internal-ID": "214068750",
       "Name": "Turtle",
@@ -1368,7 +1162,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788635921"
+      "LastUpdatedUnixTime": "1788911808"
     },
     {
       "ID": "3656",
@@ -1490,147 +1284,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788323696"
-    },
-    {
-      "ID": "3662",
-      "Internal-ID": "214281445",
-      "Name": "Sirus",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "52",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1665896400,
-      "Age": 46,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2396895f5d519a9ad4330d796758acb5/580b2411a9a06ebc6fa82c97a53c5d1e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2396895f5d519a9ad4330d796758acb5/580b2411a9a06ebc6fa82c97a53c5d1e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a09d6b66adc080b53dced7c574be6bb/73f3271381f98309d2516de92e22fe7a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b66309f9253df899a34fbfebfa62ffb/bc7d00c8b0debf7baef3f13ca93b961a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e51519e8611975635ee8a63f85e231ec/821a30a1aee5faf3ca8421361f394303.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/220a179d0f21f99b161fa35fc7bd11e1/042786e94aa1327f2255bcedc36062cc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ab68db1f1edf84612c3d3c01ce6f1aaf/3d0fb6549eb8adcfeec22b7db6bcb820.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dfc80161eed2c807d78bad4c10b90388/52a437df2797899d572c8cb0259a6748.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/df261ac2d64aa5a5e899c610d88eb35a/2eb9b7fd3f422cb98a72fd7c912ffa66.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f1abeee94a0d396a5d2a5639dddcf5e/7a6c61cbafe1e44fc27ed0402c0040c9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9164ad969b61abb15eb09b4ac5f7289d/6f0e31b57559e6fda3123abc9dc527c8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cca07d9cd221cce8788f2751b1bd5e76/af82f65092ae44ace649597f27349231.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d876c4559a05d13e6e5677c9020907d7/1daf78a09297d1d0ce54667ab6c0a279.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Shepherd, Australian",
-      "Color": "Blue Black/Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sirus is one of those dogs who just makes life better by being in the room. He’s a goofy, playful boy with a love for making friends. Dogs? He loves them. Cats? Totally cool with them. Kids and adults? He thinks every human is his new best buddy. Sirus is the kind of pup who fits into a family like he’s always been there.\n\nHe’s always ready to play, explore, chase toys, and join you in whatever fun you’ve got planned. But he’s also a sweetheart who enjoys hanging out, getting pets, and being part of the family. He’s social, silly, and full of personality.\n\nSirus does have occasional seizures, and while they can be a little scary to witness, he bounces back quickly and keeps living his happy little life. He doesn’t let it slow him down and at this time, his veterinarians have elected to monitor and track them rather than prescribe medications as they're infrequent. Mostly, he just needs someone who loves him and won’t mind keeping a little closer of an eye on him.\n\nIf you’re looking for a dog who’s friendly, fun, and full of joy; Sirus might be your perfect match. He’s ready to bring laughter, love, and a whole lot of tail wags into his forever home!",
-      "LastIntakeUnixTime": "1786552376",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634891",
-          "AttributeName": "⚠ Special Needs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788319819"
     },
     {
       "ID": "3664",
@@ -4074,7 +3727,8 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/74e0047e241438a03c5face72c5ee1da/4f985f3ec4086c98d7eaeffacf61aa4c.jpeg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Small)",
@@ -4135,7 +3789,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788901616"
+      "LastUpdatedUnixTime": "1788916302"
     },
     {
       "ID": "3663",
@@ -4484,6 +4138,94 @@
       "LastUpdatedUnixTime": "1788636085"
     },
     {
+      "ID": "2754",
+      "Internal-ID": "213177575",
+      "Name": "Twinkle Toes",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "58",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1551160800,
+      "Age": 90,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
+        "https://new-s3.shelterluv.com/profile-pictures/09577e29cce5dffe83f250209a778d48/bea7c10f4b08c809ea37f2e5e80ec341.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/27e28101339f3bc4460f7d286eb67f53/b6f40afc22cc41e167eb04dc3e7670d5.png",
+        "https://new-s3.shelterluv.com/profile-pictures/ce961110b55adabbbcac880d0881c4ee/220024b500c2ccfe15fd11f0e3326714.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/376db6ec273510437212cc5343c9ffa7/bc6a5fb4a2c27d95d85f3662edb7b5f3.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6f30fa484711b95d648c14d30248e655/16b8d3c0b1b9a7a359e3c048244d5f74.png",
+        "https://new-s3.shelterluv.com/profile-pictures/cefb1e7e5ca3b7d24e75f2207e25eefd/69222bb2691c9660ed8215e0eac11f71.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6479226b2d9f7e51660d1f833a6ad1ed/f7e4c5ff0adfe9b5db3a423c0831c7e2.png",
+        "https://new-s3.shelterluv.com/profile-pictures/ca08ace3856dbe5f6ddd487f18a40864/7738c4d898cb0f0179859d6bf9a66c23.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c1e62d8e1ecd4eea835dfacbcd1d35a9/9edaca1d70cee0ec947c2d67e6458d82.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad56d5cc562229454adf18a13c8fae90/f9ca2a4063351c8160fc5cf1aa93ce0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/43ae5616ed7c9dd9c7c83c35894cb2c8/0adb30484bc3b8713e88612d65a563ac.png"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Twinkle Toes. A 7 year old Pittie x lab mix with great house manners and a zest for life. She came to us after being found as a stray in Texas and as soon as you meet her you can tell that she was a well-loved pet. She knows all her basic tricks, doesn't counter surf, and hasn't had a single potty accident with us. She's matured out her puppy energy and just wants a warm home and a best friend to play and go on adventures with.\n\nHer daily routine:\n\n7 am - she dozes away in her dog bed on the floor until I am awake then she patiently waits for me to take her outside by resting her chin on the edge of her bed, staring at me, and wagging her tail. She goes outside for a potty, eats her breakfast, and goes on a walk (10-30 min).\n\n9 am - she stays in her room while I go to work for the day. She's stayed home up to 9 hours outside of her kennel without any potty or chewing incidents.\n\n6 pm - She goes for another walk (10-30 min) and eats dinner.\n\n7 pm - She loves to play with her favorite toy, Froggie. Tug, catch, or just squeaking away on her own. When she's done playing or I have to rescue Froggie from a squeaker-ectomy she curls up in her bed and relaxes for the rest of the night.\n\n10 pm - she has her last potty break and goes to sleep on her bed in my room.\n\nTraining:\nTwinkle Toes knows the basics: sit, stay, lie down, come, paw, and speak. She's food motivated and can learn new tricks with a bit of patience. She learned to trim her own nails with a scratch board in just a couple of days. She's still working on her leash manners and at the beginning of her walks she usually pulls to explore some sniffs or chase a squirrel. Once she gets some of her excitement out she settles down and walks much more calmly by your side.\n\nTwinkle Toes is wary of strangers and other dogs on leash. She handles moderate foot traffic just fine — it's when people make direct eye contact or approach her that she gets uncomfortable and may bark or growl. She's not aggressive; she's just telling you she needs space. Other dogs on walks are best observed from across the street. With a calm handler who knows how to read the environment and advocate for her, she does great.\n\nTwinkle Toes can get a little too excited sometimes and would prefer a home without cats, rabbits, or other small critters.\n\nIf you want to adopt a dog but don't want to start at square one, Twinkle Toes might be perfect for you. Don't let her silver muzzle fool you, Twinkle Toes is young at heart and has plenty of energy and adventures left in her.",
+      "LastIntakeUnixTime": "1772258400",
+      "Attributes": [
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788915747"
+    },
+    {
       "ID": "3521",
       "Internal-ID": "213497174",
       "Name": "Maya",
@@ -4714,6 +4456,124 @@
         }
       ],
       "LastUpdatedUnixTime": "1788645858"
+    },
+    {
+      "ID": "3581",
+      "Internal-ID": "213704418",
+      "Name": "Ruthie",
+      "LitterGroupId": 9468676,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "64",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1704002400,
+      "Age": 32,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/053512e637b48f1fe0b395659a260a10/7fe73a76eb55f21a47423334e23b8564.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/592488ef2d42bd51e964f5889ce55882/dac06f11f071888ff3eaada465c15429.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/196bdb6959100279918ecd8e8db62da3/52efc6c378d88892f832ba633286ee6f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/712162306a1f4477f6f225d5f4c774cb/bb7a5acbbfe417cd19e13c9f54b3dc25.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/968d3277c7df4228c3db23fcc49d8a58/eba2e4a4e19215344daef59d51cac160.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/974635041576b0736cc9e64ed0162b16/cd11e37c1a0d72ad3d13508cf93e8510.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/87818e3c6fc73646a7d077f3602083d9/fedbefb55e62a241eee54f77754c3236.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f47948c77972edbc9c702f9c5e32cef/6a466612fe07455d0d993495e3bdda51.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa868c0e818f58e3924388ce8123ef26/4e8f823fe7ad8be8a4d9a57b8ff39b59.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5aec4ff400e47634f619f9f94f6af0c0/8ecfbcc864f7718ad241f2ca48bf67f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d64e8370949f70f02eaedbf80e0fc607/04046cc6dffb2b65e905a7ba699a10e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/540040a63995f7cb4de347c9e091c329/0806a3662690938db9e77f4a62c48c2d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3147a52981b93c09e46a74b72df0726/643795bdb289f243d30a992226562e7f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/010e973486e6784250d63e3736498adf/e70e971d1017d6fa622d2db48b63ecea.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d5488b0dde81dba752ad4726461deaea/34ca71af733740d8e1c7cd970552142f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/584d7bb03d508ab681af658a6cb2c886/256300fabe31eb1a2929746058bae5df.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1618b5730a20e779fd8d642492794a3d/c60791a47954176e76965c3a21684e73.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/03e9d510d1ea080405037ac29ca5c49d/d1a98e75cf808249fcd950634ad4302b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd765d6e76446213d54c5df538da13b2/610fe18e11f1aea90a4246baedf06c81.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/378c5cb63c02a15a9f444a79c281b0c5/ac495d6597b71fb15c818cef22b07ff3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aeac07e0e1b9cef44434081fee14b8f6/b2f4e7806d89cba9a4272e58234e898a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/66b07431ad1625d3f11b5cfc27d8b437/b17e51d6d53db46a6c492aae72be6d07.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "White/Brindle",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Ruthie — the wiggliest sunshine noodle of a dog.\nRuthie greets life like it’s a talent show and she’s performing “Extreme Wiggles, Interpretive Edition.” Her tail spins like a tiny helicopter, her smile is pure mischief, and she fully believes humans exist for belly rubs. If you stop petting her, she’ll gently paw at you like, “Hello??? Customer service??? I ordered affection.”\nShe’s a joyful, affectionate girl who loves outdoor adventures, walkies, sunshine, and rolling under the covers like a gremlin who just discovered slapstick comedy. Ruthie was found pregnant on the streets of Alabama before making her way to Wisconsin, where she raised the famous “pasta puppy” litter — because of course the goofiest dog also makes the cutest babies.\nRuthie LOVES being outside. She LOVES her people. She LOVES being goofy. She LOVES belly rubs. Honestly, she’s just out here living her best sitcom‑dog life.\nShe’s eager to please, enjoys learning, and has the kind of personality that makes strangers say, “Oh my gosh, look at her!” right before falling in love. She’s been treated for heartworm and is feeling better every day.\nIf you’re a human who wants a built‑in adventure buddy, Ruthie is ready to trot into your life and dramatically flop onto your lap for rubs.",
+      "LastIntakeUnixTime": "1778953881",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1788913008"
     },
     {
       "ID": "3628",
@@ -5664,7 +5524,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788711466"
+      "LastUpdatedUnixTime": "1788915505"
     },
     {
       "ID": "3699",
