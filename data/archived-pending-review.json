@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T01:20:25Z",
+  "updated": "2026-09-09T06:13:59Z",
   "animals": [
     {
       "ID": "3458",
@@ -1475,6 +1475,15 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-09T01:20:25Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3693",
+      "Name": "Scarlet",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47f6da62431a6fbe9a3c31e4980656bd/c266079571a1b4f920199dea3730554a.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-09T06:13:59Z",
       "status": "pending"
     }
   ]
