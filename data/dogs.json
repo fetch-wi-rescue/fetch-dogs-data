@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T21:30:52Z",
-  "count": 64,
+  "updated": "2026-09-09T23:43:03Z",
+  "count": 62,
   "animals": [
     {
       "ID": "3279",
@@ -606,7 +606,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/379f921e3bdcc4dd8d86ce6548e387ba/d922ca5761fd03d4524e92094f6a5752.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c4b4a8b2dbfa63fcad5db07c9eec2b1d/fa38261d43d483ae8add67e8fb11aca1.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png"
+        "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png",
+        "https://new-s3.shelterluv.com/profile-pictures/935dd60328f780783f65db2e14532f3d/b6f4cb3579a23154e29dd52d878107c2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/729538058d113304ad24f2ff6a722dd8/18accaabad928518fca49dab9cebaec4.jpeg"
       ],
       "Videos": [],
       "Breed": "Pinscher, Doberman/Rottweiler",
@@ -654,7 +656,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1787857891"
+      "LastUpdatedUnixTime": "1788993127"
     },
     {
       "ID": "3579",
@@ -1678,6 +1680,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
           "Publish": "Yes"
@@ -1708,6 +1715,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637202",
           "AttributeName": "Medium energy",
           "Publish": "Yes"
@@ -1723,7 +1735,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788731483"
+      "LastUpdatedUnixTime": "1788992833"
     },
     {
       "ID": "3669",
@@ -5418,102 +5430,6 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
-      "ID": "3699",
-      "Internal-ID": "214327205",
-      "Name": "Fluffykins",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "15",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779739740,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c9e3d5f5a01c2ded967a5cd58a8ce209/9ce2b52baa4fee1098c66e16e473246e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0c2d4e8282fc18d703296b3dda6da08d/ec99a6553a51d0d837c6ab6bd23a773a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/211c1674fdaf12ff3a7cf3279f0c8634/4615d6baafd239a6685d7aac62c3cb37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/435a6f5c9d545f86e69187136b56b35d/aaa64646b6a4667b9f7a0681886d46ee.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White/Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Fluffy is an amazing curious little Husky mix. She loves wrestling with her puppy playmates as well as other adult dogs. She loves playing in the water and spending the afternoons sleeping with her friends.\n\nShe is full of puppy energy and is learning crate training and potty training. She loves to play all day with her playmates, but sleeps through the night in her crate.",
-      "LastIntakeUnixTime": "1787235889",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788963696"
-    },
-    {
       "ID": "3590",
       "Internal-ID": "213765756",
       "Name": "Cash",
@@ -5805,123 +5721,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788659973"
-    },
-    {
-      "ID": "3639",
-      "Internal-ID": "214119790",
-      "Name": "Simon Says",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "95",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1499490000,
-      "Age": 110,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d0a80ced78f6088cd118ead43e684057/92017750eb495341d9b43be2b6ed893b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/427d430d13e490edd6a0b0206605f7fd/b3b5bbd91c6e339a1b0b10fa964a8320.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6d689221dffe21d208fe1cfc47cd43b4/98d2e57391b88fac5d54a7be4eaa6d66.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b0d9f8baa2c7ae49ca12907c39b77bdf/b3997c795e6e2ee147f044bd30bfabf0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/68fd56f46648a984b507157d9395958b/18ba83bd3c84c46b3e06a77228dfe443.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04257a4b0084b186de0bacb13d6170b8/49491f558df9018fc341b93722d8ad75.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ebfdcc4476aa2d349f1dd4a3a1c24eff/3b96bce795c4f49e03ecc6c33e2fc3c7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/505ea53ba9b60549abab63faaacb3702/9cdc217173b9ea101d73fe86d2a2b32d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0221dc855bf4b090c13af9e75c876baa/582bdf48ffe512ea3abb8002760eb1a9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e741bcb750199a32ca07da5e4cd48708/c5fe57425373e9a684d12ca5971180fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5de77462e767209625236415852e097f/c3f39ccb2c2e8595808ab615ae3a7b33.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d743cc60996ff5a3d377b8a27b0f5cd7/1fde910a963555673fb95b4165304f11.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4981190d9f300c923f8006fd044bf7ee/79c6a082fa29b56c417f4a3cc2d8bdab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a46d70f98dd1d57fea42a93de45d0e2c/8c79405aede37275708b631c1181106d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df0137b24260b55757e7ce217a87d968/a4d9b506a43fea3a5554f9d5bbed4b6e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Black Labrador/Mastiff",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet ✨Simon✨, the only dog who comes with a FREE emotional support slinky named Stan. That's right—you get a two-for-one deal. \n\nStan is Simon's prized possession. He proudly carries him around the house, shows him off to anyone willing to admire his handsome friend, and even insists on taking Stan outside for little strolls. We don't ask questions. We just accept that Stan is family.\n\nSimon originally came to Fetch from northern Wisconsin after his beloved owner passed away. While his life took an unexpected turn, he hasn't let it dim his sweet, goofy spirit.\n\nThis handsome guy is as easygoing as they come. He's calm, affectionate, wonderful with people, gets along great with other animals, and firmly believes snacks solve most problems. He's playful without being wild, loves attention, and greets life with the happiest little tippy-tappies you've ever seen.\n\nThe Labrador in Simon is impossible to miss. If there's water nearby, he's in it. Lakes? Yes. Kiddie pools? Absolutely. Mud puddles? If you're not looking... probably.\n\nSimon isn't looking for anything fancy. Just a family to love, treats to politely accept, water to splash in, and plenty of opportunities to proudly parade Stan around like the tiny celebrity he is.\n\nAdopt Simon and you'll get one incredible dog... plus Stan, his slightly floppy but very important sidekick.",
-      "LastIntakeUnixTime": "1784294522",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788986404"
     },
     {
       "ID": "3696",

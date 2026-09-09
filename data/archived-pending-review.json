@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:40:55Z",
+  "updated": "2026-09-09T23:43:03Z",
   "animals": [
     {
       "ID": "3458",
@@ -1493,6 +1493,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-09T15:40:55Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3639",
+      "Name": "Simon Says",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/75299d473d0a5b7a9aec37cebdb797e1/b6f262ff408bafc5932f1c58ed792f1b.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-09T23:43:03Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3699",
+      "Name": "Fluffykins",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/089a48fccb2a6aa9a087af32a7516c9c/f5b702033e94382f26eadd8bf3a37fe1.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-09T23:43:03Z",
       "status": "pending"
     }
   ]
