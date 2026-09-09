@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:40:55Z",
+  "updated": "2026-09-09T18:57:57Z",
   "count": 64,
   "animals": [
     {
@@ -105,7 +105,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "27.8",
+      "CurrentWeightPounds": "30.2",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1419228000,
@@ -198,7 +198,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788323255"
+      "LastUpdatedUnixTime": "1788979621"
     },
     {
       "ID": "3200",
@@ -387,7 +387,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788883087"
+      "LastUpdatedUnixTime": "1788975648"
     },
     {
       "ID": "3480",
@@ -3090,7 +3090,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1788875106"
+      "LastUpdatedUnixTime": "1788969990"
     },
     {
       "ID": "3686",
