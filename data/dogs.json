@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T12:18:05Z",
-  "count": 62,
+  "updated": "2026-09-10T16:33:56Z",
+  "count": 60,
   "animals": [
     {
       "ID": "3279",
@@ -198,7 +198,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788979621"
+      "LastUpdatedUnixTime": "1789052032"
     },
     {
       "ID": "3200",
@@ -1748,13 +1748,25 @@
       "Altered": "No",
       "DOBUnixTime": 1778648400,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/967456216ead72c33bcd73bed648e48f/bbf51ec04d6fbfdbd3e9fcc502c29553.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/967456216ead72c33bcd73bed648e48f/bbf51ec04d6fbfdbd3e9fcc502c29553.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/17ff78ab513340ca839ee9a6dd477f4f/a81ee2d2e086cdda76a21f642991da3a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2190be413e892628ae44863bd46a9e71/ec857bec364353752406dd2eaf967793.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1d04747f6c0ffa5cc10f2c96b66bd40/d672c0dd6d92a60d03f53b51395c7678.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa72e80a90944329ba3946c848cfd424/ba6cf39633985d16a9e24b3f9fc7c4e7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/294ba25dc2fce576cab485585d2c867d/2778cf9066ee189198c318f152f8458c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a980d37096cffeeded5266b5f3591d3/00254e390732274f1459e7b873a57d5c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/325c56df2a4456d33eec1d7926efdae0/089ec7b3295f11ef2a36f2c096d2ba8e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c52a99680747513fd1f6a3a6a405442/be8357278c65e42333ee0c098ad393e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4380679cc8a9eddaee0c79a5eca46c03/0765273177b5af650590b25867d686d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb5cdd984d6d32aed3388341b17213de/c549ee496dc186f2f17b255331ee8dd6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/df49a20baf6fe707e21326fc4a35fa93/101db60656e1f968ed1ade2dd36f9264.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
@@ -1817,7 +1829,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788811017"
+      "LastUpdatedUnixTime": "1789045897"
     },
     {
       "ID": "3670",
@@ -4165,7 +4177,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "31",
+      "CurrentWeightPounds": "34.1",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1749618000,
@@ -4205,7 +4217,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788188595"
+      "LastUpdatedUnixTime": "1789052335"
     },
     {
       "ID": "3673",
@@ -4322,126 +4334,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788981452"
-    },
-    {
-      "ID": "3697",
-      "Internal-ID": "214322341",
-      "Name": "Ripple",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Boarding",
-      "InFoster": true,
-      "CurrentWeightPounds": "44.8",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1767895748,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6a7c390845ec526f06f03c200f5f73/41280dc5a9cafb556940e7766266f549.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed9d91e0d2d959b776c30fee8cae507b/c7c266e065d165748876c54bb4d6957b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/812d6a5186ba895f29540de4ad60bdea/2a4470934b52fa485721c14dca8a3e09.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e98ecda840720567842101f36f99e309/851e068638c9faf2a0dd10c68819f512.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Poodle",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi, I'm Ripple, - the southern vets thought I'm a chocolate and tan Doberman Pinscher-Poodle mix but my northern foster thinks I act more like a wirehair pointer or griffon mix. Either way - I have quite the zest for adventure! I'm a high-energy girl who thrives on play, socializing, and learning - I even attend doggy daycare and ride great in the car. I'm friendly, food-motivated, and crate-trained, and I'd absolutely love a canine sibling to share my fun with - as long as they don't mind playful gals! I'm best suited for active families with older kiddos who can match my playful spirit and keep me engaged. Come meet me and let's start our next adventure together!",
-      "LastIntakeUnixTime": "1787169526",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "840281",
-          "AttributeName": "Daycare - Attends Hickory Hills",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788636085"
     },
     {
       "ID": "2754",
@@ -4764,98 +4656,6 @@
       "LastUpdatedUnixTime": "1788913008"
     },
     {
-      "ID": "3636",
-      "Internal-ID": "214093513",
-      "Name": "Skye",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "42",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1558760400,
-      "Age": 87,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/18f32d3f8bf6753d237494685dd3368c/182b2a46b95193674360b16a372d65f7.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/18f32d3f8bf6753d237494685dd3368c/182b2a46b95193674360b16a372d65f7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a38ad058ccad90fecccd80156c8b6ca3/673be1326dee34f6343d5438f8d813b0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fda4898c7c0040525ad964d036c94295/00c79298679d1c44c068ff90260f939c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e0ed3b9eb6d6c164ef2031d5fdb7affa/dd690b2c942008e9c0b7929d4c106b84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4220dcff30cdac84d9f47ff771880ca/e72c9bf2703bcf8db05cd86e315a3ba0.png",
-        "https://new-s3.shelterluv.com/profile-pictures/4637abb0b768fc042e3eec5b1d499a25/6c79b57ae59ac8cd4c80f47568384342.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a1daa12d921aa57fc69c109d463bc5b/f37fdfc0ab2190fe32427f5ce5243f97.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e3019825082baa67a6106d9ea9a11370/ba1c9afe56eb9bed07f213c6ca532002.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1a9013fa1e1ad29a7842df0cdd7a0d7/523d811e8f70e5253edaf7fc74831a54.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/97798cbb6c2ab33776426746c38a4024/864411e85b430ef36f86dc1148a8445a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3f1e2174200ad128ce00398658e0a4cd/a912817becff32b28a008219861fba08.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c7a221c635e691f230c99194e905e90/7325b335cd6bf498aef8e56e176c4b7d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/bdf7e97a2a556ecddbca7bf9e85ffa95/485f38d69b212100fa7effaee067c6e3.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Skye is a sweet, affectionate girl with a soft heart and an endless amount of love for her people. At 7 years old, she has traded the puppy chaos for the sweeter things in life, being close to her humans, enjoying a comfortable routine, and running around to play to her heart’s content.\n\nTrue to her Blue Heeler genes, she has energy to spare and jumps for joy at the opportunity to chase after squirrels outside.\n\nSkye is the kind of dog who loves deeply and forms a special bond with the people she trusts. She enjoys being included in everyday life and is happiest simply knowing her person is close. Whether she’s joining you for a walk, keeping you company around the house, or winding down beside you at the end of the day, Skye makes an easy and loving companion.\n\nChanges can take time for Skye to adjust to, and being away from her people can sometimes make her nervous. Skye can also show some jealousy or frustration toward other dogs, especially when attention or treats are being shared, so she would do best with thoughtful introductions and a family who can help her feel secure. \n\nWith patience, consistency, and plenty of love, she settles in and lets her sweet, loyal, personality shine. Skye would thrive with someone who appreciates a dog with a tender heart and wants a companion to truly become part of their every day life. She’ll reward that person with affection, loyalty, and the kind of companionship that makes a house feel a little more like home.\n\nSkye is ready to bring adventure, love, and plenty of cuddles to her forever home.",
-      "LastIntakeUnixTime": "1784385320",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788627205"
-    },
-    {
       "ID": "3644",
       "Internal-ID": "214152752",
       "Name": "Cain",
@@ -4972,111 +4772,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788636139"
-    },
-    {
-      "ID": "3655",
-      "Internal-ID": "214207698",
-      "Name": "Roo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "45.2",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1465448400,
-      "Age": 123,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/807900400cbaf2057b1a99bec98572c3/8130ba779247dffcd15f9410b696cf0c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/807900400cbaf2057b1a99bec98572c3/8130ba779247dffcd15f9410b696cf0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/97642e40fb19f981a239616a40e2aef9/fb9e241d81f079df385c5d72ee2a4c19.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c4fbcf758266df834baad2e31300e20e/caa5f74dbba41fe27e00c9a7b84dc5b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/693d1e312ec97ce9687cfe8830a35ac9/71ab6c8af715daa85483e4dd64239a07.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5d4d57a8246edd90837cf3ee01af7337/173297753fa5ff1f5531d8f7ecdf8d53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/05e09195e22a81824d25cbfda10cd1d9/8204d413abf22674f03ec1ad5dfc0b2c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/955ef568cf0bfaa6165ed76c04ea1a31/a841ca5aaafd92e195d8a42c8e8ec74c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2d35b7f498a24758771456d69564055b/56edfea724bfa46d5e138bc93c34b336.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c0294ab13cbec700a02a50de6a682b0d/57b31318ea07939f947fc3b40a875fc4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7149b6fc4971fd4f8e8f76a7d3a5da2e/70ae9b92d16aaae701bdfc4dddf6dd0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/48e20ce954dd778c83b89a3dc71df528/e5e4e33629921d06413052b11aef8a3f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c86020f83fa47ff30659c8b8cb666ed1/6604f3c6301f47e7886fcb1489bef2ce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/01c5f838ec80e49543d4f3a415082510/587bddcc33fea71e6d5d4fe847dee2b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d8b3c330b5de86b95d16692328fdd79/768d59cf6d22a11d35a34745fde879bb.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Blue Heeler)/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Looking for a built in best friend?! Look no further, Roo loves her people and loves to be close by.\n\nRoo ended up in foster due to no fault of her own. Her owner passed and with no one to care for her she was left looking for a new home.\n\nAfter living in a home for over 10 years she knows all the ropes. She is fully potty trained (not a single accident!), can be left out all day and no chewing, sleeps through the night with in her dog bed, and will follow you anywhere you go!\n\nRoo is turn key and will be an easy addition to any family. Apply to meet this easy going gal.",
-      "LastIntakeUnixTime": "1785443311",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702284",
-          "AttributeName": "FP:  Aidan",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788986671"
     },
     {
       "ID": "3658",
@@ -5350,7 +5045,7 @@
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1660145419,
-      "Age": 48,
+      "Age": 49,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
@@ -5515,6 +5210,126 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
+      "ID": "3697",
+      "Internal-ID": "214322341",
+      "Name": "Ripple",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "44.8",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1767895748,
+      "Age": 8,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e6a7c390845ec526f06f03c200f5f73/41280dc5a9cafb556940e7766266f549.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ed9d91e0d2d959b776c30fee8cae507b/c7c266e065d165748876c54bb4d6957b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/812d6a5186ba895f29540de4ad60bdea/2a4470934b52fa485721c14dca8a3e09.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e98ecda840720567842101f36f99e309/851e068638c9faf2a0dd10c68819f512.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Poodle",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi, I'm Ripple, - the southern vets thought I'm a chocolate and tan Doberman Pinscher-Poodle mix but my northern foster thinks I act more like a wirehair pointer or griffon mix. Either way - I have quite the zest for adventure! I'm a high-energy girl who thrives on play, socializing, and learning - I even attend doggy daycare and ride great in the car. I'm friendly, food-motivated, and crate-trained, and I'd absolutely love a canine sibling to share my fun with - as long as they don't mind playful gals! I'm best suited for active families with older kiddos who can match my playful spirit and keep me engaged. Come meet me and let's start our next adventure together!",
+      "LastIntakeUnixTime": "1787169526",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "840281",
+          "AttributeName": "Daycare - Attends Hickory Hills",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789055990"
+    },
+    {
       "ID": "3590",
       "Internal-ID": "213765756",
       "Name": "Cash",
@@ -5615,7 +5430,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788961909"
+      "LastUpdatedUnixTime": "1789043383"
     },
     {
       "ID": "3591",
@@ -5805,7 +5620,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788659973"
+      "LastUpdatedUnixTime": "1789054492"
     },
     {
       "ID": "3696",
