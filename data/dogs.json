@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T23:43:03Z",
+  "updated": "2026-09-10T02:24:58Z",
   "count": 62,
   "animals": [
     {
@@ -3646,7 +3646,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788959434"
+      "LastUpdatedUnixTime": "1789005344"
     },
     {
       "ID": "3698",
@@ -3826,6 +3826,91 @@
         }
       ],
       "LastUpdatedUnixTime": "1788395116"
+    },
+    {
+      "ID": "3701",
+      "Internal-ID": "214398346",
+      "Name": "Toby",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "9.1",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1783573200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/02bcf199533f798c26794681044b3262/72a5f91f05ed4370e07a7e446ad9089e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/02bcf199533f798c26794681044b3262/72a5f91f05ed4370e07a7e446ad9089e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3df3b0b00d79b89f49ef12aa825c340c/63a1bc505ec212dff3c7cdb2efd0c497.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/902250476fb2db50b4eb1febcfd79c79/e2c7960c714007f158a45f3bff4f1304.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4eedb8ec4b163f47717731865744eb8a/151543e86083b40d04cfb390f1d66ea3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Mixed Breed (Medium)",
+      "Color": "White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Toby is a fluffy little guy who is very social, playful and happy. He listens well and is nice and quiet in his crate at night. He loves cuddles and playing with his tug toy. He is ready to grow up with his forever family!",
+      "LastIntakeUnixTime": "1788263841",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789004747"
     },
     {
       "ID": "3702",
@@ -5798,91 +5883,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788626696"
-    },
-    {
-      "ID": "3701",
-      "Internal-ID": "214398346",
-      "Name": "Toby",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.1",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1783573200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/02bcf199533f798c26794681044b3262/72a5f91f05ed4370e07a7e446ad9089e.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/02bcf199533f798c26794681044b3262/72a5f91f05ed4370e07a7e446ad9089e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3df3b0b00d79b89f49ef12aa825c340c/63a1bc505ec212dff3c7cdb2efd0c497.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/902250476fb2db50b4eb1febcfd79c79/e2c7960c714007f158a45f3bff4f1304.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4eedb8ec4b163f47717731865744eb8a/151543e86083b40d04cfb390f1d66ea3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1788263841",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788800377"
     },
     {
       "ID": "1442",
