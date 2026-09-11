@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:16:24Z",
+  "updated": "2026-09-11T16:38:47Z",
   "count": 60,
   "animals": [
     {
@@ -1049,6 +1049,124 @@
       "LastUpdatedUnixTime": "1788636995"
     },
     {
+      "ID": "3644",
+      "Internal-ID": "214152752",
+      "Name": "Cain",
+      "LitterGroupId": 9558459,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "41.4",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763532000,
+      "Age": 9,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c61adc8f670a3cc9e7c8ebb1c6d4deef/280b86bc779e46da148d95b0a15f5c65.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c61adc8f670a3cc9e7c8ebb1c6d4deef/280b86bc779e46da148d95b0a15f5c65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)/Hound",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Cain, a striking black-and-white mixed breed with a heart as big as his smile! At just 8 months old and 41 pounds, this handsome parvo survivor has already overcome a tough start and is ready to find the loving family he's been waiting for.\n\nCain is an affectionate, playful pup who loves spending time with his people. Whether he's exploring on a walk, chasing a tennis ball in the backyard, or sneaking in a kiss, he's happiest when he's part of the action. He also gets along well with other active dogs.\n\nHe's house trained, walks nicely on leash, and is a dream in his crate, sleeping quietly through the night without a fuss. Cain is eager to learn and enjoys practicing new skills. He's currently working on sit, down, and touch, and would love a family that will continue building his confidence and skills through training.\n\nLike most teenage pups, Cain is still figuring out his manners. He can get a little mouthy or jump up when he's excited, but he's easily redirected and improves with consistency.\n\nCain's ideal home is one that enjoys staying active and will include him in daily walks, games of fetch, and plenty of quality time together. In return, you'll get a loyal companion with a goofy personality, a loving heart, and a lifetime of adventures ahead. 🐶 🐮",
+      "LastIntakeUnixTime": "1784820769",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "840277",
+          "AttributeName": "Daycare - Attends Dog Den",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789137588"
+    },
+    {
       "ID": "3648",
       "Internal-ID": "214152756",
       "Name": "Belle",
@@ -1731,7 +1849,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789009254"
+      "LastUpdatedUnixTime": "1789134068"
     },
     {
       "ID": "3669",
@@ -2022,7 +2140,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789007564"
+      "LastUpdatedUnixTime": "1789130009"
     },
     {
       "ID": "3674",
@@ -2613,6 +2731,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
@@ -2623,7 +2746,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788316954"
+      "LastUpdatedUnixTime": "1789129184"
     },
     {
       "ID": "3680",
@@ -2908,6 +3031,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
@@ -2918,7 +3046,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788318452"
+      "LastUpdatedUnixTime": "1789129090"
     },
     {
       "ID": "3683",
@@ -4339,94 +4467,6 @@
       "LastUpdatedUnixTime": "1788981452"
     },
     {
-      "ID": "2754",
-      "Internal-ID": "213177575",
-      "Name": "Twinkle Toes",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "58",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1551160800,
-      "Age": 90,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
-        "https://new-s3.shelterluv.com/profile-pictures/09577e29cce5dffe83f250209a778d48/bea7c10f4b08c809ea37f2e5e80ec341.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/27e28101339f3bc4460f7d286eb67f53/b6f40afc22cc41e167eb04dc3e7670d5.png",
-        "https://new-s3.shelterluv.com/profile-pictures/ce961110b55adabbbcac880d0881c4ee/220024b500c2ccfe15fd11f0e3326714.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/376db6ec273510437212cc5343c9ffa7/bc6a5fb4a2c27d95d85f3662edb7b5f3.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6f30fa484711b95d648c14d30248e655/16b8d3c0b1b9a7a359e3c048244d5f74.png",
-        "https://new-s3.shelterluv.com/profile-pictures/cefb1e7e5ca3b7d24e75f2207e25eefd/69222bb2691c9660ed8215e0eac11f71.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6479226b2d9f7e51660d1f833a6ad1ed/f7e4c5ff0adfe9b5db3a423c0831c7e2.png",
-        "https://new-s3.shelterluv.com/profile-pictures/ca08ace3856dbe5f6ddd487f18a40864/7738c4d898cb0f0179859d6bf9a66c23.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c1e62d8e1ecd4eea835dfacbcd1d35a9/9edaca1d70cee0ec947c2d67e6458d82.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad56d5cc562229454adf18a13c8fae90/f9ca2a4063351c8160fc5cf1aa93ce0e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/43ae5616ed7c9dd9c7c83c35894cb2c8/0adb30484bc3b8713e88612d65a563ac.png"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Mixed Breed (Large)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Twinkle Toes. A 7 year old Pittie x lab mix with great house manners and a zest for life. She came to us after being found as a stray in Texas and as soon as you meet her you can tell that she was a well-loved pet. She knows all her basic tricks, doesn't counter surf, and hasn't had a single potty accident with us. She's matured out her puppy energy and just wants a warm home and a best friend to play and go on adventures with.\n\nHer daily routine:\n\n7 am - she dozes away in her dog bed on the floor until I am awake then she patiently waits for me to take her outside by resting her chin on the edge of her bed, staring at me, and wagging her tail. She goes outside for a potty, eats her breakfast, and goes on a walk (10-30 min).\n\n9 am - she stays in her room while I go to work for the day. She's stayed home up to 9 hours outside of her kennel without any potty or chewing incidents.\n\n6 pm - She goes for another walk (10-30 min) and eats dinner.\n\n7 pm - She loves to play with her favorite toy, Froggie. Tug, catch, or just squeaking away on her own. When she's done playing or I have to rescue Froggie from a squeaker-ectomy she curls up in her bed and relaxes for the rest of the night.\n\n10 pm - she has her last potty break and goes to sleep on her bed in my room.\n\nTraining:\nTwinkle Toes knows the basics: sit, stay, lie down, come, paw, and speak. She's food motivated and can learn new tricks with a bit of patience. She learned to trim her own nails with a scratch board in just a couple of days. She's still working on her leash manners and at the beginning of her walks she usually pulls to explore some sniffs or chase a squirrel. Once she gets some of her excitement out she settles down and walks much more calmly by your side.\n\nTwinkle Toes is wary of strangers and other dogs on leash. She handles moderate foot traffic just fine — it's when people make direct eye contact or approach her that she gets uncomfortable and may bark or growl. She's not aggressive; she's just telling you she needs space. Other dogs on walks are best observed from across the street. With a calm handler who knows how to read the environment and advocate for her, she does great.\n\nTwinkle Toes can get a little too excited sometimes and would prefer a home without cats, rabbits, or other small critters.\n\nIf you want to adopt a dog but don't want to start at square one, Twinkle Toes might be perfect for you. Don't let her silver muzzle fool you, Twinkle Toes is young at heart and has plenty of energy and adventures left in her.",
-      "LastIntakeUnixTime": "1772258400",
-      "Attributes": [
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788915747"
-    },
-    {
       "ID": "3521",
       "Internal-ID": "213497174",
       "Name": "Maya",
@@ -4657,124 +4697,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788913008"
-    },
-    {
-      "ID": "3644",
-      "Internal-ID": "214152752",
-      "Name": "Cain",
-      "LitterGroupId": 9558459,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "41.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763532000,
-      "Age": 9,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c61adc8f670a3cc9e7c8ebb1c6d4deef/280b86bc779e46da148d95b0a15f5c65.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c61adc8f670a3cc9e7c8ebb1c6d4deef/280b86bc779e46da148d95b0a15f5c65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
-        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)/Hound",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Cain, a striking black-and-white mixed breed with a heart as big as his smile! At just 8 months old and 41 pounds, this handsome parvo survivor has already overcome a tough start and is ready to find the loving family he's been waiting for.\n\nCain is an affectionate, playful pup who loves spending time with his people. Whether he's exploring on a walk, chasing a tennis ball in the backyard, or sneaking in a kiss, he's happiest when he's part of the action. He also gets along well with other active dogs.\n\nHe's house trained, walks nicely on leash, and is a dream in his crate, sleeping quietly through the night without a fuss. Cain is eager to learn and enjoys practicing new skills. He's currently working on sit, down, and touch, and would love a family that will continue building his confidence and skills through training.\n\nLike most teenage pups, Cain is still figuring out his manners. He can get a little mouthy or jump up when he's excited, but he's easily redirected and improves with consistency.\n\nCain's ideal home is one that enjoys staying active and will include him in daily walks, games of fetch, and plenty of quality time together. In return, you'll get a loyal companion with a goofy personality, a loving heart, and a lifetime of adventures ahead. 🐶 🐮",
-      "LastIntakeUnixTime": "1784820769",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "840277",
-          "AttributeName": "Daycare - Attends Dog Den",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789068551"
     },
     {
       "ID": "3658",
@@ -5331,6 +5253,94 @@
         }
       ],
       "LastUpdatedUnixTime": "1789055990"
+    },
+    {
+      "ID": "2754",
+      "Internal-ID": "213177575",
+      "Name": "Twinkle Toes",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "58",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1551160800,
+      "Age": 90,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7fb789bda7dfb47524a435bfaf00d21b/4e37ce9aa1dfe08b3756f9c6fce2176f.png",
+        "https://new-s3.shelterluv.com/profile-pictures/09577e29cce5dffe83f250209a778d48/bea7c10f4b08c809ea37f2e5e80ec341.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/27e28101339f3bc4460f7d286eb67f53/b6f40afc22cc41e167eb04dc3e7670d5.png",
+        "https://new-s3.shelterluv.com/profile-pictures/ce961110b55adabbbcac880d0881c4ee/220024b500c2ccfe15fd11f0e3326714.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/376db6ec273510437212cc5343c9ffa7/bc6a5fb4a2c27d95d85f3662edb7b5f3.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6f30fa484711b95d648c14d30248e655/16b8d3c0b1b9a7a359e3c048244d5f74.png",
+        "https://new-s3.shelterluv.com/profile-pictures/cefb1e7e5ca3b7d24e75f2207e25eefd/69222bb2691c9660ed8215e0eac11f71.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6479226b2d9f7e51660d1f833a6ad1ed/f7e4c5ff0adfe9b5db3a423c0831c7e2.png",
+        "https://new-s3.shelterluv.com/profile-pictures/ca08ace3856dbe5f6ddd487f18a40864/7738c4d898cb0f0179859d6bf9a66c23.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c1e62d8e1ecd4eea835dfacbcd1d35a9/9edaca1d70cee0ec947c2d67e6458d82.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad56d5cc562229454adf18a13c8fae90/f9ca2a4063351c8160fc5cf1aa93ce0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/43ae5616ed7c9dd9c7c83c35894cb2c8/0adb30484bc3b8713e88612d65a563ac.png"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Mixed Breed (Large)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Twinkle Toes. A 7 year old Pittie x lab mix with great house manners and a zest for life. She came to us after being found as a stray in Texas and as soon as you meet her you can tell that she was a well-loved pet. She knows all her basic tricks, doesn't counter surf, and hasn't had a single potty accident with us. She's matured out her puppy energy and just wants a warm home and a best friend to play and go on adventures with.\n\nHer daily routine:\n\n7 am - she dozes away in her dog bed on the floor until I am awake then she patiently waits for me to take her outside by resting her chin on the edge of her bed, staring at me, and wagging her tail. She goes outside for a potty, eats her breakfast, and goes on a walk (10-30 min).\n\n9 am - she stays in her room while I go to work for the day. She's stayed home up to 9 hours outside of her kennel without any potty or chewing incidents.\n\n6 pm - She goes for another walk (10-30 min) and eats dinner.\n\n7 pm - She loves to play with her favorite toy, Froggie. Tug, catch, or just squeaking away on her own. When she's done playing or I have to rescue Froggie from a squeaker-ectomy she curls up in her bed and relaxes for the rest of the night.\n\n10 pm - she has her last potty break and goes to sleep on her bed in my room.\n\nTraining:\nTwinkle Toes knows the basics: sit, stay, lie down, come, paw, and speak. She's food motivated and can learn new tricks with a bit of patience. She learned to trim her own nails with a scratch board in just a couple of days. She's still working on her leash manners and at the beginning of her walks she usually pulls to explore some sniffs or chase a squirrel. Once she gets some of her excitement out she settles down and walks much more calmly by your side.\n\nTwinkle Toes is wary of strangers and other dogs on leash. She handles moderate foot traffic just fine — it's when people make direct eye contact or approach her that she gets uncomfortable and may bark or growl. She's not aggressive; she's just telling you she needs space. Other dogs on walks are best observed from across the street. With a calm handler who knows how to read the environment and advocate for her, she does great.\n\nTwinkle Toes can get a little too excited sometimes and would prefer a home without cats, rabbits, or other small critters.\n\nIf you want to adopt a dog but don't want to start at square one, Twinkle Toes might be perfect for you. Don't let her silver muzzle fool you, Twinkle Toes is young at heart and has plenty of energy and adventures left in her.",
+      "LastIntakeUnixTime": "1772258400",
+      "Attributes": [
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789133500"
     },
     {
       "ID": "3590",
