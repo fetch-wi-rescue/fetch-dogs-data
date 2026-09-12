@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T17:34:29Z",
-  "count": 56,
+  "updated": "2026-09-12T19:58:01Z",
+  "count": 54,
   "animals": [
     {
       "ID": "3279",
@@ -1164,7 +1164,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789137588"
+      "LastUpdatedUnixTime": "1789238790"
     },
     {
       "ID": "3648",
@@ -1948,104 +1948,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789099158"
-    },
-    {
-      "ID": "3670",
-      "Internal-ID": "214319988",
-      "Name": "Ginger",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "15.12",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28e47e5fa51518c81d8a0f901eeadabe/141ee5319fee6dfb2dd0dda3d2ded178.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/28e47e5fa51518c81d8a0f901eeadabe/141ee5319fee6dfb2dd0dda3d2ded178.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/57670d66d06843deab677a17372f0d64/e14b3478f6fd806d9dd3b434850ee5af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70fccb0c109bbd72ad704399361b6ac8/01c31af700ce53d583e6798631baa670.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3967c51a38cfb77d84fce21131a1986f/bcc5b76ce78523dc6833c0f995059b6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/394c11e4b11dd4ca8e8b6c138d8ab202/80fea7c15d4482da05cfe27617a34d81.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40abc97a6883c4342019d60f62fa6aed/0f5218c407fd4fd50e0a1f6bcb3ed997.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a21ce322d165272c2c2178f8f4eb1a85/98be120d86c3d613f2559572d2d34bdb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b1ee93037d9f822b1a4c3a53fb2652bb/536b28d680925226b03bea3a8d4b7b74.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b0da96dd7cbd6d3ded51e480b694a40a/e6e4f93bab8af8842aaddfd43e67b8d8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a0a8c34eaa19c6fcb073217c3e15f813/b0822ea38bc12d9dd90b7b2e51d84366.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/23c9a2a8594daa58c9e468f40e62eb52/442aebfba0b88834b14514f447b6dcc7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5511e0fa48c34bbf6bfe172c324a22a9/faf10a8cdc06908079f488dfe836e84b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/56a8b961c05a3af631a51602dba7fb92/94950f72a2a5b412fb3ccd1ada5f8a33.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9441aab56c749e73f1219c6676b99d96/e1e1f9a7262a4ebda335634ff356a9a6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d1780aca6be6c0cfa638e57893ad6aa/67b20cc5071b90238fcf33e468551be0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/259ac9dfc920e9dfc21f29339c78b680/c379de4ccb9c065f09caf0a370a52d36.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3fe0fefb018363f619952cd01098ff5/2cb9ae8e7936ef301ad0cb196b06af1a.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Say hello to Ginger, a sweet and curious pup with a gentle heart and a brave little spirit! Ginger has medium energy and loves people, especially when there are snuggles involved. She’s calm, affectionate, and curious about the world around her.\n\nGinger is learning the basics of puppy life. She’s working on leash walking and potty training, so her new family should be ready for the patience and consistency that come with a young puppy. She settles and sleeps easily in her crate throughout the day and overnight. She enjoys having dog friends and lives happily with other dogs. She’s also good with young kids.\n\nA patient home that enjoys puppy cuddles, training, and a little everyday puppy quirk would be a wonderful fit 💖 ",
-      "LastIntakeUnixTime": "1787195775",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789227922"
     },
     {
       "ID": "3671",
@@ -3348,97 +3250,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788877641"
-    },
-    {
-      "ID": "3691",
-      "Internal-ID": "214320095",
-      "Name": "Clay",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/587db3b71d98dc6e1fd1313adc9320e6/deea2df3eaf683ea71bb51f0b3dcc32a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/587db3b71d98dc6e1fd1313adc9320e6/deea2df3eaf683ea71bb51f0b3dcc32a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/177bb8b1bb6101bd6cca3caa662a3bad/7a43c54457174fe0b9dc12dcb24a176b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a7a6ed2183c58c3c2ebf581e75ec70e/4546d1ebe5572c7c533bd833b6fc47c4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/da9d0e2912cb13bb13f907c44d8eaf7d/9ef244836e37016ea2615124298bea53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6a6d711eb9beba55acb402f9a82987a6/7761ea07afdd4f341a6e753fb1f7f516.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c150b4b987030bec3146ac692dcbd74e/77dc71485600eacbb27608e2da32f882.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4609c48d3f104e9f72672fedb4a5d4af/e1b7eb8213df85d380ddc0b7e486f41a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a59df4dc7c1f07010d0ae22aeea820fb/baf5fc879ff654c37f91dec37c9eb065.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f1894372268832d6a96c44103fbb8742/2e20146f86ae4d30442a0c00cff13dd8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd2b915d59cc92756367aa22c5ba87f7/27d7201314599ac85904d7cfe8bbd92e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "White/Blue",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Clay is the perfect blend of puppy energy and snuggle bug. He loves to play and run outside and he’s already knows what “sit”. He will be a great addition for who is looking for a new best friend. He gets along with dogs, cats, and children.",
-      "LastIntakeUnixTime": "1787191494",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789099643"
     },
     {
       "ID": "3695",

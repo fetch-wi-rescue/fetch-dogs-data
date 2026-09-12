@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T17:34:29Z",
+  "updated": "2026-09-12T19:58:01Z",
   "animals": [
     {
       "ID": "3458",
@@ -1565,6 +1565,24 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-12T17:34:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3670",
+      "Name": "Ginger",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/28e47e5fa51518c81d8a0f901eeadabe/141ee5319fee6dfb2dd0dda3d2ded178.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-12T19:58:01Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3691",
+      "Name": "Clay",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/587db3b71d98dc6e1fd1313adc9320e6/deea2df3eaf683ea71bb51f0b3dcc32a.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-12T19:58:01Z",
       "status": "pending"
     }
   ]
