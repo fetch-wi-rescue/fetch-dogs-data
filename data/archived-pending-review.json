@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T02:19:46Z",
+  "updated": "2026-09-12T17:34:29Z",
   "animals": [
     {
       "ID": "3458",
@@ -1529,6 +1529,42 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-11T02:19:46Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3674",
+      "Name": "Porter",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-12T17:34:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3686",
+      "Name": "Syd",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a056a38d5429d37884dc4ac9eb679ded/64d52f3611eb0132128e3ea74b88bbe6.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-12T17:34:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3689",
+      "Name": "Cosmo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-12T17:34:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3701",
+      "Name": "Toby",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93bd64e6f7ae273ac2d27d4eaf4efe50/9fd3c5686354b79bbe0b9c181a3fbc17.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-12T17:34:29Z",
       "status": "pending"
     }
   ]

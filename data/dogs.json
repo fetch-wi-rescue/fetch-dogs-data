@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T14:44:24Z",
-  "count": 60,
+  "updated": "2026-09-12T17:34:29Z",
+  "count": 56,
   "animals": [
     {
       "ID": "3279",
@@ -2045,7 +2045,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788781572"
+      "LastUpdatedUnixTime": "1789227922"
     },
     {
       "ID": "3671",
@@ -2141,106 +2141,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789224143"
-    },
-    {
-      "ID": "3674",
-      "Internal-ID": "214320059",
-      "Name": "Porter",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997092,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ce798f6260318cff544b1e30e298be4f/fc1c82ecefdfb04b8afae5a109323aa6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aeaa6855e3d394175e65fd5217eb7e47/58b029def98573b313d4fe9eff0b0ab9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/da2f0edf686f548827f7ae2489bcf82d/ae32ce75be4a43ac6db9bf1c068daa40.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3c4b13fbca1c9c317ab5e0fc3191881/bba9cf5faa5d24d04b0486a91d84f91e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5bef5d8cde9189b22f420b11ce334298/f0ecf27041e58566b8575f46403160f2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01acc26b8ea2e7f199d47cb0da2c82ec/9ab4704a5b944b6cb14fd9b151d5f9eb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1eaff8b0780713c45e4546ebeae8a3ab/a61a096bf61f2c1df6f48ebaa043165a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c591c1d942468d4f9a56459a946c59f9/c7e8d7548aae4187b325c1f9a7bffe64.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f559a3ad607178f325d479dc5a9d724/44bae161f620f97951877a916a7f2cef.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Apricot",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi, I'm Porter and I can't wait to meet you and become your forever friend!\n\nI'm a typical puppy full of energy and curiosity, and I absolutely love to play and I'm learning to snuggle with my people. I've met dogs, cats, and kids in my foster home, so with continued socialization, I'll fit right into just about any family! I promise to bring double the fun and twice the love to your home.\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787165394",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789167134"
     },
     {
       "ID": "3675",
@@ -3245,91 +3145,6 @@
       "LastUpdatedUnixTime": "1788969990"
     },
     {
-      "ID": "3686",
-      "Internal-ID": "214320076",
-      "Name": "Syd",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.8",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1779388330,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a056a38d5429d37884dc4ac9eb679ded/64d52f3611eb0132128e3ea74b88bbe6.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a056a38d5429d37884dc4ac9eb679ded/64d52f3611eb0132128e3ea74b88bbe6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/76b2b8d4b36ce3aa98bb9e45b5a93aed/8ef51ac06efa4c2b5047d79eecba7bce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5b5e52a78752dbc9462ab1560ef2c0c/5555ae04c7516e21ea5465301c647726.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/47015662080e378b59538cf8619f6618/0b3e92ef3585aa9d932739f158bd4bf1.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Syd is a joyful and silly puppy who is always ready to play. She is curious, a bit mischievous, very cuddly, and loves playing with our 6 year old son and other dogs. This smart and food motivated girl is quickly picking up potty training. For now, Syd still needs bathroom breaks every 3-4 hours but is very comfortable in her crate during work days. Best of all, she is regularly sleeping through the night! She is a sweet, spunky girl that will be a wonderful addition to your family! ",
-      "LastIntakeUnixTime": "1787189831",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789172680"
-    },
-    {
       "ID": "3687",
       "Internal-ID": "214320081",
       "Name": "Bane ",
@@ -3438,93 +3253,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788874025"
-    },
-    {
-      "ID": "3689",
-      "Internal-ID": "214320088",
-      "Name": "Cosmo",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b46c134bb94c4d6c09ac23a4f58e579e/230bfc488cef376c457a48bf4ba09761.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/58ada6ea2d923b0aec886e81f6b4d9f3/2dc41c69a158e69609e21235f69c1ff2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52dd58a88ede0cbc922f3067f1fd4cc5/c5630890d04902f49efc82f8f204dcd5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e4b0033debf4dd138773b0e438c9650d/a308454fcab2869ad6c69edb2dae1864.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c6deb461cdbb983381c38e5971c8139/63dd6f1a21cf3322925b6c2bd3bd0f78.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed723588b977a0c4558288a3fcf5aa32/224787d5176ab3199883aa77ffbd1930.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Brindle/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Cosmo is an adorable puppy with the best floppy ears! She is a typical puppy who loves to snuggle and play. She is curious and wants to be by her people. \n\nCosmo is doing really well with crate training and potty training but is still learning. \n\nShe can't wait to meet her family!",
-      "LastIntakeUnixTime": "1787191061",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789081646"
     },
     {
       "ID": "3690",
@@ -3969,93 +3697,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788395116"
-    },
-    {
-      "ID": "3701",
-      "Internal-ID": "214398346",
-      "Name": "Toby",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.1",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1783573200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93bd64e6f7ae273ac2d27d4eaf4efe50/9fd3c5686354b79bbe0b9c181a3fbc17.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/93bd64e6f7ae273ac2d27d4eaf4efe50/9fd3c5686354b79bbe0b9c181a3fbc17.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3df3b0b00d79b89f49ef12aa825c340c/63a1bc505ec212dff3c7cdb2efd0c497.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/02bcf199533f798c26794681044b3262/72a5f91f05ed4370e07a7e446ad9089e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/902250476fb2db50b4eb1febcfd79c79/e2c7960c714007f158a45f3bff4f1304.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4eedb8ec4b163f47717731865744eb8a/151543e86083b40d04cfb390f1d66ea3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6b42c13d62b8b06a0e3a1c291aaa282a/cc8caa94e9ab71d491ea6c06d2ea8b6c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Mixed Breed (Medium)",
-      "Color": "White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Toby is a fluffy little guy who is very social, playful and happy. He listens well and is nice and quiet in his crate at night. He loves cuddles and playing with his tug toy. He is ready to grow up with his forever family!",
-      "LastIntakeUnixTime": "1788263841",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789168007"
     },
     {
       "ID": "3702",
