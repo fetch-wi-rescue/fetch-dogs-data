@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:25:31Z",
+  "updated": "2026-09-13T23:49:07Z",
   "animals": [
     {
       "ID": "3458",
@@ -1592,6 +1592,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-13T02:25:31Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3696",
+      "Name": "Bindi Sue",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5cfd5307eda445b107deb59dfae87928/bcce90f255776f300bee5e068511e2e5.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-13T23:49:07Z",
       "status": "pending"
     }
   ]
