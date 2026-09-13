@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T23:38:14Z",
-  "count": 54,
+  "updated": "2026-09-13T02:25:31Z",
+  "count": 53,
   "animals": [
     {
       "ID": "3279",
@@ -656,7 +656,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788993127"
+      "LastUpdatedUnixTime": "1789264271"
     },
     {
       "ID": "3579",
@@ -2548,7 +2548,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789166740"
+      "LastUpdatedUnixTime": "1789264371"
     },
     {
       "ID": "3680",
@@ -2745,7 +2745,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789166174"
+      "LastUpdatedUnixTime": "1789264339"
     },
     {
       "ID": "3682",
@@ -4674,7 +4674,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789246046"
+      "LastUpdatedUnixTime": "1789265715"
     },
     {
       "ID": "3590",
@@ -5052,127 +5052,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788626696"
-    },
-    {
-      "ID": "3697",
-      "Internal-ID": "214322341",
-      "Name": "Ripple",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "44.8",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1767895748,
-      "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7fb4e194adc9bf000780291eb7d3f301/613b1175014847ba7ee835e9e9d37ed2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e6a7c390845ec526f06f03c200f5f73/41280dc5a9cafb556940e7766266f549.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a321c78b591dacf01686d4f508ef4bf2/841d7a6880012037ea154afe34d6ffcb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3128e0cb0594a6dfc909c65e9cafe12/c7754b9c41c881f3088dfc35350ca2bb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fd93bde93ad632abb008f74129d0639/6b3a4bd3e04278f1fca7212dc1b34238.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ccc4555138d852769715104de7a99c3/9cc7e1085762e73a57b55034cefb5407.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed9d91e0d2d959b776c30fee8cae507b/c7c266e065d165748876c54bb4d6957b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/812d6a5186ba895f29540de4ad60bdea/2a4470934b52fa485721c14dca8a3e09.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e98ecda840720567842101f36f99e309/851e068638c9faf2a0dd10c68819f512.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Poodle",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi, I'm Ripple, - the southern vets thought I'm a chocolate and tan Doberman Pinscher-Poodle mix but my northern foster thinks I act more like a wirehair pointer or griffon mix. Either way - I have quite the zest for adventure! I'm a high-energy girl who thrives on play, socializing, and learning - I even attend doggy daycare and ride great in the car. I'm friendly, food-motivated, and crate-trained, and I'd absolutely love a canine sibling to share my fun with - as long as they don't mind playful gals! I'm best suited for active families with older kiddos who can match my playful spirit and keep me engaged. Come meet me and let's start our next adventure together!",
-      "LastIntakeUnixTime": "1787169526",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "840281",
-          "AttributeName": "Daycare - Attends Hickory Hills",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789246127"
+      "LastUpdatedUnixTime": "1789264273"
     },
     {
       "ID": "1442",
