@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T08:23:53Z",
+  "updated": "2026-09-14T15:07:58Z",
   "count": 52,
   "animals": [
     {
@@ -1866,9 +1866,9 @@
       "Altered": "No",
       "DOBUnixTime": 1778648400,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/967456216ead72c33bcd73bed648e48f/bbf51ec04d6fbfdbd3e9fcc502c29553.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/65896721850597719049a58c9af3ae32/cb131d4c032bb55d3e69d8c93c7322b6.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/967456216ead72c33bcd73bed648e48f/bbf51ec04d6fbfdbd3e9fcc502c29553.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65896721850597719049a58c9af3ae32/cb131d4c032bb55d3e69d8c93c7322b6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
@@ -1880,10 +1880,14 @@
         "https://new-s3.shelterluv.com/profile-pictures/aa72e80a90944329ba3946c848cfd424/ba6cf39633985d16a9e24b3f9fc7c4e7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/294ba25dc2fce576cab485585d2c867d/2778cf9066ee189198c318f152f8458c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8a980d37096cffeeded5266b5f3591d3/00254e390732274f1459e7b873a57d5c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/967456216ead72c33bcd73bed648e48f/bbf51ec04d6fbfdbd3e9fcc502c29553.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1c52a99680747513fd1f6a3a6a405442/be8357278c65e42333ee0c098ad393e0.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4380679cc8a9eddaee0c79a5eca46c03/0765273177b5af650590b25867d686d8.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bb5cdd984d6d32aed3388341b17213de/c549ee496dc186f2f17b255331ee8dd6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df49a20baf6fe707e21326fc4a35fa93/101db60656e1f968ed1ade2dd36f9264.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/df49a20baf6fe707e21326fc4a35fa93/101db60656e1f968ed1ade2dd36f9264.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a62d1ddd5952e6e743fbc9838abdd138/82bdd8cfa819263b5211f19e6f3a2a4d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/44271eefc51b750103864be317a9636e/2b55527eeabb10f0a772db4a9229ee51.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
@@ -1946,7 +1950,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789330847"
+      "LastUpdatedUnixTime": "1789397424"
     },
     {
       "ID": "3671",
@@ -2347,7 +2351,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789309445"
+      "LastUpdatedUnixTime": "1789390599"
     },
     {
       "ID": "3678",
@@ -2939,113 +2943,6 @@
       "LastUpdatedUnixTime": "1788873999"
     },
     {
-      "ID": "3684",
-      "Internal-ID": "214320070",
-      "Name": "Addie",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "8.6",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388140,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce9982967cad16ce731aec71e9d6c0cf/fd1af4237aa5ca4123bbd8e7663ae672.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ce9982967cad16ce731aec71e9d6c0cf/fd1af4237aa5ca4123bbd8e7663ae672.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/268a800662ef8cec94921e9bc335e2c4/b1f236220f4c4e07be18d0291fdc1489.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f200f7a230cbe725fc4cb39347006262/699df943cba1d6994caa20e5685308f4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e42c0f96bfdcbeba5d17afbbb1b1bc61/b4d6004c7353fbeb9ced0b4b38dce6a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f2e8745b6d5b04dbb20e80e322e2a9c2/0ec6172cb0c00a4ac90d3137629b2200.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Addie!\nAddie is a 3.5-month-old Australian Kelpie puppy looking for her forever home. This spunky girl is full of energy and ready to put that classic Kelpie drive to good use with an active family!\n\nEnergy & Exercise\nAddie is still a young puppy and hasn't completed her puppy vaccine series yet, so she hasn't been out on walks or in public spaces. That said, she's already showing the classic Kelpie love of activity. In the backyard, she'll happily run after her people, chase balls, and keep herself busy with chew toys for 20 to 30 minutes at a stretch. She's not yet leash trained for walks, but she's getting good practice on leash during nighttime yard breaks and is adjusting well.\n\nGood with the Crew\nAddie lives happily with another dog (a 9-year-old dog) and genuinely enjoys canine company. She's also great with cats. She's living with two 2-year-old cats and is learning her manners around them. She does have a strong herding instinct and will chase them or get in their space, but she hasn't nipped at them, and she's already learning to back off when the cats correct her. We're confident this can be shaped with continued training.\n\nWith kids, Addie is doing great with an 11-year-old in her foster home. She loves to chase him around the backyard and play fetch.\n\nAddie gets excited when she gets to meet new people, but since she hasn't been out in public, we haven't seen how she reacts to meeting new dogs. We slowly introduced her to the animals in our house, and that was key to making sure they all got along. Addie will be attending daycare soon, so we will have more information on that.\n\nTraining & Temperament\nAddie is a quick learner. She's picking up basic commands like sit and leave it, and she's responding well to potty training, currently on a schedule of every 2 to 4 hours during the day since she has access to water bowls throughout the house. She's a quiet pup who barely barks. She was only separated from her littermates about a week ago and has adjusted impressively fast, though like most young puppies, she can get anxious if she wakes up in her crate and doesn't see her people nearby. She's actively working on building confidence with alone time and making steady progress. As a growing puppy, she still needs regular potty breaks throughout the day and isn't yet ready to be left alone for a full workday, though she does great in her crate on a consistent schedule. No resource guarding has been observed.\n\nWhen she's not busy playing, Addie loves to snuggle. She enjoys pets and curling up on the couch with her people.\n\nWe think Addie would love a home with a yard to run in, ideally with another resident dog for company, and until she's a bit older, someone who can be around for regular puppy potty breaks. Some dog experience or a beginner with a willingness to commit to training will be important, given her herding instincts and puppy energy. And her giant ears and blue-grey eyes will make up for any puppy antics in the meantime.",
-      "LastIntakeUnixTime": "1787168879",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702284",
-          "AttributeName": "FP:  Aidan",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788969990"
-    },
-    {
       "ID": "3687",
       "Internal-ID": "214320081",
       "Name": "Bane ",
@@ -3249,85 +3146,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788877641"
-    },
-    {
-      "ID": "3695",
-      "Internal-ID": "214320115",
-      "Name": "Pixie",
-      "LitterGroupId": 9575392,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "26.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1777100400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
-        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/91b40ebbe2779a6e902be99439e52733/9315bce7c4301f9c3a07b271c4407a29.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Hound",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": null,
-      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
-      "LastIntakeUnixTime": "1787196185",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789005344"
     },
     {
       "ID": "3698",
@@ -4470,6 +4288,85 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
+      "ID": "3695",
+      "Internal-ID": "214320115",
+      "Name": "Pixie",
+      "LitterGroupId": 9575392,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "26.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777100400,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/91b40ebbe2779a6e902be99439e52733/9315bce7c4301f9c3a07b271c4407a29.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Hound",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": null,
+      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
+      "LastIntakeUnixTime": "1787196185",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789392075"
+    },
+    {
       "ID": "2754",
       "Internal-ID": "213177575",
       "Name": "Twinkle Toes",
@@ -4776,7 +4673,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789043383"
+      "LastUpdatedUnixTime": "1789393707"
     },
     {
       "ID": "3592",
@@ -4975,6 +4872,113 @@
         }
       ],
       "LastUpdatedUnixTime": "1789071529"
+    },
+    {
+      "ID": "3684",
+      "Internal-ID": "214320070",
+      "Name": "Addie",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "8.6",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388140,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce9982967cad16ce731aec71e9d6c0cf/fd1af4237aa5ca4123bbd8e7663ae672.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ce9982967cad16ce731aec71e9d6c0cf/fd1af4237aa5ca4123bbd8e7663ae672.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5993192fb49699b1147994de9526faa/bcda820e4c3548a02e08b840511d52fa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/268a800662ef8cec94921e9bc335e2c4/b1f236220f4c4e07be18d0291fdc1489.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f200f7a230cbe725fc4cb39347006262/699df943cba1d6994caa20e5685308f4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e42c0f96bfdcbeba5d17afbbb1b1bc61/b4d6004c7353fbeb9ced0b4b38dce6a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2e8745b6d5b04dbb20e80e322e2a9c2/0ec6172cb0c00a4ac90d3137629b2200.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Addie!\nAddie is a 3.5-month-old Australian Kelpie puppy looking for her forever home. This spunky girl is full of energy and ready to put that classic Kelpie drive to good use with an active family!\n\nEnergy & Exercise\nAddie is still a young puppy and hasn't completed her puppy vaccine series yet, so she hasn't been out on walks or in public spaces. That said, she's already showing the classic Kelpie love of activity. In the backyard, she'll happily run after her people, chase balls, and keep herself busy with chew toys for 20 to 30 minutes at a stretch. She's not yet leash trained for walks, but she's getting good practice on leash during nighttime yard breaks and is adjusting well.\n\nGood with the Crew\nAddie lives happily with another dog (a 9-year-old dog) and genuinely enjoys canine company. She's also great with cats. She's living with two 2-year-old cats and is learning her manners around them. She does have a strong herding instinct and will chase them or get in their space, but she hasn't nipped at them, and she's already learning to back off when the cats correct her. We're confident this can be shaped with continued training.\n\nWith kids, Addie is doing great with an 11-year-old in her foster home. She loves to chase him around the backyard and play fetch.\n\nAddie gets excited when she gets to meet new people, but since she hasn't been out in public, we haven't seen how she reacts to meeting new dogs. We slowly introduced her to the animals in our house, and that was key to making sure they all got along. Addie will be attending daycare soon, so we will have more information on that.\n\nTraining & Temperament\nAddie is a quick learner. She's picking up basic commands like sit and leave it, and she's responding well to potty training, currently on a schedule of every 2 to 4 hours during the day since she has access to water bowls throughout the house. She's a quiet pup who barely barks. She was only separated from her littermates about a week ago and has adjusted impressively fast, though like most young puppies, she can get anxious if she wakes up in her crate and doesn't see her people nearby. She's actively working on building confidence with alone time and making steady progress. As a growing puppy, she still needs regular potty breaks throughout the day and isn't yet ready to be left alone for a full workday, though she does great in her crate on a consistent schedule. No resource guarding has been observed.\n\nWhen she's not busy playing, Addie loves to snuggle. She enjoys pets and curling up on the couch with her people.\n\nWe think Addie would love a home with a yard to run in, ideally with another resident dog for company, and until she's a bit older, someone who can be around for regular puppy potty breaks. Some dog experience or a beginner with a willingness to commit to training will be important, given her herding instincts and puppy energy. And her giant ears and blue-grey eyes will make up for any puppy antics in the meantime.",
+      "LastIntakeUnixTime": "1787168879",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702284",
+          "AttributeName": "FP:  Aidan",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789393778"
     },
     {
       "ID": "1442",
