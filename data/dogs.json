@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T11:57:12Z",
-  "count": 52,
+  "updated": "2026-09-15T16:15:56Z",
+  "count": 51,
   "animals": [
     {
       "ID": "3279",
@@ -1746,7 +1746,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789397424"
+      "LastUpdatedUnixTime": "1789474145"
     },
     {
       "ID": "3671",
@@ -1926,8 +1926,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         },
         {
@@ -1936,7 +1936,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789166174"
+      "LastUpdatedUnixTime": "1789479250"
     },
     {
       "ID": "3676",
@@ -2241,8 +2241,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         },
         {
@@ -2251,7 +2251,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789166174"
+      "LastUpdatedUnixTime": "1789479266"
     },
     {
       "ID": "3679",
@@ -3028,7 +3028,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788395116"
+      "LastUpdatedUnixTime": "1789479357"
     },
     {
       "ID": "3702",
@@ -3328,7 +3328,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789052335"
+      "LastUpdatedUnixTime": "1789481956"
     },
     {
       "ID": "3673",
@@ -4360,127 +4360,6 @@
       "LastUpdatedUnixTime": "1789133500"
     },
     {
-      "ID": "3521",
-      "Internal-ID": "213497174",
-      "Name": "Maya",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1650085200,
-      "Age": 52,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/007cbecc5d53a35749f416dd24c38f5a/8e37f4bf7f879983b88347d24dfe2f81.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/007cbecc5d53a35749f416dd24c38f5a/8e37f4bf7f879983b88347d24dfe2f81.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd5d35e785231b05f017a1d78705ee80/9492f492289e201344ae4bb8d8146594.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/96065164c721a159c345c788c9840f2a/7feb8434308e43f610ad7ddd83e5d90f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/71b4810be21d6f021c41f9e24232f5b1/1ac3209550fbbfa875eb67ff0646d6f0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7545a9435f8bbc7fe0055a45f5854d39/cf2857a45120cd23028d387af2c15452.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian",
-      "Color": "",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Maya, a 51-pound \"lap dog\" who hasn’t quite looked at a tape measure lately! At three years old, this Australian Kelpie mix is the perfect blend of sweetness and soul.Maya is the definition of \"medium energy\"—she’s always up for an adventurous neighborhood stroll to take in the sights and smells, but she’s just as happy to clock out for a professional-grade snuggle session. Despite her size, her favorite place in the world is right on top of you; she’s a world-class cuddler who truly believes she fits perfectly in any lap.If you’re looking for a lovable, amazing companion who is as gentle as she is loyal, Maya is ready to move right in and steal your heart (and your seat on the couch).",
-      "LastIntakeUnixTime": "1776441715",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789439634"
-    },
-    {
       "ID": "3581",
       "Internal-ID": "213704418",
       "Name": "Ruthie",
@@ -4699,7 +4578,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789393707"
+      "LastUpdatedUnixTime": "1789473940"
     },
     {
       "ID": "3592",
@@ -4798,7 +4677,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789054492"
+      "LastUpdatedUnixTime": "1789479382"
     },
     {
       "ID": "3636",

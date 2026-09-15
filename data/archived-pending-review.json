@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:49:07Z",
+  "updated": "2026-09-15T16:15:56Z",
   "animals": [
     {
       "ID": "3458",
@@ -1601,6 +1601,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-13T23:49:07Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3521",
+      "Name": "Maya",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/007cbecc5d53a35749f416dd24c38f5a/8e37f4bf7f879983b88347d24dfe2f81.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-15T16:15:56Z",
       "status": "pending"
     }
   ]
