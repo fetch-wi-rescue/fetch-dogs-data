@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T15:13:52Z",
+  "updated": "2026-09-16T18:58:55Z",
   "count": 50,
   "animals": [
     {
@@ -1746,7 +1746,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789528960"
+      "LastUpdatedUnixTime": "1789574572"
     },
     {
       "ID": "3671",
@@ -1842,101 +1842,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789492849"
-    },
-    {
-      "ID": "3675",
-      "Internal-ID": "214320060",
-      "Name": "Jethro",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997165,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a26fd523c588d34f228b8f501859c400/bb9f71f71d86ecf9f2bb86a6dc86772c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd69c87b95f642a93650b59665c2cbfa/4db8d17daffce020f0501856465a3e15.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b038a81a204f9fa4839a8a22ce010338/e5c96833e343e342daa05d9ab929841f.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Brown",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi, I'm Jethro! I'm the fluffy one of the bunch and I'm ready to bring joy to your home.\n\nI'm a typical puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'll fit right into just about any family! I can't wait to meet you and start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787165546",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789479250"
     },
     {
       "ID": "3676",
@@ -2355,104 +2260,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789412858"
-    },
-    {
-      "ID": "3680",
-      "Internal-ID": "214320066",
-      "Name": "McQueen",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997123,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Chocolate/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "I'm McQueen, a friendly little guy who loves to play and snuggle. My foster home has cats and other dogs, and I've also met several kids! With continued socialization, I'll probably fit right into your family. \n\nI'm still in that typical puppy stage, so I'll need patience and training as I grow into my full potential, but I'm ready to start my forever adventure with you. Come meet me and see why I'm going to be your perfect companion!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787166563",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789166257"
     },
     {
       "ID": "3682",
@@ -3988,74 +3795,73 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
-      "ID": "3667",
-      "Internal-ID": "214317250",
-      "Name": "Minnie",
-      "LitterGroupId": null,
+      "ID": "3680",
+      "Internal-ID": "214320066",
+      "Name": "McQueen",
+      "LitterGroupId": 9575387,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Female",
+      "Sex": "Male",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "12.6",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1723784400,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f80e1d8605597144823f0cfe5e96b6b5/82df1f2faa800d7ed89dc6fbc8d42587.jpeg",
+      "CurrentWeightPounds": "10.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997123,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f80e1d8605597144823f0cfe5e96b6b5/82df1f2faa800d7ed89dc6fbc8d42587.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e76f14c5407ebb0a9cc10f1b7fc6ad0/ceed78693e663e29d4d24ea73fccd16e.png",
-        "https://new-s3.shelterluv.com/profile-pictures/832a639e8534413095a2cd4f5c4278ed/c5dfbd21c6e64ac31dcb895ede138878.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b1474358715b8e784d1dae58b993cbd/00f08b729cc18a5de112f9f63317387e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad0fa3655055484d5d89ceb8cf1cbcca/2185d50e701fe04b4d4fb04759d77269.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/18aed021d2e2459fc2dcaad987ea112f/0d56d0d46497ba343a29911a3a90f2fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/483496e4b95709f323dfb946de897e0e/a95dff989cd35a8e47066af37156526c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c14b283da9bb94241eb9b91179429be1/56d9215c1325199a73a0380e4dd95436.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg"
       ],
       "Videos": [],
-      "Breed": "Pug/Mixed Breed (Small)",
-      "Color": "Black",
-      "Pattern": null,
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Chocolate/Blond",
+      "Pattern": "None",
       "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
         "Discount": 0,
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Minnie is a wonderful, affectionate pug who loves to snuggle and will happily settle in for belly rubs whenever you're willing to give them. She has good energy and enjoys her daily walks, where she likes to people-watch and dog-watch from a comfortable distance — and she's always on high alert for the neighborhood rabbits, squirrels, and chipmunks!\nShe's a confident girl, a little more reserved when meeting new dogs, and a quick learner who enjoys playtime.\nAt night, Minnie is crate trained and sleeps soundly in her crate. In the house, she's well-behaved and easygoing. When she's not on squirrel patrol, she's just as happy curled up for a nap.\nMinnie would love a home with someone who enjoys walks and wants a snuggly little shadow by their side.",
-      "LastIntakeUnixTime": "1787965556",
+      "Description": "I'm McQueen, a friendly little guy who loves to play and snuggle. My foster home has cats and other dogs, and I've also met several kids! With continued socialization, I'll probably fit right into your family. \n\nI'm still in that typical puppy stage, so I'll need patience and training as I grow into my full potential, but I'm ready to start my forever adventure with you. Come meet me and see why I'm going to be your perfect companion!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787166563",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
           "Publish": "Yes"
         },
         {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
           "Publish": "Yes"
         },
         {
@@ -4074,17 +3880,17 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
         },
         {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789496201"
+      "LastUpdatedUnixTime": "1789577314"
     },
     {
       "ID": "3681",
@@ -4678,6 +4484,200 @@
         }
       ],
       "LastUpdatedUnixTime": "1789479382"
+    },
+    {
+      "ID": "3667",
+      "Internal-ID": "214317250",
+      "Name": "Minnie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "12.6",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1723784400,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f80e1d8605597144823f0cfe5e96b6b5/82df1f2faa800d7ed89dc6fbc8d42587.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f80e1d8605597144823f0cfe5e96b6b5/82df1f2faa800d7ed89dc6fbc8d42587.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e76f14c5407ebb0a9cc10f1b7fc6ad0/ceed78693e663e29d4d24ea73fccd16e.png",
+        "https://new-s3.shelterluv.com/profile-pictures/832a639e8534413095a2cd4f5c4278ed/c5dfbd21c6e64ac31dcb895ede138878.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b1474358715b8e784d1dae58b993cbd/00f08b729cc18a5de112f9f63317387e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad0fa3655055484d5d89ceb8cf1cbcca/2185d50e701fe04b4d4fb04759d77269.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/18aed021d2e2459fc2dcaad987ea112f/0d56d0d46497ba343a29911a3a90f2fb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/483496e4b95709f323dfb946de897e0e/a95dff989cd35a8e47066af37156526c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c14b283da9bb94241eb9b91179429be1/56d9215c1325199a73a0380e4dd95436.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pug/Mixed Breed (Small)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Minnie is a wonderful, affectionate pug who loves to snuggle and will happily settle in for belly rubs whenever you're willing to give them. She has good energy and enjoys her daily walks, where she likes to people-watch and dog-watch from a comfortable distance — and she's always on high alert for the neighborhood rabbits, squirrels, and chipmunks!\nShe's a confident girl, a little more reserved when meeting new dogs, and a quick learner who enjoys playtime.\nAt night, Minnie is crate trained and sleeps soundly in her crate. In the house, she's well-behaved and easygoing. When she's not on squirrel patrol, she's just as happy curled up for a nap.\nMinnie would love a home with someone who enjoys walks and wants a snuggly little shadow by their side.",
+      "LastIntakeUnixTime": "1787965556",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789581809"
+    },
+    {
+      "ID": "3675",
+      "Internal-ID": "214320060",
+      "Name": "Jethro",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997165,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a26fd523c588d34f228b8f501859c400/bb9f71f71d86ecf9f2bb86a6dc86772c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd69c87b95f642a93650b59665c2cbfa/4db8d17daffce020f0501856465a3e15.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b038a81a204f9fa4839a8a22ce010338/e5c96833e343e342daa05d9ab929841f.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Brown",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi, I'm Jethro! I'm the fluffy one of the bunch and I'm ready to bring joy to your home.\n\nI'm a typical puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'll fit right into just about any family! I can't wait to meet you and start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787165546",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789575372"
     },
     {
       "ID": "3684",
