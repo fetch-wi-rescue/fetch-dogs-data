@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T18:58:55Z",
-  "count": 50,
+  "updated": "2026-09-16T21:57:04Z",
+  "count": 49,
   "animals": [
     {
       "ID": "3279",
@@ -481,7 +481,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1786030164"
+      "LastUpdatedUnixTime": "1789591861"
     },
     {
       "ID": "3543",
@@ -600,7 +600,6 @@
         "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e58dc3c97167b818b1a6202e2058783/ecb58a6d0a20cdc432555d08f2b832e9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
@@ -656,7 +655,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789522822"
+      "LastUpdatedUnixTime": "1789587907"
     },
     {
       "ID": "3579",
@@ -2173,15 +2172,17 @@
       "Altered": "No",
       "DOBUnixTime": 1779996943,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7d62f325434ee97d7afffa91e251a012/b7d84691425c100a451c1645388f2610.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7d62f325434ee97d7afffa91e251a012/b7d84691425c100a451c1645388f2610.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1db929c924811214549b0d3b3a0fbdd9/3ed90d0321be03b855ab60d17370c5d0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c3484139eddbfdcfc3b9728b2501350a/96f6a2a555e1c98ec36e7bf1e10e12df.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ff85cf6839a70b7ea057e83ba9ac19e7/91d5ac1f38659d7a980ff3882840aaa8.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d5c11a652e5f774b9bd123f2edd5b729/db765fde76b747f876a23cbc337383a2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1c881c941696561dcacb26b72b7450b4/736ff7a73d285595eb757034fb356ef6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/76e17a2296d49dbb0cc0825c63acac36/56ab2f1f4693c353773bd45062a73f93.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/7d62f325434ee97d7afffa91e251a012/b7d84691425c100a451c1645388f2610.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76e17a2296d49dbb0cc0825c63acac36/56ab2f1f4693c353773bd45062a73f93.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -2259,7 +2260,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789412858"
+      "LastUpdatedUnixTime": "1789594590"
     },
     {
       "ID": "3682",
@@ -4484,105 +4485,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789479382"
-    },
-    {
-      "ID": "3667",
-      "Internal-ID": "214317250",
-      "Name": "Minnie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "12.6",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1723784400,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f80e1d8605597144823f0cfe5e96b6b5/82df1f2faa800d7ed89dc6fbc8d42587.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f80e1d8605597144823f0cfe5e96b6b5/82df1f2faa800d7ed89dc6fbc8d42587.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e76f14c5407ebb0a9cc10f1b7fc6ad0/ceed78693e663e29d4d24ea73fccd16e.png",
-        "https://new-s3.shelterluv.com/profile-pictures/832a639e8534413095a2cd4f5c4278ed/c5dfbd21c6e64ac31dcb895ede138878.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b1474358715b8e784d1dae58b993cbd/00f08b729cc18a5de112f9f63317387e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad0fa3655055484d5d89ceb8cf1cbcca/2185d50e701fe04b4d4fb04759d77269.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/18aed021d2e2459fc2dcaad987ea112f/0d56d0d46497ba343a29911a3a90f2fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/483496e4b95709f323dfb946de897e0e/a95dff989cd35a8e47066af37156526c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c14b283da9bb94241eb9b91179429be1/56d9215c1325199a73a0380e4dd95436.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pug/Mixed Breed (Small)",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Minnie is a wonderful, affectionate pug who loves to snuggle and will happily settle in for belly rubs whenever you're willing to give them. She has good energy and enjoys her daily walks, where she likes to people-watch and dog-watch from a comfortable distance — and she's always on high alert for the neighborhood rabbits, squirrels, and chipmunks!\nShe's a confident girl, a little more reserved when meeting new dogs, and a quick learner who enjoys playtime.\nAt night, Minnie is crate trained and sleeps soundly in her crate. In the house, she's well-behaved and easygoing. When she's not on squirrel patrol, she's just as happy curled up for a nap.\nMinnie would love a home with someone who enjoys walks and wants a snuggly little shadow by their side.",
-      "LastIntakeUnixTime": "1787965556",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789581809"
     },
     {
       "ID": "3675",
