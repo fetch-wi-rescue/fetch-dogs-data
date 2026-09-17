@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:08:05Z",
+  "updated": "2026-09-17T19:08:05Z",
   "count": 47,
   "animals": [
     {
@@ -1857,12 +1857,15 @@
         "https://new-s3.shelterluv.com/profile-pictures/ce5af67ff3882503a653827e3783eacf/e788bd9ba13f1cc4cab437c28f35c814.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4dc3b6299f8240a3c6ae80d4cb2f3ee8/22f6889b268c8df84dfcc34d3b8e11e3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d6445e47ef066c57fe32a2a58cfefb0f/f24f163a8f317d379e19d8e341097127.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b293d3d518cd6f2c4b9c5474b174d9dd/162a9635e734dfc8b8b958df7d2a5543.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2fb54617d38ae79cd7e097f9ddfe77f6/169be4faba613a62ff78b45652b25cb9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f69cbcfaa875205cb15e2e7fb70a189f/463bee4b2eac74930463dc49f09c5bfd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f9cfe982edd9611aae9bf74330172c4/2daed68a8337b6807c667e26ef98bf79.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1ad09f12a91d0e00a292d1597b5da80b/178f7585b07575859a4ef328897118d4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6faf4ff706ba05c8ef37c15b11de266b/47d5177ffc41db855560967aa6a0f2ef.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0b66286545db29236331b4eaba9f45c5/cc04c61679dad0d602efb4232eb2e3d2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fb1c4271411addc2845f755b03423655/7cb3679e459fc09afc0b1a81f5cb63b4.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/cf0ec0d7c730083b92f184fdf87448d3/4c14b4d98756793185737528442e2c6c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb1c4271411addc2845f755b03423655/7cb3679e459fc09afc0b1a81f5cb63b4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6faf4ff706ba05c8ef37c15b11de266b/47d5177ffc41db855560967aa6a0f2ef.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b293d3d518cd6f2c4b9c5474b174d9dd/162a9635e734dfc8b8b958df7d2a5543.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -1950,7 +1953,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1789165758"
+      "LastUpdatedUnixTime": "1789671883"
     },
     {
       "ID": "3677",
@@ -2357,6 +2360,112 @@
         }
       ],
       "LastUpdatedUnixTime": "1789611956"
+    },
+    {
+      "ID": "3681",
+      "Internal-ID": "214320067",
+      "Name": "Sir Nils Olav",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779996924,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/70cbea78bc463e512988859d8b7eee03/8433e914ea00b96456af9d85faa3e9d9.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/70cbea78bc463e512988859d8b7eee03/8433e914ea00b96456af9d85faa3e9d9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c8a8ba155e101744ac7f94fc3052abdd/a5cdacd2412b20078c603dd986356634.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e30f83b9986040133ef6334294dcaed8/4f404e78646a9d9cd7e023237fb13b2c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ffd79770e1947fcb9005cbbc5e71e45/e2bfb17e9a55298415933c9c8f5d357b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e12dfcd0c2fd83659968a95dcafdfc19/718372d4539fdef866998478e5e64345.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/71533adabbe9418a29a726863631c9ed/58c27312039d7e2d49aa9f01575af4ec.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/076bd2bfa30e0dba7d6037ab50c0863f/832fa4b6fa24990ad2969894876d8cda.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0dd8bce1755c4282523e45d4a2bae264/0ebb8e6766e2637efbf5bed4fc316ef1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7af7f3c58fadc6d088cd1a9e998f8544/1e6e318d12ef665acb71f41bd8a77dfb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dd7aa1b3372b3b5c53c51ca8c5b2b66c/fa49cf4cf99a1a551d9144fda1da3a6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e066999fa490c4e1bcf697d621099a5e/4a21c41948f483420cffc8d10a2d5494.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c899a0ad4a7576898737858a189a544b/5df8db12feaa31da38ac4e87ad0af851.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/270ba9069c3c5e95de1f2c51236dab39/ab8d8d950bbfbd727fbdf8718f571b62.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a1d36cbbf1a03c552f40376bd62bf53/731ce4ed56138a6c7a998d6d1992970f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9b2864b3ca1ead16cb73ec1bdd17e898/9187ca28e2e456c888b4c091a846a2f9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Tan",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Sir Nils Olav!\n\nThis little gentleman currently lives with cats and other dogs, and has met several kids, so with continued socialization, he'll likely be the perfect addition to just about any home. He's a typical playful puppy who loves to snuggle and brings friendly energy wherever he goes. Sir Nils Olav is ready to grow into the companion of your dreams. Come meet this charming boy today!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787166702",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789664459"
     },
     {
       "ID": "3682",
@@ -3787,112 +3896,6 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
-      "ID": "3681",
-      "Internal-ID": "214320067",
-      "Name": "Sir Nils Olav",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779996924,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/70cbea78bc463e512988859d8b7eee03/8433e914ea00b96456af9d85faa3e9d9.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/70cbea78bc463e512988859d8b7eee03/8433e914ea00b96456af9d85faa3e9d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c8a8ba155e101744ac7f94fc3052abdd/a5cdacd2412b20078c603dd986356634.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e30f83b9986040133ef6334294dcaed8/4f404e78646a9d9cd7e023237fb13b2c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ffd79770e1947fcb9005cbbc5e71e45/e2bfb17e9a55298415933c9c8f5d357b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e12dfcd0c2fd83659968a95dcafdfc19/718372d4539fdef866998478e5e64345.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/71533adabbe9418a29a726863631c9ed/58c27312039d7e2d49aa9f01575af4ec.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/076bd2bfa30e0dba7d6037ab50c0863f/832fa4b6fa24990ad2969894876d8cda.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0dd8bce1755c4282523e45d4a2bae264/0ebb8e6766e2637efbf5bed4fc316ef1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7af7f3c58fadc6d088cd1a9e998f8544/1e6e318d12ef665acb71f41bd8a77dfb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dd7aa1b3372b3b5c53c51ca8c5b2b66c/fa49cf4cf99a1a551d9144fda1da3a6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e066999fa490c4e1bcf697d621099a5e/4a21c41948f483420cffc8d10a2d5494.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c899a0ad4a7576898737858a189a544b/5df8db12feaa31da38ac4e87ad0af851.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/270ba9069c3c5e95de1f2c51236dab39/ab8d8d950bbfbd727fbdf8718f571b62.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1a1d36cbbf1a03c552f40376bd62bf53/731ce4ed56138a6c7a998d6d1992970f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9b2864b3ca1ead16cb73ec1bdd17e898/9187ca28e2e456c888b4c091a846a2f9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Tan",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Sir Nils Olav!\n\nThis little gentleman currently lives with cats and other dogs, and has met several kids, so with continued socialization, he'll likely be the perfect addition to just about any home. He's a typical playful puppy who loves to snuggle and brings friendly energy wherever he goes. Sir Nils Olav is ready to grow into the companion of your dreams. Come meet this charming boy today!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787166702",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789496095"
-    },
-    {
       "ID": "3695",
       "Internal-ID": "214320115",
       "Name": "Pixie",
@@ -4482,7 +4485,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789655605"
+      "LastUpdatedUnixTime": "1789669814"
     },
     {
       "ID": "1442",
