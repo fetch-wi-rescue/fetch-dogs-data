@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T21:57:04Z",
+  "updated": "2026-09-17T00:04:16Z",
   "animals": [
     {
       "ID": "3458",
@@ -1628,6 +1628,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-16T21:57:04Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3675",
+      "Name": "Jethro",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9ab880c81e15329c63471fb34e26d6e0/f1e3c0ebb8de4a623925fa03e0f75503.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-17T00:04:16Z",
       "status": "pending"
     }
   ]
