@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T00:04:16Z",
+  "updated": "2026-09-17T05:04:07Z",
   "count": 48,
   "animals": [
     {
@@ -1738,14 +1738,9 @@
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789574572"
+      "LastUpdatedUnixTime": "1789603699"
     },
     {
       "ID": "3671",
@@ -2263,6 +2258,104 @@
       "LastUpdatedUnixTime": "1789594590"
     },
     {
+      "ID": "3680",
+      "Internal-ID": "214320066",
+      "Name": "McQueen",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997123,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Chocolate/Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "I'm McQueen, a friendly little guy who loves to play and snuggle. My foster home has cats and other dogs, and I've also met several kids! With continued socialization, I'll probably fit right into your family. \n\nI'm still in that typical puppy stage, so I'll need patience and training as I grow into my full potential, but I'm ready to start my forever adventure with you. Come meet me and see why I'm going to be your perfect companion!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787166563",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789611956"
+    },
+    {
       "ID": "3682",
       "Internal-ID": "214320068",
       "Name": "Cyndi",
@@ -2276,7 +2369,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1781672400,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
@@ -3796,104 +3889,6 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
-      "ID": "3680",
-      "Internal-ID": "214320066",
-      "Name": "McQueen",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997123,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Chocolate/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "I'm McQueen, a friendly little guy who loves to play and snuggle. My foster home has cats and other dogs, and I've also met several kids! With continued socialization, I'll probably fit right into your family. \n\nI'm still in that typical puppy stage, so I'll need patience and training as I grow into my full potential, but I'm ready to start my forever adventure with you. Come meet me and see why I'm going to be your perfect companion!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787166563",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789577314"
-    },
-    {
       "ID": "3681",
       "Internal-ID": "214320067",
       "Name": "Sir Nils Olav",
@@ -4164,7 +4159,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789133500"
+      "LastUpdatedUnixTime": "1789612913"
     },
     {
       "ID": "3581",
@@ -4496,7 +4491,7 @@
       "Sex": "Female",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "8.6",
+      "CurrentWeightPounds": "11.2",
       "Size": "Small (0-24)",
       "Altered": "No",
       "DOBUnixTime": 1779388140,
@@ -4591,7 +4586,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1789393778"
+      "LastUpdatedUnixTime": "1789614558"
     },
     {
       "ID": "1442",
