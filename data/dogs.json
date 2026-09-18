@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:18:23Z",
+  "updated": "2026-09-18T00:32:45Z",
   "count": 45,
   "animals": [
     {
@@ -621,7 +621,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you.  Amara would benefit from more socialization and slow introductions.  Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
+      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you. Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
       "LastIntakeUnixTime": "1778898499",
       "Attributes": [
         {
@@ -784,104 +784,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788954451"
-    },
-    {
-      "ID": "3628",
-      "Internal-ID": "214042195",
-      "Name": "Callie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "50",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1562562000,
-      "Age": 86,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a798d243f24bae4679ecc2fa9d669ac4/57c2d73790cb7c405ca376a9ba946e28.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a798d243f24bae4679ecc2fa9d669ac4/57c2d73790cb7c405ca376a9ba946e28.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/194c7c41295079d5420f6b674085f627/68f784b04444c959a1150c8d6ae5d7f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d884d800662d119ed47dec3ffdf5b35f/b471d3fc31d251b74ff34cdda8fd3412.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1a34f00331c279db968a99500d14c88b/a70355911d4b60761984f54c41c9842c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/debbf18775f0683f300c4255d2f05699/c4064872eb66c64c1f428c9d211a6acc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c60b7805559f08c642e093ff9fcdb5c/6a5901a9b60a3138a98cd0e37d144c3e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e64522bce296d340b175cb50de6a7fc3/632da169320226a1f8a0cbf8e485deb3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/19b121f5312702b4f385fc8aed067dd7/a510c5a60d2ce8ec7d0d43357e6b9bae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95bdb4c3e64aebc8b6440613965b008a/20bac2e4be76fdf26532f39bef0f7991.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/eddcc14c8c61602c38d6477c22dedecb/092c089b95e06e43829a4dfd1087b2d3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fef2d319d40bf40a1e3eff1a8d0ecda/d4de7c6ee518cba6ec7a5a5748db51c4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Corgi, Pembroke Welsh",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Callie is a sweet, gentle girl looking for a loving home after her owner moved into a nursing home. She can be nervous around new people, so her first meeting may not show the affectionate, silly dog she truly is. She may bark, hide, or walk away when she feels unsure, but with patience and time, she’ll begin to trust you. Once she does, Callie is incredibly loving and will happily snuggle beside you—or sneak into bed for some extra affection.\n\nCallie’s time with a weekend sitter showed just how quickly she can blossom when given the chance. She settled in and joined her sitter on the couch just a few minutes after I left. She is gentle with children, although a quieter home would suit her best because loud noises and sudden movements can startle her. \n\nShe is comfortable free-roaming alongside a calm canine companion and indifferent to cats who leave her alone. She is not really interested in playing with dogs, but she will briefly play with toys and chews. She would also be happy as the only pet.\n\nOn walks, Callie is generally easy to handle, with occasional excited pulling when she wants to greet another dog or nervous stopping if someone is walking too closely behind her. She spends much of her day happily napping but also enjoys car rides and exploring. Interestingly, new places don't bother her nearly as much as new people do-- she even loved splashing around at a dog beach! \n\nIf you're willing to be patient with Callie initially, you will be rewarded with an easy-going and affectionate companion who will do full body wiggles everytime she sees you!",
-      "LastIntakeUnixTime": "1783781902",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789492143"
     },
     {
       "ID": "3632",
@@ -2057,105 +1959,6 @@
       "LastUpdatedUnixTime": "1789439852"
     },
     {
-      "ID": "3678",
-      "Internal-ID": "214320063",
-      "Name": "Alfredo",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997141,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbde7330bec83d02421b120907b9194b/30a826c35c3ec69f88c87e8b6263b847.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/faa6aef3fb362754f38e620220bc5f44/745afa55ccfa2978c3cfc34517c568e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6334966f2fb656aa7f3eac902361d37e/e8f88676cd6c83f6c65bb64526dfed82.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Brown/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi, I'm Alfredo! I'm a typical growing puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'm ready to bring joy to any home.\n\nCome meet me and let's start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787166038",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789479266"
-    },
-    {
       "ID": "3679",
       "Internal-ID": "214320064",
       "Name": "Monona",
@@ -2465,7 +2268,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789664459"
+      "LastUpdatedUnixTime": "1789685925"
     },
     {
       "ID": "3682",
@@ -3041,7 +2844,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789479357"
+      "LastUpdatedUnixTime": "1789684814"
     },
     {
       "ID": "3702",
@@ -3474,10 +3277,10 @@
       "Altered": "Yes",
       "DOBUnixTime": 1679288400,
       "Age": 41,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3ec854f0134edd3fab9d1e8c99f02951/147b4415bcd3ef103d640627320faba9.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f254eb103327989ef9aff54a33dcc3c3/080b32bcd05daf429741c09a07659dcf.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3ec854f0134edd3fab9d1e8c99f02951/147b4415bcd3ef103d640627320faba9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f254eb103327989ef9aff54a33dcc3c3/080b32bcd05daf429741c09a07659dcf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ec854f0134edd3fab9d1e8c99f02951/147b4415bcd3ef103d640627320faba9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/da3ad5e9b71e885092fad2b6cb75872e/f5f085f9fa663a98af38306c05d2ead0.jpeg"
       ],
       "Videos": [],
@@ -3495,7 +3298,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1789682195",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1789682563"
+      "LastUpdatedUnixTime": "1789687077"
     },
     {
       "ID": "3658",
@@ -3756,6 +3559,104 @@
       "LastUpdatedUnixTime": "1789400736"
     },
     {
+      "ID": "3628",
+      "Internal-ID": "214042195",
+      "Name": "Callie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "50",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1562562000,
+      "Age": 86,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a798d243f24bae4679ecc2fa9d669ac4/57c2d73790cb7c405ca376a9ba946e28.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a798d243f24bae4679ecc2fa9d669ac4/57c2d73790cb7c405ca376a9ba946e28.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/194c7c41295079d5420f6b674085f627/68f784b04444c959a1150c8d6ae5d7f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d884d800662d119ed47dec3ffdf5b35f/b471d3fc31d251b74ff34cdda8fd3412.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a34f00331c279db968a99500d14c88b/a70355911d4b60761984f54c41c9842c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/debbf18775f0683f300c4255d2f05699/c4064872eb66c64c1f428c9d211a6acc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c60b7805559f08c642e093ff9fcdb5c/6a5901a9b60a3138a98cd0e37d144c3e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e64522bce296d340b175cb50de6a7fc3/632da169320226a1f8a0cbf8e485deb3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/19b121f5312702b4f385fc8aed067dd7/a510c5a60d2ce8ec7d0d43357e6b9bae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/95bdb4c3e64aebc8b6440613965b008a/20bac2e4be76fdf26532f39bef0f7991.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eddcc14c8c61602c38d6477c22dedecb/092c089b95e06e43829a4dfd1087b2d3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fef2d319d40bf40a1e3eff1a8d0ecda/d4de7c6ee518cba6ec7a5a5748db51c4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Pembroke Welsh",
+      "Color": "Golden",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Callie is a sweet, gentle girl looking for a loving home after her owner moved into a nursing home. She can be nervous around new people, so her first meeting may not show the affectionate, silly dog she truly is. She may bark, hide, or walk away when she feels unsure, but with patience and time, she’ll begin to trust you. Once she does, Callie is incredibly loving and will happily snuggle beside you—or sneak into bed for some extra affection.\n\nCallie’s time with a weekend sitter showed just how quickly she can blossom when given the chance. She settled in and joined her sitter on the couch just a few minutes after I left. She is gentle with children, although a quieter home would suit her best because loud noises and sudden movements can startle her. \n\nShe is comfortable free-roaming alongside a calm canine companion and indifferent to cats who leave her alone. She is not really interested in playing with dogs, but she will briefly play with toys and chews. She would also be happy as the only pet.\n\nOn walks, Callie is generally easy to handle, with occasional excited pulling when she wants to greet another dog or nervous stopping if someone is walking too closely behind her. She spends much of her day happily napping but also enjoys car rides and exploring. Interestingly, new places don't bother her nearly as much as new people do-- she even loved splashing around at a dog beach! \n\nIf you're willing to be patient with Callie initially, you will be rewarded with an easy-going and affectionate companion who will do full body wiggles everytime she sees you!",
+      "LastIntakeUnixTime": "1783781902",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789685838"
+    },
+    {
       "ID": "3664",
       "Internal-ID": "214287417",
       "Name": "Zombie ",
@@ -3934,6 +3835,105 @@
       "LastUpdatedUnixTime": "1788372417"
     },
     {
+      "ID": "3678",
+      "Internal-ID": "214320063",
+      "Name": "Alfredo",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997141,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbde7330bec83d02421b120907b9194b/30a826c35c3ec69f88c87e8b6263b847.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/faa6aef3fb362754f38e620220bc5f44/745afa55ccfa2978c3cfc34517c568e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6334966f2fb656aa7f3eac902361d37e/e8f88676cd6c83f6c65bb64526dfed82.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Brown/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi, I'm Alfredo! I'm a typical growing puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'm ready to bring joy to any home.\n\nCome meet me and let's start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787166038",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789686266"
+    },
+    {
       "ID": "3695",
       "Internal-ID": "214320115",
       "Name": "Pixie",
@@ -4010,7 +4010,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789471249"
+      "LastUpdatedUnixTime": "1789691088"
     },
     {
       "ID": "3590",
