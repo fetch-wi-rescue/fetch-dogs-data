@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:05:11Z",
+  "updated": "2026-09-18T17:44:55Z",
   "count": 45,
   "animals": [
     {
@@ -382,12 +382,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789426995"
+      "LastUpdatedUnixTime": "1789752206"
     },
     {
       "ID": "3480",
@@ -578,7 +583,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1785632367"
+      "LastUpdatedUnixTime": "1789752111"
     },
     {
       "ID": "3578",
@@ -655,7 +660,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789587907"
+      "LastUpdatedUnixTime": "1789752076"
     },
     {
       "ID": "3579",
@@ -1020,6 +1025,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634884",
           "AttributeName": "✅ Walks well on leash",
           "Publish": "Yes"
@@ -1065,7 +1080,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789238790"
+      "LastUpdatedUnixTime": "1789751905"
     },
     {
       "ID": "3651",
@@ -2268,7 +2283,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789734450"
+      "LastUpdatedUnixTime": "1789751437"
     },
     {
       "ID": "3682",
@@ -3304,7 +3319,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789718456"
+      "LastUpdatedUnixTime": "1789751151"
     },
     {
       "ID": "3658",
