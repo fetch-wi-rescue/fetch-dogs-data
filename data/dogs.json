@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T00:32:45Z",
+  "updated": "2026-09-18T05:25:53Z",
   "count": 45,
   "animals": [
     {
@@ -1642,7 +1642,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789648392"
+      "LastUpdatedUnixTime": "1789695882"
     },
     {
       "ID": "3671",
@@ -2258,8 +2258,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         },
         {
@@ -2268,7 +2268,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789685925"
+      "LastUpdatedUnixTime": "1789692081"
     },
     {
       "ID": "3682",
@@ -3297,8 +3297,14 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1789682195",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1789687077"
+      "Attributes": [
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789692100"
     },
     {
       "ID": "3658",
