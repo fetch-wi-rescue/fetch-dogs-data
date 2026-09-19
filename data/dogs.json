@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T13:36:35Z",
+  "updated": "2026-09-19T16:56:57Z",
   "count": 45,
   "animals": [
     {
@@ -3328,12 +3328,37 @@
       "LastIntakeUnixTime": "1789682195",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789758836"
+      "LastUpdatedUnixTime": "1789836532"
     },
     {
       "ID": "3658",
