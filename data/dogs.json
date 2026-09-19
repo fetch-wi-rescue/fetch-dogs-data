@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T00:51:06Z",
+  "updated": "2026-09-19T05:21:43Z",
   "count": 45,
   "animals": [
     {
@@ -1976,6 +1976,105 @@
       "LastUpdatedUnixTime": "1789758152"
     },
     {
+      "ID": "3678",
+      "Internal-ID": "214320063",
+      "Name": "Alfredo",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997141,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbde7330bec83d02421b120907b9194b/30a826c35c3ec69f88c87e8b6263b847.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/faa6aef3fb362754f38e620220bc5f44/745afa55ccfa2978c3cfc34517c568e9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6334966f2fb656aa7f3eac902361d37e/e8f88676cd6c83f6c65bb64526dfed82.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Brown/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi, I'm Alfredo! I'm a typical growing puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'm ready to bring joy to any home.\n\nCome meet me and let's start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787166038",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789785363"
+    },
+    {
       "ID": "3679",
       "Internal-ID": "214320064",
       "Name": "Monona",
@@ -1990,9 +2089,9 @@
       "Altered": "No",
       "DOBUnixTime": 1779996943,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/089f0dd202d850041d3f958ff048719b/1768f7079c2d433b66cd87a66e0875a6.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/089f0dd202d850041d3f958ff048719b/1768f7079c2d433b66cd87a66e0875a6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1db929c924811214549b0d3b3a0fbdd9/3ed90d0321be03b855ab60d17370c5d0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/c3484139eddbfdcfc3b9728b2501350a/96f6a2a555e1c98ec36e7bf1e10e12df.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ff85cf6839a70b7ea057e83ba9ac19e7/91d5ac1f38659d7a980ff3882840aaa8.jpg",
@@ -2000,11 +2099,11 @@
         "https://new-s3.shelterluv.com/profile-pictures/1c881c941696561dcacb26b72b7450b4/736ff7a73d285595eb757034fb356ef6.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/7d62f325434ee97d7afffa91e251a012/b7d84691425c100a451c1645388f2610.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/76e17a2296d49dbb0cc0825c63acac36/56ab2f1f4693c353773bd45062a73f93.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f5606a39245527154da16953963e34f2/a0c149160e6c5bf9b0ca4c4fd407e409.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/051608d6738cbb82df4a24fa9911da23/a04961fd8f0437bf8750837dc5446e10.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ecd8a052907d291eecffe7bab9db9ede/0267ec2a8766579e18cc0eff9830504f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/089f0dd202d850041d3f958ff048719b/1768f7079c2d433b66cd87a66e0875a6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/233d2a0b28ff3cbf2704ca1c4083ee43/f65a30a2dd30c2cb6b6c0b97c7f7da5a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bfb3c187d2a4183f4161b8bbf9401558/54512443005b1bbf3b720e069cca4e98.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/da50dc21327fb4ba2ac2b2102e57417d/64fe05fb7e7530037ad9c29c2c8dbdc6.jpeg"
@@ -2085,7 +2184,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789779029"
+      "LastUpdatedUnixTime": "1789779069"
     },
     {
       "ID": "3680",
@@ -2592,101 +2691,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1788874025"
-    },
-    {
-      "ID": "3690",
-      "Internal-ID": "214320091",
-      "Name": "Frenchi",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "19",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9ab19d26cfafe82f629ede7baf104ad/f48573d1885edc1bb4fa24e1c3530ebe.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Frenchi is a fun-loving little girl who loves to play with her pack.  She is learning potty training and is getting used to her kennel.  She settles into it after a bit of mouthiness, but will then sleep through the night.",
-      "LastIntakeUnixTime": "1787191183",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789420858"
     },
     {
       "ID": "3698",
@@ -3866,35 +3870,31 @@
       "LastUpdatedUnixTime": "1789734002"
     },
     {
-      "ID": "3678",
-      "Internal-ID": "214320063",
-      "Name": "Alfredo",
-      "LitterGroupId": 9575387,
+      "ID": "3690",
+      "Internal-ID": "214320091",
+      "Name": "Frenchi",
+      "LitterGroupId": 9575389,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Male",
+      "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "10.6",
+      "CurrentWeightPounds": "19",
       "Size": "Medium (25-59)",
       "Altered": "No",
-      "DOBUnixTime": 1779997141,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+      "DOBUnixTime": 1778389200,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5fc5768ea35cc264ecdeb4b56e9dd17a/c1f6f82c37fab1f489ba7da3a2a38783.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fbde7330bec83d02421b120907b9194b/30a826c35c3ec69f88c87e8b6263b847.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/faa6aef3fb362754f38e620220bc5f44/745afa55ccfa2978c3cfc34517c568e9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6334966f2fb656aa7f3eac902361d37e/e8f88676cd6c83f6c65bb64526dfed82.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9ab19d26cfafe82f629ede7baf104ad/f48573d1885edc1bb4fa24e1c3530ebe.jpg"
       ],
       "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Brown/White",
-      "Pattern": "None",
+      "Breed": "Shepherd/Hound",
+      "Color": "Tan",
+      "Pattern": "Tricolor",
       "AdoptionFeeGroup": {
         "Id": 37340,
         "Name": "Puppy + S/N deposit",
@@ -3903,8 +3903,8 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Hi, I'm Alfredo! I'm a typical growing puppy who loves to play and snuggle, and I'm friendly with everyone - cats, dogs, and kids all included! With continued socialization, I'm ready to bring joy to any home.\n\nCome meet me and let's start our adventure together!\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787166038",
+      "Description": "Frenchi is a fun-loving little girl who loves to play with her pack.  She is learning potty training and is getting used to her kennel.  She settles into it after a bit of mouthiness, but will then sleep through the night.",
+      "LastIntakeUnixTime": "1787191183",
       "Attributes": [
         {
           "Internal-ID": "294284",
@@ -3922,18 +3922,13 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
         },
         {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
@@ -3952,8 +3947,13 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
           "Publish": "No"
         },
         {
@@ -3962,7 +3962,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789686266"
+      "LastUpdatedUnixTime": "1789785380"
     },
     {
       "ID": "3695",
