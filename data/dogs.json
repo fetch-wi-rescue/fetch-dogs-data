@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:07:38Z",
+  "updated": "2026-09-20T16:54:08Z",
   "count": 45,
   "animals": [
     {
@@ -1082,7 +1082,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789754773"
+      "LastUpdatedUnixTime": "1789915489"
     },
     {
       "ID": "3651",
@@ -3215,6 +3215,94 @@
       "LastUpdatedUnixTime": "1789646823"
     },
     {
+      "ID": "3705",
+      "Internal-ID": "214562569",
+      "Name": "Moose ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "23",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1679288400,
+      "Age": 42,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36b11c6b313b9ee10a91606d3ef076c5/7420f7bc433e401b1af3e561d5ca433e.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/36b11c6b313b9ee10a91606d3ef076c5/7420f7bc433e401b1af3e561d5ca433e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ec854f0134edd3fab9d1e8c99f02951/147b4415bcd3ef103d640627320faba9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f254eb103327989ef9aff54a33dcc3c3/080b32bcd05daf429741c09a07659dcf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ac37b45c8a064b4b95af35cd744721d/c7e6cbd3084198c98e337868a73bf9ff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/da3ad5e9b71e885092fad2b6cb75872e/f5f085f9fa663a98af38306c05d2ead0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4393881e82ee95d35d13379bc3470aa/2d4f5fb29b5a9184420d131d79c6766b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f7318f84147ad8cb76930878694dfd1/5c00005a1b253f31d713a029fb8780e9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "American Blue Heeler",
+      "Color": "Black/Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Moose is one of the sweetest dogs you’ll ever meet and has yet to come across a human he doesn’t love.\n\nMoose has lived with kids in the past and does well with them. He’s basically the full package: Crate-trained, house-trained, not much of a barker, and has never once chewed on his foster mom’s stuff.\n\nMoose has a lot of energy, and loves to go on walks (and get attention). One of his favorite pastimes is going to the park or the UW campus and getting spoiled by the students. He may occasionally pull on the leash when he sees someone he’d like to greet, but his small stature means that he’s generally easy to handle. He doesn’t seem to mind other dogs or small animals either. Moose makes a perfect hiking partner, and would also be a great running buddy.\n\nSince Moose is super friendly, he can sometimes get a little too excited and jump, but once he’s gotten to know you, he’s content to follow you around the house and chill by your side.",
+      "LastIntakeUnixTime": "1789682195",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789922351"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -3381,79 +3469,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789646428"
-    },
-    {
-      "ID": "3705",
-      "Internal-ID": "214562569",
-      "Name": "Moose ",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "23",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1679288400,
-      "Age": 42,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36b11c6b313b9ee10a91606d3ef076c5/7420f7bc433e401b1af3e561d5ca433e.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/36b11c6b313b9ee10a91606d3ef076c5/7420f7bc433e401b1af3e561d5ca433e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3ec854f0134edd3fab9d1e8c99f02951/147b4415bcd3ef103d640627320faba9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f254eb103327989ef9aff54a33dcc3c3/080b32bcd05daf429741c09a07659dcf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ac37b45c8a064b4b95af35cd744721d/c7e6cbd3084198c98e337868a73bf9ff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/da3ad5e9b71e885092fad2b6cb75872e/f5f085f9fa663a98af38306c05d2ead0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4393881e82ee95d35d13379bc3470aa/2d4f5fb29b5a9184420d131d79c6766b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f7318f84147ad8cb76930878694dfd1/5c00005a1b253f31d713a029fb8780e9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "American Blue Heeler",
-      "Color": "Black/Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1789682195",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789907873"
     },
     {
       "ID": "3658",
