@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T23:45:01Z",
+  "updated": "2026-09-21T02:38:55Z",
   "count": 45,
   "animals": [
     {
@@ -1563,7 +1563,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789450372"
+      "LastUpdatedUnixTime": "1789947982"
     },
     {
       "ID": "3669",
@@ -1755,6 +1755,125 @@
         }
       ],
       "LastUpdatedUnixTime": "1789492849"
+    },
+    {
+      "ID": "3673",
+      "Internal-ID": "214319996",
+      "Name": "Fifi Noelle",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1659848400,
+      "Age": 49,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aee8517579353657e19d1ded2e04e383/a167cc1f66c3a28551d940c168b2088d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/aee8517579353657e19d1ded2e04e383/a167cc1f66c3a28551d940c168b2088d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c54a1ce0c960fdae1626819fc283f51/806ea13a92521350579003ee4e317d99.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5a4a7528705e18fff38bf728f75034a1/60e8d1f59ca250fc2d4a6639d21dbf0b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c64ae3e3c3a028d8ceb44c1b0b688f78/7452987a387984fbd86267002d956960.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f06cf2e5f7ffc16571e6875a31bf4a70/65b27da534cf39702b14326877a8da0f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a31da8229e131b8790c1253eb40cdbf/a9f4abf630683b06a3cf4f31bf725e5d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Poodle, Miniature",
+      "Color": "Cream",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Fifi Noelle! 🐾\n\nFifi is a sweet, goofy 4-year-old Standard Poodle who is happiest when she’s with her people. She loves chasing a ball, occasional zoomies, and most importantly—cuddling! She’ll gently nudge your hand for more pets and loves to “corn cob” her people with little affectionate nibbles. She also loves to simply stare at you while you’re getting ready, doing chores, or completing random tasks around the house, as if she’s supervising everything you do!\n\nFifi has a medium energy level and enjoys two walks a day, but she’s also perfectly happy curling up for a movie or taking a nap. She loves Kongs, balls, bully sticks, and enrichment like puzzle feeders and snuffle mats. Using her nose to find her food is one of her favorite activities, so continued mental enrichment is a must in her future home!\n\nShe is house-trained, free-roams the home, and can comfortably stay home alone for an 8-hour workday. She’s also very good in her crate and happily eats her meals inside, although we typically don’t crate her for more than 2 hours at a time. She knows “sit” and \"come\" and is still working on leash manners, especially when bunnies and squirrels make an appearance!\n\nFifi is an incredibly quiet girl who rarely barks and would likely thrive in a calm home. She is wonderful with cats and has had good experiences with other dogs. She’s currently a little underweight but is making great progress toward her healthy target weight.",
+      "LastIntakeUnixTime": "1787196632",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789951414"
     },
     {
       "ID": "3676",
@@ -3355,122 +3474,6 @@
       "LastUpdatedUnixTime": "1789481956"
     },
     {
-      "ID": "3673",
-      "Internal-ID": "214319996",
-      "Name": "Fifi Noelle",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "45",
-      "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1659848400,
-      "Age": 49,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e7485db1a7259405d1cb6bd761228dfa/d40bfed2e60c7fbb42f5d7afdbf16944.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ef46ac3303427a21735d1250a983953c/5709f749086adb9d427f3b4ba1dafc5f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5f8e092de5236bb01ad56e7fb4de662/e750187f142d8cb4ccad252e9a3e452d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/83182ff2708dd02a2259248df3b9426c/f37e8fcbbb8e1d52cb6b071fef16c106.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01d08fe57ea8807f69687767e525a515/668ae1a3ed180a31aaba97b5bd950fed.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Poodle, Miniature",
-      "Color": "Cream",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1787196632",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789646428"
-    },
-    {
       "ID": "3658",
       "Internal-ID": "214229995",
       "Name": "Brutus",
@@ -3846,7 +3849,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7cfca588f88e09f5141396aaa49785a2/3ef0db47c90db3d7dd694ed204fa2acb.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd, Anatolian/Pyrenees, Great",
@@ -3889,7 +3893,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1788986037"
+      "LastUpdatedUnixTime": "1789955659"
     },
     {
       "ID": "3665",
