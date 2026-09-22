@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:42:09Z",
+  "updated": "2026-09-22T07:06:55Z",
   "count": 45,
   "animals": [
     {
@@ -109,7 +109,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1419228000,
-      "Age": 140,
+      "Age": 141,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bb94833ba7ee254f5f56abec4439305c/a8ee344ee9e9f7d027999317699995e4.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/bb94833ba7ee254f5f56abec4439305c/a8ee344ee9e9f7d027999317699995e4.jpeg",
@@ -214,7 +214,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1724302800,
-      "Age": 24,
+      "Age": 25,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8af7ac248f3c34b2980915a7e4acbb48/4968234d6ba57ac12f9593cd893ea9c6.JPG",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/8af7ac248f3c34b2980915a7e4acbb48/4968234d6ba57ac12f9593cd893ea9c6.JPG",
@@ -1459,9 +1459,9 @@
       "Altered": "No",
       "DOBUnixTime": 1778648400,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/65896721850597719049a58c9af3ae32/cb131d4c032bb55d3e69d8c93c7322b6.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/65896721850597719049a58c9af3ae32/cb131d4c032bb55d3e69d8c93c7322b6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
@@ -1478,9 +1478,13 @@
         "https://new-s3.shelterluv.com/profile-pictures/4380679cc8a9eddaee0c79a5eca46c03/0765273177b5af650590b25867d686d8.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bb5cdd984d6d32aed3388341b17213de/c549ee496dc186f2f17b255331ee8dd6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/df49a20baf6fe707e21326fc4a35fa93/101db60656e1f968ed1ade2dd36f9264.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/af3580b18e2c7903531a5eaca2739687/c0d071a42f87c8be3ce133a0833355cf.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a62d1ddd5952e6e743fbc9838abdd138/82bdd8cfa819263b5211f19e6f3a2a4d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65896721850597719049a58c9af3ae32/cb131d4c032bb55d3e69d8c93c7322b6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/44271eefc51b750103864be317a9636e/2b55527eeabb10f0a772db4a9229ee51.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/6d248f4ee378c7cf6af31f80211f4715/3366f73cd4362b70f7e6a51d36407de3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/403b9bc99b3448c6c7bb9341918a38b3/2b551e5c7ae8f0a3ab3978faac19324a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/81339ecd39b12c23e00c865164cb941c/88db7d0a6b26b04b3226fde6c21c271c.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
@@ -1538,7 +1542,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790035095"
+      "LastUpdatedUnixTime": "1790044914"
     },
     {
       "ID": "3671",
@@ -3929,9 +3933,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/9f7318f84147ad8cb76930878694dfd1/5c00005a1b253f31d713a029fb8780e9.jpeg"
       ],
       "Videos": [],
-      "Breed": "American Blue Heeler",
+      "Breed": "American Blue Heeler/Corgi, Pembroke Welsh",
       "Color": "Black/Brown",
-      "Pattern": null,
+      "Pattern": "None",
       "AdoptionFeeGroup": {
         "Id": 37341,
         "Name": "Adult (1-7 years old)",
@@ -3989,7 +3993,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790023077"
+      "LastUpdatedUnixTime": "1790041677"
     },
     {
       "ID": "3590",
