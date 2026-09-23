@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:35:56Z",
+  "updated": "2026-09-23T07:04:48Z",
   "count": 45,
   "animals": [
     {
@@ -1885,9 +1885,9 @@
       "Altered": "No",
       "DOBUnixTime": 1779996933,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/81387f0dccd3528ee0eca1cdd1653c7e/8b024c54292c22d0bf58d40d2ceb170e.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/81387f0dccd3528ee0eca1cdd1653c7e/8b024c54292c22d0bf58d40d2ceb170e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1dae4d429b5eb4e2c97b19e4dc22b664/2deda62718a50b78a7a992f03b338602.jpg",
@@ -1895,8 +1895,12 @@
         "https://new-s3.shelterluv.com/profile-pictures/ca0dae27976ffefa7c8933958a495b86/fdb8fddaa5cd9da258343b9e4ad605a9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b479e2e093b803eb97eb9dfcc531c769/45e40710d248559fd1999f0b81e2837e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b6398c208380874e636c3ef55a4ab7d2/bea2a24d3aa250dc1b2870c890f6379d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/81387f0dccd3528ee0eca1cdd1653c7e/8b024c54292c22d0bf58d40d2ceb170e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/ed48505bbdc03627188d736c7d872810/51e1223f63ffc0600d1292a08f855672.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/245bdd48cba53790badba73f5193289b/c3c39afe9bc297f4fbfd5394965594f3.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/245bdd48cba53790badba73f5193289b/c3c39afe9bc297f4fbfd5394965594f3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a467eec2528fecfc971ae531387a846/7b45a0a4aceb08e7c456b755c8f046fa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5bdffa07305829b8cd94964a3edb10b9/8d5a0780e5ff01f29440f3e16a611f75.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/db5852bee1f616edb74accb833254234/86bec1600b463d7bb1ce0dabd8597b70.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -1969,7 +1973,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790125428"
+      "LastUpdatedUnixTime": "1790130318"
     },
     {
       "ID": "3678",
@@ -3197,6 +3201,58 @@
       "LastUpdatedUnixTime": "1790126373"
     },
     {
+      "ID": "3663",
+      "Internal-ID": "214287416",
+      "Name": "Ciabatta",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "34.1",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1749618000,
+      "Age": 15,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "White/Brown",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1786635854",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1789481956"
+    },
+    {
       "ID": "3704",
       "Internal-ID": "214485671",
       "Name": "Little Bear",
@@ -3204,7 +3260,7 @@
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
-      "Status": "Available",
+      "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "9.8",
       "Size": "",
@@ -3289,59 +3345,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1789646823"
-    },
-    {
-      "ID": "3663",
-      "Internal-ID": "214287416",
-      "Name": "Ciabatta",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "34.1",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1749618000,
-      "Age": 15,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "White/Brown",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1786635854",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789481956"
+      "LastUpdatedUnixTime": "1790135042"
     },
     {
       "ID": "3658",
@@ -3994,7 +3998,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790080600"
+      "LastUpdatedUnixTime": "1790131958"
     },
     {
       "ID": "3590",
