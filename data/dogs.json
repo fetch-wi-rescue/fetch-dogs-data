@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:50:11Z",
+  "updated": "2026-09-23T17:37:05Z",
   "count": 45,
   "animals": [
     {
@@ -804,7 +804,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1769184489,
-      "Age": 7,
+      "Age": 8,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3ec9a973c4b8f0629ee98ff1fa5fb239/3eaa702a4faca7a2877d1f0e3db86b5f.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/3ec9a973c4b8f0629ee98ff1fa5fb239/3eaa702a4faca7a2877d1f0e3db86b5f.jpg",
@@ -1094,7 +1094,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "20",
       "Size": "",
       "Altered": "No",
       "DOBUnixTime": 1777830809,
@@ -1160,7 +1160,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789492976"
+      "LastUpdatedUnixTime": "1790173140"
     },
     {
       "ID": "3652",
@@ -2184,7 +2184,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790030524"
+      "LastUpdatedUnixTime": "1790181504"
     },
     {
       "ID": "3680",
@@ -2491,7 +2491,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789167296"
+      "LastUpdatedUnixTime": "1790170982"
     },
     {
       "ID": "3683",
@@ -3250,7 +3250,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789481956"
+      "LastUpdatedUnixTime": "1790177192"
     },
     {
       "ID": "3704",
@@ -3686,9 +3686,9 @@
       "Altered": "No",
       "DOBUnixTime": 1778648400,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d4fdcd0551650e252ba84dd00d39602c/a49b0bd39274ed051f917ebab05feb50.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a32bb29bca9c79b0ea315c9dbe3d3d39/191fa8a8124640fd6f36d1f0228d5719.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d4fdcd0551650e252ba84dd00d39602c/a49b0bd39274ed051f917ebab05feb50.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a32bb29bca9c79b0ea315c9dbe3d3d39/191fa8a8124640fd6f36d1f0228d5719.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/87d89067f9a25af7c594be9775534c2d/9fd12bc5f649e38c49d8180a84a26ebd.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4064f969cad70c6a56d6c8c800de3f65/5c1a58c33a4c732ff85c7a41c41c4d16.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/40257de4ca9f4b52af8e24c1e8da4992/368e17710f3967cca244fa62317c8f7e.jpeg",
@@ -3696,9 +3696,14 @@
         "https://new-s3.shelterluv.com/profile-pictures/6ac9e0ea7dbf26a1e0d3ae543e2789ea/94c3e6030e255a4be4e178356d3cb36e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/da303862cdbcbca5b1287331ba4a3b2f/2c4fd93b789faf06d2de0b18581bac90.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/bf9f6bfca4ceff3e3ef082757591b8a2/b02795639419fb858dffa1631c243c84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e900bbd91fbbfb36a967c5934866f15e/478ee98a21107e5b052765d29a92cc5a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5baf8611391731e8b6f09093585a074a/a04698e541562db0e42e07a826f0b136.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/86e70666dca476590c098d1965d4911e/f5c649274f2649f6fa4f5be9f3923a64.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2000f7afaf7f7b7f76887f2d8a51c70/81ef7485eb787ed29da8fd94d01bc688.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/4e373c2618a51b672abd32c80dc4fbc6/30aed08ecb82c4c9715b9c5780490fcb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f8bf7030ad00f8dc6f64492635b27f1d/9e48ea5f8c237182f9c9ee8894283d99.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd03d4fae906fa2fbbe19cd40e11c6b4/0452601f3210196022cd61096b9c8220.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/bd03d4fae906fa2fbbe19cd40e11c6b4/0452601f3210196022cd61096b9c8220.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d4fdcd0551650e252ba84dd00d39602c/a49b0bd39274ed051f917ebab05feb50.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
@@ -3791,7 +3796,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790040326"
+      "LastUpdatedUnixTime": "1790181467"
     },
     {
       "ID": "3673",
