@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T02:47:20Z",
-  "count": 57,
+  "updated": "2026-09-25T08:24:02Z",
+  "count": 56,
   "animals": [
     {
       "ID": "3279",
@@ -426,7 +426,14 @@
       "Breed": "Foxhound, American",
       "Color": "Tan/White",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 36570,
+        "Name": "Fee Waived Adoption",
+        "Price": 350,
+        "Discount": 350,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Nellie is a gentle, soulful foxhound who’s made an incredible journey from scared and fragile to quietly brave and loving. When she was rescued, she was underweight, injured, and too frightened to trust—but with patience, she’s grown into a healthy 50-pound girl who now seeks out affection and melts into her people 🧡. She can still be a little shy at first, but once she feels safe, her sweet personality shines through in the softest, most heart-melting ways.\nShe loves simple things: long sniffy walks, fresh air, and being near her humans. A secure fence is a must (her nose will lead her on adventures!), and she’s still building confidence being alone, but she’s making steady progress. Nellie doesn’t ask for much—just love and patience—but in return, she gives a deep, loyal bond and the kind of quiet companionship that feels really special.",
       "LastIntakeUnixTime": "1775756318",
       "Attributes": [
@@ -486,7 +493,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790215662"
+      "LastUpdatedUnixTime": "1790305616"
     },
     {
       "ID": "3543",
@@ -2581,116 +2588,6 @@
       "LastUpdatedUnixTime": "1788873999"
     },
     {
-      "ID": "3687",
-      "Internal-ID": "214320081",
-      "Name": "Bane ",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388423,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/97904145ed7fa7bc25abae7873f5e450/adeb393ace8b47e4eb96e858858a00f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b0c508900a811c9a963d501e3ed24f6/af43e923a5900ee1c712f703477038be.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Bane is a little guy with big personality! He is up to explore and find the fun anywhere. He likes to be with people and loves to snuggle in close. He and his brothers are very polite, give kisses but refrain from using their teeth which has been so nice! He plays well with his brothers and it has been fun watching him grow and develop. He will make a sweet, cute, fun companion!",
-      "LastIntakeUnixTime": "1787190087",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1788874025"
-    },
-    {
       "ID": "3690",
       "Internal-ID": "214320091",
       "Name": "Frenchi",
@@ -2783,86 +2680,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790302449"
-    },
-    {
-      "ID": "3695",
-      "Internal-ID": "214320115",
-      "Name": "Pixie",
-      "LitterGroupId": 9575392,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "26.8",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1777100400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ae48af0b5a9df3c5e001f61dd264b84c/6bdffdb6b64c4e44543ab9126764a2f0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ae48af0b5a9df3c5e001f61dd264b84c/6bdffdb6b64c4e44543ab9126764a2f0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
-        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/91b40ebbe2779a6e902be99439e52733/9315bce7c4301f9c3a07b271c4407a29.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Hound",
-      "Color": "Black/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": null,
-      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
-      "LastIntakeUnixTime": "1787196185",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790123754"
     },
     {
       "ID": "3698",
@@ -4033,7 +3850,7 @@
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
-      "Status": "Foster to Adopt",
+      "Status": "M&G",
       "InFoster": true,
       "CurrentWeightPounds": "65",
       "Size": "Large (60-99)",
@@ -4089,7 +3906,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790216596"
+      "LastUpdatedUnixTime": "1790305339"
     },
     {
       "ID": "3668",
@@ -4217,6 +4034,196 @@
         }
       ],
       "LastUpdatedUnixTime": "1790181467"
+    },
+    {
+      "ID": "3687",
+      "Internal-ID": "214320081",
+      "Name": "Bane ",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Small (0-24)",
+      "Altered": "No",
+      "DOBUnixTime": 1779388423,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/97904145ed7fa7bc25abae7873f5e450/adeb393ace8b47e4eb96e858858a00f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b0c508900a811c9a963d501e3ed24f6/af43e923a5900ee1c712f703477038be.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Bane is a little guy with big personality! He is up to explore and find the fun anywhere. He likes to be with people and loves to snuggle in close. He and his brothers are very polite, give kisses but refrain from using their teeth which has been so nice! He plays well with his brothers and it has been fun watching him grow and develop. He will make a sweet, cute, fun companion!",
+      "LastIntakeUnixTime": "1787190087",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790306343"
+    },
+    {
+      "ID": "3695",
+      "Internal-ID": "214320115",
+      "Name": "Pixie",
+      "LitterGroupId": 9575392,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "26.8",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1777100400,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ae48af0b5a9df3c5e001f61dd264b84c/6bdffdb6b64c4e44543ab9126764a2f0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ae48af0b5a9df3c5e001f61dd264b84c/6bdffdb6b64c4e44543ab9126764a2f0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/61c80d100f5d2a190761d89040227a15/b3411a1322ac24e66e320d54e2dc9bc1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/0586cf3c0ed3c5a75162ac7cf4754e95/7567108b219d46570944c384eb6a47db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/21bcc6b1e156aa4a4f31bba285592ce4/da961efb99b04390bcbd7d65d8ffcf57.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/187efc1fd6233407d0935abaf2376a47/192e381a1d6d46603be39b00c4fb1e84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b85dbcbadad22cdfeef44f0ed4e1d717/392a15e1ea57224847489734789e73aa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fa655c123f4357cc46d2ad28a09ec6ce/21d42fd573f7d3b75f7202c8336a5bbb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c33985fdda3033826a8c4896680d61c7/41be9fca05503b29903bc0de47d1da55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70ee2a42a0819264f635c019e30e1ee0/87056c62f0fa535fcf26dd2400bdd888.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/475a8e8eb2ec8215336e65bd60cae83c/32ace314bbd5e634ebf7410231e69f0b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/91b40ebbe2779a6e902be99439e52733/9315bce7c4301f9c3a07b271c4407a29.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Hound",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": null,
+      "Description": "Friendly, cuddly, and eager to please, Pixie is an adorable Lab mix puppy looking for her forever home! With a sweet personality, a love for snuggles, and a tail that never stops wagging, this precious girl is ready to bring joy, laughter, and unconditional love to a lucky family. Whether she's playing, exploring, or curling up beside you for a nap, Pixie is happiest when she's with her people. If you're looking for a loyal companion and a lifelong best friend, Pixie may be the perfect match for you!",
+      "LastIntakeUnixTime": "1787196185",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790305791"
     },
     {
       "ID": "3700",
@@ -4611,104 +4618,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790029867"
-    },
-    {
-      "ID": "3628",
-      "Internal-ID": "214042195",
-      "Name": "Callie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "55.4",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1562562000,
-      "Age": 86,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a798d243f24bae4679ecc2fa9d669ac4/57c2d73790cb7c405ca376a9ba946e28.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a798d243f24bae4679ecc2fa9d669ac4/57c2d73790cb7c405ca376a9ba946e28.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4532290e1dad19e8cbf65117c4fd7b4d/1883c59239e402e9b3129599e97e0ea7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aadb5b8b501ac0c5dd0489ead685364d/004fafff184f484a6ec261bbb663358c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5e6f976e8feb4ff71e61b4e854f0e02a/0ef06614bbbfab92fd18821ff9881984.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/72bfe904ed4c577d32e51048154c7aba/1bdc5bfe96eb4ee620d5a2a0d6999b24.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0df3541767a670a94865003d11526f82/90e1f2cc560a8707a6ec7da971cf4c84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9413ec96bc4b400c1c69d38be6c8715d/f4afe68c7a17b6d074ee89ca82da339b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/194c7c41295079d5420f6b674085f627/68f784b04444c959a1150c8d6ae5d7f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d884d800662d119ed47dec3ffdf5b35f/b471d3fc31d251b74ff34cdda8fd3412.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1a34f00331c279db968a99500d14c88b/a70355911d4b60761984f54c41c9842c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/debbf18775f0683f300c4255d2f05699/c4064872eb66c64c1f428c9d211a6acc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c60b7805559f08c642e093ff9fcdb5c/6a5901a9b60a3138a98cd0e37d144c3e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/410bf1e126bffa79a576a85e223d6a60/3790212bbdb42164e3e98d46b1818dd8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62a433d74d1db8ecb0611ec8d8124102/907764cd944ca5fd9f066de4de574b44.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e64522bce296d340b175cb50de6a7fc3/632da169320226a1f8a0cbf8e485deb3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/19b121f5312702b4f385fc8aed067dd7/a510c5a60d2ce8ec7d0d43357e6b9bae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/95bdb4c3e64aebc8b6440613965b008a/20bac2e4be76fdf26532f39bef0f7991.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/eddcc14c8c61602c38d6477c22dedecb/092c089b95e06e43829a4dfd1087b2d3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1fef2d319d40bf40a1e3eff1a8d0ecda/d4de7c6ee518cba6ec7a5a5748db51c4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Corgi, Pembroke Welsh",
-      "Color": "Golden",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Callie is a sweet, gentle girl looking for a loving home after her owner moved into a nursing home. She can be nervous around new people, so her first meeting may not show the affectionate, silly dog she truly is. She may bark, hide, or walk away when she feels unsure, but with patience and time, she’ll begin to trust you. Once she does, Callie is incredibly loving and will happily snuggle beside you—or sneak into bed for some extra affection.\n\nCallie’s time with a weekend sitter showed just how quickly she can blossom when given the chance. She settled in and joined her sitter on the couch just a few minutes after I left. She is gentle with children, although a quieter home would suit her best because loud noises and sudden movements can startle her. \n\nShe is comfortable free-roaming alongside a calm canine companion and indifferent to cats who leave her alone. She is not really interested in playing with dogs, but she will briefly play with toys and chews. She would also be happy as the only pet.\n\nOn walks, Callie is generally easy to handle, with occasional excited pulling when she wants to greet another dog or nervous stopping if someone is walking too closely behind her. She spends much of her day happily napping but also enjoys car rides and exploring. Interestingly, new places don't bother her nearly as much as new people do-- she even loved splashing around at a dog beach! \n\nIf you're willing to be patient with Callie initially, you will be rewarded with an easy-going and affectionate companion who will do full body wiggles everytime she sees you!",
-      "LastIntakeUnixTime": "1783781902",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790280761"
     },
     {
       "ID": "3673",
