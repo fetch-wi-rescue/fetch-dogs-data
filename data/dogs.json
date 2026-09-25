@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T08:24:02Z",
-  "count": 56,
+  "updated": "2026-09-25T14:00:43Z",
+  "count": 55,
   "animals": [
     {
       "ID": "3279",
@@ -393,107 +393,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1789752206"
-    },
-    {
-      "ID": "3480",
-      "Internal-ID": "213447472",
-      "Name": "Nellie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "51.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1641016800,
-      "Age": 56,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/61adf8b4be125348664eb9cab1fd56f9/88e31a2185f01360ddd86cf4d9502d86.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/367284ead958e509bee7d2d11435ee78/96e7fca8bdf15e7ef3bc6ab7ae8336f5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb02ad159049aa0944358a71aa9460f2/0f73ec9992118ee1e32c1e853b753e35.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/12b1dfeba3e4d6df338bf3407e14684b/9764dfdfb5010fb85dcf7f866722d1b5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f2f37e10c5983025eaddf912b2efdfb4/84a24877fd4f4d7c5a554aeea3b2c1d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df97bee4334f43e3a1060224215269f6/fb3b23710d1be17c4dc0cd535081a057.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bd333c8d3906895c5e9917e9d2569863/ea4f5e94cc34017eb024768ecdd23289.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0025a614f5b11f876e3beb78f2c5586f/e1956a508661d4d2b60d3c917a6b1cbe.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9081e3ecb0ddfed8c0f5b7f3dd74e36b/6adcfc1c37742af4dbc7fb2d906ff72f.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Foxhound, American",
-      "Color": "Tan/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 36570,
-        "Name": "Fee Waived Adoption",
-        "Price": 350,
-        "Discount": 350,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Nellie is a gentle, soulful foxhound who’s made an incredible journey from scared and fragile to quietly brave and loving. When she was rescued, she was underweight, injured, and too frightened to trust—but with patience, she’s grown into a healthy 50-pound girl who now seeks out affection and melts into her people 🧡. She can still be a little shy at first, but once she feels safe, her sweet personality shines through in the softest, most heart-melting ways.\nShe loves simple things: long sniffy walks, fresh air, and being near her humans. A secure fence is a must (her nose will lead her on adventures!), and she’s still building confidence being alone, but she’s making steady progress. Nellie doesn’t ask for much—just love and patience—but in return, she gives a deep, loyal bond and the kind of quiet companionship that feels really special.",
-      "LastIntakeUnixTime": "1775756318",
-      "Attributes": [
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634897",
-          "AttributeName": "⚠ Dog Selective",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790305616"
     },
     {
       "ID": "3543",
@@ -3136,7 +3035,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790286990"
+      "LastUpdatedUnixTime": "1790341337"
     },
     {
       "ID": "3707",
@@ -3176,7 +3075,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287580"
+      "LastUpdatedUnixTime": "1790342506"
     },
     {
       "ID": "3708",
@@ -3211,7 +3110,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287384"
+      "LastUpdatedUnixTime": "1790341926"
     },
     {
       "ID": "3709",
@@ -3241,7 +3140,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1790287238",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1790287255"
+      "LastUpdatedUnixTime": "1790341811"
     },
     {
       "ID": "3710",
@@ -3277,7 +3176,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287580"
+      "LastUpdatedUnixTime": "1790341745"
     },
     {
       "ID": "3711",
@@ -3317,7 +3216,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287432"
+      "LastUpdatedUnixTime": "1790342071"
     },
     {
       "ID": "3712",
@@ -3362,7 +3261,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287580"
+      "LastUpdatedUnixTime": "1790342071"
     },
     {
       "ID": "3713",
@@ -3407,7 +3306,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287432"
+      "LastUpdatedUnixTime": "1790342072"
     },
     {
       "ID": "3714",
@@ -3452,7 +3351,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287580"
+      "LastUpdatedUnixTime": "1790342071"
     },
     {
       "ID": "3715",
@@ -3497,7 +3396,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287580"
+      "LastUpdatedUnixTime": "1790342071"
     },
     {
       "ID": "3716",
@@ -3537,7 +3436,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287432"
+      "LastUpdatedUnixTime": "1790342071"
     },
     {
       "ID": "3717",
@@ -3582,7 +3481,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790287432"
+      "LastUpdatedUnixTime": "1790342071"
     },
     {
       "ID": "3658",

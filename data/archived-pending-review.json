@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:24:02Z",
+  "updated": "2026-09-25T14:00:43Z",
   "animals": [
     {
       "ID": "3458",
@@ -1682,6 +1682,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-25T08:24:02Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3480",
+      "Name": "Nellie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a0abf16bd9fd517aeeb8d71f538392/0d4b500ca96308da271075234c398269.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-25T14:00:43Z",
       "status": "pending"
     }
   ]
