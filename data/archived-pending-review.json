@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T14:00:43Z",
+  "updated": "2026-09-25T18:46:04Z",
   "animals": [
     {
       "ID": "3458",
@@ -1691,6 +1691,15 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-25T14:00:43Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3695",
+      "Name": "Pixie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ae48af0b5a9df3c5e001f61dd264b84c/6bdffdb6b64c4e44543ab9126764a2f0.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-25T18:46:04Z",
       "status": "pending"
     }
   ]
