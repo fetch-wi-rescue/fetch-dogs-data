@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:11:38Z",
+  "updated": "2026-09-26T21:20:39Z",
   "count": 51,
   "animals": [
     {
@@ -2638,6 +2638,60 @@
       "LastUpdatedUnixTime": "1790361234"
     },
     {
+      "ID": "3710",
+      "Internal-ID": "214615682",
+      "Name": "Betsy",
+      "LitterGroupId": 9597502,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.12",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1717334334,
+      "Age": 27,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c7c4ac19902480a2c9e21a0ae5425bd8/d1cd7400f51236ae15dff946e3368016.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70449f8a4555946a12ad70317dd6296b/a64386756163f1f8ead522b27b6fd0a3.png",
+        "https://new-s3.shelterluv.com/profile-pictures/898a03a9bb8dc00aa2fccc6421db1139/697a91645707c1cc0112d2df4a723942.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/131a9e40105ac6840480409a9af17b1a/f8f82009ef586aa3d2d978e972e2d1a9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Dachshund, Miniature Wire Haired",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Betsy, a sweet 2-year-old dachshund mix with a heart full of love! She’s friendly with people and a total cuddle bug who loves being close to her humans. Betsy is still getting used to the hustle and bustle of big-city life and can be a little fearful around other dogs, but she’s learning and doing her best every day. With her gentle spirit and loving personality, Betsy is a lovely little companion who’s ready to find her forever home. ❤️",
+      "LastIntakeUnixTime": "1790287202",
+      "Attributes": [
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790457489"
+    },
+    {
       "ID": "3713",
       "Internal-ID": "214615685",
       "Name": "Biscotti",
@@ -3066,7 +3120,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "16.12",
+      "CurrentWeightPounds": "17.6",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1743599955,
@@ -3083,61 +3137,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1790287238",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1790444811"
-    },
-    {
-      "ID": "3710",
-      "Internal-ID": "214615682",
-      "Name": "Betsy",
-      "LitterGroupId": 9597502,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.12",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1717334334,
-      "Age": 27,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c7c4ac19902480a2c9e21a0ae5425bd8/d1cd7400f51236ae15dff946e3368016.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70449f8a4555946a12ad70317dd6296b/a64386756163f1f8ead522b27b6fd0a3.png",
-        "https://new-s3.shelterluv.com/profile-pictures/898a03a9bb8dc00aa2fccc6421db1139/697a91645707c1cc0112d2df4a723942.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/131a9e40105ac6840480409a9af17b1a/f8f82009ef586aa3d2d978e972e2d1a9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Dachshund, Miniature Wire Haired",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1790287202",
-      "Attributes": [
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790441649"
+      "LastUpdatedUnixTime": "1790446848"
     },
     {
       "ID": "3711",
