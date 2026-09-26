@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:14:23Z",
+  "updated": "2026-09-26T18:11:38Z",
   "animals": [
     {
       "ID": "3458",
@@ -1718,6 +1718,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-26T05:14:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3668",
+      "Name": "Bob",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a32bb29bca9c79b0ea315c9dbe3d3d39/191fa8a8124640fd6f36d1f0228d5719.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-26T18:11:38Z",
       "status": "pending"
     }
   ]
