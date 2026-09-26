@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:01:18Z",
+  "updated": "2026-09-26T14:37:07Z",
   "count": 52,
   "animals": [
     {
@@ -1984,15 +1984,20 @@
       "Altered": "No",
       "DOBUnixTime": 1779997123,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acfbccf4eac40b61edffac1a74521a87/5931280526820c44efe539ffea541a7f.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/acfbccf4eac40b61edffac1a74521a87/5931280526820c44efe539ffea541a7f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01b94d3d99cf523843a9fb60fbad67a8/29230464c663e658342907d394a08c13.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/289508f672cbbc46fe8113b129eff779/5da5183c0e7113bc6a9d9a76f2a639c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/80ff8acc43767355446c03b77e420ae6/91007fd4f62756ea186becee1f273c4f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d399935a6225656f972ff70beb395d5/92667e0fb67612e1a84c6656ac58111c.jpeg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -2065,7 +2070,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790369830"
+      "LastUpdatedUnixTime": "1790433362"
     },
     {
       "ID": "3681",
@@ -2843,7 +2848,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790341337"
+      "LastUpdatedUnixTime": "1790431623"
     },
     {
       "ID": "3707",
@@ -2908,7 +2913,14 @@
       "Breed": "Chihuahua/Dachshund, Miniature Smooth Haired",
       "Color": "Blond",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "",
       "LastIntakeUnixTime": "1790287274",
       "Attributes": [
@@ -2918,7 +2930,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790341926"
+      "LastUpdatedUnixTime": "1790431926"
     },
     {
       "ID": "3709",
