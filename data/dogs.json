@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T14:28:10Z",
+  "updated": "2026-09-27T18:35:19Z",
   "count": 51,
   "animals": [
     {
@@ -860,7 +860,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790368931"
+      "LastUpdatedUnixTime": "1790519783"
     },
     {
       "ID": "3644",
@@ -2746,13 +2746,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1717334334,
       "Age": 27,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e8d38771ec7315043d400c730cf5ebea/2d971669b16d931c3300d40a00504bf6.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e8d38771ec7315043d400c730cf5ebea/2d971669b16d931c3300d40a00504bf6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c7c4ac19902480a2c9e21a0ae5425bd8/d1cd7400f51236ae15dff946e3368016.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70449f8a4555946a12ad70317dd6296b/a64386756163f1f8ead522b27b6fd0a3.png",
         "https://new-s3.shelterluv.com/profile-pictures/898a03a9bb8dc00aa2fccc6421db1139/697a91645707c1cc0112d2df4a723942.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/131a9e40105ac6840480409a9af17b1a/f8f82009ef586aa3d2d978e972e2d1a9.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/131a9e40105ac6840480409a9af17b1a/f8f82009ef586aa3d2d978e972e2d1a9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dba40b32bb9d0db87ad9f2f6575dbd26/83c29ea4ecdaf76e3ba88aeced381eab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f38c570f98ac85d8477334ffff93fb2d/1297d210fb3da9fbf1b510b8515412c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/baad842b270f2106ee6c5b3c5bb45542/7186b6a119be0032f13950f30accee53.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/520938dba1e968f109c6b5b51db5e6dd/5c882d640df64617cbc665426d50b3af.png"
       ],
       "Videos": [],
       "Breed": "Dachshund, Miniature Wire Haired",
@@ -2783,7 +2786,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790457489"
+      "LastUpdatedUnixTime": "1790523095"
     },
     {
       "ID": "3713",
@@ -2818,8 +2821,28 @@
       "LastIntakeUnixTime": "1790286430",
       "Attributes": [
         {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
@@ -2833,7 +2856,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790463711"
+      "LastUpdatedUnixTime": "1790524069"
     },
     {
       "ID": "3717",
@@ -2866,8 +2889,33 @@
       "LastIntakeUnixTime": "1790286622",
       "Attributes": [
         {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
@@ -2881,7 +2929,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790442672"
+      "LastUpdatedUnixTime": "1790523984"
     },
     {
       "ID": "3663",
@@ -3262,7 +3310,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "10",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
@@ -3295,7 +3343,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790342071"
+      "LastUpdatedUnixTime": "1790525120"
     },
     {
       "ID": "3715",
@@ -3307,7 +3355,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "10",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
@@ -3340,7 +3388,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790342071"
+      "LastUpdatedUnixTime": "1790525137"
     },
     {
       "ID": "3716",
