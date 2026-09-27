@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T18:35:19Z",
+  "updated": "2026-09-27T21:46:01Z",
   "count": 51,
   "animals": [
     {
@@ -1558,101 +1558,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790044914"
-    },
-    {
-      "ID": "3671",
-      "Internal-ID": "214319991",
-      "Name": "Esthi",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "19",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f29b9baeac447d989e5947ad88369dc0/cb48dc7f99153bfb42ebb7e00ae10420.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f8478db99951984714aa29bc501f8ed/bc7718d75863972bbcbadd3c0092e9fc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b3b357986bc7fef5a58c8bef65939ef/1797ec82557b54db31c96d267498635e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/257f8ea7246af0c7ff3118f6d6db8318/f592c48158ee15b95ffd14ba21179d60.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/309d183d6938110f989919ba07ec7cfc/5aad95a1d8b5ff7f0e6bad864240e8b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8ee578b65a6275d9439044241252993/237244e835cf9631f40a978cfbe02fd1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f68413145871d92df027c0625d6c424/ad17d60499d27f6cce2587f6e69f8fdf.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Esthi is a delightful puppy, full of energy and curiosity. She quickly adapted to using a crate for naps, downtime, and overnights, and she has been sleeping through the night (6-7 hours) without needing a bathroom break. During the day, she goes outside after naps and meals and so far has not had any accidents indoors. Esthi loves chewing on toys, thinks she is a big as our 50 lb resident dog, and shows no signs of fear about anything. She is extremely food-motivated and learned \"sit\" in two days, which she has nicely demonstrated in almost every photo we have taken of her!\n\nEsthi has perfected the adorable head tilt and will be a great addition to some lucky home!",
-      "LastIntakeUnixTime": "1787195921",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1789492849"
     },
     {
       "ID": "3677",
@@ -3755,6 +3660,101 @@
       "LastUpdatedUnixTime": "1790437351"
     },
     {
+      "ID": "3671",
+      "Internal-ID": "214319991",
+      "Name": "Esthi",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "19",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f29b9baeac447d989e5947ad88369dc0/cb48dc7f99153bfb42ebb7e00ae10420.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f8478db99951984714aa29bc501f8ed/bc7718d75863972bbcbadd3c0092e9fc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b3b357986bc7fef5a58c8bef65939ef/1797ec82557b54db31c96d267498635e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/257f8ea7246af0c7ff3118f6d6db8318/f592c48158ee15b95ffd14ba21179d60.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/309d183d6938110f989919ba07ec7cfc/5aad95a1d8b5ff7f0e6bad864240e8b4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8ee578b65a6275d9439044241252993/237244e835cf9631f40a978cfbe02fd1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f68413145871d92df027c0625d6c424/ad17d60499d27f6cce2587f6e69f8fdf.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Fawn/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Esthi is a delightful puppy, full of energy and curiosity. She quickly adapted to using a crate for naps, downtime, and overnights, and she has been sleeping through the night (6-7 hours) without needing a bathroom break. During the day, she goes outside after naps and meals and so far has not had any accidents indoors. Esthi loves chewing on toys, thinks she is a big as our 50 lb resident dog, and shows no signs of fear about anything. She is extremely food-motivated and learned \"sit\" in two days, which she has nicely demonstrated in almost every photo we have taken of her!\n\nEsthi has perfected the adorable head tilt and will be a great addition to some lucky home!",
+      "LastIntakeUnixTime": "1787195921",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790542202"
+    },
+    {
       "ID": "3676",
       "Internal-ID": "214320061",
       "Name": "Queso Blanco",
@@ -3978,7 +3978,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790306343"
+      "LastUpdatedUnixTime": "1790543586"
     },
     {
       "ID": "3700",
