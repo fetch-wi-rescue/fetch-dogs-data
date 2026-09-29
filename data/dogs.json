@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:55:29Z",
+  "updated": "2026-09-29T00:06:01Z",
   "count": 51,
   "animals": [
     {
@@ -2190,7 +2190,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790170982"
+      "LastUpdatedUnixTime": "1790638570"
     },
     {
       "ID": "3690",
@@ -2577,16 +2577,18 @@
       "Altered": "Yes",
       "DOBUnixTime": 1717334334,
       "Age": 27,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e8d38771ec7315043d400c730cf5ebea/2d971669b16d931c3300d40a00504bf6.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb123ed9cc2e5e470b55c07978a684a3/4e93142cdbd4b12bc83d9097671cedae.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e8d38771ec7315043d400c730cf5ebea/2d971669b16d931c3300d40a00504bf6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb123ed9cc2e5e470b55c07978a684a3/4e93142cdbd4b12bc83d9097671cedae.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/898a03a9bb8dc00aa2fccc6421db1139/697a91645707c1cc0112d2df4a723942.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/131a9e40105ac6840480409a9af17b1a/f8f82009ef586aa3d2d978e972e2d1a9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8d38771ec7315043d400c730cf5ebea/2d971669b16d931c3300d40a00504bf6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/dba40b32bb9d0db87ad9f2f6575dbd26/83c29ea4ecdaf76e3ba88aeced381eab.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f38c570f98ac85d8477334ffff93fb2d/1297d210fb3da9fbf1b510b8515412c5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/baad842b270f2106ee6c5b3c5bb45542/7186b6a119be0032f13950f30accee53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/520938dba1e968f109c6b5b51db5e6dd/5c882d640df64617cbc665426d50b3af.png"
+        "https://new-s3.shelterluv.com/profile-pictures/520938dba1e968f109c6b5b51db5e6dd/5c882d640df64617cbc665426d50b3af.png",
+        "https://new-s3.shelterluv.com/profile-pictures/75d6f73841b67e3b0a109711708a528d/132126558cbd3c10e7f2ec18eb9724b3.jpeg"
       ],
       "Videos": [],
       "Breed": "Dachshund, Miniature Wire Haired",
@@ -2642,7 +2644,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790604873"
+      "LastUpdatedUnixTime": "1790639467"
     },
     {
       "ID": "3713",
@@ -3264,7 +3266,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "11",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
@@ -3292,7 +3294,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790342071"
+      "LastUpdatedUnixTime": "1790637699"
     },
     {
       "ID": "3712",
