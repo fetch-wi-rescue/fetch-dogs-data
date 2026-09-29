@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T18:10:15Z",
+  "updated": "2026-09-29T22:27:43Z",
   "count": 51,
   "animals": [
     {
@@ -998,84 +998,6 @@
       "LastUpdatedUnixTime": "1790274236"
     },
     {
-      "ID": "3651",
-      "Internal-ID": "214152759",
-      "Name": "Malibu",
-      "LitterGroupId": 9558460,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1777830809,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6aa000eddb5b3efe1b692536f2e93226/dbaeeca514733da1862a1d9b6d78006a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06707b9e8e13af179b1b591a8c17d1df/daa6e898d0428281263d627a423a786e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06d9c7e0d22f2a7b4a36327765cce637/b0ef0cd36bf69ad3b0b32aa299d3b766.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d04bf43c7e934ca8eeffa6d401b23ae8/4e781ff104093fe97b718e311a2d6dde.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f1e6aad45a826c0be234a3abf25fb1d/89acb6bf48f799fa42fd874d02ffd3c7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6aaa84ef05542dcb4f5bfa519179fb67/39851b866d743c6403d6719c08a93a6f.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b1e91fdd04cddf88361fc18378a9cb97/df2b1930403da455829a9ffef4006d9e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b16e322ac11302555e91096d178010ce/9adb603a234705f04e516b04ba3b698c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a82c53614d238abdeffded408872eb13/0c4961cdb0271cbd8da3982283137d37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8c1a6dfe2d617f5b10afdb79b6d3c8b/a3b3944646a6e28d0bf9b8d2abe1f54b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf8e18c0720f1aa6f17b1436e97334bc/c542e22e96c66c278906d39aadaabefc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d105a7caf6fbfcc72782dd4109b44bfe/35c4c73157a98aa37172490beeba8bb3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/65e1f152ec7b3d62e8a9c16f906f3bad/10bee61ed83161355751fe86a478d4f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd7225ddbff013a7f273e5206589ecc5/2b73154cee8fe0f350663867dad0a019.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44454afaa7f46d7d1868b8408f519db0/66bded3a08d095f7e11c8cecd82a960b.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/American Blue Heeler",
-      "Color": "Blue Black/Fawn",
-      "Pattern": "Merle",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Malibu is a sweet, friendly girl with a heart full of love and a tail that never stops wagging. She loves spending time with her people and is happiest when she's by your side, whether that's playing in the yard, going for a walk, or snuggling up after a fun day.\n\nThis happy pup has a playful spirit and enjoys making new friends, both human and canine. Malibu's affectionate personality and gentle nature make her a wonderful companion for a family, couple, or individual looking for a loyal best friend.\n\nIf you're searching for a loving, playful pup who will fill your days with joy, Malibu may be the perfect match for you. Come meet her and see why everyone falls in love with this sweet girl! ❤️🐶",
-      "LastIntakeUnixTime": "1784820514",
-      "Attributes": [
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790387227"
-    },
-    {
       "ID": "3652",
       "Internal-ID": "214152760",
       "Name": "Kyle",
@@ -1890,7 +1812,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "13",
+      "CurrentWeightPounds": "16",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997123,
@@ -1981,7 +1903,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790649408"
+      "LastUpdatedUnixTime": "1790718793"
     },
     {
       "ID": "3681",
@@ -2190,7 +2112,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790638570"
+      "LastUpdatedUnixTime": "1790715390"
     },
     {
       "ID": "3690",
@@ -2285,96 +2207,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790437253"
-    },
-    {
-      "ID": "3698",
-      "Internal-ID": "214327204",
-      "Name": "Heath",
-      "LitterGroupId": 9575947,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.5",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778821200,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c99e0b27cfe579eab21b5cf3f70a2b7c/fed744101a97c030dd8b1658346088ca.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c99e0b27cfe579eab21b5cf3f70a2b7c/fed744101a97c030dd8b1658346088ca.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d4e4b6b1f1b96edd97d188ca9aedd792/7794d060aa172ebfb58235641b3911b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dc7550bd75371fe25b201774773b257d/368cca1894cdf1f935aff72b86ed3a6f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fe116969f6b584d8f662d5495c3383d3/02a80d014a056af54dca9f1523f014d5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52745934b9ec61772c435b4149122aed/5ce934cbe7a7602533fc9bfc03db9a4a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/408454c87d7093584dc2659012a70751/e06d6e23c885a4a2124990e9592de632.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/24784fe98fe8c5ce785f5f168dd49eaa/b428fe3a4d59dc325c7a17bdd019a1c7.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bulldog/Mix",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Heath!\n\nA four month old puppy who loves his sleep and has his high energy moments, too. Heath is very ready to find his forever home. He loves people and saying hi to them with lots of kisses.\n\nHe has greatly improved in lots of his training. He hasn’t had accidents inside for a while and is very receptive to “come”, “sit”, and “no”. When he’s really excited his tail spins in a circle! And when he meets new friends he sometimes likes to crawl over to say hi.\n\nHeath goes outside regularly and enjoys playing (in a fenced yard) once or twice a day to get his energy out. He hasn’t met any feline friends, but he has played very nice with other puppies and dogs, he would probably be nice or tolerant of feline friends.\n\nHeath is crate-trained, does well on a leash, and with just a little more work, he will be the perfect companion and family dog!\n\n",
-      "LastIntakeUnixTime": "1787236190",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790599367"
     },
     {
       "ID": "3703",
@@ -2724,7 +2556,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790596069"
+      "LastUpdatedUnixTime": "1790706677"
     },
     {
       "ID": "3714",
@@ -2974,7 +2806,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790696797"
+      "LastUpdatedUnixTime": "1790706693"
     },
     {
       "ID": "3663",
@@ -3222,7 +3054,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790604825"
+      "LastUpdatedUnixTime": "1790706620"
     },
     {
       "ID": "3711",
@@ -3262,7 +3094,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790637699"
+      "LastUpdatedUnixTime": "1790719534"
     },
     {
       "ID": "3712",
@@ -3606,6 +3438,79 @@
         }
       ],
       "LastUpdatedUnixTime": "1789400736"
+    },
+    {
+      "ID": "3651",
+      "Internal-ID": "214152759",
+      "Name": "Malibu",
+      "LitterGroupId": 9558460,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "20",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1777830809,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6aa000eddb5b3efe1b692536f2e93226/dbaeeca514733da1862a1d9b6d78006a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06707b9e8e13af179b1b591a8c17d1df/daa6e898d0428281263d627a423a786e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06d9c7e0d22f2a7b4a36327765cce637/b0ef0cd36bf69ad3b0b32aa299d3b766.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d04bf43c7e934ca8eeffa6d401b23ae8/4e781ff104093fe97b718e311a2d6dde.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9f1e6aad45a826c0be234a3abf25fb1d/89acb6bf48f799fa42fd874d02ffd3c7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d2df64ba2a436ff49631d012c5e3535/913f49f25b3c7c4d70fbd1c7ea273bb1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6aaa84ef05542dcb4f5bfa519179fb67/39851b866d743c6403d6719c08a93a6f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b1e91fdd04cddf88361fc18378a9cb97/df2b1930403da455829a9ffef4006d9e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b16e322ac11302555e91096d178010ce/9adb603a234705f04e516b04ba3b698c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a82c53614d238abdeffded408872eb13/0c4961cdb0271cbd8da3982283137d37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8c1a6dfe2d617f5b10afdb79b6d3c8b/a3b3944646a6e28d0bf9b8d2abe1f54b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cf8e18c0720f1aa6f17b1436e97334bc/c542e22e96c66c278906d39aadaabefc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d105a7caf6fbfcc72782dd4109b44bfe/35c4c73157a98aa37172490beeba8bb3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/65e1f152ec7b3d62e8a9c16f906f3bad/10bee61ed83161355751fe86a478d4f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd7225ddbff013a7f273e5206589ecc5/2b73154cee8fe0f350663867dad0a019.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/44454afaa7f46d7d1868b8408f519db0/66bded3a08d095f7e11c8cecd82a960b.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/American Blue Heeler",
+      "Color": "Blue Black/Fawn",
+      "Pattern": "Merle",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Malibu is a sweet, friendly girl with a heart full of love and a tail that never stops wagging. She loves spending time with her people and is happiest when she's by your side, whether that's playing in the yard, going for a walk, or snuggling up after a fun day.\n\nThis happy pup has a playful spirit and enjoys making new friends, both human and canine. Malibu's affectionate personality and gentle nature make her a wonderful companion for a family, couple, or individual looking for a loyal best friend.\n\nIf you're searching for a loving, playful pup who will fill your days with joy, Malibu may be the perfect match for you. Come meet her and see why everyone falls in love with this sweet girl! ❤️🐶",
+      "LastIntakeUnixTime": "1784820514",
+      "Attributes": [
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790707571"
     },
     {
       "ID": "3664",
@@ -3972,6 +3877,96 @@
         }
       ],
       "LastUpdatedUnixTime": "1790705017"
+    },
+    {
+      "ID": "3698",
+      "Internal-ID": "214327204",
+      "Name": "Heath",
+      "LitterGroupId": 9575947,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "25.5",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778821200,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c99e0b27cfe579eab21b5cf3f70a2b7c/fed744101a97c030dd8b1658346088ca.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c99e0b27cfe579eab21b5cf3f70a2b7c/fed744101a97c030dd8b1658346088ca.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d4e4b6b1f1b96edd97d188ca9aedd792/7794d060aa172ebfb58235641b3911b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dc7550bd75371fe25b201774773b257d/368cca1894cdf1f935aff72b86ed3a6f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fe116969f6b584d8f662d5495c3383d3/02a80d014a056af54dca9f1523f014d5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/52745934b9ec61772c435b4149122aed/5ce934cbe7a7602533fc9bfc03db9a4a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/408454c87d7093584dc2659012a70751/e06d6e23c885a4a2124990e9592de632.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/24784fe98fe8c5ce785f5f168dd49eaa/b428fe3a4d59dc325c7a17bdd019a1c7.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bulldog/Mix",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Heath!\n\nA four month old puppy who loves his sleep and has his high energy moments, too. Heath is very ready to find his forever home. He loves people and saying hi to them with lots of kisses.\n\nHe has greatly improved in lots of his training. He hasn’t had accidents inside for a while and is very receptive to “come”, “sit”, and “no”. When he’s really excited his tail spins in a circle! And when he meets new friends he sometimes likes to crawl over to say hi.\n\nHeath goes outside regularly and enjoys playing (in a fenced yard) once or twice a day to get his energy out. He hasn’t met any feline friends, but he has played very nice with other puppies and dogs, he would probably be nice or tolerant of feline friends.\n\nHeath is crate-trained, does well on a leash, and with just a little more work, he will be the perfect companion and family dog!\n\n",
+      "LastIntakeUnixTime": "1787236190",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790709805"
     },
     {
       "ID": "3700",
