@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T00:06:01Z",
+  "updated": "2026-09-29T05:56:42Z",
   "count": 51,
   "animals": [
     {
@@ -93,7 +93,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1789064526"
+      "LastUpdatedUnixTime": "1790649655"
     },
     {
       "ID": "2582",
@@ -1981,7 +1981,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790433362"
+      "LastUpdatedUnixTime": "1790649408"
     },
     {
       "ID": "3681",
@@ -2484,6 +2484,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/7ae83b2aeaac4570e1a1738ce90d5435/53e9e508dda47b4dacacb3f18be3115e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2af0aae499656bdf189e303999bbf166/3b1008a95f0b81b67c02c1b50f0c787a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2ebc24786d0fced31dc39f0fd3bbe1f0/8121f702320f103831cf40d2732cb052.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6133b4d98d21f64a18b1eaac7b8ef6c3/21942b4b655063df6df72e1ef45e838d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5efcbb312bdba9c2856f7d5be0117a47/b9edffdb6c08638e28dbfd80563ea8d1.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ccbfa28c0b8d942256c30ff03193fee4/b4c446dbb926a5f6ed2d79d09df4f6bd.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/dd4b69d0e368a224b4ec75c62524d9d2/66f8b326e8e28282e8c20ee787ba397b.jpeg",
@@ -2498,15 +2499,14 @@
         "https://new-s3.shelterluv.com/profile-pictures/56f1c576f0ea423959eb98a61fbfb018/806c4137607530e89e40a9b2348d3728.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b2cdadee098d0bb7b90c32ae46146feb/8fef2233fe3220947476080f99721580.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/743cf06fef7cf082991b96a6b54dd1c4/920c7572b76095987f231d2c07609bdb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/22843b35bad97557cbff00f0d2eb4aff/c151db6b2985f9e03069cdcbd72f5b71.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6133b4d98d21f64a18b1eaac7b8ef6c3/21942b4b655063df6df72e1ef45e838d.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/22843b35bad97557cbff00f0d2eb4aff/c151db6b2985f9e03069cdcbd72f5b71.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Labrador/Pyrenees, Great",
       "Color": "White",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "This 3 year old Pyrenees sweetheart was rescued from a hoarding situation in Alabama earlier this year. Despite everything, Barkley is calm, gentle, dog‑friendly, stoic, and absolutely stunning in the “I woke up like this” kind of way.\n\nHe rides in the car like he’s part of a personal entourage, has beautiful leash manners that make you look like a professional trainer, and treats every snack like it’s a tiny, joyful holiday. Barkley is the kind of dog who makes life easier just by existing—sweet, steady, quietly hilarious, and ready for a home that appreciates his resilience and warm heart.",
+      "Description": "This 3 year old Lab/Pyrenees sweetheart was rescued from a hoarding situation in Alabama earlier this year. Despite everything, Barkley is calm, gentle, dog‑friendly, stoic, and absolutely stunning in the “I woke up like this” kind of way.\n\nHe rides in the car beautifully, has polite leash manners, takes treats very gently, and is a very happy house polar bear! His happiness is contagious; from the smile he gives off during little walkies to his pure joy being near his favorite people and dog friends, even if you’ve only been away for 5 minutes. And if you’re ever unsure whether he wants pets, he’ll happily inform you with his adorable little paw shake. Barkley is the kind of dog who makes life easier just by existing—sweet, steady, quietly hilarious, and ready for a home that appreciates his resilience and warm heart.",
       "LastIntakeUnixTime": "1790287037",
       "Attributes": [
         {
@@ -2540,6 +2540,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634892",
           "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
@@ -2555,12 +2565,54 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790619180"
+      "LastUpdatedUnixTime": "1790649286"
+    },
+    {
+      "ID": "3708",
+      "Internal-ID": "214615678",
+      "Name": "Mimi",
+      "LitterGroupId": 9597501,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "6.3",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1780376400,
+      "Age": 3,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bf8188b71dca462c33bd15faed5498e4/bd7146b760a1c7d99b0f8de846d6cfec.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bf8188b71dca462c33bd15faed5498e4/bd7146b760a1c7d99b0f8de846d6cfec.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Dachshund, Miniature Smooth Haired",
+      "Color": "Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Our little Mimi girl is an absolute delight.  Tiny head, long neck, big personality.   \nMimi was a stray in Alabama, and spent some time in foster care there before coming to our home in Wisconsin.  Her foster mama in Alabama loved her so much she sent a letter and Mimi’s favorite stuffed toys with her to Wisconsin.  And tiny Mimi really is that loveable.  \nMimi is affectionate, but also very independent.  She is content to entertain herself with toys, but will happily take a break for a cuddle.  She plays a great game of fetch for a Chihuahua!  It doesn’t take much to keep this playful gal busy.  She keeps us laughing with her zoomies and bunny hops.  \nShe is crate trained and doesn’t make a peep all night!  Unlike a lot of puppies, she doesn’t make a fuss when she needs to hang in her pen.  She is doing amazing with house training too!  \nShe is not yippy/barky at all so far, but she will bark at cats.  She would very much like to play with/chase our cat, and would probably be too much for a timid resident kitty.  \nShe likes car rides and was a big fan of the patio (and bites of french fries) at Culvers.  She adores kids, and likes meeting new people.  \nWe kiss her tiny face 100 times a day, and she deserves it.  \n",
+      "LastIntakeUnixTime": "1790287274",
+      "Attributes": [
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790651162"
     },
     {
       "ID": "3710",
@@ -2644,7 +2696,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790639467"
+      "LastUpdatedUnixTime": "1790645615"
     },
     {
       "ID": "3713",
@@ -3178,48 +3230,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790431623"
-    },
-    {
-      "ID": "3708",
-      "Internal-ID": "214615678",
-      "Name": "Mimi",
-      "LitterGroupId": 9597501,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "6.3",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1780376400,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bf8188b71dca462c33bd15faed5498e4/bd7146b760a1c7d99b0f8de846d6cfec.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bf8188b71dca462c33bd15faed5498e4/bd7146b760a1c7d99b0f8de846d6cfec.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Dachshund, Miniature Smooth Haired",
-      "Color": "Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1790287274",
-      "Attributes": [
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790431926"
     },
     {
       "ID": "3709",
