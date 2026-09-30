@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T01:24:40Z",
+  "updated": "2026-09-30T06:59:04Z",
   "count": 51,
   "animals": [
     {
@@ -1484,7 +1484,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790044914"
+      "LastUpdatedUnixTime": "1790734003"
     },
     {
       "ID": "3677",
@@ -2402,7 +2402,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790649286"
+      "LastUpdatedUnixTime": "1790742573"
     },
     {
       "ID": "3710",
@@ -3787,7 +3787,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790383079"
+      "LastUpdatedUnixTime": "1790733821"
     },
     {
       "ID": "3683",
@@ -3816,7 +3816,14 @@
       "Breed": "Kelpie, Australian/Mixed Breed (Small)",
       "Color": "Chocolate/Tan",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Taz is a laid-back, confident puppy! He likes to sleep in, doesn’t get anxious and likes to snuggle. He likes to tell his brothers what to do and loves to eat all the food! He is a sweet, cute pup that should be easy to take into new situations, train well and will grow into a fantastic companion!",
       "LastIntakeUnixTime": "1787167169",
       "Attributes": [
@@ -3871,7 +3878,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790730607"
+      "LastUpdatedUnixTime": "1790733751"
     },
     {
       "ID": "3698",
@@ -4334,7 +4341,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790550689"
+      "LastUpdatedUnixTime": "1790734073"
     },
     {
       "ID": "3687",
@@ -4444,7 +4451,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790705082"
+      "LastUpdatedUnixTime": "1790733375"
     },
     {
       "ID": "3705",
@@ -4532,7 +4539,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790366273"
+      "LastUpdatedUnixTime": "1790734140"
     },
     {
       "ID": "1442",
@@ -4618,7 +4625,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1459314000,
-      "Age": 125,
+      "Age": 126,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e013b637d7a11c19d2df6bf0d5d8462e/19cb798ad5adf1146183c488f3e2b2ad.png",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e013b637d7a11c19d2df6bf0d5d8462e/19cb798ad5adf1146183c488f3e2b2ad.png"
