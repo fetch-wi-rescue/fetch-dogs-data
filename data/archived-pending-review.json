@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:11:38Z",
+  "updated": "2026-09-30T18:29:55Z",
   "animals": [
     {
       "ID": "3458",
@@ -1727,6 +1727,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-26T18:11:38Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3683",
+      "Name": "Taz",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0800c7f7f9d57b4f7249b4ba5237556f/d03e47135365f6cfb4aeabdff1c96f61.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-30T18:29:55Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3687",
+      "Name": "Bane ",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-30T18:29:55Z",
       "status": "pending"
     }
   ]

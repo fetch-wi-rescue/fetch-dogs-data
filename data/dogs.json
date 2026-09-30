@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T13:25:45Z",
-  "count": 51,
+  "updated": "2026-09-30T18:29:55Z",
+  "count": 49,
   "animals": [
     {
       "ID": "3279",
@@ -995,7 +995,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790274236"
+      "LastUpdatedUnixTime": "1790776177"
     },
     {
       "ID": "3652",
@@ -1161,7 +1161,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "75",
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1469941200,
@@ -1271,7 +1271,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790459688"
+      "LastUpdatedUnixTime": "1790780827"
     },
     {
       "ID": "3665",
@@ -2026,15 +2026,15 @@
       "Altered": "No",
       "DOBUnixTime": 1781672400,
       "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de1e3fc0e5874abdb5b0eab88b5c8a92/a1c5b03b016a559a8dc46eb891438235.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/939cb1d1adc2e4c6113857c548ef13dc/5b60d3fc34b34908f01db5e165638af2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b7d457920441dc309cf95ad065968896/302fbafb38720bfe1daf23a418f0a821.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7198514862fdf52bfd5e06c0916c09ef/c7ed9d32b7e85f026d0708105bd2237c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fc263395cbd20df287eda69e2f25ea4e/8aaf48e8ce129af32966cb9c13308735.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/124f8169383bd7a9880a8b97b38f9a6c/4a7a2fc4c7e4307f9b9e718ac0bd228e.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/124f8169383bd7a9880a8b97b38f9a6c/4a7a2fc4c7e4307f9b9e718ac0bd228e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/519de7604725571cc28cac7c0aea4529/a0118c8ef4bdfe61292191bce39751e5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dec3851017b02c9b2c90e4b32222f67d/3e1cf2b7044fa6317c113908d8aba68a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d30867cd9eab19e48b9a7775a2bb935/fa33838926b39a9607c5735eb1d749be.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cf56203dad70d55be08083dafb739e13/a37e95573ee3d7894521fdced90409e5.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -2102,17 +2102,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790715390"
+      "LastUpdatedUnixTime": "1790781525"
     },
     {
       "ID": "3690",
@@ -2486,7 +2481,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790645615"
+      "LastUpdatedUnixTime": "1790774811"
     },
     {
       "ID": "3713",
@@ -3579,101 +3574,6 @@
       "LastUpdatedUnixTime": "1790437351"
     },
     {
-      "ID": "3671",
-      "Internal-ID": "214319991",
-      "Name": "Esthi",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "19",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f29b9baeac447d989e5947ad88369dc0/cb48dc7f99153bfb42ebb7e00ae10420.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f8478db99951984714aa29bc501f8ed/bc7718d75863972bbcbadd3c0092e9fc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b3b357986bc7fef5a58c8bef65939ef/1797ec82557b54db31c96d267498635e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/257f8ea7246af0c7ff3118f6d6db8318/f592c48158ee15b95ffd14ba21179d60.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/309d183d6938110f989919ba07ec7cfc/5aad95a1d8b5ff7f0e6bad864240e8b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d8ee578b65a6275d9439044241252993/237244e835cf9631f40a978cfbe02fd1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2f68413145871d92df027c0625d6c424/ad17d60499d27f6cce2587f6e69f8fdf.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Fawn/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Esthi is a delightful puppy, full of energy and curiosity. She quickly adapted to using a crate for naps, downtime, and overnights, and she has been sleeping through the night (6-7 hours) without needing a bathroom break. During the day, she goes outside after naps and meals and so far has not had any accidents indoors. Esthi loves chewing on toys, thinks she is a big as our 50 lb resident dog, and shows no signs of fear about anything. She is extremely food-motivated and learned \"sit\" in two days, which she has nicely demonstrated in almost every photo we have taken of her!\n\nEsthi has perfected the adorable head tilt and will be a great addition to some lucky home!",
-      "LastIntakeUnixTime": "1787195921",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790542202"
-    },
-    {
       "ID": "3676",
       "Internal-ID": "214320061",
       "Name": "Queso Blanco",
@@ -3788,97 +3688,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790733821"
-    },
-    {
-      "ID": "3683",
-      "Internal-ID": "214320069",
-      "Name": "Taz",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "20.4",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388085,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0800c7f7f9d57b4f7249b4ba5237556f/d03e47135365f6cfb4aeabdff1c96f61.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0800c7f7f9d57b4f7249b4ba5237556f/d03e47135365f6cfb4aeabdff1c96f61.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a96a6b26c5a90337e2a47cca9b361d2f/a056573e073d4f988d8e71417219dc84.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2eb18fceaffa22ab83f57b81f193fda4/9a7965a4e506a398371418405b939517.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/79195432969dd2b7faa88eae76ba6035/903867591effa24dc85606510e4ffd8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/736ecbede99aa27550e3fe42cceb33d4/d684781d53b2050395c3cba8f925fe36.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Taz is a laid-back, confident puppy! He likes to sleep in, doesn’t get anxious and likes to snuggle. He likes to tell his brothers what to do and loves to eat all the food! He is a sweet, cute pup that should be easy to take into new situations, train well and will grow into a fantastic companion!",
-      "LastIntakeUnixTime": "1787167169",
-      "Attributes": [
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790733751"
     },
     {
       "ID": "3698",
@@ -4225,6 +4034,101 @@
       "LastUpdatedUnixTime": "1790029867"
     },
     {
+      "ID": "3671",
+      "Internal-ID": "214319991",
+      "Name": "Esthi",
+      "LitterGroupId": 9575376,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "24.4",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778648400,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f29b9baeac447d989e5947ad88369dc0/cb48dc7f99153bfb42ebb7e00ae10420.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f8478db99951984714aa29bc501f8ed/bc7718d75863972bbcbadd3c0092e9fc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b3b357986bc7fef5a58c8bef65939ef/1797ec82557b54db31c96d267498635e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce31c3e96280ca1098159178eba66c7b/fdb0b90ba5ddd963ba11033d463d2435.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/257f8ea7246af0c7ff3118f6d6db8318/f592c48158ee15b95ffd14ba21179d60.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/309d183d6938110f989919ba07ec7cfc/5aad95a1d8b5ff7f0e6bad864240e8b4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8ee578b65a6275d9439044241252993/237244e835cf9631f40a978cfbe02fd1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2f68413145871d92df027c0625d6c424/ad17d60499d27f6cce2587f6e69f8fdf.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
+      "Color": "Fawn/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Esthi is a delightful puppy, full of energy and curiosity. She quickly adapted to using a crate for naps, downtime, and overnights, and she has been sleeping through the night (6-7 hours) without needing a bathroom break. During the day, she goes outside after naps and meals and so far has not had any accidents indoors. Esthi loves chewing on toys, thinks she is a big as our 50 lb resident dog, and shows no signs of fear about anything. She is extremely food-motivated and learned \"sit\" in two days, which she has nicely demonstrated in almost every photo we have taken of her!\n\nEsthi has perfected the adorable head tilt and will be a great addition to some lucky home!",
+      "LastIntakeUnixTime": "1787195921",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790790404"
+    },
+    {
       "ID": "3673",
       "Internal-ID": "214319996",
       "Name": "Fifi Noelle",
@@ -4344,116 +4248,6 @@
       "LastUpdatedUnixTime": "1790734073"
     },
     {
-      "ID": "3687",
-      "Internal-ID": "214320081",
-      "Name": "Bane ",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "17.6",
-      "Size": "Small (0-24)",
-      "Altered": "No",
-      "DOBUnixTime": 1779388423,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bcf410d5a570a61e20d431df231e28ee/5e2f2afb05197e57b5a5c5312a1b6257.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4106c349557254034784fe73e2420d5/c016329034e492d19663dd7eca7042d2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/97904145ed7fa7bc25abae7873f5e450/adeb393ace8b47e4eb96e858858a00f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b0c508900a811c9a963d501e3ed24f6/af43e923a5900ee1c712f703477038be.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Small)",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Bane is a little guy with big personality! He is up to explore and find the fun anywhere. He likes to be with people and loves to snuggle in close. He and his brothers are very polite, give kisses but refrain from using their teeth which has been so nice! He plays well with his brothers and it has been fun watching him grow and develop. He will make a sweet, cute, fun companion!",
-      "LastIntakeUnixTime": "1787190087",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790733375"
-    },
-    {
       "ID": "3705",
       "Internal-ID": "214562569",
       "Name": "Moose ",
@@ -4463,7 +4257,7 @@
       "Sex": "Male",
       "Status": "Pending Adoption",
       "InFoster": true,
-      "CurrentWeightPounds": "23",
+      "CurrentWeightPounds": "28",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1679288400,
@@ -4539,7 +4333,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790773945"
+      "LastUpdatedUnixTime": "1790790196"
     },
     {
       "ID": "1442",
