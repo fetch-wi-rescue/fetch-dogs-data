@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:29:55Z",
+  "updated": "2026-09-30T22:30:12Z",
   "animals": [
     {
       "ID": "3458",
@@ -1745,6 +1745,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-30T18:29:55Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3669",
+      "Name": "Baxter",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-09-30T22:30:12Z",
       "status": "pending"
     }
   ]

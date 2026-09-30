@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T18:29:55Z",
-  "count": 49,
+  "updated": "2026-09-30T22:30:12Z",
+  "count": 48,
   "animals": [
     {
       "ID": "3279",
@@ -1387,106 +1387,6 @@
       "LastUpdatedUnixTime": "1790080793"
     },
     {
-      "ID": "3669",
-      "Internal-ID": "214319986",
-      "Name": "Baxter",
-      "LitterGroupId": 9575376,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778648400,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/0a76482d1fe8d6ed3d8b8ad23c6151c3/baf82867a75fad083a7c9590345ce998.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c8f3b7cc387e74a9da5844a0bd00bb3/6b55826c31df9e7708f2ea8ae787a862.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e813fd0ab11f2c4bb6ef9490e14d8bee/dab56c109c95b768a214fb8df90bf591.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2287b133f0c7c35e1fa2494953d7ff4b/81bb32395e8e09f483e3512f56ea022b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/94822a191f1c70ea1a881a612b3d06fc/b0278e578fb6641288fb21ee877e61ea.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/87d9ae2255ccba8d0d11741f146e07b0/acd5a62f765cca5784a6ba505f13dafa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/17ff78ab513340ca839ee9a6dd477f4f/a81ee2d2e086cdda76a21f642991da3a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2190be413e892628ae44863bd46a9e71/ec857bec364353752406dd2eaf967793.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1d04747f6c0ffa5cc10f2c96b66bd40/d672c0dd6d92a60d03f53b51395c7678.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa72e80a90944329ba3946c848cfd424/ba6cf39633985d16a9e24b3f9fc7c4e7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/294ba25dc2fce576cab485585d2c867d/2778cf9066ee189198c318f152f8458c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a980d37096cffeeded5266b5f3591d3/00254e390732274f1459e7b873a57d5c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/967456216ead72c33bcd73bed648e48f/bbf51ec04d6fbfdbd3e9fcc502c29553.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1c52a99680747513fd1f6a3a6a405442/be8357278c65e42333ee0c098ad393e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4380679cc8a9eddaee0c79a5eca46c03/0765273177b5af650590b25867d686d8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb5cdd984d6d32aed3388341b17213de/c549ee496dc186f2f17b255331ee8dd6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/df49a20baf6fe707e21326fc4a35fa93/101db60656e1f968ed1ade2dd36f9264.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/af3580b18e2c7903531a5eaca2739687/c0d071a42f87c8be3ce133a0833355cf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a62d1ddd5952e6e743fbc9838abdd138/82bdd8cfa819263b5211f19e6f3a2a4d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/65896721850597719049a58c9af3ae32/cb131d4c032bb55d3e69d8c93c7322b6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/44271eefc51b750103864be317a9636e/2b55527eeabb10f0a772db4a9229ee51.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6d248f4ee378c7cf6af31f80211f4715/3366f73cd4362b70f7e6a51d36407de3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/403b9bc99b3448c6c7bb9341918a38b3/2b551e5c7ae8f0a3ab3978faac19324a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/81339ecd39b12c23e00c865164cb941c/88db7d0a6b26b04b3226fde6c21c271c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Medium)",
-      "Color": "Grey/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "- Baxter is kennel trained and potty trained.\n- Baxter goes on two 20 minutes walks per day, and LOVES every second of them. He is working on leash manners. He does well following my direction, but he still tugs a lot when he wants to move faster.\n- Baxter is working on sit and stay.\n- He is VERY social. He thinks everyone he comes into contact with wants to be his friend, whether they’re a human, dog, or cat.\n- Baxter is the definition of a house hippo. He loves to lounge around and bake in the sun.\n- Baxter loves belly rubs, but may love his ears scratched more.\n- Baxter could fit into a home with lots of energy and fun, or a slower more calm setting. He loves to play hard and crash even harder.\n- Baxter is curious and wants to learn. Treats are his favorite and he’s motivated to hear the crinkle of the treat bag with a “good boy.”\n- Baxter is always looking for his people whether it’s to snuggle up, give kisses, or play. He is happiest when he is snuggled up with his human. Personal space is not a thing in Baxter’s world.\n- Baxter has recently discovered he loves taller grass (not taller than him so he can still see around), but rolling in tall grass and baking in the sun makes him the happiest.",
-      "LastIntakeUnixTime": "1787195637",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790734003"
-    },
-    {
       "ID": "3677",
       "Internal-ID": "214320062",
       "Name": "Parker",
@@ -2484,6 +2384,84 @@
       "LastUpdatedUnixTime": "1790774811"
     },
     {
+      "ID": "3712",
+      "Internal-ID": "214615684",
+      "Name": "Espresso",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1785394800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47d117009ffbaee13f5d6af2e1dc65ea/145e814379020649763eae576bf69c3b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/47d117009ffbaee13f5d6af2e1dc65ea/145e814379020649763eae576bf69c3b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d674648df00bcb3b7a304c4caa82048c/ad1688db93595e518b6cb022353bd56a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3039ef5707d0fd53018aa213f8c2b80/27c1eab8e8144e5d681f6eab3ca2cf84.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c32c31c9c43ae5d68baea20dc5f13d65/5640bb3281ac84a129f1654f767d04d0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4117e0864ab2ed05dcc3086d940757d/970b872b70f9593da5bbb1593e7a126d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c7b4a0e425b10417f47450d376c8a20b/7c3e7b413d1e0665a6e3ab6f0f27e379.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3ad0e152693ed6013a703f0d54c543e8/ebc15b6817e9f6ba304b3350cdfe9272.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c1864b638a062cc3f71209c46982c7b/49e459756fdb145537e0d98373f1c213.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c2124c7d4f94aee5b7c78ea8da8375f/3b41d02c8004cf50577a9da647cac2ea.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Espresso anyone? This little pup just arrived from Alabama and is acclimating well to Wisconsin though she's not a fan of all the rain lately. While Espresso is her given name, we immediately gave her the nickname, Smudge, because it looks like a brown spot on her mouth is a lipstick smudge. It suits her certainly gives her character.\n\nThis puppy goes from playing to napping in mere minutes. She is an excellent snuggler too! We're still working on potting and crate training. Espresso is only a few months old, but boy does she snore like a grandpa in a recliner!\n\nShe gets along well with our two dogs, both Fetch alumni. And she's been great when meeting strangers and falling asleep on them.\n\nEspresso has Brindle coloring with a light pattern on her back.\n\nCurrent schedule\n1 -3 am - little cries to go out, then she settles right back down\n6:30 - wakes up, outside, eat, play\nPlay, nap, outside, chew on toys, nap, snore, outside, run around...\n6 pm - eat, outside, play\n10:30 - nighty night in the crate",
+      "LastIntakeUnixTime": "1790286778",
+      "Attributes": [
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790803960"
+    },
+    {
       "ID": "3713",
       "Internal-ID": "214615685",
       "Name": "Biscotti",
@@ -2582,7 +2560,7 @@
       "Color": "Chocolate",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": " Cannoli is a typical puppy. Everything is worth exploring for him. He loves to explore the yard , to run and play, to snuggle and eat. He is pretty much potty trained, if he gets out every hour. He comes when called and really enjoys playing with his sibling Meatball.",
+      "Description": " Cannoli is a typical puppy. Everything is worth exploring for him. He loves to explore the yard, to run and play, to snuggle and eat. He is working on potty training since he is a typical puppy. He comes when called and really enjoys playing with his sibling Meatball.",
       "LastIntakeUnixTime": "1790286518",
       "Attributes": [
         {
@@ -2669,7 +2647,7 @@
       "Color": "White",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "Meatball is a typical puppy. He is a little shy first but warms up quickly to you. He loves to run and play and snuggle. He enjoys playing with his sibling Cannoli and then snuggle up next to him. He is very close to be potty trained, if he can get out every hour during the day. He really enjoys napping in the sun.",
+      "Description": "Meatball is a typical puppy. He is a little shy first but warms up quickly to you. He loves to run and play and snuggle. He enjoys playing with his sibling Cannoli and then snuggle up next to him. He is working on potty training, but he is a puppy of course. He really enjoys napping in the sun.",
       "LastIntakeUnixTime": "1790286747",
       "Attributes": [
         {
@@ -3089,52 +3067,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790719534"
-    },
-    {
-      "ID": "3712",
-      "Internal-ID": "214615684",
-      "Name": "Espresso",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d674648df00bcb3b7a304c4caa82048c/ad1688db93595e518b6cb022353bd56a.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d674648df00bcb3b7a304c4caa82048c/ad1688db93595e518b6cb022353bd56a.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1790286778",
-      "Attributes": [
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790622775"
+      "LastUpdatedUnixTime": "1790799611"
     },
     {
       "ID": "3716",
@@ -3687,7 +3620,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790733821"
+      "LastUpdatedUnixTime": "1790800587"
     },
     {
       "ID": "3698",
