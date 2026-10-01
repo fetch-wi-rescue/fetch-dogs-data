@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T22:30:12Z",
+  "updated": "2026-10-01T01:43:26Z",
   "animals": [
     {
       "ID": "3458",
@@ -1754,6 +1754,33 @@
       "Status": "Available",
       "reason": "likely_adopted",
       "disappearedDate": "2026-09-30T22:30:12Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3671",
+      "Name": "Esthi",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/584d1152737f45241583d3bc010fea5b/969ac14cd17c8ae199218da7a7320de0.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-01T01:43:26Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3673",
+      "Name": "Fifi Noelle",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aee8517579353657e19d1ded2e04e383/a167cc1f66c3a28551d940c168b2088d.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-01T01:43:26Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3676",
+      "Name": "Queso Blanco",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d1d648a03cc34b1a6fa49c24236fc591/9b7cd2bac2db93074cd8fafef762f5e9.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-01T01:43:26Z",
       "status": "pending"
     }
   ]
