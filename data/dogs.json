@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:09:38Z",
+  "updated": "2026-10-02T21:22:54Z",
   "count": 42,
   "animals": [
     {
@@ -2194,14 +2194,26 @@
       "Altered": "Yes",
       "DOBUnixTime": 1693890000,
       "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fb58a1f69a8739591064056c43c013d2/1d20a3b4f2a5f85593ed0c738fd0eaad.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb58a1f69a8739591064056c43c013d2/1d20a3b4f2a5f85593ed0c738fd0eaad.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/74e0047e241438a03c5face72c5ee1da/4f985f3ec4086c98d7eaeffacf61aa4c.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/74e0047e241438a03c5face72c5ee1da/4f985f3ec4086c98d7eaeffacf61aa4c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad0fd6d8921cb20636e790639052b811/e363a8473f9e045665bc561efdbd7a30.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9c2dade52f340ac29cc69428cb70ce8a/25539b3da6690dcae112975b658ffb50.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/763c0a66a946c42b4171ab430bceb479/8521c9b5c93c5bb7e88e5b2d29395af4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/926c053eec72137a517b8add1ef2aca4/bfd661225604069cac162877409c3f61.jpeg"
       ],
-      "Videos": [],
+      "Videos": [
+        {
+          "VideoId": "VTA9r-pi3Qw",
+          "EmbedUrl": "//www.youtube.com/embed/VTA9r-pi3Qw?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=VTA9r-pi3Qw",
+          "ThumbUrl": "https://img.youtube.com/vi/VTA9r-pi3Qw/0.jpg"
+        }
+      ],
       "Breed": "Mixed Breed (Small)",
       "Color": "Cream",
       "Pattern": "None",
@@ -2272,7 +2284,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790900879"
+      "LastUpdatedUnixTime": "1790967226"
     },
     {
       "ID": "3707",
@@ -2642,11 +2654,13 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d3486c5b839ccf5fbed2dc7585c241b2/0a6f62d596c5b70c24c8b7e677be7c4b.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d657fa5c115ff97d805e1278361dd9a8/28013fcde64578cb07793f93f079b865.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d3486c5b839ccf5fbed2dc7585c241b2/0a6f62d596c5b70c24c8b7e677be7c4b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d657fa5c115ff97d805e1278361dd9a8/28013fcde64578cb07793f93f079b865.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/13b8827044d5f2dd405f03fd709c2785/79431c047e68fd900cdbe88e0f2bb460.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e0ad243f71158a7ee287ad11f869d5d8/d3cf90ff58ec8c736579235bb5cf60cd.PNG"
+        "https://new-s3.shelterluv.com/profile-pictures/d3486c5b839ccf5fbed2dc7585c241b2/0a6f62d596c5b70c24c8b7e677be7c4b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e0ad243f71158a7ee287ad11f869d5d8/d3cf90ff58ec8c736579235bb5cf60cd.PNG",
+        "https://new-s3.shelterluv.com/profile-pictures/c7444689e14c40bcf3bc473dade80467/90e60141cf94cac7d023a5c159bd6f4e.PNG"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Large)",
@@ -2712,7 +2726,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790609901"
+      "LastUpdatedUnixTime": "1790967168"
     },
     {
       "ID": "3717",
