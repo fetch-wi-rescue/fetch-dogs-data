@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T01:43:26Z",
+  "updated": "2026-10-02T00:22:36Z",
   "animals": [
     {
       "ID": "3458",
@@ -1781,6 +1781,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-01T01:43:26Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3651",
+      "Name": "Malibu",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d46480ade429323d127997c665b6ded/e7a6169774073dd7e390228f273cc2cf.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-02T00:22:36Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3705",
+      "Name": "Moose ",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36b11c6b313b9ee10a91606d3ef076c5/7420f7bc433e401b1af3e561d5ca433e.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-02T00:22:36Z",
       "status": "pending"
     }
   ]
