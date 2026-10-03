@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:34:53Z",
+  "updated": "2026-10-03T05:56:19Z",
   "count": 42,
   "animals": [
     {
@@ -1390,9 +1390,9 @@
       "Altered": "No",
       "DOBUnixTime": 1779996933,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/1dae4d429b5eb4e2c97b19e4dc22b664/2deda62718a50b78a7a992f03b338602.jpg",
@@ -1404,8 +1404,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/ed48505bbdc03627188d736c7d872810/51e1223f63ffc0600d1292a08f855672.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/245bdd48cba53790badba73f5193289b/c3c39afe9bc297f4fbfd5394965594f3.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4a467eec2528fecfc971ae531387a846/7b45a0a4aceb08e7c456b755c8f046fa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5bdffa07305829b8cd94964a3edb10b9/8d5a0780e5ff01f29440f3e16a611f75.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/db5852bee1f616edb74accb833254234/86bec1600b463d7bb1ce0dabd8597b70.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/db5852bee1f616edb74accb833254234/86bec1600b463d7bb1ce0dabd8597b70.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b0a78fd14eeed0e60564adac27c284b6/bf2029be20995e7c16e3b74355f8352a.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -1478,106 +1480,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790943876"
-    },
-    {
-      "ID": "3678",
-      "Internal-ID": "214320063",
-      "Name": "Alfredo",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997141,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/113ad8770e72c760ece494d2ea51f235/6f728ad9699a274bd251630f9ae71c26.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/113ad8770e72c760ece494d2ea51f235/6f728ad9699a274bd251630f9ae71c26.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/253ba07ed8953be433735a3771f254ea/01fbaa9e611b3b2d4966277107d95d3c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/904c849bf01dc49de0198425ac4a0825/aa4492783fa363e1d0d7f36ef1da6154.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cb8ce3bef2fe9bd493c3a5f85e6eb367/dcd6fe23febf64a89d429f70f38ba29f.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Brown/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi there! I'm Alfredo, but my foster fans call me Alfie. 🥖\nI’m a 16-week-old Bluetick Coonhound mix puppy. Right now I'm a pocket-sized 10 pounds, but my mom is 45 pounds, so I’ve got some room to grow! My foster family says I’m scary smart. I already know my name, how to come when called, how to sit politely, and I’m a superstar at \"leave it.\" (Even when it's really tempting!) \nMy perfect day consists of hanging out in the same room as you, playing a fierce game of tug, and sprinting around outside. I like other dogs a lot, but because I'm still a little guy, big dogs can make me nervous at first. I just need a little time and a slow introduction to big buddies to feel safe. New places and new humans can also make me a bit skittish initially, so I’m looking for a patient family who will let me transition at my own pace.\nI do best when my humans are firm and consistent with the rules—it helps a smart pup like me feel secure. My big brain makes me very curious about the world around me, so I need someone to keep an eye on me and make sure my curiosity doesn't get me in trouble. Once I know the ropes and feel settled, my true, goofy, vibrant self comes shining through. Will you be the one to help me bloom?",
-      "LastIntakeUnixTime": "1787166038",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790724646"
+      "LastUpdatedUnixTime": "1790997814"
     },
     {
       "ID": "3679",
@@ -2197,14 +2100,14 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fb58a1f69a8739591064056c43c013d2/1d20a3b4f2a5f85593ed0c738fd0eaad.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/fb58a1f69a8739591064056c43c013d2/1d20a3b4f2a5f85593ed0c738fd0eaad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e343dbb7001b8db8cc12335e2c202a52/fad5bf42012dddaec0a5d6508f359b76.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/74e0047e241438a03c5face72c5ee1da/4f985f3ec4086c98d7eaeffacf61aa4c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ad0fd6d8921cb20636e790639052b811/e363a8473f9e045665bc561efdbd7a30.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9c2dade52f340ac29cc69428cb70ce8a/25539b3da6690dcae112975b658ffb50.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/763c0a66a946c42b4171ab430bceb479/8521c9b5c93c5bb7e88e5b2d29395af4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/926c053eec72137a517b8add1ef2aca4/bfd661225604069cac162877409c3f61.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/926c053eec72137a517b8add1ef2aca4/bfd661225604069cac162877409c3f61.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7b9b6d1ff39bd858588c56aaaa692f97/98a3025f722dfcd1b3f205b7a9426c27.jpeg"
       ],
       "Videos": [
         {
@@ -2284,7 +2187,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790967226"
+      "LastUpdatedUnixTime": "1790989307"
     },
     {
       "ID": "3710",
@@ -3065,7 +2968,7 @@
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1533272400,
-      "Age": 97,
+      "Age": 98,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
@@ -3259,6 +3162,105 @@
         }
       ],
       "LastUpdatedUnixTime": "1790868755"
+    },
+    {
+      "ID": "3678",
+      "Internal-ID": "214320063",
+      "Name": "Alfredo",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "10.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779997141,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/113ad8770e72c760ece494d2ea51f235/6f728ad9699a274bd251630f9ae71c26.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/113ad8770e72c760ece494d2ea51f235/6f728ad9699a274bd251630f9ae71c26.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f6b90a41e5f11cd78ce6619aaed304b2/376198a6b96a8fcb8bcdaaa29311be37.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/682e25ce8266f0dca9c9ca93b1ade9dc/9bc523be6812d9e299e228ce4b563baa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/927cd5e7319ecd3213735e4bc613d0ce/c83775bc875ac10356fe44a9d8ab7a7a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4bd145d4fae5dd700512222599c659d7/f4ffc550d4039203cffaec2f2ba298f5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/253ba07ed8953be433735a3771f254ea/01fbaa9e611b3b2d4966277107d95d3c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/904c849bf01dc49de0198425ac4a0825/aa4492783fa363e1d0d7f36ef1da6154.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb8ce3bef2fe9bd493c3a5f85e6eb367/dcd6fe23febf64a89d429f70f38ba29f.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Brown/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi there! I'm Alfredo, but my foster fans call me Alfie. 🥖\nI’m a 16-week-old Bluetick Coonhound mix puppy. Right now I'm a pocket-sized 10 pounds, but my mom is 45 pounds, so I’ve got some room to grow! My foster family says I’m scary smart. I already know my name, how to come when called, how to sit politely, and I’m a superstar at \"leave it.\" (Even when it's really tempting!) \nMy perfect day consists of hanging out in the same room as you, playing a fierce game of tug, and sprinting around outside. I like other dogs a lot, but because I'm still a little guy, big dogs can make me nervous at first. I just need a little time and a slow introduction to big buddies to feel safe. New places and new humans can also make me a bit skittish initially, so I’m looking for a patient family who will let me transition at my own pace.\nI do best when my humans are firm and consistent with the rules—it helps a smart pup like me feel secure. My big brain makes me very curious about the world around me, so I need someone to keep an eye on me and make sure my curiosity doesn't get me in trouble. Once I know the ropes and feel settled, my true, goofy, vibrant self comes shining through. Will you be the one to help me bloom?",
+      "LastIntakeUnixTime": "1787166038",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1790988166"
     },
     {
       "ID": "3698",
