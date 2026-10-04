@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:56:38Z",
+  "updated": "2026-10-04T06:07:16Z",
   "animals": [
     {
       "ID": "3458",
@@ -1808,6 +1808,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-02T05:56:38Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3576",
+      "Name": "Buddy the Hound",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b4c4c36d34813177eb57a3c3e89321c2/c49ae73a85b6a4a4f59f2300b6f64828.jpeg",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-10-04T06:07:16Z",
       "status": "pending"
     }
   ]
