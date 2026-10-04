@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T06:07:16Z",
+  "updated": "2026-10-04T17:12:48Z",
   "animals": [
     {
       "ID": "3458",
@@ -1817,6 +1817,24 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-10-04T06:07:16Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3707",
+      "Name": "Barkley",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6490d547f3e302f23b9078c8531432e3/e76a9a4bf2153e2fcbead155bde01375.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-04T17:12:48Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3708",
+      "Name": "Mimi",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/918d8f77119085dfb6e6d9cfdd981622/99a4f1b70d2b33e3e32853105db27da6.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-04T17:12:48Z",
       "status": "pending"
     }
   ]
