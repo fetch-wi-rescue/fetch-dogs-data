@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:12:48Z",
+  "updated": "2026-10-04T20:17:22Z",
   "count": 39,
   "animals": [
     {
@@ -2190,6 +2190,93 @@
       "LastUpdatedUnixTime": "1790989307"
     },
     {
+      "ID": "3711",
+      "Internal-ID": "214615683",
+      "Name": "Caprese",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1785394800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4d9c7e635664986c8dcd3f049c1a6e9/d0c25792aa33c58616d91648c2c3e475.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5da89b6ab3675f95b2b6870d6a90c95f/daf79d7632119023b6aba522a452b029.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e66eb14b0e412f4ed65dcda881a9371/8518da998f7720bf1f9582a6f13138f4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/680487243a8fa9d5baecc1f3a958c999/b7dfec04e55369cba2004623c9beb36e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d45917421a39e49e225b467270c2854d/136ae6d02095c706ef5656ae211bd5ed.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/54819933c446096b58b68591b19f8ea3/c1bcd8a92800de9e3db305f762552473.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d1c7cbcb2fbfc4b10a49ee4c01ae26c/a89aace9fe6b6f790bae69a39e52c826.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": null,
+      "Description": "True to her namesake, Caprese is indeed a little snack, though definitely more of the sweet variety.  She is all about cuddles, naps, and exploring what this big new world has to offer.  \n\nCaprese lives for treats, trailing after her big canine brother, and car rides that end with a pup-cup.\n\nIt’s impossible not to fall in love with this adorable little girl.\n",
+      "LastIntakeUnixTime": "1790286897",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791136961"
+    },
+    {
       "ID": "3713",
       "Internal-ID": "214615685",
       "Name": "Biscotti",
@@ -2297,6 +2384,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296939",
           "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
@@ -2347,7 +2439,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791127328"
+      "LastUpdatedUnixTime": "1791139771"
     },
     {
       "ID": "3715",
@@ -2386,6 +2478,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296939",
           "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
@@ -2436,7 +2533,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791127329"
+      "LastUpdatedUnixTime": "1791139756"
     },
     {
       "ID": "3717",
@@ -2663,46 +2760,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1790706620"
-    },
-    {
-      "ID": "3711",
-      "Internal-ID": "214615683",
-      "Name": "Caprese",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f4d9c7e635664986c8dcd3f049c1a6e9/d0c25792aa33c58616d91648c2c3e475.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/f4d9c7e635664986c8dcd3f049c1a6e9/d0c25792aa33c58616d91648c2c3e475.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
-      "Description": "True to her namesake, Caprese is indeed a little snack, though definitely more of the sweet variety.  She is all about cuddles, naps, and exploring what this big new world has to offer.  \n\nCaprese lives for treats, trailing after her big canine brother, and car rides that end with a pup-cup.\n\nIt’s impossible not to fall in love with this adorable little girl.\n",
-      "LastIntakeUnixTime": "1790286897",
-      "Attributes": [
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791132119"
     },
     {
       "ID": "3716",
