@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T09:20:52Z",
-  "count": 39,
+  "updated": "2026-10-05T18:39:48Z",
+  "count": 38,
   "animals": [
     {
       "ID": "3279",
@@ -1920,7 +1920,14 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb35f6827f95255e2355b691c75d4761/4221a2f6e088b0182c04e9adcd9f59be.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b26ee8730f11da1b857f7e911f4253c0/319cc2f9bb9282dd04f93ebd5dd92f47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/08398a45f826ac7582ca31624878ee68/0de0c6420faf88b0b8ca5b8476407b41.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/793baae2da0d47e774ac4dd9e91267ce/8d397783ab5ac0e377b469f3d672df36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/23d5d5806ca8d9c9758a4864847ad4ec/5dd6e4878590ac6e82a3220b1e7d6012.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cecceea3bfa3c138704e52f09465b861/e08b6378710fda2b322d0d34a7d72394.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Hound",
@@ -1993,7 +2000,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790437253"
+      "LastUpdatedUnixTime": "1791221698"
     },
     {
       "ID": "3703",
@@ -2109,14 +2116,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/926c053eec72137a517b8add1ef2aca4/bfd661225604069cac162877409c3f61.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7b9b6d1ff39bd858588c56aaaa692f97/98a3025f722dfcd1b3f205b7a9426c27.jpeg"
       ],
-      "Videos": [
-        {
-          "VideoId": "VTA9r-pi3Qw",
-          "EmbedUrl": "//www.youtube.com/embed/VTA9r-pi3Qw?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=VTA9r-pi3Qw",
-          "ThumbUrl": "https://img.youtube.com/vi/VTA9r-pi3Qw/0.jpg"
-        }
-      ],
+      "Videos": [],
       "Breed": "Mixed Breed (Small)",
       "Color": "Cream",
       "Pattern": "None",
@@ -2664,7 +2664,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790197805"
+      "LastUpdatedUnixTime": "1791205658"
     },
     {
       "ID": "3706",
@@ -2759,7 +2759,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790706620"
+      "LastUpdatedUnixTime": "1791224715"
     },
     {
       "ID": "3716",
@@ -2925,7 +2925,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790701266"
+      "LastUpdatedUnixTime": "1791210959"
     },
     {
       "ID": "3659",
@@ -3134,7 +3134,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790868755"
+      "LastUpdatedUnixTime": "1791206623"
     },
     {
       "ID": "3678",
@@ -3236,96 +3236,6 @@
       "LastUpdatedUnixTime": "1790988166"
     },
     {
-      "ID": "3698",
-      "Internal-ID": "214327204",
-      "Name": "Heath",
-      "LitterGroupId": 9575947,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.5",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778821200,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c99e0b27cfe579eab21b5cf3f70a2b7c/fed744101a97c030dd8b1658346088ca.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c99e0b27cfe579eab21b5cf3f70a2b7c/fed744101a97c030dd8b1658346088ca.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/faacb399c7de6414b270d47c86a28f3d/7e93353e9975a7d4e069b223048754ab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/36c3890c64bed6df73851a1e9254292b/f0209f449be9727e655fd4ab52e7851b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d4e4b6b1f1b96edd97d188ca9aedd792/7794d060aa172ebfb58235641b3911b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dc7550bd75371fe25b201774773b257d/368cca1894cdf1f935aff72b86ed3a6f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fe116969f6b584d8f662d5495c3383d3/02a80d014a056af54dca9f1523f014d5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/52745934b9ec61772c435b4149122aed/5ce934cbe7a7602533fc9bfc03db9a4a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/408454c87d7093584dc2659012a70751/e06d6e23c885a4a2124990e9592de632.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/24784fe98fe8c5ce785f5f168dd49eaa/b428fe3a4d59dc325c7a17bdd019a1c7.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bulldog/Mix",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Heath!\n\nA four month old puppy who loves his sleep and has his high energy moments, too. Heath is very ready to find his forever home. He loves people and saying hi to them with lots of kisses.\n\nHe has greatly improved in lots of his training. He hasn’t had accidents inside for a while and is very receptive to “come”, “sit”, and “no”. When he’s really excited his tail spins in a circle! And when he meets new friends he sometimes likes to crawl over to say hi.\n\nHeath goes outside regularly and enjoys playing (in a fenced yard) once or twice a day to get his energy out. He hasn’t met any feline friends, but he has played very nice with other puppies and dogs, he would probably be nice or tolerant of feline friends.\n\nHeath is crate-trained, does well on a leash, and with just a little more work, he will be the perfect companion and family dog!\n\n",
-      "LastIntakeUnixTime": "1787236190",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791161940"
-    },
-    {
       "ID": "3710",
       "Internal-ID": "214615682",
       "Name": "Betsy",
@@ -3382,6 +3292,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634886",
           "AttributeName": "✅ Loves to play",
           "Publish": "Yes"
@@ -3407,7 +3327,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791122856"
+      "LastUpdatedUnixTime": "1791220271"
     },
     {
       "ID": "3712",
