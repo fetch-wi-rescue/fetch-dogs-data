@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:39:48Z",
+  "updated": "2026-10-06T23:28:59Z",
   "animals": [
     {
       "ID": "3458",
@@ -1844,6 +1844,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-05T18:39:48Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3578",
+      "Name": "Amara",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-06T23:28:59Z",
       "status": "pending"
     }
   ]
