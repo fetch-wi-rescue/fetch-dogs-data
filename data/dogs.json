@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T00:30:49Z",
-  "count": 38,
+  "updated": "2026-10-06T07:03:04Z",
+  "count": 39,
   "animals": [
     {
       "ID": "3279",
@@ -93,7 +93,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791082505"
+      "LastUpdatedUnixTime": "1791257405"
     },
     {
       "ID": "2582",
@@ -2222,7 +2222,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "9",
+      "CurrentWeightPounds": "11.2",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
@@ -2280,7 +2280,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791235507"
+      "LastUpdatedUnixTime": "1791247803"
     },
     {
       "ID": "3714",
@@ -2481,7 +2481,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "10",
+      "CurrentWeightPounds": "13",
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
@@ -2542,7 +2542,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791235621"
+      "LastUpdatedUnixTime": "1791247833"
     },
     {
       "ID": "3663",
@@ -2736,6 +2736,39 @@
         }
       ],
       "LastUpdatedUnixTime": "1791235588"
+    },
+    {
+      "ID": "3718",
+      "Internal-ID": "214695886",
+      "Name": "Ringo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1728536400,
+      "Age": 23,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/099f7443099267be37144c32caaec80b/cfc55c5812470f562b240fac5a43550e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ab3cbe1c4dfda33041948dbec4ae0569/cc879bcc854befc9dc4e32cc8d03596e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8f1b82bd1fa038f02bbedb8e3fe008fa/d8d29e374927c610274ba53ea5690b34.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c6051cc5669e4ecf1091c51c155f053/bd01c47eb804d41b031c654c40e56d89.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Great Dane",
+      "Color": "Brown/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1791255995",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1791262707"
     },
     {
       "ID": "3658",
@@ -3009,7 +3042,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1751778000,
-      "Age": 14,
+      "Age": 15,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
