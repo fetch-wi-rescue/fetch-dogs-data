@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:39:48Z",
+  "updated": "2026-10-06T00:30:49Z",
   "count": 38,
   "animals": [
     {
@@ -148,6 +148,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295161",
+          "AttributeName": "❌ Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "296939",
           "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
@@ -155,11 +160,6 @@
         {
           "Internal-ID": "296944",
           "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
           "Publish": "Yes"
         },
         {
@@ -178,19 +178,14 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "634893",
           "AttributeName": "Senior dog",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
         },
         {
           "Internal-ID": "702280",
@@ -198,7 +193,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790087308"
+      "LastUpdatedUnixTime": "1791226283"
     },
     {
       "ID": "3200",
@@ -639,9 +634,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1769184489,
       "Age": 8,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2ea0ffb33cfb17fef26c8684dcf4fe14/87710d680a4c3b3a7690c65a920b5f94.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6bbe052ec685fd82f12e26cc8d0a9221/c18a97b0b82c1e31aaf5530537ee35d9.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/2ea0ffb33cfb17fef26c8684dcf4fe14/87710d680a4c3b3a7690c65a920b5f94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6bbe052ec685fd82f12e26cc8d0a9221/c18a97b0b82c1e31aaf5530537ee35d9.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4022cd52316d5af69f51dadd9ed68f4a/7027bdc09b3332fd6fa60e3cea06770b.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0eaf9d10554e41f7db674a32ab02f99a/ed4652020cfa753f2c17c9d8ae59ddee.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/1d0e2f9219501d5a569fcff68709fa4d/6be456d022c4cd689491f1104ac5fc80.jpeg",
@@ -668,7 +663,22 @@
         "https://new-s3.shelterluv.com/profile-pictures/3ec9a973c4b8f0629ee98ff1fa5fb239/3eaa702a4faca7a2877d1f0e3db86b5f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d3b430b1d9c5e8e047e479651140d4e9/b14c1dfbea377a4664b9aeac902e2287.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d7f2994299595c86203d743f9147cb84/a839f48328c29cdd1b88ccf2fd98da9d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd5807df0da2edcbbb622fa0a3def9f5/52719e684ce17e0c558f94ca161ead7b.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/2ea0ffb33cfb17fef26c8684dcf4fe14/87710d680a4c3b3a7690c65a920b5f94.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd5807df0da2edcbbb622fa0a3def9f5/52719e684ce17e0c558f94ca161ead7b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c0905fce53e91a3a026a96faf58b6c1c/4aa4c4f3c84077c317d5c0fe66dcb339.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/50062c3765dfa565892cd2420c806c72/c6c9df66a1740815ca391ee1fac1ec5e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/edc244e230fcdfd38d708c6905638f06/f59265aa9084c3f7fd6ea084916cd0cc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a6dafaa83cb0efd08ae51e8b98a9dcbf/74311fb8413d7700a3d2a4445f984f0d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/229658d0baaf7de5ac5e4da8eb525c16/49cbdb5ea0424a56d28789bc664754e2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/103618430574f0f21b30817fbd23cbb1/f40c271356944878b650d3d6511f3351.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a7ff8dea6e308effdc68ee4db466caf/2a002547c142e2258823ea8a2073a632.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fe4d80144eea64e05a9a4bbb6ef880ff/37594db3e1dbd469b17993dfe73f92f6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e5beb8fae16a33a73ea7a92055bca8eb/4d76ca4d5b04794fbeace26bb9c55a6a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4eba43781bcdb4557c10ba64ce23b60/3ebb608242fcb141f0a2647fc5ad8f5b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/560a5f995169ba26c67e818221d20224/b0629c78fb167f0f00f46b3be769c914.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/099c01ae07432149350d1c1f744aae84/bb75f05173d9c5db1665e9abee167a5d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/be93d47b04ba5dedaf1f7fb77c430970/1ce6b04113fe08f425b066ecdbb7efcb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/61e5d7df60f53d7c8e6a77d31fe4c729/5510e4348bd77e4a140139fd43699ac7.jpg"
       ],
       "Videos": [
         {
@@ -788,7 +798,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790558315"
+      "LastUpdatedUnixTime": "1791239673"
     },
     {
       "ID": "3644",
@@ -935,9 +945,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1773597575,
       "Age": 6,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cfd63b256dd35acd4d6e02786ecc04b2/99353e7eee5637bd3cce4f2865e958cb.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fc7543675b90d4bbdb9471231e476e74/26ad4b69f18defbe7901abefa9ff657c.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cfd63b256dd35acd4d6e02786ecc04b2/99353e7eee5637bd3cce4f2865e958cb.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fc7543675b90d4bbdb9471231e476e74/26ad4b69f18defbe7901abefa9ff657c.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/4a468a782d33bbb38694fa59cf7c594b/243a97927561ffb16696f4830fd2e202.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5c5c57c9a6236a8d7531282efb857336/6516f0d7edc3ee6e22cdef8faeebc41a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3013b0c99c0e5dd4636bb5ce7ffb2e42/0b0fa473ac91e9c1604c4b543e19935a.jpeg",
@@ -958,8 +968,21 @@
         "https://new-s3.shelterluv.com/profile-pictures/ff1dc98af25b1c607f4ba5e9397dfe7a/673d5817f8e409140879aeb16acb26ae.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/e96a22aab3c8f3099a0e00f7cd38a68e/cc3a739e07f5f0883aa6a53c97dad24f.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/dd86587bbacde27b7e222ad9bcb5f031/a228c0d434442dda5f1955ec33717219.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cfd63b256dd35acd4d6e02786ecc04b2/99353e7eee5637bd3cce4f2865e958cb.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/86e0610a71d213e32816ebe069e341ba/c52c0c6f566f1bd150d99af8f8d49b47.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad299688782d6ca356bbb58896eda0b5/53c0f2ec14f144c896a55d3582d8ee1b.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/ad299688782d6ca356bbb58896eda0b5/53c0f2ec14f144c896a55d3582d8ee1b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3985324dd8f6db96a7178cfbb5f3cdb3/135b6850df3b8fdfa687f3826710c20e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/62a82d709e81591e5070f1a935377710/2cf01a0d57c49dcdc08d097caefc608a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad65a857ded4089fa726e268faf3efe4/5264bc7548a791247d60415fc725cc2f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1d5f58eb10c61ab0ba8fe4e9f5d06161/1921b146272d00999183e300deff056b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ab688a5736688ef3a802d1720c5c09f5/60399bc6a5d889d25f7e227691d84d45.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d8477cca2e37eea447ed33c2171bc94/56dffb03d8ede8fb8a6948ead03fc842.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/deed18faeac119cb97fd31cd8c73fc4d/bde4fa2bd9f20ec8635288feb4b5a41d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/28b6eb51674ef6b67abd415b07cfe0b2/d22980f6b80864a540016f1e034e4720.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eacd340c595c776d84b65c8379276f89/6f33b3b68d9121214d3f88428fde49ee.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2b6da3ea72c2e926471f56c916851310/f992d59fb61f13d1728b039cbd079b96.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2ee54306e39eec978f3822320ec6aaa/abeeb0031bd846b2527aa147deb8938d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8ef2fb8cef682007a48d1ce7fac14c3/1d7b55fb606adf754f780442724c05ae.jpg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Medium)",
@@ -1072,7 +1095,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790394610"
+      "LastUpdatedUnixTime": "1791239892"
     },
     {
       "ID": "3656",
@@ -2190,93 +2213,6 @@
       "LastUpdatedUnixTime": "1790989307"
     },
     {
-      "ID": "3711",
-      "Internal-ID": "214615683",
-      "Name": "Caprese",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4d9c7e635664986c8dcd3f049c1a6e9/d0c25792aa33c58616d91648c2c3e475.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5da89b6ab3675f95b2b6870d6a90c95f/daf79d7632119023b6aba522a452b029.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e66eb14b0e412f4ed65dcda881a9371/8518da998f7720bf1f9582a6f13138f4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/680487243a8fa9d5baecc1f3a958c999/b7dfec04e55369cba2004623c9beb36e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d45917421a39e49e225b467270c2854d/136ae6d02095c706ef5656ae211bd5ed.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/54819933c446096b58b68591b19f8ea3/c1bcd8a92800de9e3db305f762552473.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d1c7cbcb2fbfc4b10a49ee4c01ae26c/a89aace9fe6b6f790bae69a39e52c826.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Black",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
-      "Description": "True to her namesake, Caprese is indeed a little snack, though definitely more of the sweet variety.  She is all about cuddles, naps, and exploring what this big new world has to offer.  \n\nCaprese lives for treats, trailing after her big canine brother, and car rides that end with a pup-cup.\n\nIt’s impossible not to fall in love with this adorable little girl.\n",
-      "LastIntakeUnixTime": "1790286897",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791136961"
-    },
-    {
       "ID": "3713",
       "Internal-ID": "214615685",
       "Name": "Biscotti",
@@ -2305,7 +2241,7 @@
       "Color": "White",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Meet Biscotti, Scotti for short! He's a sensitive guy who thrives with other dogs to learn from. Scotti loves snuggles and follows his human fosters   around often. He is doing well with potty training and is incredibly smart. He has discovered the joy of toys and is learning the ropes of fetch. \n\nScotti is fostered with his brother and three other resident dogs and does well with all of them. He would do well in virtually any home. He has so much love to give and cannot wait for his own family!",
       "LastIntakeUnixTime": "1790286430",
       "Attributes": [
         {
@@ -2344,7 +2280,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791127328"
+      "LastUpdatedUnixTime": "1791235507"
     },
     {
       "ID": "3714",
@@ -2439,7 +2375,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791139771"
+      "LastUpdatedUnixTime": "1791235557"
     },
     {
       "ID": "3715",
@@ -2533,7 +2469,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791139756"
+      "LastUpdatedUnixTime": "1791235660"
     },
     {
       "ID": "3717",
@@ -2606,7 +2542,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791127329"
+      "LastUpdatedUnixTime": "1791235621"
     },
     {
       "ID": "3663",
@@ -2724,7 +2660,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790431623"
+      "LastUpdatedUnixTime": "1791235798"
     },
     {
       "ID": "3709",
@@ -2799,7 +2735,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791130039"
+      "LastUpdatedUnixTime": "1791235588"
     },
     {
       "ID": "3658",
@@ -3330,6 +3266,93 @@
       "LastUpdatedUnixTime": "1791220271"
     },
     {
+      "ID": "3711",
+      "Internal-ID": "214615683",
+      "Name": "Caprese",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "11",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1785394800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f4d9c7e635664986c8dcd3f049c1a6e9/d0c25792aa33c58616d91648c2c3e475.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5da89b6ab3675f95b2b6870d6a90c95f/daf79d7632119023b6aba522a452b029.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e66eb14b0e412f4ed65dcda881a9371/8518da998f7720bf1f9582a6f13138f4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/680487243a8fa9d5baecc1f3a958c999/b7dfec04e55369cba2004623c9beb36e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d45917421a39e49e225b467270c2854d/136ae6d02095c706ef5656ae211bd5ed.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/54819933c446096b58b68591b19f8ea3/c1bcd8a92800de9e3db305f762552473.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d1c7cbcb2fbfc4b10a49ee4c01ae26c/a89aace9fe6b6f790bae69a39e52c826.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Black",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": null,
+      "Description": "True to her namesake, Caprese is indeed a little snack, though definitely more of the sweet variety.  She is all about cuddles, naps, and exploring what this big new world has to offer.  \n\nCaprese lives for treats, trailing after her big canine brother, and car rides that end with a pup-cup.\n\nIt’s impossible not to fall in love with this adorable little girl.\n",
+      "LastIntakeUnixTime": "1790286897",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791235751"
+    },
+    {
       "ID": "3712",
       "Internal-ID": "214615684",
       "Name": "Espresso",
@@ -3405,7 +3428,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790892192"
+      "LastUpdatedUnixTime": "1791235704"
     },
     {
       "ID": "3592",
