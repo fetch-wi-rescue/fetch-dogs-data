@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:03:04Z",
+  "updated": "2026-10-06T14:18:36Z",
   "count": 39,
   "animals": [
     {
@@ -2110,7 +2110,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790361234"
+      "LastUpdatedUnixTime": "1791293015"
     },
     {
       "ID": "3704",
@@ -3029,83 +3029,6 @@
       "LastUpdatedUnixTime": "1789400736"
     },
     {
-      "ID": "3578",
-      "Internal-ID": "213704197",
-      "Name": "Amara",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "57",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1751778000,
-      "Age": 15,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/379f921e3bdcc4dd8d86ce6548e387ba/d922ca5761fd03d4524e92094f6a5752.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c4b4a8b2dbfa63fcad5db07c9eec2b1d/fa38261d43d483ae8add67e8fb11aca1.png",
-        "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png",
-        "https://new-s3.shelterluv.com/profile-pictures/935dd60328f780783f65db2e14532f3d/b6f4cb3579a23154e29dd52d878107c2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/729538058d113304ad24f2ff6a722dd8/18accaabad928518fca49dab9cebaec4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Pinscher, Doberman/Rottweiler",
-      "Color": "Black/Chocolate",
-      "Pattern": "Bicolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you. Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
-      "LastIntakeUnixTime": "1778898499",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791206623"
-    },
-    {
       "ID": "3678",
       "Internal-ID": "214320063",
       "Name": "Alfredo",
@@ -3462,6 +3385,83 @@
         }
       ],
       "LastUpdatedUnixTime": "1791235704"
+    },
+    {
+      "ID": "3578",
+      "Internal-ID": "213704197",
+      "Name": "Amara",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "57",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751778000,
+      "Age": 15,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/379f921e3bdcc4dd8d86ce6548e387ba/d922ca5761fd03d4524e92094f6a5752.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c4b4a8b2dbfa63fcad5db07c9eec2b1d/fa38261d43d483ae8add67e8fb11aca1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png",
+        "https://new-s3.shelterluv.com/profile-pictures/935dd60328f780783f65db2e14532f3d/b6f4cb3579a23154e29dd52d878107c2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/729538058d113304ad24f2ff6a722dd8/18accaabad928518fca49dab9cebaec4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Rottweiler",
+      "Color": "Black/Chocolate",
+      "Pattern": "Bicolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Amara is a smart sweet 11 month pup.  Although she's  in her grown up body at a svelte 57 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.   She would love a fenced yard to show off her speed.   Amara is house trained and crate trained.  She sleeps in the bedroom on the floor and just wants to be with you. Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
+      "LastIntakeUnixTime": "1778898499",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791291265"
     },
     {
       "ID": "3592",
