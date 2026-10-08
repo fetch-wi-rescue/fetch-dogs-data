@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T09:14:34Z",
-  "count": 38,
+  "updated": "2026-10-08T16:41:36Z",
+  "count": 37,
   "animals": [
     {
       "ID": "3279",
@@ -2299,13 +2299,14 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ef7b279db48ee3c523171b5459b29da6/2940d1c659c49af0958fe57fef68bf22.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ef7b279db48ee3c523171b5459b29da6/2940d1c659c49af0958fe57fef68bf22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
         "https://new-s3.shelterluv.com/profile-pictures/05199ea0a30720194b6854a428c96782/432be32ab91b7ed3b50dce5db7d2df29.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/5f65bf88239283f2f3896efd11442e29/0d6ddefd520b0053b2013d9b3b6b5ddd.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/024971f90d6b6f598d1b00452205a736/b41f3444466b5ff951889ab4d17a4d04.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f2f6838335b9f5d0893d5d60a380b4cf/344b0daddc112061436cb4ee20cbc369.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ef7b279db48ee3c523171b5459b29da6/2940d1c659c49af0958fe57fef68bf22.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f6020564e46bb6ce23f5a3b3b7113dce/b214c9805802f45afff8bcb9fd4c91e5.PNG"
       ],
       "Videos": [],
@@ -2377,7 +2378,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791235557"
+      "LastUpdatedUnixTime": "1791471832"
     },
     {
       "ID": "3715",
@@ -2394,13 +2395,15 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d657fa5c115ff97d805e1278361dd9a8/28013fcde64578cb07793f93f079b865.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c7444689e14c40bcf3bc473dade80467/90e60141cf94cac7d023a5c159bd6f4e.PNG",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d657fa5c115ff97d805e1278361dd9a8/28013fcde64578cb07793f93f079b865.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c7444689e14c40bcf3bc473dade80467/90e60141cf94cac7d023a5c159bd6f4e.PNG",
         "https://new-s3.shelterluv.com/profile-pictures/13b8827044d5f2dd405f03fd709c2785/79431c047e68fd900cdbe88e0f2bb460.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/d3486c5b839ccf5fbed2dc7585c241b2/0a6f62d596c5b70c24c8b7e677be7c4b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e0ad243f71158a7ee287ad11f869d5d8/d3cf90ff58ec8c736579235bb5cf60cd.PNG",
-        "https://new-s3.shelterluv.com/profile-pictures/c7444689e14c40bcf3bc473dade80467/90e60141cf94cac7d023a5c159bd6f4e.PNG"
+        "https://new-s3.shelterluv.com/profile-pictures/d657fa5c115ff97d805e1278361dd9a8/28013fcde64578cb07793f93f079b865.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f16ef581c8fb512d02597677e36bbef/25283c6af80bb7ffb34ada0d47b84fb5.png",
+        "https://new-s3.shelterluv.com/profile-pictures/5b351fca33794e4d81f338a5ffa1de91/a6494f121cd1e8fbfc80c614b056b68a.jpeg"
       ],
       "Videos": [],
       "Breed": "Mixed Breed (Large)",
@@ -2471,7 +2474,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791235660"
+      "LastUpdatedUnixTime": "1791471808"
     },
     {
       "ID": "3717",
@@ -3196,100 +3199,6 @@
       "LastUpdatedUnixTime": "1790988166"
     },
     {
-      "ID": "3710",
-      "Internal-ID": "214615682",
-      "Name": "Betsy",
-      "LitterGroupId": 9597502,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.12",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1717334334,
-      "Age": 28,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb123ed9cc2e5e470b55c07978a684a3/4e93142cdbd4b12bc83d9097671cedae.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/cb123ed9cc2e5e470b55c07978a684a3/4e93142cdbd4b12bc83d9097671cedae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5497a1fc929c2a968da75eee3f4dbdba/1578da4568b7238cf2b34ab3dc039871.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/898a03a9bb8dc00aa2fccc6421db1139/697a91645707c1cc0112d2df4a723942.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/131a9e40105ac6840480409a9af17b1a/f8f82009ef586aa3d2d978e972e2d1a9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8d38771ec7315043d400c730cf5ebea/2d971669b16d931c3300d40a00504bf6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dba40b32bb9d0db87ad9f2f6575dbd26/83c29ea4ecdaf76e3ba88aeced381eab.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f38c570f98ac85d8477334ffff93fb2d/1297d210fb3da9fbf1b510b8515412c5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/baad842b270f2106ee6c5b3c5bb45542/7186b6a119be0032f13950f30accee53.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/520938dba1e968f109c6b5b51db5e6dd/5c882d640df64617cbc665426d50b3af.png",
-        "https://new-s3.shelterluv.com/profile-pictures/75d6f73841b67e3b0a109711708a528d/132126558cbd3c10e7f2ec18eb9724b3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Dachshund, Miniature Wire Haired",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Betsy, a sweet 2-year-old dachshund mix with a heart full of love! She’s friendly with people and a total cuddle bug who loves being close to her humans. Betsy is still getting used to the hustle and bustle of big-city life and can be a little fearful with loud noises, but she’s learning and doing her best every day. She is very submissive with other dogs of similar size. With her gentle spirit and loving personality, Betsy is a lovely little companion who’s ready to find her forever home. ❤️",
-      "LastIntakeUnixTime": "1790287202",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791220271"
-    },
-    {
       "ID": "3711",
       "Internal-ID": "214615683",
       "Name": "Caprese",
@@ -3319,7 +3228,14 @@
       "Breed": "Mixed Breed (Large)",
       "Color": "Black",
       "Pattern": "Tricolor",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "True to her namesake, Caprese is indeed a little snack, though definitely more of the sweet variety.  She is all about cuddles, naps, and exploring what this big new world has to offer.  \n\nCaprese lives for treats, trailing after her big canine brother, and car rides that end with a pup-cup.\n\nIt’s impossible not to fall in love with this adorable little girl.\n",
       "LastIntakeUnixTime": "1790286897",
       "Attributes": [
@@ -3374,7 +3290,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791235751"
+      "LastUpdatedUnixTime": "1791466986"
     },
     {
       "ID": "3712",

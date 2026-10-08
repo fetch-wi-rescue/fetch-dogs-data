@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:28:59Z",
+  "updated": "2026-10-08T16:41:36Z",
   "animals": [
     {
       "ID": "3458",
@@ -1853,6 +1853,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-06T23:28:59Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3710",
+      "Name": "Betsy",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb123ed9cc2e5e470b55c07978a684a3/4e93142cdbd4b12bc83d9097671cedae.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-08T16:41:36Z",
       "status": "pending"
     }
   ]
