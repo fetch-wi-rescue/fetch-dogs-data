@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T01:35:48Z",
-  "count": 37,
+  "updated": "2026-10-09T08:14:33Z",
+  "count": 38,
   "animals": [
     {
       "ID": "3279",
@@ -2584,7 +2584,14 @@
       "Breed": "Dachshund",
       "Color": "Red/Mahogany",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "",
       "LastIntakeUnixTime": "1790287238",
       "Attributes": [
@@ -2594,7 +2601,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791224715"
+      "LastUpdatedUnixTime": "1791526884"
     },
     {
       "ID": "3716",
@@ -2663,7 +2670,14 @@
       "Breed": "Great Dane",
       "Color": "Brown/White",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "",
       "LastIntakeUnixTime": "1791255995",
       "Attributes": [
@@ -2733,7 +2747,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791411578"
+      "LastUpdatedUnixTime": "1791526864"
     },
     {
       "ID": "3658",
@@ -3196,7 +3210,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791499979"
+      "LastUpdatedUnixTime": "1791509890"
     },
     {
       "ID": "3711",
@@ -3577,7 +3591,14 @@
       "Breed": "Retriever, Labrador",
       "Color": "Black",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "With sadness I am looking to rehome my 9-year-old black lab mix Bailey. He has no health issues, is up to date on his vaccines, and has quite a bit of energy for a \"senior\" dog. I've had him for five and a half years and recently had children. It turns out that young children really stress Bailey out. He is great in a kid-free or older kid home, and I think he would be happier and less stressed spending his remaining years in that environment. Like all dogs, he has his quirks which I'm happy to discuss more if you are interested. Things that would come with Bailey include: 1-2 months of food and treats, stainless steel water and food bowls, kennel, toys, and leash/collars.",
       "LastIntakeUnixTime": "1778575746",
       "Attributes": [
@@ -3612,7 +3633,57 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1778616182"
+      "LastUpdatedUnixTime": "1791526839"
+    },
+    {
+      "ID": "3719",
+      "Internal-ID": "214722252",
+      "Name": "Benny",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "50",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1764741600,
+      "Age": 10,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/45acc1f4746ca8c1df304d36f7ad05d5/938d55cc7d84b77a953e4ebfc05154b3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/45acc1f4746ca8c1df304d36f7ad05d5/938d55cc7d84b77a953e4ebfc05154b3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Catahoula Leopard Dog",
+      "Color": "Brindle",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Benny is the snuggliest boy! He loves to play fetch, trying new puzzles, and going on adventures!\n\nBenny thrives with constant movement and mind games. He is good with other dogs, not sure about cats and I don't think he would be good with kids under 12- he just doesn't understand his size. he sleeps in the bed and gets taken out as soon as he wakes up, then fed, then taken out again in the backyard to run a little and play fetch. We are out of the house for 5-8 hours sometimes and he doesn't like the kennel and will break out of it. Then when we get home take him out, then feed him, take him out to run in the backyard. He gets let out many times before bed. Then we chill, then go to bed. He needs someone active and ready to train! Right now he is learning how to lay down and relax- he gets very excited! We are working on potty training, calming down and walking with a leash. He is very food motivated!\n\nOverall, Benny is super sweet, snuggly, active and very very loyal. ",
+      "LastIntakeUnixTime": "1791527276",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791527768"
     }
   ]
 }
