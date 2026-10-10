@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T12:48:20Z",
-  "count": 40,
+  "updated": "2026-10-10T17:33:47Z",
+  "count": 41,
   "animals": [
     {
       "ID": "3279",
@@ -1235,7 +1235,7 @@
       "Size": "Large (60-99)",
       "Altered": "Unknown",
       "DOBUnixTime": 1660145419,
-      "Age": 49,
+      "Age": 50,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
@@ -2890,8 +2890,10 @@
       "Altered": "Yes",
       "DOBUnixTime": 1629003600,
       "Age": 61,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg"
+      ],
       "Videos": [],
       "Breed": "Retriever, Golden/Shepherd",
       "Color": "Brown/White",
@@ -2899,8 +2901,44 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1791600578",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1791633771"
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791646542"
     },
     {
       "ID": "3721",
@@ -2917,8 +2955,10 @@
       "Altered": "Yes",
       "DOBUnixTime": 1646546400,
       "Age": 55,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg"
+      ],
       "Videos": [],
       "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
       "Color": "Black/White",
@@ -2926,8 +2966,68 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1791600623",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791645602"
+    },
+    {
+      "ID": "3722",
+      "Internal-ID": "214728430",
+      "Name": "Marley",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1661403600,
+      "Age": 49,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c8534e6b28980a2480062797fc4597bf/a62f72169608660b5eb8a147497e5804.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/c8534e6b28980a2480062797fc4597bf/a62f72169608660b5eb8a147497e5804.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Pembroke Welsh",
+      "Color": "Fawn/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1791637666",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1791633771"
+      "LastUpdatedUnixTime": "1791644384"
     },
     {
       "ID": "3658",
