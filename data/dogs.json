@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T00:09:08Z",
-  "count": 38,
+  "updated": "2026-10-10T06:07:52Z",
+  "count": 40,
   "animals": [
     {
       "ID": "3279",
@@ -1834,7 +1834,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1778389200,
-      "Age": 4,
+      "Age": 5,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
@@ -2783,7 +2783,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1728536400,
-      "Age": 23,
+      "Age": 24,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
@@ -2874,6 +2874,60 @@
         }
       ],
       "LastUpdatedUnixTime": "1791570564"
+    },
+    {
+      "ID": "3720",
+      "Internal-ID": "214728111",
+      "Name": "Simba",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1629003600,
+      "Age": 61,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Retriever, Golden/Shepherd",
+      "Color": "Brown/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1791600578",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1791600622"
+    },
+    {
+      "ID": "3721",
+      "Internal-ID": "214728114",
+      "Name": "Piglet",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1646546400,
+      "Age": 55,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1791600623",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1791600655"
     },
     {
       "ID": "3658",
@@ -3333,7 +3387,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791509890"
+      "LastUpdatedUnixTime": "1791601154"
     },
     {
       "ID": "3711",
