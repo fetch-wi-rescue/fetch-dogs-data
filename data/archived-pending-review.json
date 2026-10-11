@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T16:41:36Z",
+  "updated": "2026-10-11T00:05:33Z",
   "animals": [
     {
       "ID": "3458",
@@ -1862,6 +1862,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-08T16:41:36Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3681",
+      "Name": "Sir Nils Olav",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/70cbea78bc463e512988859d8b7eee03/8433e914ea00b96456af9d85faa3e9d9.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-11T00:05:33Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3722",
+      "Name": "Marley",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c8534e6b28980a2480062797fc4597bf/a62f72169608660b5eb8a147497e5804.jpeg",
+      "Status": "Not available",
+      "reason": "other",
+      "disappearedDate": "2026-10-11T00:05:33Z",
       "status": "pending"
     }
   ]
