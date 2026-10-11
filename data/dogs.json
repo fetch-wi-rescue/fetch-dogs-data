@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:13:09Z",
+  "updated": "2026-10-11T22:12:00Z",
   "count": 46,
   "animals": [
     {
@@ -1401,113 +1401,6 @@
       "LastUpdatedUnixTime": "1790080793"
     },
     {
-      "ID": "3677",
-      "Internal-ID": "214320062",
-      "Name": "Parker",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10",
-      "Size": "",
-      "Altered": "No",
-      "DOBUnixTime": 1779996933,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1dae4d429b5eb4e2c97b19e4dc22b664/2deda62718a50b78a7a992f03b338602.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/49afbd77e0f6c66705967c0787027f5e/84af9e30ec74473f772840ac81fed60c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ca0dae27976ffefa7c8933958a495b86/fdb8fddaa5cd9da258343b9e4ad605a9.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b479e2e093b803eb97eb9dfcc531c769/45e40710d248559fd1999f0b81e2837e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b6398c208380874e636c3ef55a4ab7d2/bea2a24d3aa250dc1b2870c890f6379d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/81387f0dccd3528ee0eca1cdd1653c7e/8b024c54292c22d0bf58d40d2ceb170e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ed48505bbdc03627188d736c7d872810/51e1223f63ffc0600d1292a08f855672.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/245bdd48cba53790badba73f5193289b/c3c39afe9bc297f4fbfd5394965594f3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a467eec2528fecfc971ae531387a846/7b45a0a4aceb08e7c456b755c8f046fa.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5bdffa07305829b8cd94964a3edb10b9/8d5a0780e5ff01f29440f3e16a611f75.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/db5852bee1f616edb74accb833254234/86bec1600b463d7bb1ce0dabd8597b70.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b0a78fd14eeed0e60564adac27c284b6/bf2029be20995e7c16e3b74355f8352a.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Blond",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Parker is a very playful puppy! She loves to run in the yard and she will throw toys in the air and roll a ball for herself. We have a lab mix and they enjoy wrestling and chasing each other. \n\nAt the end of the day she loves snuggles before going in her crate for the night. She takes a little while to settle in the crate so it may not be great for her to live in an apartment.\n\nParker is still a young puppy who is working hard on potty training. She is getting better with consistency. During the day we typically take her out every few hours. \n\nShe has met cats, dogs, and kids and has done well.\n\nShe can't wait to grow up alongside you and become your best friend!",
-      "LastIntakeUnixTime": "1787165796",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1790997814"
-    },
-    {
       "ID": "3678",
       "Internal-ID": "214320063",
       "Name": "Alfredo",
@@ -2221,7 +2114,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1676153259,
-      "Age": 43,
+      "Age": 44,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d512f80ebfd1e450fccea21a8a1b8860/022ba3de4e30de7e3b96252c2cb9cf8f.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/d512f80ebfd1e450fccea21a8a1b8860/022ba3de4e30de7e3b96252c2cb9cf8f.jpeg",
@@ -2668,6 +2561,79 @@
       "LastUpdatedUnixTime": "1791563149"
     },
     {
+      "ID": "3721",
+      "Internal-ID": "214728114",
+      "Name": "Piglet",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1646546400,
+      "Age": 55,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae4d23ea49ece39d480e23f14a40dcca/193abe3e6b2f483aa42f29107315bce3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62e304a675eec5e0853698f47198ffbe/4e7fe461a28f282bb6d7971fddddbb12.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d4f204104b1ff72e48cfea6bf69972/358a8632fa104b83ec9678120ddac3e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/08a994806dcb3184e016a4c4a0eab958/f655eb7b5e0409b3f5f27bba35c80e91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf331ef26f21876b01d442e7cb1fdb70/6d18abe73ecfcd848056bb5bf3574fba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/272fb5f2225425fcdf984422ace7dd7c/2562ab0c3fc165193f96f7bf2e34c206.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b64e1bb4a30a90d9c022e142933486d/194fa58ff572105c164c2c56f898b68e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Piglet ❤️🐾\n\nPiglet is a 4-year-old Pit Bull/Lab mix with a heart full of love and a loyal spirit that's ready to find his forever family.\n\nThis handsome boy is house-trained, walks nicely on a leash, and has learned many basic commands. He's eager to please and loves spending time with his people. One of Piglet's favorite activities is playing fetch. Toss a ball, and you'll instantly see his happy, playful side.\n\nPiglet also does very well with free roam in the home, while he does experience some separation anxiety with being crated.  Piglet is hoping to find a patient and understanding home where someone is around often. He thrives on companionship and would love a family that enjoys spending time together and helping him feel secure and loved.\n\nIn his current foster home, Piglet lives peacefully with a large dog, a small dog, and a cat, proving he's a wonderful companion who gets along well with others. \n\nPiglet's story began at a shelter in Indiana, where he was so loved by the staff that they helped arrange for him to come to Wisconsin for a better chance at finding his perfect match. Everyone who meets him sees what a special dog he is, and now all that's missing is a family to call his own.\n\n❤️ Piglet at a Glance\n\n🐾 4-year-old Pit Bull/Lab mix\n🏡 House-trained\n🚶 Great on walks\n🚗 Rides well in the car\n🎾 Loves playing fetch\n🧠 Knows basic commands\n🐶 Gets along with big and small dogs\n🐱 Cat-friendly\n❤️ Sweet, loyal, and affectionate\n🏠 Looking for a patient family who can spend lots of time with him.  If you're searching for a faithful companion who will reward your love with endless loyalty, Piglet may be the perfect connection you've been waiting for. ❤️🐶🏡",
+      "LastIntakeUnixTime": "1791600623",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791751820"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -2895,66 +2861,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791646542"
-    },
-    {
-      "ID": "3721",
-      "Internal-ID": "214728114",
-      "Name": "Piglet",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1646546400,
-      "Age": 55,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791600623",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791645602"
     },
     {
       "ID": "3723",
@@ -3607,6 +3513,113 @@
         }
       ],
       "LastUpdatedUnixTime": "1789400736"
+    },
+    {
+      "ID": "3677",
+      "Internal-ID": "214320062",
+      "Name": "Parker",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "10",
+      "Size": "",
+      "Altered": "No",
+      "DOBUnixTime": 1779996933,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/84f541b4d673f3461150b9a07052e709/9e650826dfbb1c20f110708130503ef2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c6ac1f82c48154c77c6252df410752d/470d49fd9aeeee26dfc739b5cd2076b5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1dae4d429b5eb4e2c97b19e4dc22b664/2deda62718a50b78a7a992f03b338602.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/49afbd77e0f6c66705967c0787027f5e/84af9e30ec74473f772840ac81fed60c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ca0dae27976ffefa7c8933958a495b86/fdb8fddaa5cd9da258343b9e4ad605a9.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b479e2e093b803eb97eb9dfcc531c769/45e40710d248559fd1999f0b81e2837e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b6398c208380874e636c3ef55a4ab7d2/bea2a24d3aa250dc1b2870c890f6379d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/81387f0dccd3528ee0eca1cdd1653c7e/8b024c54292c22d0bf58d40d2ceb170e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ed48505bbdc03627188d736c7d872810/51e1223f63ffc0600d1292a08f855672.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/245bdd48cba53790badba73f5193289b/c3c39afe9bc297f4fbfd5394965594f3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a467eec2528fecfc971ae531387a846/7b45a0a4aceb08e7c456b755c8f046fa.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e1796f5fef1e83e41aa6a3e951105508/9da3187f39c70e606f6a7fb4b9f4469e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5bdffa07305829b8cd94964a3edb10b9/8d5a0780e5ff01f29440f3e16a611f75.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/db5852bee1f616edb74accb833254234/86bec1600b463d7bb1ce0dabd8597b70.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b0a78fd14eeed0e60564adac27c284b6/bf2029be20995e7c16e3b74355f8352a.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Blond",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Parker is a very playful puppy! She loves to run in the yard and she will throw toys in the air and roll a ball for herself. We have a lab mix and they enjoy wrestling and chasing each other. \n\nAt the end of the day she loves snuggles before going in her crate for the night. She takes a little while to settle in the crate so it may not be great for her to live in an apartment.\n\nParker is still a young puppy who is working hard on potty training. She is getting better with consistency. During the day we typically take her out every few hours. \n\nShe has met cats, dogs, and kids and has done well.\n\nShe can't wait to grow up alongside you and become your best friend!",
+      "LastIntakeUnixTime": "1787165796",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791753490"
     },
     {
       "ID": "3711",
