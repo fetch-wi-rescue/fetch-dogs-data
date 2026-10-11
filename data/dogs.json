@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:05:33Z",
+  "updated": "2026-10-11T06:05:23Z",
   "count": 39,
   "animals": [
     {
@@ -2735,79 +2735,6 @@
       "LastUpdatedUnixTime": "1791563149"
     },
     {
-      "ID": "3717",
-      "Internal-ID": "214615691",
-      "Name": "Tiramisu",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "13.6",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3c8df61269a302df7584b5f4c33ba6e0/d72045d406507ec4014f3de32f3fa9d0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3c8df61269a302df7584b5f4c33ba6e0/d72045d406507ec4014f3de32f3fa9d0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/24741248675d1c11b76248f4495b2581/dfa6434073e82288cbf4075168bb40d0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6b4d4212df99966d841068a23cc6dff9/2a0c9d09f31df1b2698ae0c50c62dca0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c22547eab9d89402fe49a7537048572/0174d0650998ec65211095e7d757ff48.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Tiramisu! He's a 9-week-old, pittie mix, who loves everyone he meets. He is outgoing, curious, and very sweet. He's doing well with both crate training and potty training. He LOVES toys and wrestling with his brother. He would make a great dog for a first-time adopter, or a lovely addition to virtually any home. ",
-      "LastIntakeUnixTime": "1790286622",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791502579"
-    },
-    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -2821,7 +2748,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1749618000,
-      "Age": 15,
+      "Age": 16,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/3d8ff213f4a4be77871b24c062e1dccb/bb74648158b4aeabdd45872b96b3467c.jpeg",
@@ -3525,6 +3452,79 @@
         }
       ],
       "LastUpdatedUnixTime": "1791666506"
+    },
+    {
+      "ID": "3717",
+      "Internal-ID": "214615691",
+      "Name": "Tiramisu",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "13.6",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1785394800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3c8df61269a302df7584b5f4c33ba6e0/d72045d406507ec4014f3de32f3fa9d0.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3c8df61269a302df7584b5f4c33ba6e0/d72045d406507ec4014f3de32f3fa9d0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/24741248675d1c11b76248f4495b2581/dfa6434073e82288cbf4075168bb40d0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6b4d4212df99966d841068a23cc6dff9/2a0c9d09f31df1b2698ae0c50c62dca0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c22547eab9d89402fe49a7537048572/0174d0650998ec65211095e7d757ff48.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Tiramisu! He's a 9-week-old, pittie mix, who loves everyone he meets. He is outgoing, curious, and very sweet. He's doing well with both crate training and potty training. He LOVES toys and wrestling with his brother. He would make a great dog for a first-time adopter, or a lovely addition to virtually any home. ",
+      "LastIntakeUnixTime": "1790286622",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791688610"
     },
     {
       "ID": "3592",
