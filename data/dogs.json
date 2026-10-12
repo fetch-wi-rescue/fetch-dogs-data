@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T22:12:00Z",
-  "count": 46,
+  "updated": "2026-10-12T01:28:09Z",
+  "count": 45,
   "animals": [
     {
       "ID": "3279",
@@ -1813,107 +1813,6 @@
       "LastUpdatedUnixTime": "1790953214"
     },
     {
-      "ID": "3690",
-      "Internal-ID": "214320091",
-      "Name": "Frenchi",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "20",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1778389200,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/eb35f6827f95255e2355b691c75d4761/4221a2f6e088b0182c04e9adcd9f59be.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b26ee8730f11da1b857f7e911f4253c0/319cc2f9bb9282dd04f93ebd5dd92f47.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/08398a45f826ac7582ca31624878ee68/0de0c6420faf88b0b8ca5b8476407b41.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/793baae2da0d47e774ac4dd9e91267ce/8d397783ab5ac0e377b469f3d672df36.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/23d5d5806ca8d9c9758a4864847ad4ec/5dd6e4878590ac6e82a3220b1e7d6012.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cecceea3bfa3c138704e52f09465b861/e08b6378710fda2b322d0d34a7d72394.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Hound",
-      "Color": "Tan",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Frenchi is a fun-loving little girl who loves to play with her pack.  She is learning potty training and is getting used to her kennel.  She settles into it after a bit of mouthiness, but will then sleep through the night.",
-      "LastIntakeUnixTime": "1787191183",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791221698"
-    },
-    {
       "ID": "3703",
       "Internal-ID": "214435037",
       "Name": "Seymour",
@@ -2634,6 +2533,92 @@
       "LastUpdatedUnixTime": "1791751820"
     },
     {
+      "ID": "3729",
+      "Internal-ID": "214732438",
+      "Name": "Loki",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "55",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1696222800,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/496b727decb59605935c064b02fec1f4/426d117946755840cbe7a9dac37d152a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65c3fcbaa0a6e9f30ebda30bbaca09d5/66730b07730d7e93edf4e1ea0dcb7e56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fcb6f076541922700b2bb670228eda45/76b63adb758fa73c4a8e57a9db1eea96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c1c0ce300675a7cb1680649684e6e67/f0a409eab479186adde77e6992318e4e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/73fcdcb660e1d1c7e1eaa3e7ca25e865/c803c14fcaee43cc10148c2e74f4c63e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Loki is very much your typical dog; he enjoys snuggling on the couch, going for car rides, romping around outside, eating snacks, and going for walks. He’s here for any and all of it!\n\nAfter spending over 1/3 of his life in a Texas shelter, he’s eager to enjoy all that life has to offer.\n\nLoki’s foster mom is puzzled by what breed he could be; he might be a wild mix of mutt! Its like his great grandparents were Shar Pei and the only thing he kept were the ears. From there, a hodgepodge of terrier and lab perhaps. Whatever his DNA, he’s 100% good boy! He’s gentle, silly, sweet, friendly, and will make a wonderful companion!",
+      "LastIntakeUnixTime": "1791737325",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791762010"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -2903,48 +2888,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791737796"
-    },
-    {
-      "ID": "3729",
-      "Internal-ID": "214732438",
-      "Name": "Loki",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1696222800,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1791737325",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791737762"
     },
     {
       "ID": "3730",
@@ -3622,34 +3565,36 @@
       "LastUpdatedUnixTime": "1791753490"
     },
     {
-      "ID": "3711",
-      "Internal-ID": "214615683",
-      "Name": "Caprese",
-      "LitterGroupId": 9597504,
+      "ID": "3690",
+      "Internal-ID": "214320091",
+      "Name": "Frenchi",
+      "LitterGroupId": 9575389,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "11",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
+      "CurrentWeightPounds": "20",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1778389200,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f4d9c7e635664986c8dcd3f049c1a6e9/d0c25792aa33c58616d91648c2c3e475.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5da89b6ab3675f95b2b6870d6a90c95f/daf79d7632119023b6aba522a452b029.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e66eb14b0e412f4ed65dcda881a9371/8518da998f7720bf1f9582a6f13138f4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/680487243a8fa9d5baecc1f3a958c999/b7dfec04e55369cba2004623c9beb36e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d45917421a39e49e225b467270c2854d/136ae6d02095c706ef5656ae211bd5ed.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/54819933c446096b58b68591b19f8ea3/c1bcd8a92800de9e3db305f762552473.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d1c7cbcb2fbfc4b10a49ee4c01ae26c/a89aace9fe6b6f790bae69a39e52c826.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/eb35f6827f95255e2355b691c75d4761/4221a2f6e088b0182c04e9adcd9f59be.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b26ee8730f11da1b857f7e911f4253c0/319cc2f9bb9282dd04f93ebd5dd92f47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/08398a45f826ac7582ca31624878ee68/0de0c6420faf88b0b8ca5b8476407b41.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/793baae2da0d47e774ac4dd9e91267ce/8d397783ab5ac0e377b469f3d672df36.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/23d5d5806ca8d9c9758a4864847ad4ec/5dd6e4878590ac6e82a3220b1e7d6012.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cecceea3bfa3c138704e52f09465b861/e08b6378710fda2b322d0d34a7d72394.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg"
       ],
       "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Black",
+      "Breed": "Shepherd/Hound",
+      "Color": "Tan",
       "Pattern": "Tricolor",
       "AdoptionFeeGroup": {
         "Id": 37340,
@@ -3659,12 +3604,22 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "True to her namesake, Caprese is indeed a little snack, though definitely more of the sweet variety.  She is all about cuddles, naps, and exploring what this big new world has to offer.  \n\nCaprese lives for treats, trailing after her big canine brother, and car rides that end with a pup-cup.\n\nIt’s impossible not to fall in love with this adorable little girl.\n",
-      "LastIntakeUnixTime": "1790286897",
+      "Description": "Frenchi is a fun-loving little girl who loves to play with her pack.  She is learning potty training and is getting used to her kennel.  She settles into it after a bit of mouthiness, but will then sleep through the night.",
+      "LastIntakeUnixTime": "1787191183",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
           "Publish": "Yes"
         },
         {
@@ -3675,16 +3630,6 @@
         {
           "Internal-ID": "296942",
           "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
           "Publish": "Yes"
         },
         {
@@ -3703,8 +3648,13 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
           "Publish": "No"
         },
         {
@@ -3713,7 +3663,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791672492"
+      "LastUpdatedUnixTime": "1791768254"
     },
     {
       "ID": "3712",

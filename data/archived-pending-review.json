@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:05:33Z",
+  "updated": "2026-10-12T01:28:10Z",
   "animals": [
     {
       "ID": "3458",
@@ -1880,6 +1880,15 @@
       "Status": "Not available",
       "reason": "other",
       "disappearedDate": "2026-10-11T00:05:33Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3711",
+      "Name": "Caprese",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20f055dadd127c98a6f6ba5fdbb823c7/b7de2ef69573a37feb1bc49b0373e1a4.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-12T01:28:10Z",
       "status": "pending"
     }
   ]
