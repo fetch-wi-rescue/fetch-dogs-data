@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T01:28:10Z",
+  "updated": "2026-10-12T23:41:21Z",
   "animals": [
     {
       "ID": "3458",
@@ -693,15 +693,6 @@
       "reason": "other",
       "disappearedDate": "2026-06-18T23:15:25Z",
       "status": "other"
-    },
-    {
-      "ID": "3546",
-      "Name": "Archer James",
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-      "Status": "Foster to Adopt",
-      "reason": "likely_adopted",
-      "disappearedDate": "2026-06-18T23:15:25Z",
-      "status": "adopted"
     },
     {
       "ID": "3557",
@@ -1889,6 +1880,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-12T01:28:10Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3713",
+      "Name": "Biscotti",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8ec9e11d77fd5b0089ca88fea3960fc1/baf79b5323f8eb038e91f9e244602b3f.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-12T23:41:21Z",
       "status": "pending"
     }
   ]
