@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:46:51Z",
+  "updated": "2026-10-12T17:11:30Z",
   "count": 45,
   "animals": [
     {
@@ -1973,7 +1973,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791571135"
+      "LastUpdatedUnixTime": "1791815285"
     },
     {
       "ID": "3709",
@@ -2050,7 +2050,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791569225"
+      "LastUpdatedUnixTime": "1791815286"
     },
     {
       "ID": "3714",
@@ -2420,92 +2420,6 @@
       "LastUpdatedUnixTime": "1791751820"
     },
     {
-      "ID": "3729",
-      "Internal-ID": "214732438",
-      "Name": "Loki",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1696222800,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/496b727decb59605935c064b02fec1f4/426d117946755840cbe7a9dac37d152a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/65c3fcbaa0a6e9f30ebda30bbaca09d5/66730b07730d7e93edf4e1ea0dcb7e56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fcb6f076541922700b2bb670228eda45/76b63adb758fa73c4a8e57a9db1eea96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c1c0ce300675a7cb1680649684e6e67/f0a409eab479186adde77e6992318e4e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/73fcdcb660e1d1c7e1eaa3e7ca25e865/c803c14fcaee43cc10148c2e74f4c63e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Loki is very much your typical dog; he enjoys snuggling on the couch, going for car rides, romping around outside, eating snacks, and going for walks. He’s here for any and all of it!\n\nAfter spending over 1/3 of his life in a Texas shelter, he’s eager to enjoy all that life has to offer.\n\nLoki’s foster mom is puzzled by what breed he could be; he might be a wild mix of mutt! Its like his great grandparents were Shar Pei and the only thing he kept were the ears. From there, a hodgepodge of terrier and lab perhaps. Whatever his DNA, he’s 100% good boy! He’s gentle, silly, sweet, friendly, and will make a wonderful companion!",
-      "LastIntakeUnixTime": "1791737325",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791762010"
-    },
-    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -2573,7 +2487,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "110",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1728536400,
@@ -2667,7 +2581,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791570564"
+      "LastUpdatedUnixTime": "1791824210"
     },
     {
       "ID": "3720",
@@ -2774,7 +2688,93 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791737796"
+      "LastUpdatedUnixTime": "1791824786"
+    },
+    {
+      "ID": "3729",
+      "Internal-ID": "214732438",
+      "Name": "Loki",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "55",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1696222800,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/496b727decb59605935c064b02fec1f4/426d117946755840cbe7a9dac37d152a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65c3fcbaa0a6e9f30ebda30bbaca09d5/66730b07730d7e93edf4e1ea0dcb7e56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fcb6f076541922700b2bb670228eda45/76b63adb758fa73c4a8e57a9db1eea96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c1c0ce300675a7cb1680649684e6e67/f0a409eab479186adde77e6992318e4e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/73fcdcb660e1d1c7e1eaa3e7ca25e865/c803c14fcaee43cc10148c2e74f4c63e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Loki is very much your typical dog; he enjoys snuggling on the couch, going for car rides, romping around outside, eating snacks, and going for walks. He’s here for any and all of it!\n\nAfter spending over 1/3 of his life in a Texas shelter, he’s eager to enjoy all that life has to offer.\n\nLoki’s foster mom is puzzled by what breed he could be; he might be a wild mix of mutt! Its like his great grandparents were Shar Pei and the only thing he kept were the ears. From there, a hodgepodge of terrier and lab perhaps. Whatever his DNA, he’s 100% good boy! He’s gentle, silly, sweet, friendly, and will make a wonderful companion!",
+      "LastIntakeUnixTime": "1791737325",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791824785"
     },
     {
       "ID": "3730",
@@ -2816,7 +2816,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791737762"
+      "LastUpdatedUnixTime": "1791824786"
     },
     {
       "ID": "3731",
@@ -2858,7 +2858,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791737762"
+      "LastUpdatedUnixTime": "1791824786"
     },
     {
       "ID": "3732",
@@ -2960,7 +2960,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791737735"
+      "LastUpdatedUnixTime": "1791824786"
     },
     {
       "ID": "3733",
@@ -3022,7 +3022,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791737762"
+      "LastUpdatedUnixTime": "1791824786"
     },
     {
       "ID": "3734",
@@ -3084,7 +3084,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791737762"
+      "LastUpdatedUnixTime": "1791824786"
     },
     {
       "ID": "3658",
