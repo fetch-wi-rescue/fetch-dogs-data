@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:41:21Z",
+  "updated": "2026-10-13T04:49:23Z",
   "count": 45,
   "animals": [
     {
@@ -1990,12 +1990,12 @@
       "Altered": "Yes",
       "DOBUnixTime": 1743599955,
       "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b78fa88a6f4b78d12cd596a24504c20e/cc7483ab56e3c4c5be2afc89e461ad65.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/727b8c043ca473e84f8640017b547cec/7744211a872cee051a3654386b33d1da.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b78fa88a6f4b78d12cd596a24504c20e/cc7483ab56e3c4c5be2afc89e461ad65.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9791138bac935820127839c4d003babd/09e141bf7d2b35a619589e9044facd77.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/727b8c043ca473e84f8640017b547cec/7744211a872cee051a3654386b33d1da.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9791138bac935820127839c4d003babd/09e141bf7d2b35a619589e9044facd77.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/f779da0318254befb1c925fb4f13d1b0/decd021afa804176e6bfea00d98203d3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b78fa88a6f4b78d12cd596a24504c20e/cc7483ab56e3c4c5be2afc89e461ad65.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/3a48fe8f0d966a9a85e27af0d4716376/434b8fb3ac9013f8bf3f6dca5d318b58.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/f7ae8c07e4b0f61eb59d26938af93634/062f6bce921cd820e93e10873d95473e.jpg"
       ],
@@ -2014,6 +2014,11 @@
       "Description": "- Dog friendly\n- A little slow to trust humans but warms quickly\n- Walks well on leash\n- Rides well tethered in car\n- Barks when startled (getting much better though!)\n- 95% potty trained (only one accident in the last week)\n- A quick learner; already knows \"stay\" and \"sit\"\n- A keen hunter, will pull for squirrels & rabbits!\n- Crate trained\n- Loves to be outside\n- Loves to chew but knows what is a toy and what is not!\n- Big fan of shoes and clothing items but respects them after relocation :)\n- Would benefit from another dog in the house to teach him confidence and not to be so afraid of the world.\n\nBanjo has settled in nicely after about 12 days in Wisconsin! He is the perfect pint-sized pal weighing in at a sweet 17.6 pounds. He is currently living with two other dogs, 1 smaller and 1 much bigger. He does well with both and even enjoys wrestling with the 60 lb dog! He is not intimidated at all! He is very respectful of the older small dog and they get along well.  He loves food but doesn't resource guard. After his morning walk & food he gets the zoomies for a bit, and is then ready to cuddle or sit outside in the sun for the rest of the morning. He is very good at self-directed play, heading to the toy basket to choose a toy and play by himself for a while. Because we are home all day Banjo gets lots of attention and can go outside frequently. We guess he would need to go out about every 4 hours until he gets used to a routine.\n\nBanjo has not been around small children. He has done well meeting older kids (over 12 years old). Banjo has not met any cats yet.\n",
       "LastIntakeUnixTime": "1790287238",
       "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
@@ -2050,7 +2055,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791835301"
+      "LastUpdatedUnixTime": "1791852717"
     },
     {
       "ID": "3714",
@@ -2347,6 +2352,117 @@
       "LastUpdatedUnixTime": "1791836375"
     },
     {
+      "ID": "3718",
+      "Internal-ID": "214695886",
+      "Name": "Ringo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "110",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1728536400,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/099f7443099267be37144c32caaec80b/cfc55c5812470f562b240fac5a43550e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ab3cbe1c4dfda33041948dbec4ae0569/cc879bcc854befc9dc4e32cc8d03596e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8f1b82bd1fa038f02bbedb8e3fe008fa/d8d29e374927c610274ba53ea5690b34.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c6051cc5669e4ecf1091c51c155f053/bd01c47eb804d41b031c654c40e56d89.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/75b0c282dceb5924a97a8fc8b5adb797/66cdf285330aa48902edf30506f2c0bf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/267b140fa34d262cb7a39ddb3dd575ce/aa86fd7194e19c1f48c41b10ef6617ec.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53a29477bf1d31c756830474ab4a1dbe/5b988ae7c8564d6effc127cfdeee60c1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce40caae92d3e99b8157da73ea0b2a2d/dc0378e9293479af67386491c6a2060b.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Great Dane",
+      "Color": "Brown/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Ringo is a big baby with a big heart and loves ear rubs, doggy bongos, and has a very nice lean. He is gentle, loves his Kennel, is potty trained, and loves walks. He is good on leash but can get excited about squirrels, bunnies, etc. So far he has been interested in meeting other dogs, and there has been no barking when he does meet them. He’s a good eater and is food motivated but will leave your human food alone when you tell him to leave it. You couldn’t ask for a better behaved big dog, just be prepared for demands for pets, snuggles, and more pets(also a bit of drool!) ",
+      "LastIntakeUnixTime": "1791255995",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791850900"
+    },
+    {
       "ID": "3721",
       "Internal-ID": "214728114",
       "Name": "Piglet",
@@ -2476,7 +2592,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791846783"
+      "LastUpdatedUnixTime": "1791857703"
     },
     {
       "ID": "3663",
@@ -2535,112 +2651,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791205658"
-    },
-    {
-      "ID": "3718",
-      "Internal-ID": "214695886",
-      "Name": "Ringo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "110",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728536400,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/099f7443099267be37144c32caaec80b/cfc55c5812470f562b240fac5a43550e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ab3cbe1c4dfda33041948dbec4ae0569/cc879bcc854befc9dc4e32cc8d03596e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8f1b82bd1fa038f02bbedb8e3fe008fa/d8d29e374927c610274ba53ea5690b34.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c6051cc5669e4ecf1091c51c155f053/bd01c47eb804d41b031c654c40e56d89.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Great Dane",
-      "Color": "Brown/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1791255995",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791827493"
     },
     {
       "ID": "3720",
