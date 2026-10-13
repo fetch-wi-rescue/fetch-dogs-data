@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:41:21Z",
+  "updated": "2026-10-13T19:24:36Z",
   "animals": [
     {
       "ID": "3458",
@@ -1889,6 +1889,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-12T23:41:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3677",
+      "Name": "Parker",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/72e7a35a26e962b629ed519208b4c734/c79718721eccdf89fdeaa1d565bf51aa.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-13T19:24:36Z",
       "status": "pending"
     }
   ]
