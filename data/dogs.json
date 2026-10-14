@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:20:50Z",
+  "updated": "2026-10-14T02:01:49Z",
   "count": 44,
   "animals": [
     {
@@ -1100,128 +1100,6 @@
       "LastUpdatedUnixTime": "1791732011"
     },
     {
-      "ID": "3656",
-      "Internal-ID": "214218202",
-      "Name": "Rosie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "75",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1469941200,
-      "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb07d1d8ad4091c5c630b58d975481af/dc4747700e39c6137d4d4445a701037d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/eb07d1d8ad4091c5c630b58d975481af/dc4747700e39c6137d4d4445a701037d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6eea29d98448786ea4f6017ad80389e7/aa13f7ae60dd408509c7ee9afc8727c1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/07f78b2a8fd1136a260db5e303f09ab7/a53635ede479bc5d0f3b2221d59ea8ac.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/87a3f19a0840772f9a8f5b3764ffbcc8/112aa8a20d6b30b2cdea4c3ad7ad893e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Poodle, Standard",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Rosie is a lively gal with a joyful spirit and a heart full of love. At 10 years old, she’s the perfect mix of seasoned sweetness and surprising pep; a senior in age, but absolutely not in attitude.\n\nRosie still loves her walks, playtime, and exploring the yard. She’s the kind of dog who greets each day with a happy tail and a little bounce. She adores her people and happily leans in for pets, cuddles, and attention.\n\nPoodles are famously clever, and Rosie is no exception. She enjoys learning, sniffing games, and anything that engages her brain - ESPECIALLY when food is involved. \n\nRosie loves regular walks and bursts of play. She’s not a hyper dog, but she definitely isn’t slowing down yet. She enjoys being around people and has lived with dogs, cats, and kiddos. After her adventures, she’s all about soft beds, warm blankets, and curling up near her favorite humans.\n\nRosie would thrive with someone who appreciates a dog that’s both cuddly and spirited. She’d be a great match for adults, families, or anyone who wants a companion who’s always ready for a walk, a game, or a cozy evening together. Rosie brings joy, loyalty, and a spark of fun wherever she goes. She’s looking for a home that will celebrate her energy, cherish her sweetness, and give her the love she’s been waiting for.",
-      "LastIntakeUnixTime": "1785548562",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791844787"
-    },
-    {
       "ID": "3664",
       "Internal-ID": "214287417",
       "Name": "Zombie ",
@@ -1871,102 +1749,6 @@
       "LastUpdatedUnixTime": "1791908260"
     },
     {
-      "ID": "3714",
-      "Internal-ID": "214615686",
-      "Name": "Cannoli",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "10",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
-        "https://new-s3.shelterluv.com/profile-pictures/05199ea0a30720194b6854a428c96782/432be32ab91b7ed3b50dce5db7d2df29.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/5f65bf88239283f2f3896efd11442e29/0d6ddefd520b0053b2013d9b3b6b5ddd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/024971f90d6b6f598d1b00452205a736/b41f3444466b5ff951889ab4d17a4d04.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f2f6838335b9f5d0893d5d60a380b4cf/344b0daddc112061436cb4ee20cbc369.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ef7b279db48ee3c523171b5459b29da6/2940d1c659c49af0958fe57fef68bf22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f6020564e46bb6ce23f5a3b3b7113dce/b214c9805802f45afff8bcb9fd4c91e5.PNG"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Chocolate",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": " Cannoli is a typical puppy. Everything is worth exploring for him. He loves to explore the yard, to run and play, to snuggle and eat. He is working on potty training since he is a typical puppy. He comes when called and really enjoys playing with his sibling Meatball.",
-      "LastIntakeUnixTime": "1790286518",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791836256"
-    },
-    {
       "ID": "3715",
       "Internal-ID": "214615689",
       "Name": "Meatball",
@@ -2385,7 +2167,10 @@
         "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/73fcdcb660e1d1c7e1eaa3e7ca25e865/c803c14fcaee43cc10148c2e74f4c63e.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/73fcdcb660e1d1c7e1eaa3e7ca25e865/c803c14fcaee43cc10148c2e74f4c63e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53eb3a91149bec7ce34aa236593c3d62/b4ad47a7d38c87992506d77f79354b87.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c3b765bb03de581f011b93639b4f96d5/134e87f8182b912dec6256bd0e87e3c7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/494a24754f9e11ebf0898ff2f486a82c/6d27328ec4843aff06da7447c9d0ae5e.jpeg"
       ],
       "Videos": [],
       "Breed": "Husky",
@@ -2408,11 +2193,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "296939",
           "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
@@ -2420,6 +2200,11 @@
         {
           "Internal-ID": "296943",
           "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
           "Publish": "Yes"
         },
         {
@@ -2433,17 +2218,17 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "634892",
           "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791824785"
+      "LastUpdatedUnixTime": "1791943230"
     },
     {
       "ID": "3730",
@@ -3014,6 +2799,128 @@
       "LastUpdatedUnixTime": "1789400736"
     },
     {
+      "ID": "3656",
+      "Internal-ID": "214218202",
+      "Name": "Rosie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "75",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1469941200,
+      "Age": 122,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb07d1d8ad4091c5c630b58d975481af/dc4747700e39c6137d4d4445a701037d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/eb07d1d8ad4091c5c630b58d975481af/dc4747700e39c6137d4d4445a701037d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6eea29d98448786ea4f6017ad80389e7/aa13f7ae60dd408509c7ee9afc8727c1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/07f78b2a8fd1136a260db5e303f09ab7/a53635ede479bc5d0f3b2221d59ea8ac.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/87a3f19a0840772f9a8f5b3764ffbcc8/112aa8a20d6b30b2cdea4c3ad7ad893e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Poodle, Standard",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Rosie is a lively gal with a joyful spirit and a heart full of love. At 10 years old, she’s the perfect mix of seasoned sweetness and surprising pep; a senior in age, but absolutely not in attitude.\n\nRosie still loves her walks, playtime, and exploring the yard. She’s the kind of dog who greets each day with a happy tail and a little bounce. She adores her people and happily leans in for pets, cuddles, and attention.\n\nPoodles are famously clever, and Rosie is no exception. She enjoys learning, sniffing games, and anything that engages her brain - ESPECIALLY when food is involved. \n\nRosie loves regular walks and bursts of play. She’s not a hyper dog, but she definitely isn’t slowing down yet. She enjoys being around people and has lived with dogs, cats, and kiddos. After her adventures, she’s all about soft beds, warm blankets, and curling up near her favorite humans.\n\nRosie would thrive with someone who appreciates a dog that’s both cuddly and spirited. She’d be a great match for adults, families, or anyone who wants a companion who’s always ready for a walk, a game, or a cozy evening together. Rosie brings joy, loyalty, and a spark of fun wherever she goes. She’s looking for a home that will celebrate her energy, cherish her sweetness, and give her the love she’s been waiting for.",
+      "LastIntakeUnixTime": "1785548562",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791939100"
+    },
+    {
       "ID": "3678",
       "Internal-ID": "214320063",
       "Name": "Alfredo",
@@ -3301,6 +3208,102 @@
       "LastUpdatedUnixTime": "1791899569"
     },
     {
+      "ID": "3714",
+      "Internal-ID": "214615686",
+      "Name": "Cannoli",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "10",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1785394800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
+        "https://new-s3.shelterluv.com/profile-pictures/05199ea0a30720194b6854a428c96782/432be32ab91b7ed3b50dce5db7d2df29.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/5f65bf88239283f2f3896efd11442e29/0d6ddefd520b0053b2013d9b3b6b5ddd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/024971f90d6b6f598d1b00452205a736/b41f3444466b5ff951889ab4d17a4d04.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2f6838335b9f5d0893d5d60a380b4cf/344b0daddc112061436cb4ee20cbc369.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ef7b279db48ee3c523171b5459b29da6/2940d1c659c49af0958fe57fef68bf22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f6020564e46bb6ce23f5a3b3b7113dce/b214c9805802f45afff8bcb9fd4c91e5.PNG"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "Chocolate",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": " Cannoli is a typical puppy. Everything is worth exploring for him. He loves to explore the yard, to run and play, to snuggle and eat. He is working on potty training since he is a typical puppy. He comes when called and really enjoys playing with his sibling Meatball.",
+      "LastIntakeUnixTime": "1790286518",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1791936353"
+    },
+    {
       "ID": "3716",
       "Internal-ID": "214615690",
       "Name": "Pesto",
@@ -3330,7 +3333,14 @@
       "Breed": "Mixed Breed (Large)",
       "Color": "White",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Pesto is an absolute joy. He is a typical puppy that loves to snuggle, play, eat and sleep. He loves playing with his dog foster siblings, playing tug o war, fetch (working on retrieval), and squeaky toys.\n\nHe is sleeping through the night in his crate and working on potty training. He has the sweetest angel face and is so soft and cuddly. I’ll be so sad to say goodbye to this sweetie pie but he will make a family very happy!",
       "LastIntakeUnixTime": "1790286585",
       "Attributes": [
@@ -3400,7 +3410,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791918826"
+      "LastUpdatedUnixTime": "1791934732"
     },
     {
       "ID": "3717",
