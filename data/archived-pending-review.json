@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:24:36Z",
+  "updated": "2026-10-14T21:50:40Z",
   "animals": [
     {
       "ID": "3458",
@@ -1898,6 +1898,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-13T19:24:36Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3712",
+      "Name": "Espresso",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/47d117009ffbaee13f5d6af2e1dc65ea/145e814379020649763eae576bf69c3b.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-14T21:50:40Z",
       "status": "pending"
     }
   ]
