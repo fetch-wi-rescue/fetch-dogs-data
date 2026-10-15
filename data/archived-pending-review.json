@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T04:56:35Z",
+  "updated": "2026-10-15T18:47:45Z",
   "animals": [
     {
       "ID": "3458",
@@ -1916,6 +1916,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-15T04:56:35Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3714",
+      "Name": "Cannoli",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b28191f58b04bef26621b780062f4221/b792abc743d8c9b25022dca23549df31.png",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-15T18:47:45Z",
       "status": "pending"
     }
   ]
