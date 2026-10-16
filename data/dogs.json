@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T13:39:25Z",
-  "count": 46,
+  "updated": "2026-10-16T17:45:30Z",
+  "count": 44,
   "animals": [
     {
       "ID": "3279",
@@ -1963,6 +1963,100 @@
       "LastUpdatedUnixTime": "1792157663"
     },
     {
+      "ID": "3729",
+      "Internal-ID": "214732438",
+      "Name": "Loki",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "55",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1696222800,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eabd2edb1b02456cb4451c9afa930b6f/ce26c9f9591bc46427447dd662691f2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53eb3a91149bec7ce34aa236593c3d62/b4ad47a7d38c87992506d77f79354b87.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/496b727decb59605935c064b02fec1f4/426d117946755840cbe7a9dac37d152a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/65c3fcbaa0a6e9f30ebda30bbaca09d5/66730b07730d7e93edf4e1ea0dcb7e56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fcb6f076541922700b2bb670228eda45/76b63adb758fa73c4a8e57a9db1eea96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/494a24754f9e11ebf0898ff2f486a82c/6d27328ec4843aff06da7447c9d0ae5e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c1c0ce300675a7cb1680649684e6e67/f0a409eab479186adde77e6992318e4e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c3b765bb03de581f011b93639b4f96d5/134e87f8182b912dec6256bd0e87e3c7.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Loki is your classic dog about town. Walks, backyard zoomies, car rides, couch snuggles, supervised snack quality control? Loki is enthusiastically available for all of the above.\n\nAfter spending more than a third of his life waiting in a Texas shelter, Loki is making up for lost time and discovering that life is actually pretty great. He can be a little shy when meeting new people, but give him a few minutes and you'll unlock his true form: a goofy, affectionate cuddle bug with a talent for making everyone smile.\n\nLike any good superhero, Loki has a battle scar from his past; it appears he may have sustained an injury to his front paw and one toe healed a little wonky. It gives him character and doesn't slow him down one bit!\n\nAs for his breed? That's anyone's guess. His foster mom has developed several wildly unscientific theories. Perhaps a Shar Pei gifted him those adorable ears, a shepherd added some tail fluff, and a Lab sprinkled in the friendliness. Or maybe a committee of random dogs got together and said, \"Let's make this one extra cute.\" Whatever the recipe, the result is 100% pure good boy.\n\nLoki is incredibly gentle, sweet, silly, and endlessly lovable. He's waited long enough for a family of his own and is ready to be treated like the wannabe little Avenger he is. All he needs now is a couch to claim, snacks to supervise, and humans to love.",
+      "LastIntakeUnixTime": "1791737325",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792172161"
+    },
+    {
       "ID": "3546",
       "Internal-ID": "213603741",
       "Name": "Archer James",
@@ -2352,94 +2446,6 @@
       "LastUpdatedUnixTime": "1792004032"
     },
     {
-      "ID": "3729",
-      "Internal-ID": "214732438",
-      "Name": "Loki",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1696222800,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53eb3a91149bec7ce34aa236593c3d62/b4ad47a7d38c87992506d77f79354b87.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/496b727decb59605935c064b02fec1f4/426d117946755840cbe7a9dac37d152a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/65c3fcbaa0a6e9f30ebda30bbaca09d5/66730b07730d7e93edf4e1ea0dcb7e56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fcb6f076541922700b2bb670228eda45/76b63adb758fa73c4a8e57a9db1eea96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c1c0ce300675a7cb1680649684e6e67/f0a409eab479186adde77e6992318e4e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3b765bb03de581f011b93639b4f96d5/134e87f8182b912dec6256bd0e87e3c7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/494a24754f9e11ebf0898ff2f486a82c/6d27328ec4843aff06da7447c9d0ae5e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Loki is your classic dog about town. Walks, backyard zoomies, car rides, couch snuggles, supervised snack quality control? Loki is enthusiastically available for all of the above.\n\nAfter spending more than a third of his life waiting in a Texas shelter, Loki is making up for lost time and discovering that life is actually pretty great. He can be a little shy when meeting new people, but give him a few minutes and you'll unlock his true form: a goofy, affectionate cuddle bug with a talent for making everyone smile.\n\nLike any good superhero, Loki has a battle scar from his past; it appears he may have sustained an injury to his front paw and one toe healed a little wonky. It gives him character and doesn't slow him down one bit!\n\nAs for his breed? That's anyone's guess. His foster mom has developed several wildly unscientific theories. Perhaps a Shar Pei gifted him those adorable ears, a terrier added some spunk, and a Lab sprinkled in the friendliness. Or maybe a committee of random dogs got together and said, \"Let's make this one extra cute.\" Whatever the recipe, the result is 100% pure good boy.\n\nLoki is incredibly gentle, sweet, silly, and endlessly lovable. He's waited long enough for a family of his own and is ready to be treated like the wannabe little Avenger he is. All he needs now is a couch to claim, snacks to supervise, and humans to love.",
-      "LastIntakeUnixTime": "1791737325",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792088507"
-    },
-    {
       "ID": "3730",
       "Internal-ID": "214732439",
       "Name": "Sasha",
@@ -2479,7 +2485,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792088093"
+      "LastUpdatedUnixTime": "1792167736"
     },
     {
       "ID": "3731",
@@ -2493,7 +2499,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "24.2",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1728190800,
       "Age": 24,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1a22fac73ff6401479b01ba3ac1f28d2/5c1063254e0d4c016a2ef639988f6f9c.jpg",
@@ -2521,7 +2527,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792088302"
+      "LastUpdatedUnixTime": "1792167851"
     },
     {
       "ID": "3733",
@@ -2903,7 +2909,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1789400736"
+      "LastUpdatedUnixTime": "1792172327"
     },
     {
       "ID": "3656",
@@ -3301,79 +3307,6 @@
       "LastUpdatedUnixTime": "1792078645"
     },
     {
-      "ID": "3717",
-      "Internal-ID": "214615691",
-      "Name": "Tiramisu",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "15",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3c8df61269a302df7584b5f4c33ba6e0/d72045d406507ec4014f3de32f3fa9d0.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3c8df61269a302df7584b5f4c33ba6e0/d72045d406507ec4014f3de32f3fa9d0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/24741248675d1c11b76248f4495b2581/dfa6434073e82288cbf4075168bb40d0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6b4d4212df99966d841068a23cc6dff9/2a0c9d09f31df1b2698ae0c50c62dca0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c22547eab9d89402fe49a7537048572/0174d0650998ec65211095e7d757ff48.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Meet Tiramisu! He's a 9-week-old, pittie mix, who loves everyone he meets. He is outgoing, curious, and very sweet. He's doing well with both crate training and potty training. He LOVES toys and wrestling with his brother. He would make a great dog for a first-time adopter, or a lovely addition to virtually any home. ",
-      "LastIntakeUnixTime": "1790286622",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792023443"
-    },
-    {
       "ID": "3718",
       "Internal-ID": "214695886",
       "Name": "Ringo",
@@ -3488,113 +3421,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791985678"
-    },
-    {
-      "ID": "3732",
-      "Internal-ID": "214732441",
-      "Name": "Kasey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "47",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728232585,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8d98181c0d4191631631e19c9d50295/e00e0d69b85aa6fccf7bc284c528dfdc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d4b90e386c78dfdbe06a87d2723359f/80b9e6d5571b5fe2e0dfa2b08190487d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/90c8470c26f47accbb8945c4be01a227/be9465a32935b0a724689aab76572137.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ddf866f255e9a23e7a836ce1b4736dd/1aec91b92429cf6c9dded6bf8a6168b8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/60be705195ce181e4ac83a9a76a82efd/56713ce8731261de2d1747f1793b13c9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Kasey is a lovable, affectionate companion with a heart full of love and a personality that shines. Whether enjoying playtime, exploring new places, or curling up for a cozy nap, Kasey is endlessly entertaining. This sweet soul enjoys spending time with people and is always ready to offer companionship, loyalty, and plenty of smiles.\n\nKasey is looking for a forever home where she can feel safe, loved, and part of the family. With patience, kindness, and a little time to settle in, Kasey is sure to become your forever best friend. If you're searching for a loyal companion who will fill your life with love and joy, Kasey may be the perfect match.\n\nShe currently lives in a multi-dog and cat household and does just fine with everyone. She really prefers her people over her four-legged housemates though, so if you're looking to remain a single-dog family - Kasey will happily accept all your undivided attention.\n\nShe also has a reddish undertone to her fur - photos do not due her justice, so, you'll just need to meet her in person to see it for yourself! :)",
-      "LastIntakeUnixTime": "1791735411",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792084297"
     },
     {
       "ID": "3592",
