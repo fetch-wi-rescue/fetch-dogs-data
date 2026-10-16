@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:45:30Z",
+  "updated": "2026-10-16T20:20:24Z",
   "count": 44,
   "animals": [
     {
@@ -1184,118 +1184,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792019965"
-    },
-    {
-      "ID": "3679",
-      "Internal-ID": "214320064",
-      "Name": "Monona",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "12",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779996943,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1db929c924811214549b0d3b3a0fbdd9/3ed90d0321be03b855ab60d17370c5d0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3484139eddbfdcfc3b9728b2501350a/96f6a2a555e1c98ec36e7bf1e10e12df.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ff85cf6839a70b7ea057e83ba9ac19e7/91d5ac1f38659d7a980ff3882840aaa8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d5c11a652e5f774b9bd123f2edd5b729/db765fde76b747f876a23cbc337383a2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1c881c941696561dcacb26b72b7450b4/736ff7a73d285595eb757034fb356ef6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7d62f325434ee97d7afffa91e251a012/b7d84691425c100a451c1645388f2610.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76e17a2296d49dbb0cc0825c63acac36/56ab2f1f4693c353773bd45062a73f93.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f5606a39245527154da16953963e34f2/a0c149160e6c5bf9b0ca4c4fd407e409.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/051608d6738cbb82df4a24fa9911da23/a04961fd8f0437bf8750837dc5446e10.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ecd8a052907d291eecffe7bab9db9ede/0267ec2a8766579e18cc0eff9830504f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/089f0dd202d850041d3f958ff048719b/1768f7079c2d433b66cd87a66e0875a6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/233d2a0b28ff3cbf2704ca1c4083ee43/f65a30a2dd30c2cb6b6c0b97c7f7da5a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfb3c187d2a4183f4161b8bbf9401558/54512443005b1bbf3b720e069cca4e98.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/da50dc21327fb4ba2ac2b2102e57417d/64fe05fb7e7530037ad9c29c2c8dbdc6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Red/Mahogany/White",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hello, I'm Monona, a red and white tick-patterned beauty with likely coonhound and cattle dog heritage running through my veins! \n\nI'm a typical puppy who loves to play and snuggle, and I've already proven I'm friendly with cats, dogs, and kids alike. Whether it's playtime or cuddle time, I'm your girl; I thrive on both! \n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
-      "LastIntakeUnixTime": "1787166171",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791842217"
     },
     {
       "ID": "3680",
@@ -2663,7 +2551,7 @@
       "Sex": "Male",
       "Status": "Foster to Adopt",
       "InFoster": true,
-      "CurrentWeightPounds": "5.14",
+      "CurrentWeightPounds": "6.2",
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1407103120,
@@ -2777,7 +2665,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1791570812"
+      "LastUpdatedUnixTime": "1792173586"
     },
     {
       "ID": "3659",
@@ -2789,7 +2677,7 @@
       "Sex": "Male",
       "Status": "Foster to Adopt",
       "InFoster": true,
-      "CurrentWeightPounds": "13",
+      "CurrentWeightPounds": "14.2",
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1533272400,
@@ -2909,7 +2797,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792172327"
+      "LastUpdatedUnixTime": "1792173173"
     },
     {
       "ID": "3656",
@@ -3032,6 +2920,118 @@
         }
       ],
       "LastUpdatedUnixTime": "1791939100"
+    },
+    {
+      "ID": "3679",
+      "Internal-ID": "214320064",
+      "Name": "Monona",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "12",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779996943,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1db929c924811214549b0d3b3a0fbdd9/3ed90d0321be03b855ab60d17370c5d0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c3484139eddbfdcfc3b9728b2501350a/96f6a2a555e1c98ec36e7bf1e10e12df.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff85cf6839a70b7ea057e83ba9ac19e7/91d5ac1f38659d7a980ff3882840aaa8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d5c11a652e5f774b9bd123f2edd5b729/db765fde76b747f876a23cbc337383a2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c881c941696561dcacb26b72b7450b4/736ff7a73d285595eb757034fb356ef6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7d62f325434ee97d7afffa91e251a012/b7d84691425c100a451c1645388f2610.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76e17a2296d49dbb0cc0825c63acac36/56ab2f1f4693c353773bd45062a73f93.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/885336b1ecc3eea04cb85fc314bf2555/169fb3331c9022264bc18f6a583dc318.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f5606a39245527154da16953963e34f2/a0c149160e6c5bf9b0ca4c4fd407e409.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/051608d6738cbb82df4a24fa9911da23/a04961fd8f0437bf8750837dc5446e10.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ecd8a052907d291eecffe7bab9db9ede/0267ec2a8766579e18cc0eff9830504f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/089f0dd202d850041d3f958ff048719b/1768f7079c2d433b66cd87a66e0875a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/233d2a0b28ff3cbf2704ca1c4083ee43/f65a30a2dd30c2cb6b6c0b97c7f7da5a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfb3c187d2a4183f4161b8bbf9401558/54512443005b1bbf3b720e069cca4e98.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/da50dc21327fb4ba2ac2b2102e57417d/64fe05fb7e7530037ad9c29c2c8dbdc6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Red/Mahogany/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hello, I'm Monona, a red and white tick-patterned beauty with likely coonhound and cattle dog heritage running through my veins! \n\nI'm a typical puppy who loves to play and snuggle, and I've already proven I'm friendly with cats, dogs, and kids alike. Whether it's playtime or cuddle time, I'm your girl; I thrive on both! \n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "LastIntakeUnixTime": "1787166171",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792179895"
     },
     {
       "ID": "3690",
