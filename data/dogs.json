@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:38:22Z",
+  "updated": "2026-10-16T13:39:25Z",
   "count": 46,
   "animals": [
     {
@@ -1568,11 +1568,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "621458",
-          "AttributeName": "❌ No apartments",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "634888",
           "AttributeName": "✅ Friendly",
           "Publish": "Yes"
@@ -1588,11 +1583,6 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
@@ -1603,7 +1593,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792096976"
+      "LastUpdatedUnixTime": "1792157520"
     },
     {
       "ID": "3706",
@@ -1909,7 +1899,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "58.5",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1646546400,
@@ -1970,7 +1960,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792097772"
+      "LastUpdatedUnixTime": "1792157663"
     },
     {
       "ID": "3546",
