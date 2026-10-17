@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:45:30Z",
+  "updated": "2026-10-17T16:32:56Z",
   "animals": [
     {
       "ID": "3458",
@@ -1943,6 +1943,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-16T17:45:30Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3678",
+      "Name": "Alfredo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/113ad8770e72c760ece494d2ea51f235/6f728ad9699a274bd251630f9ae71c26.jpg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-17T16:32:56Z",
       "status": "pending"
     }
   ]
