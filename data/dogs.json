@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:57:40Z",
+  "updated": "2026-10-17T21:14:31Z",
   "count": 44,
   "animals": [
     {
@@ -1779,7 +1779,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792021882"
+      "LastUpdatedUnixTime": "1792269938"
     },
     {
       "ID": "3721",
@@ -2566,7 +2566,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "29",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1544508000,
@@ -2581,7 +2581,14 @@
       "Breed": "Mixed Breed (Medium)/Terrier",
       "Color": "White/Tan",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "",
       "LastIntakeUnixTime": "1792209975",
       "Attributes": [
@@ -2631,6 +2638,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "637203",
           "AttributeName": "Low energy",
           "Publish": "Yes"
@@ -2639,9 +2651,14 @@
           "Internal-ID": "678764",
           "AttributeName": "Housetrained",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792263453"
+      "LastUpdatedUnixTime": "1792263607"
     },
     {
       "ID": "3658",
