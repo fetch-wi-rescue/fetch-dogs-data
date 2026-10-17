@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:14:31Z",
+  "updated": "2026-10-17T23:15:25Z",
   "count": 44,
   "animals": [
     {
@@ -2578,9 +2578,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/49a921f7e556f462f335fdb2f2e1eb83/12a57dd62d35f40e14c238616a45aa13.jpeg"
       ],
       "Videos": [],
-      "Breed": "Mixed Breed (Medium)/Terrier",
+      "Breed": "Mixed Breed (Medium)",
       "Color": "White/Tan",
-      "Pattern": null,
+      "Pattern": "None",
       "AdoptionFeeGroup": {
         "Id": 37343,
         "Name": "Senior (7 years and older)",
@@ -2653,12 +2653,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "810934",
           "AttributeName": "Wouldn't mind being an only dog",
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792263607"
+      "LastUpdatedUnixTime": "1792272628"
     },
     {
       "ID": "3658",
