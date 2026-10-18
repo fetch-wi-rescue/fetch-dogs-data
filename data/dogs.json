@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T17:42:00Z",
-  "count": 44,
+  "updated": "2026-10-18T19:54:55Z",
+  "count": 43,
   "animals": [
     {
       "ID": "3279",
@@ -1945,6 +1945,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634892",
           "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
@@ -1960,7 +1970,210 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792172161"
+      "LastUpdatedUnixTime": "1792349853"
+    },
+    {
+      "ID": "3730",
+      "Internal-ID": "214732439",
+      "Name": "Sasha",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "28",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1665032400,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Mix",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
+      "LastIntakeUnixTime": "1791736083",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792350415"
+    },
+    {
+      "ID": "3731",
+      "Internal-ID": "214732440",
+      "Name": "Bengie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "24.2",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1728190800,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3be5787b3ae9bd12d1f61ce47cb1283f/f1ca0d60f9072ee3373217197d73cee6.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/3be5787b3ae9bd12d1f61ce47cb1283f/f1ca0d60f9072ee3373217197d73cee6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cbb2f31923d6ccebb5864bcd179a3468/4e7729946acb97007d1b37434e308db1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/19e5b610a9194de18d4699e0969a51f8/17ce55a4203a4ddd608c9e5b93bcc542.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7c8fc84d973961c388914598d9459f15/a96bd2e6e9ef0d2d52248d8e897c0624.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/073f0530e63343c5f2a8ac3cc7b21023/6dee977dff7607a76ab2e7b6ed8ab45e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Mix",
+      "Color": "Brown/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Bengie is a sweet and shy guy who came to Fetch from an over crowded shelter in Texas. The shelter environment was very scary for him, and he was a bit shut down there. Since arriving at his foster home, he has really had the chance to blossom and show his sweet and silly personality! Bengie loves to play with toys, get zoomies in the yard with his foster dog siblings, and curl up on the couch. He loves other dogs and follows his foster mom and dad all around the house. He is potty trained and does great out of his crate in a bedroom over night and while his foster parents are at work. He loves to keep busy with toys and likes to chew on chew toys. He is working on learning not to chew on wood furniture and is easily redirected with a chew toy and learning boundaries quickly. \n\nBengie is still learning to trust humans and will need someone patient and willing to take the time to allow him decompress and earn his trust. He is such a cute and sweet guy, his foster mom thinks he is totally worth the wait! \n\nHe would likely do best in a home without young children. He is still learning how to walk on a leash and will need a home with a fenced yard or an enclosure while he gets used to leash walks. \n",
+      "LastIntakeUnixTime": "1791736083",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792350525"
     },
     {
       "ID": "3733",
@@ -2112,12 +2325,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1714798800,
       "Age": 29,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8d2aeda5b4add85ffd6ada2709795e37/875aa2c859a11576e1ced6f6f4b9f32d.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d1097d641524224cdeb3b51d91f9b8c8/9b0d78399b701586e49fc9cc70b1ea80.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/8d2aeda5b4add85ffd6ada2709795e37/875aa2c859a11576e1ced6f6f4b9f32d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1097d641524224cdeb3b51d91f9b8c8/9b0d78399b701586e49fc9cc70b1ea80.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/bf98853b846e1bfd35c413d5bed7edeb/d43cb554fe8d28936fbf734680030c58.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/8c0988ef044dbf81fb1c60631f8748d4/a8d85589adb4c0db2fc491feea182b27.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e2d82ca7004dc27ac407a5a20674195/e68e6289ca9038e4ba321e73c2227cc9.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/9b92c553c88b587654ac568e04ede290/7cc2e3368528b9aa406888698eb0f396.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
         "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
@@ -2125,6 +2342,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/652c5aa5b36cd9436186b4bef86c9e49/27f17031b98b95a708e4f3648eac9b88.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bc505b3724b0fb4589d7b3c3e4bb0fbc/013292d2f6a059d360a81852ee24e5c5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d0ad65419f2314c2709895cc0ea4dae7/de99ffe8f255d8554d60bcfd43e590ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d2aeda5b4add85ffd6ada2709795e37/875aa2c859a11576e1ced6f6f4b9f32d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/257377e04418fb71b9c34933e53eed3d/75463cf7b6ef712799783260c5623fcb.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/860d0cf318c39fe113b0504197677e13/5872478d37385788506e029f490a79f6.jpeg"
       ],
@@ -2154,6 +2372,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
@@ -2161,6 +2384,11 @@
         {
           "Internal-ID": "634883",
           "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
@@ -2174,7 +2402,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792337706"
+      "LastUpdatedUnixTime": "1792352719"
     },
     {
       "ID": "3663",
@@ -2485,90 +2713,6 @@
       "LastIntakeUnixTime": "1791744780",
       "Attributes": [],
       "LastUpdatedUnixTime": "1792004032"
-    },
-    {
-      "ID": "3730",
-      "Internal-ID": "214732439",
-      "Name": "Sasha",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1665032400,
-      "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c1954bf87b8021fdca35388f1123b66e/30d1b47e82ccc4e6b899c9198137163f.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c1954bf87b8021fdca35388f1123b66e/30d1b47e82ccc4e6b899c9198137163f.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Mix",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1791736083",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792167736"
-    },
-    {
-      "ID": "3731",
-      "Internal-ID": "214732440",
-      "Name": "Bengie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "24.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728190800,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1a22fac73ff6401479b01ba3ac1f28d2/5c1063254e0d4c016a2ef639988f6f9c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1a22fac73ff6401479b01ba3ac1f28d2/5c1063254e0d4c016a2ef639988f6f9c.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Mix",
-      "Color": "Brown/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1791736083",
-      "Attributes": [
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792167851"
     },
     {
       "ID": "3735",
@@ -3644,73 +3788,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1778616204"
-    },
-    {
-      "ID": "2636",
-      "Internal-ID": "213179858",
-      "Name": "Bailey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "48",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1459314000,
-      "Age": 126,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e013b637d7a11c19d2df6bf0d5d8462e/19cb798ad5adf1146183c488f3e2b2ad.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e013b637d7a11c19d2df6bf0d5d8462e/19cb798ad5adf1146183c488f3e2b2ad.png"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "With sadness I am looking to rehome my 9-year-old black lab mix Bailey. He has no health issues, is up to date on his vaccines, and has quite a bit of energy for a \"senior\" dog. I've had him for five and a half years and recently had children. It turns out that young children really stress Bailey out. He is great in a kid-free or older kid home, and I think he would be happier and less stressed spending his remaining years in that environment. Like all dogs, he has his quirks which I'm happy to discuss more if you are interested. Things that would come with Bailey include: 1-2 months of food and treats, stainless steel water and food bowls, kennel, toys, and leash/collars.",
-      "LastIntakeUnixTime": "1778575746",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "❌ Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791526839"
     },
     {
       "ID": "3719",

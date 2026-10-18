@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:44:50Z",
+  "updated": "2026-10-18T19:54:55Z",
   "animals": [
     {
       "ID": "3458",
@@ -1961,6 +1961,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-18T14:44:50Z",
+      "status": "pending"
+    },
+    {
+      "ID": "2636",
+      "Name": "Bailey",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e013b637d7a11c19d2df6bf0d5d8462e/19cb798ad5adf1146183c488f3e2b2ad.png",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-10-18T19:54:55Z",
       "status": "pending"
     }
   ]
