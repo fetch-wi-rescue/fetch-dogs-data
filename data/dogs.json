@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:44:50Z",
+  "updated": "2026-10-18T17:42:00Z",
   "count": 44,
   "animals": [
     {
@@ -1386,6 +1386,93 @@
       "LastUpdatedUnixTime": "1790953214"
     },
     {
+      "ID": "3703",
+      "Internal-ID": "214435037",
+      "Name": "Seymour",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "68.2",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1598590800,
+      "Age": 73,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fafbfeae19978c81a907af910a0a5763/ae31943b894bc70bbb44ca4185108387.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f80492a12117b1333c9bace1e87cb39/59cbce67fee79241e902d7c61b3b24c6.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Yellow Labrador/Mixed Breed (Large)",
+      "Color": "Blond/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Seymour! This happy guy is 70 lbs of pure teddy bear energy. Seymour loves nothing more than hanging out with his people, preferably snuggling and showering them in kisses! He spends most of his days following his fosters from room to room or curled up in a cozy spot.\n\nAt six years old, Seymour is fairly mellow but does have a playful side. He loves to chase a ball around or play with the resident dog in his foster home. Seymour is enthusiastic about walks, and his foster family is working with him to cut down on pulling. \n\nSeymour clearly had some training in his past life and is quite well-mannered around the house. He is fully potty trained, crate trained (but would probably be just fine free roaming when home alone), and already knows how to sit and shake. He would likely be a quick study with any additional obedience training.\n\nSeymour can’t wait to meet you and hopefully become your forever best friend!",
+      "LastIntakeUnixTime": "1787965584",
+      "Attributes": [
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792341761"
+    },
+    {
       "ID": "3704",
       "Internal-ID": "214485671",
       "Name": "Little Bear",
@@ -1782,79 +1869,6 @@
       "LastUpdatedUnixTime": "1792269938"
     },
     {
-      "ID": "3721",
-      "Internal-ID": "214728114",
-      "Name": "Piglet",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "58.5",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1646546400,
-      "Age": 55,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae4d23ea49ece39d480e23f14a40dcca/193abe3e6b2f483aa42f29107315bce3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62e304a675eec5e0853698f47198ffbe/4e7fe461a28f282bb6d7971fddddbb12.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/00d4f204104b1ff72e48cfea6bf69972/358a8632fa104b83ec9678120ddac3e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/08a994806dcb3184e016a4c4a0eab958/f655eb7b5e0409b3f5f27bba35c80e91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bf331ef26f21876b01d442e7cb1fdb70/6d18abe73ecfcd848056bb5bf3574fba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/272fb5f2225425fcdf984422ace7dd7c/2562ab0c3fc165193f96f7bf2e34c206.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b64e1bb4a30a90d9c022e142933486d/194fa58ff572105c164c2c56f898b68e.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Piglet ❤️🐾\n\nPiglet is a 4-year-old Pit Bull/Lab mix with a heart full of love and a loyal spirit that's ready to find his forever family.\n\nThis handsome boy is house-trained, walks nicely on a leash, and has learned many basic commands. He's eager to please and loves spending time with his people. One of Piglet's favorite activities is playing fetch. Toss a ball, and you'll instantly see his happy, playful side.\n\nPiglet also does very well with free roam in the home, while he does experience some separation anxiety with being crated.  Piglet is hoping to find a patient and understanding home where someone is around often. He thrives on companionship and would love a family that enjoys spending time together and helping him feel secure and loved.\n\nIn his current foster home, Piglet lives peacefully with a large dog, a small dog, and a cat, proving he's a wonderful companion who gets along well with others. \n\nPiglet's story began at a shelter in Indiana, where he was so loved by the staff that they helped arrange for him to come to Wisconsin for a better chance at finding his perfect match. Everyone who meets him sees what a special dog he is, and now all that's missing is a family to call his own.\n\n❤️ Piglet at a Glance\n\n🐾 4-year-old Pit Bull/Lab mix\n🏡 House-trained\n🚶 Great on walks\n🚗 Rides well in the car\n🎾 Loves playing fetch\n🧠 Knows basic commands\n🐶 Gets along with big and small dogs\n🐱 Cat-friendly\n❤️ Sweet, loyal, and affectionate\n🏠 Looking for a patient family who can spend lots of time with him.  If you're searching for a faithful companion who will reward your love with endless loyalty, Piglet may be the perfect connection you've been waiting for. ❤️🐶🏡",
-      "LastIntakeUnixTime": "1791600623",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792157663"
-    },
-    {
       "ID": "3729",
       "Internal-ID": "214732438",
       "Name": "Loki",
@@ -2160,7 +2174,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792024562"
+      "LastUpdatedUnixTime": "1792337706"
     },
     {
       "ID": "3663",
@@ -3259,93 +3273,6 @@
       "LastUpdatedUnixTime": "1792328728"
     },
     {
-      "ID": "3703",
-      "Internal-ID": "214435037",
-      "Name": "Seymour",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "68.2",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1598590800,
-      "Age": 73,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fafbfeae19978c81a907af910a0a5763/ae31943b894bc70bbb44ca4185108387.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f80492a12117b1333c9bace1e87cb39/59cbce67fee79241e902d7c61b3b24c6.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Yellow Labrador/Mixed Breed (Large)",
-      "Color": "Blond/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Seymour! This happy guy is 70 lbs of pure teddy bear energy. Seymour loves nothing more than hanging out with his people, preferably snuggling and showering them in kisses! He spends most of his days following his fosters from room to room or curled up in a cozy spot.\n\nAt six years old, Seymour is fairly mellow but does have a playful side. He loves to chase a ball around or play with the resident dog in his foster home. Seymour is enthusiastic about walks, and his foster family is working with him to cut down on pulling. \n\nSeymour clearly had some training in his past life and is quite well-mannered around the house. He is fully potty trained, crate trained (but would probably be just fine free roaming when home alone), and already knows how to sit and shake. He would likely be a quick study with any additional obedience training.\n\nSeymour can’t wait to meet you and hopefully become your forever best friend!",
-      "LastIntakeUnixTime": "1787965584",
-      "Attributes": [
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792006970"
-    },
-    {
       "ID": "3718",
       "Internal-ID": "214695886",
       "Name": "Ringo",
@@ -3460,6 +3387,79 @@
         }
       ],
       "LastUpdatedUnixTime": "1791985678"
+    },
+    {
+      "ID": "3721",
+      "Internal-ID": "214728114",
+      "Name": "Piglet",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "58.5",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1646546400,
+      "Age": 55,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae4d23ea49ece39d480e23f14a40dcca/193abe3e6b2f483aa42f29107315bce3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62e304a675eec5e0853698f47198ffbe/4e7fe461a28f282bb6d7971fddddbb12.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d4f204104b1ff72e48cfea6bf69972/358a8632fa104b83ec9678120ddac3e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/08a994806dcb3184e016a4c4a0eab958/f655eb7b5e0409b3f5f27bba35c80e91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf331ef26f21876b01d442e7cb1fdb70/6d18abe73ecfcd848056bb5bf3574fba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/272fb5f2225425fcdf984422ace7dd7c/2562ab0c3fc165193f96f7bf2e34c206.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b64e1bb4a30a90d9c022e142933486d/194fa58ff572105c164c2c56f898b68e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Piglet ❤️🐾\n\nPiglet is a 4-year-old Pit Bull/Lab mix with a heart full of love and a loyal spirit that's ready to find his forever family.\n\nThis handsome boy is house-trained, walks nicely on a leash, and has learned many basic commands. He's eager to please and loves spending time with his people. One of Piglet's favorite activities is playing fetch. Toss a ball, and you'll instantly see his happy, playful side.\n\nPiglet also does very well with free roam in the home, while he does experience some separation anxiety with being crated.  Piglet is hoping to find a patient and understanding home where someone is around often. He thrives on companionship and would love a family that enjoys spending time together and helping him feel secure and loved.\n\nIn his current foster home, Piglet lives peacefully with a large dog, a small dog, and a cat, proving he's a wonderful companion who gets along well with others. \n\nPiglet's story began at a shelter in Indiana, where he was so loved by the staff that they helped arrange for him to come to Wisconsin for a better chance at finding his perfect match. Everyone who meets him sees what a special dog he is, and now all that's missing is a family to call his own.\n\n❤️ Piglet at a Glance\n\n🐾 4-year-old Pit Bull/Lab mix\n🏡 House-trained\n🚶 Great on walks\n🚗 Rides well in the car\n🎾 Loves playing fetch\n🧠 Knows basic commands\n🐶 Gets along with big and small dogs\n🐱 Cat-friendly\n❤️ Sweet, loyal, and affectionate\n🏠 Looking for a patient family who can spend lots of time with him.  If you're searching for a faithful companion who will reward your love with endless loyalty, Piglet may be the perfect connection you've been waiting for. ❤️🐶🏡",
+      "LastIntakeUnixTime": "1791600623",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792341733"
     },
     {
       "ID": "3592",
