@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:32:56Z",
+  "updated": "2026-10-18T14:44:50Z",
   "animals": [
     {
       "ID": "3458",
@@ -1952,6 +1952,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-17T16:32:56Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3709",
+      "Name": "Banjo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/727b8c043ca473e84f8640017b547cec/7744211a872cee051a3654386b33d1da.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-18T14:44:50Z",
       "status": "pending"
     }
   ]

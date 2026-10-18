@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T11:28:59Z",
-  "count": 45,
+  "updated": "2026-10-18T14:44:50Z",
+  "count": 44,
   "animals": [
     {
       "ID": "3279",
@@ -1183,7 +1183,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792019965"
+      "LastUpdatedUnixTime": "1792328716"
     },
     {
       "ID": "3680",
@@ -3055,7 +3055,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "12",
+      "CurrentWeightPounds": "17",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779996943,
@@ -3155,7 +3155,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792179895"
+      "LastUpdatedUnixTime": "1792328745"
     },
     {
       "ID": "3690",
@@ -3167,7 +3167,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "20",
+      "CurrentWeightPounds": "24",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1778389200,
@@ -3256,7 +3256,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791841960"
+      "LastUpdatedUnixTime": "1792328728"
     },
     {
       "ID": "3703",
@@ -3344,91 +3344,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792006970"
-    },
-    {
-      "ID": "3709",
-      "Internal-ID": "214615680",
-      "Name": "Banjo",
-      "LitterGroupId": 9597502,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "17.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1743599955,
-      "Age": 18,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/727b8c043ca473e84f8640017b547cec/7744211a872cee051a3654386b33d1da.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/727b8c043ca473e84f8640017b547cec/7744211a872cee051a3654386b33d1da.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9791138bac935820127839c4d003babd/09e141bf7d2b35a619589e9044facd77.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f779da0318254befb1c925fb4f13d1b0/decd021afa804176e6bfea00d98203d3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b78fa88a6f4b78d12cd596a24504c20e/cc7483ab56e3c4c5be2afc89e461ad65.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3a48fe8f0d966a9a85e27af0d4716376/434b8fb3ac9013f8bf3f6dca5d318b58.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/f7ae8c07e4b0f61eb59d26938af93634/062f6bce921cd820e93e10873d95473e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/72fcae981fea230021f5516e4ea00df6/3015d8d785df4bacad89b40cb4ab4761.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/04dc462074a8545b303421ab19c3a0d1/db00863f0f9b9956d12ba5231f1f55db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c66b06f00ff05796dc4769e4a8b3beef/4948b602626fdf8439ae17a9b2bdbd2c.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Dachshund",
-      "Color": "Red/Mahogany",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "- Dog friendly\n- A little slow to trust humans \n- Walks well on leash\n- Rides well tethered in car\n- Barks when startled; would benefit from a calm household/neighborhood\n- Potty trained\n- A quick learner; already knows \"stay\" and \"sit\"\n- A keen hunter, will pull for squirrels & rabbits!\n- Crate trained\n- Loves to be outside\n- Loves to chew but knows what is a toy and what is not!\n- Big fan of shoes and clothing items but respects them after relocation :)\n- Would benefit from another dog in the house to teach him confidence and not to be so afraid of the world.\n\nBanjo has settled in nicely after about 2 weeks in Wisconsin! He is the perfect pint-sized pal weighing in at a sweet 17.6 pounds. He is currently living with two other dogs, 1 smaller and 1 much bigger. He does well with both and even enjoys wrestling with the 60 lb dog! He is not intimidated at all! He is very respectful of the older small dog and they get along well. \n\nHe loves food but doesn't resource guard. After his morning walk & food he gets the zoomies for a bit, and is then ready to cuddle or sit outside in the sun for the rest of the morning. \n\nHe is very good at self-directed play, heading to the toy basket to choose a toy and play by himself for a while. \n\nBecause we are home all day Banjo gets lots of attention and can go outside frequently. We guess he would need to go out about every 4 hours until he gets used to a routine.\n\nBanjo is quite fearful in new situations. He will need a patient adopter who can give him slow introductions and lots of positive reinforcement as he learns about the world.\n\nBanjo has not been around small children and because of his fearfulness would use caution. He has done well meeting older kids (over 12 years old). Banjo has not met any cats yet.",
-      "LastIntakeUnixTime": "1790287238",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792292794"
     },
     {
       "ID": "3718",
