@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T01:18:23Z",
-  "count": 44,
+  "updated": "2026-10-18T06:12:50Z",
+  "count": 45,
   "animals": [
     {
       "ID": "3279",
@@ -2299,7 +2299,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1758171600,
-      "Age": 12,
+      "Age": 13,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8d9295d99a3f474b482701cdbaa738cf/4ca19140bcc75389bf813e37e15ce367.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/8d9295d99a3f474b482701cdbaa738cf/4ca19140bcc75389bf813e37e15ce367.jpg"
@@ -3428,7 +3428,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792078645"
+      "LastUpdatedUnixTime": "1792292794"
     },
     {
       "ID": "3718",
@@ -3846,6 +3846,63 @@
         }
       ],
       "LastUpdatedUnixTime": "1791579384"
+    },
+    {
+      "ID": "3736",
+      "Internal-ID": "214807297",
+      "Name": "Eevee ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "20",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1574488800,
+      "Age": 82,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/40294615c3a1d567ff500009ee544e86/6c05ff3b8d50277ed0fb702527745d0f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/40294615c3a1d567ff500009ee544e86/6c05ff3b8d50277ed0fb702527745d0f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8b99750f2aa916ecf8a38a41e5b3eea/6299b869e7fe0494f342ec26eb45dda1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f2cb391e8fdf9a14a04a18b5b24ce520/dd8afdd9a4f664df1c1490f14d8c9936.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Dachshund/Mixed Breed (Small)",
+      "Color": "Tan",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Eevee is a sweet and spunky almost 7 yr old dachshund mix. She loves fetch, snuggling on the couch, and being around her person. She comes from the south so she’s still getting used to the cold weather and snow. She’s had multiple households with other dogs and plays well with others.\n\nEevee is looking for a new home because of her owner’s changing living situation and work schedule. She would do best living with a single person who is home most of the time.",
+      "LastIntakeUnixTime": "1792287227",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792287580"
     }
   ]
 }
