@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:19:00Z",
+  "updated": "2026-10-19T05:00:41Z",
   "count": 43,
   "animals": [
     {
@@ -232,7 +232,14 @@
       "Breed": "Cattle Dog, Australian (Blue Heeler)",
       "Color": "",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Meet Duke, a handsome adolescent cattle dog mix with a big personality and the most perfect ears. Duke loves everyone he’s met. He welcomes guests into our house and immediately asks for pets. He also currently lives with two dogs and loves to play with the younger one.\n\nSmart and extremely food-motivated, Duke is easy and fun to train. He apparently thinks kibble is the greatest thing that exists in this world. He has some classic cattle dog traits and adolescent behaviors, so he won’t be the right fit for every home, but for the right family or active individual, he’s an amazing companion.\n\nA day in Duke’s life:\n\nMorning: 45-minute walk to start the day\n\nPlaytime with resident dog, then breakfast\n\nCrated during the workday\n\nEvening: yard play, then free in the house with occasional playtime\n\nDinner\n\nNight: a chew and cozy hanging-out time\n\nDuke’s ideal home is active and consistent, and can provide daily exercise, mental stimulation, and continued training. Duke needs a home that’s more experienced with dogs of his breed mix and age, who can continue to guide him toward becoming a thoughtful adult who makes his own good choices. He can get overexcited when seeing dogs, but would love to live with compatible dogs after a proper introduction and if the dogs are consistently separated for food, as he can guard meals and chews. If you’re looking for a loyal, smart, and affectionate buddy and are ready for a lively young cattle-dog mix, Duke could be your perfect match.",
       "LastIntakeUnixTime": "1724302800",
       "Attributes": [
@@ -244,6 +251,11 @@
         {
           "Internal-ID": "294312",
           "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
         },
         {
@@ -277,6 +289,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634886",
           "AttributeName": "✅ Loves to play",
           "Publish": "Yes"
@@ -284,6 +301,11 @@
         {
           "Internal-ID": "634888",
           "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
           "Publish": "Yes"
         },
         {
@@ -297,6 +319,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
@@ -307,7 +334,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792095039"
+      "LastUpdatedUnixTime": "1792378852"
     },
     {
       "ID": "3238",
@@ -2821,7 +2848,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792272628"
+      "LastUpdatedUnixTime": "1792378575"
     },
     {
       "ID": "3658",
