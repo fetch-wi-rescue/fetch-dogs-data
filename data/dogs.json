@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T10:44:16Z",
-  "count": 45,
+  "updated": "2026-10-20T15:30:07Z",
+  "count": 47,
   "animals": [
     {
       "ID": "3279",
@@ -416,7 +416,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791843551"
+      "LastUpdatedUnixTime": "1792503749"
     },
     {
       "ID": "3543",
@@ -3089,7 +3089,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792429781"
+      "LastUpdatedUnixTime": "1792509176"
     },
     {
       "ID": "3738",
@@ -3102,7 +3102,7 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "39",
-      "Size": "",
+      "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1634446800,
       "Age": 60,
@@ -3112,10 +3112,17 @@
       ],
       "Videos": [],
       "Breed": "Husky/Shiba Inu",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "She is great on walks! When we pass other dogs or people she's interested in you in a very friendly way. She rarely ever barks. Usually if she sees another dog going by through the window, she'll watch it walk by and maybe whimper a little. ",
       "LastIntakeUnixTime": "1792483837",
       "Attributes": [
         {
@@ -3149,7 +3156,248 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792484070"
+      "LastUpdatedUnixTime": "1792508366"
+    },
+    {
+      "ID": "3739",
+      "Internal-ID": "214818337",
+      "Name": "Reno",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "42",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1760936400,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93b2fcd4557bca54e85a745568763a1d/1cb6de7ac98e0c5a9d017869344f4453.JPG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/93b2fcd4557bca54e85a745568763a1d/1cb6de7ac98e0c5a9d017869344f4453.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/666f51a7d00beeaf1df22a5466f1c252/810adcb808f998fe06ad0b66d6a508c4.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/049e530f576d7b36f8d7f3fd255d3b37/d71413b47d7ea95c242eaf8bfa6e26f4.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ee6420fb2fc9587f26d0c3fd7481e602/2591fd93ce0229d7420b2838732e9548.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ce66ca80ea9bdb1a86937cff8be20a75/78e723c78c0ff443941b8b5b5612abf2.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/3ce8f5092cb06c881eb103cf4f57528a/ad1c1c83ae2ad65a2628bb383d7005fe.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/b1fc231c7cef49168d55864059f083c7/8030dd80b702d96c942c68b7044aaf7f.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/3a0662540f91d5bbd86d47087eac6086/bfbeaa193bc99cb6cf318eb17953205c.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/f069c583b5d3f8ac914451125a9a9633/73188eea55a485e0fa46b2ed3a15722b.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/4d235cbbfdc84a1cdfa4c9e1f50e2f90/11e145c7a6fd8fdee19fe7481aa8e7a0.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/f038ce091a36851c8e5104f48ae059a5/bc3497af2672bdf7e3a7afcd9327c1a0.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/1e72b627ddb0c933ad558f2f0663bfa2/9f5a55a1689d07f8deffacd8bc16830d.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/931876419e25db2d3c10bf8f01d60f9e/ca80ec20f940bf18a44c7cd1336e73ed.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/752881cc4e617313af2d7db60e8ab952/de38455c8893e2ac58f42ff125048e7c.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/1ff660f4ba4eaaff7dab49d52898a7ae/feaf0f435b36752ec6db01f14e7e44b2.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/af6521a74100f0b25ab21cc8b162f2b4/4d8f8f155378eb21332c0de9e32c9c01.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/15351fbc4752cc58b6b479bac02139a7/48e544a1690106eb8c67f68dc57a42a5.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/88b288248a83875f1482fc84b5d239da/36d733fa8ad718d7d039df16b888ed4d.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/4ab54eabe30e48d038a07e32de93061e/546281da2915d455e02f2e8a22aef00b.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/93b5ea21bd8dae64b99012b7fea6e0f2/cdb9c44114230929ba47129c07c85af7.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/aaf19ad05266a84407a8a5d79f6940c8/1cbbb30a4b1c1a5ba2e347ebf24e3e75.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ce79b9878212126111a3897c0d5b3bf6/5ceaf138b448f1218ba11f9a97e79fa7.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/436b83ea34bacc202d6bb6999e0c3d48/3acd05974fc9e8cfe354ccfd2a867605.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/bbb619b7f99ee3aacfdb3fd3b613aecc/5bed4690997672dff16da5a36b80f7c1.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/db48b3cab0f9d1adfe8bf1406700f93f/852356a0ed2186e389d12c663375cf0e.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/d125bab642a45f05bd1b59b2cedb5820/70fca530a3f72592ecfed1bb163aa377.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/0dcef262f899f8ca5735d1debf37ff58/c4db1687cf91efe12f506f1378cfb582.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/0ce788949ad9eb22d8c133b1b8c2b591/dab5fd81221658e566c44ddbf359d280.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/8dbba19c00b729cfb9465bc1a12dc58d/5a6358d44638e4d230f960482e7eb9af.JPG"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian/Mixed Breed (Medium)",
+      "Color": "Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792506929",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792509026"
+    },
+    {
+      "ID": "3740",
+      "Internal-ID": "214818360",
+      "Name": "Inara",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "46",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1760936400,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1ccaa8bbfe1a253e05c65f56041e137a/38c25b4f188eead8a3ed08a897e0433a.JPG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1ccaa8bbfe1a253e05c65f56041e137a/38c25b4f188eead8a3ed08a897e0433a.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/e5711122dbd90cd9e2c61ad803bbe79b/e0af3a62712c858cf98808ee46794ea6.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/8c504d0ef572be380e6e43d5fa167392/289c75b1913dab0294feaf3840d2d5c0.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/9ac7770744d91604098d9e5b46541467/e7a32578a83744db00f09f6ef88ed06d.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/8f46adf41f239a2bad78696794d56a08/366905a0f7eeea76e28d556967f955e1.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/a482c0cc8bb793d82976e201c81897a8/b60f3e2b80b9fb9f9b6c86b0c1621dd9.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/061963a15619e8d9262d69237276a0c0/e5a9d27622f9bf066555f53f1fe8138f.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/d4d9428d9defee7e43c3e60596743986/58e10fa460bc12c33a1ac1cf33be3970.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c528c644ef61d440ce519dfa6593b91c/64f7acf04f09327278d64d954da1961f.png",
+        "https://new-s3.shelterluv.com/profile-pictures/c13f928e0a41e4aac25fe1da58deccda/4cc28f3aacef20991c9995f62b57d94d.png"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Australian/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792506929",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792509026"
     },
     {
       "ID": "3658",
