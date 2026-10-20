@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T05:34:58Z",
-  "count": 44,
+  "updated": "2026-10-20T10:44:16Z",
+  "count": 45,
   "animals": [
     {
       "ID": "3279",
@@ -3090,6 +3090,66 @@
         }
       ],
       "LastUpdatedUnixTime": "1792429781"
+    },
+    {
+      "ID": "3738",
+      "Internal-ID": "214817114",
+      "Name": "Lucky",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "39",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1634446800,
+      "Age": 60,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Shiba Inu",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1792483837",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792484070"
     },
     {
       "ID": "3658",
