@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:31:36Z",
+  "updated": "2026-10-20T22:51:22Z",
   "count": 47,
   "animals": [
     {
@@ -2417,18 +2417,33 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
         },
         {
@@ -2437,7 +2452,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792257742"
+      "LastUpdatedUnixTime": "1792531425"
     },
     {
       "ID": "3734",
@@ -2484,18 +2499,38 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
         },
         {
@@ -2504,7 +2539,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792257775"
+      "LastUpdatedUnixTime": "1792531365"
     },
     {
       "ID": "3546",
@@ -2763,7 +2798,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792522335"
+      "LastUpdatedUnixTime": "1792536521"
     },
     {
       "ID": "3724",
