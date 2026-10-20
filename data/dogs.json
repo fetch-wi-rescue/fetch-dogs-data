@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:30:07Z",
+  "updated": "2026-10-20T19:31:36Z",
   "count": 47,
   "animals": [
     {
@@ -2733,7 +2733,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "50",
+      "CurrentWeightPounds": "58.4",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1758171600,
@@ -2763,7 +2763,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791899633"
+      "LastUpdatedUnixTime": "1792522335"
     },
     {
       "ID": "3724",
@@ -3108,7 +3108,10 @@
       "Age": 60,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/115b5ea220fd81e05f21f89c834e9130/06157c918f262af227fd4245ee3675cd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2307c64c4a2a7881fa0af9f912f89979/04487391859b46f6f5005a161cb995a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d1c0ecb1e1a016b0239284e6e6eaf8d/725218c70d5e57eb7e3956d22a61f599.jpeg"
       ],
       "Videos": [],
       "Breed": "Husky/Shiba Inu",
@@ -3122,7 +3125,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "She is great on walks! When we pass other dogs or people she's interested in you in a very friendly way. She rarely ever barks. Usually if she sees another dog going by through the window, she'll watch it walk by and maybe whimper a little. ",
+      "Description": "Lucky has been so easy for us as foster parents! She’s house trained and is fine left at home for 8 hours if that’s your workday. She is great on walks! When we pass other dogs or people she's interested in you in a very friendly way. She rarely ever barks. Usually if she sees another dog going by through the window, she'll watch it walk by and maybe whimper a little.",
       "LastIntakeUnixTime": "1792483837",
       "Attributes": [
         {
@@ -3156,7 +3159,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792508366"
+      "LastUpdatedUnixTime": "1792510712"
     },
     {
       "ID": "3739",
