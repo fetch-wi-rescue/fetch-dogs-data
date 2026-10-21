@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:54:55Z",
+  "updated": "2026-10-21T12:07:49Z",
   "animals": [
     {
       "ID": "3458",
@@ -1970,6 +1970,15 @@
       "Status": "DiTC",
       "reason": "other",
       "disappearedDate": "2026-10-18T19:54:55Z",
+      "status": "pending"
+    },
+    {
+      "ID": "1442",
+      "Name": "Sugar",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddc23e1ec2a72b4554beea44c425c104/8d29079f79204a8d85f2cdcfe5651b7c.png",
+      "Status": "DiTC",
+      "reason": "other",
+      "disappearedDate": "2026-10-21T12:07:49Z",
       "status": "pending"
     }
   ]

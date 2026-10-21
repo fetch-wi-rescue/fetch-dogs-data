@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T06:13:20Z",
-  "count": 48,
+  "updated": "2026-10-21T12:07:49Z",
+  "count": 47,
   "animals": [
     {
       "ID": "3279",
@@ -1871,20 +1871,33 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "57.9",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1629003600,
       "Age": 62,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/da2e58b5e844eda8fbf86d5eb52775f7/1bd2457cec0a9595868caacd7f35e6fa.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/da2e58b5e844eda8fbf86d5eb52775f7/1bd2457cec0a9595868caacd7f35e6fa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/87f5e0a67bc350c80f205a1148399ef6/7d84e3659e0337debbb23b16edf4eada.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/48c488e361a68b2d03f39d343933fcf8/b29ff02cfab6a711a4f11e053be12b3d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/38dcb2c1f63ba28458a0af91d6bd80b0/b78ae3c4a4623e5997d19f468d3dfd54.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a885b6f723b1b46a3b82b39d14303ca6/40b4d77a942303083226f25268e74200.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/26ba950f3db9f784b8b977450a5b2b62/44e1e47b09a927101fd7eba61f6b1df4.jpeg"
       ],
       "Videos": [],
       "Breed": "Retriever, Golden/Shepherd",
       "Color": "Brown/White",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Simba is a gentle, quirky good boy who loves people, cuddles, naps, squeaky toys, and car rides. He enjoys two walks a day with plenty of time to sniff and explore. He knows his basic commands and can free-roam in the home. He gets along great with cats and dogs but prefers calmer canine friends who won’t jump on his back. Loud noises can scare him, so he’d thrive in a quieter home. He occasionally barks but eventually settles down.\n\nSimba has perianal fistulas managed with medication, so his future family will need to keep up with his medical care. With patience and a loving home, this sweet boy will make a wonderful companion!",
       "LastIntakeUnixTime": "1791600578",
       "Attributes": [
@@ -1949,7 +1962,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792550892"
+      "LastUpdatedUnixTime": "1792578270"
     },
     {
       "ID": "3729",
@@ -4190,76 +4203,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791911097"
-    },
-    {
-      "ID": "1442",
-      "Internal-ID": "213179490",
-      "Name": "Sugar",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "67",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1602738000,
-      "Age": 72,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddc23e1ec2a72b4554beea44c425c104/8d29079f79204a8d85f2cdcfe5651b7c.png",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/ddc23e1ec2a72b4554beea44c425c104/8d29079f79204a8d85f2cdcfe5651b7c.png"
-      ],
-      "Videos": [],
-      "Breed": "Mountain Cur/Mix",
-      "Color": "Brindle",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Sugar is looking for a new home because she does not get along with the neighbor’s dog and it is unsafe for them to live near each other. It is unclear why she doesn’t like this particular dog because she is typically very friendly and submissive with other dogs. She goes to doggy daycare and boarding and has never had an issue with any of the dogs there.\n\nHi. Yes, hello. I’m the dog.\n\nMy name is Sugar, and apparently I’m writing my own profile because my human says I’m looking for a new home — preferably one with soft blankets, snacks, and humans who appreciate world-class cuddling.\n\nAbout Me: \nStrong (emotionally and physically\nLoyal to my people\nThe sweetest girl — cuddling is basically my full-time job\nExcellent at reminding humans they should go outside more\nProfessional greeter who acts like you’ve been gone for years (even if you just got groceries)\n\nMy Personality Resume:\nLoves MOST dogs\nSuper sweet with kids and all strangers — people are my favorite\nNever growled at or been afraid of humans\nNo chewing your stuff or counter surfing (I have manners)\nComfortable in my kennel, but will happily sleep under the blankets if invited\nTakes neighborhood wildlife patrol very seriously (squirrels, birds, rabbits beware)\nCats and I are not compatible roommates\n\nWhat I’m Looking For:\n• A confident human comfortable handling a strong dog\n• Someone who enjoys walks, fresh air, and unconditional love\n• A home where I can be part of the family (and possibly the bed)\n\nMy current human loves me very much, but life changes mean they want to find me the best possible forever home where I can thrive and keep being my sweet, happy self.\n\nIf you’re looking for a loyal companion, built-in walking buddy, and professional snuggler… I might be your girl.\nApply within. Treats encouraged. ",
-      "LastIntakeUnixTime": "1778575426",
-      "Attributes": [
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1778616204"
     },
     {
       "ID": "3719",
