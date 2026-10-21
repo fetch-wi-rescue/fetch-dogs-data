@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T01:09:53Z",
-  "count": 47,
+  "updated": "2026-10-21T06:13:20Z",
+  "count": 48,
   "animals": [
     {
       "ID": "3279",
@@ -432,7 +432,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
-      "Age": 31,
+      "Age": 32,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1f45624b1a19844f541ee549e0c9a2e5/ee7c2fdce9479d0d0a3e99eb2c50c3d7.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/1f45624b1a19844f541ee549e0c9a2e5/ee7c2fdce9479d0d0a3e99eb2c50c3d7.jpeg",
@@ -828,136 +828,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792025334"
-    },
-    {
-      "ID": "3644",
-      "Internal-ID": "214152752",
-      "Name": "Cain",
-      "LitterGroupId": 9558459,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "51",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1763532000,
-      "Age": 11,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d89bf75a24bb05b3f6ac057f81dc2313/7711075f5198a66c653dfe7022e47f42.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d89bf75a24bb05b3f6ac057f81dc2313/7711075f5198a66c653dfe7022e47f42.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c61adc8f670a3cc9e7c8ebb1c6d4deef/280b86bc779e46da148d95b0a15f5c65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1219728434a12f6fe765286bcb1f93b/252bab173ff7911afc5cf7c3613c0e5b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
-        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)/Hound",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 67207,
-        "Name": "Puppy",
-        "Price": 400,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Cain, a striking black-and-white mixed breed with a heart as big as his smile! At just 8 months old and 41 pounds, this handsome parvo survivor has already overcome a tough start and is ready to find the loving family he's been waiting for.\n\nCain is an affectionate, playful pup who loves spending time with his people. He can be a little shy when meeting new people, so he does best with slow, respectful introductions while he gets comfortable. Once he warms up, he’s happy to be part of the action: whether he’s exploring on a walk, chasing a tennis ball in the backyard, or sneaking in a kiss. He also gets along well with other active dogs.\n\nHe's house trained, walks nicely on leash, and is a dream in his crate, sleeping quietly through the night without a fuss. Cain is eager to learn and enjoys practicing new skills. He's currently working on sit, down, and touch, and would love a family that will continue building his confidence and skills through training.\n\nLike most teenage pups, Cain is still figuring out his manners. He can get a little mouthy or jump up when he's excited, but he's easily redirected and improves with consistency.\n\nCain's ideal home is one that enjoys staying active and will include him in daily walks, games of fetch, and plenty of quality time together. In return, you'll get a loyal companion with a goofy personality, a loving heart, and a lifetime of adventures ahead. 🐶 🐮",
-      "LastIntakeUnixTime": "1784820769",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "840277",
-          "AttributeName": "Daycare - Attends Dog Den",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791917166"
     },
     {
       "ID": "3652",
@@ -1992,48 +1862,55 @@
       "LastUpdatedUnixTime": "1792269938"
     },
     {
-      "ID": "3721",
-      "Internal-ID": "214728114",
-      "Name": "Piglet",
+      "ID": "3720",
+      "Internal-ID": "214728111",
+      "Name": "Simba",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "58.5",
+      "CurrentWeightPounds": "",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1646546400,
-      "Age": 55,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+      "DOBUnixTime": 1629003600,
+      "Age": 62,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae4d23ea49ece39d480e23f14a40dcca/193abe3e6b2f483aa42f29107315bce3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/62e304a675eec5e0853698f47198ffbe/4e7fe461a28f282bb6d7971fddddbb12.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/00d4f204104b1ff72e48cfea6bf69972/358a8632fa104b83ec9678120ddac3e5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/08a994806dcb3184e016a4c4a0eab958/f655eb7b5e0409b3f5f27bba35c80e91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bf331ef26f21876b01d442e7cb1fdb70/6d18abe73ecfcd848056bb5bf3574fba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/272fb5f2225425fcdf984422ace7dd7c/2562ab0c3fc165193f96f7bf2e34c206.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0b64e1bb4a30a90d9c022e142933486d/194fa58ff572105c164c2c56f898b68e.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg"
       ],
       "Videos": [],
-      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
-      "Color": "Black/White",
+      "Breed": "Retriever, Golden/Shepherd",
+      "Color": "Brown/White",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "Piglet ❤️🐾\n\nPiglet is a 4-year-old Pit Bull/Lab mix with a heart full of love and a loyal spirit that's ready to find his forever family.\n\nThis handsome boy is house-trained, walks nicely on a leash, and has learned many basic commands. He's eager to please and loves spending time with his people. One of Piglet's favorite activities is playing fetch. Toss a ball, and you'll instantly see his happy, playful side.\n\nPiglet also does very well with free roam in the home, while he does experience some separation anxiety with being crated.  Piglet is hoping to find a patient and understanding home where someone is around often. He thrives on companionship and would love a family that enjoys spending time together and helping him feel secure and loved.\n\nIn his current foster home, Piglet lives peacefully with a large dog, a small dog, and a cat, proving he's a wonderful companion who gets along well with others. \n\nPiglet's story began at a shelter in Indiana, where he was so loved by the staff that they helped arrange for him to come to Wisconsin for a better chance at finding his perfect match. Everyone who meets him sees what a special dog he is, and now all that's missing is a family to call his own.\n\n❤️ Piglet at a Glance\n\n🐾 4-year-old Pit Bull/Lab mix\n🏡 House-trained\n🚶 Great on walks\n🚗 Rides well in the car\n🎾 Loves playing fetch\n🧠 Knows basic commands\n🐶 Gets along with big and small dogs\n🐱 Cat-friendly\n❤️ Sweet, loyal, and affectionate\n🏠 Looking for a patient family who can spend lots of time with him.  If you're searching for a faithful companion who will reward your love with endless loyalty, Piglet may be the perfect connection you've been waiting for. ❤️🐶🏡",
-      "LastIntakeUnixTime": "1791600623",
+      "Description": "Simba is a gentle, quirky good boy who loves people, cuddles, naps, squeaky toys, and car rides. He enjoys two walks a day with plenty of time to sniff and explore. He knows his basic commands and can free-roam in the home. He gets along great with cats and dogs but prefers calmer canine friends who won’t jump on his back. Loud noises can scare him, so he’d thrive in a quieter home. He occasionally barks but eventually settles down.\n\nSimba has perianal fistulas managed with medication, so his future family will need to keep up with his medical care. With patience and a loving home, this sweet boy will make a wonderful companion!",
+      "LastIntakeUnixTime": "1791600578",
       "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
           "Publish": "Yes"
         },
         {
@@ -2057,12 +1934,22 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792435500"
+      "LastUpdatedUnixTime": "1792550892"
     },
     {
       "ID": "3729",
@@ -2167,113 +2054,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792349853"
-    },
-    {
-      "ID": "3730",
-      "Internal-ID": "214732439",
-      "Name": "Sasha",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1665032400,
-      "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Mix",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
-      "LastIntakeUnixTime": "1791736083",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792350415"
     },
     {
       "ID": "3731",
@@ -2692,71 +2472,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791205658"
-    },
-    {
-      "ID": "3720",
-      "Internal-ID": "214728111",
-      "Name": "Simba",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1629003600,
-      "Age": 62,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Golden/Shepherd",
-      "Color": "Brown/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791600578",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1791921027"
     },
     {
       "ID": "3723",
@@ -3696,6 +3411,136 @@
       "LastUpdatedUnixTime": "1792418096"
     },
     {
+      "ID": "3644",
+      "Internal-ID": "214152752",
+      "Name": "Cain",
+      "LitterGroupId": 9558459,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "51",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1763532000,
+      "Age": 11,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d89bf75a24bb05b3f6ac057f81dc2313/7711075f5198a66c653dfe7022e47f42.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d89bf75a24bb05b3f6ac057f81dc2313/7711075f5198a66c653dfe7022e47f42.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c61adc8f670a3cc9e7c8ebb1c6d4deef/280b86bc779e46da148d95b0a15f5c65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/92c8af956bff644f1fa6e8fb7a712962/f7cbcaa6370a2f8b645b9de3866bd8de.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1219728434a12f6fe765286bcb1f93b/252bab173ff7911afc5cf7c3613c0e5b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/11e0fc9703eafdf2db98173fbd42a664/2299713edafa85a74f8a378f2b8a288d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/f1f0f86163695dc450d54382cf5af884/6370f7aec4da8bb216744798133937c5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a1652e5d6610f57894beacf1ab9af9ef/f3451ef70a2f088942ba809079779362.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c2c1bebed8317e50f2cf7377cbccdbf/4e4059dbfac97a5490cce1d798b6871b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53e9d02ea5be2628cb2a4612991a1c99/be04d17a5e9c171eb85b8b87138ed6db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25182ade774da4b63f3ac11468bc822c/58b8df8ee9fdcfcf3e57d51f54e21973.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/740d336f193501a73c2f489dcb0fda2e/c04da8864ca5766ec05ad17182fbf298.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/40250f7cc5c56f0125d42ef2c7caf1aa/1688326d7bcef4948a0269ef9a81c1d5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8a57d645552fe662640925896b89c6c7/c6cea49b9a9871a7457e17166f632bc5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/4adff5fc52b4f0a1bc6de61ba355419a/76dfb1736726787dd4f2e7f9c8a999dd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)/Hound",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Cain, a striking black-and-white mixed breed with a heart as big as his smile! At just 8 months old and 41 pounds, this handsome parvo survivor has already overcome a tough start and is ready to find the loving family he's been waiting for.\n\nCain is an affectionate, playful pup who loves spending time with his people. He can be a little shy when meeting new people, so he does best with slow, respectful introductions while he gets comfortable. Once he warms up, he’s happy to be part of the action: whether he’s exploring on a walk, chasing a tennis ball in the backyard, or sneaking in a kiss. He also gets along well with other active dogs.\n\nHe's house trained, walks nicely on leash, and is a dream in his crate, sleeping quietly through the night without a fuss. Cain is eager to learn and enjoys practicing new skills. He's currently working on sit, down, and touch, and would love a family that will continue building his confidence and skills through training.\n\nLike most teenage pups, Cain is still figuring out his manners. He can get a little mouthy or jump up when he's excited, but he's easily redirected and improves with consistency.\n\nCain's ideal home is one that enjoys staying active and will include him in daily walks, games of fetch, and plenty of quality time together. In return, you'll get a loyal companion with a goofy personality, a loving heart, and a lifetime of adventures ahead. 🐶 🐮",
+      "LastIntakeUnixTime": "1784820769",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "840277",
+          "AttributeName": "Daycare - Attends Dog Den",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792549293"
+    },
+    {
       "ID": "3656",
       "Internal-ID": "214218202",
       "Name": "Rosie",
@@ -4046,6 +3891,193 @@
       "LastUpdatedUnixTime": "1791985678"
     },
     {
+      "ID": "3721",
+      "Internal-ID": "214728114",
+      "Name": "Piglet",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "58.5",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1646546400,
+      "Age": 55,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4d25c8256c52c8f781a825a722ab2233/559a25a9d290e7cb25c770c46ddaff4b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4342ea4db5cbfcec8f128dadadfb90eb/e6bd7512c28b07c7ab8e0d52b8becb70.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae4d23ea49ece39d480e23f14a40dcca/193abe3e6b2f483aa42f29107315bce3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/62e304a675eec5e0853698f47198ffbe/4e7fe461a28f282bb6d7971fddddbb12.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/00d4f204104b1ff72e48cfea6bf69972/358a8632fa104b83ec9678120ddac3e5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/08a994806dcb3184e016a4c4a0eab958/f655eb7b5e0409b3f5f27bba35c80e91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf331ef26f21876b01d442e7cb1fdb70/6d18abe73ecfcd848056bb5bf3574fba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/272fb5f2225425fcdf984422ace7dd7c/2562ab0c3fc165193f96f7bf2e34c206.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0b64e1bb4a30a90d9c022e142933486d/194fa58ff572105c164c2c56f898b68e.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Black Labrador/Terrier, Pit Bull",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Piglet ❤️🐾\n\nPiglet is a 4-year-old Pit Bull/Lab mix with a heart full of love and a loyal spirit that's ready to find his forever family.\n\nThis handsome boy is house-trained, walks nicely on a leash, and has learned many basic commands. He's eager to please and loves spending time with his people. One of Piglet's favorite activities is playing fetch. Toss a ball, and you'll instantly see his happy, playful side.\n\nPiglet also does very well with free roam in the home, while he does experience some separation anxiety with being crated.  Piglet is hoping to find a patient and understanding home where someone is around often. He thrives on companionship and would love a family that enjoys spending time together and helping him feel secure and loved.\n\nIn his current foster home, Piglet lives peacefully with a large dog, a small dog, and a cat, proving he's a wonderful companion who gets along well with others. \n\nPiglet's story began at a shelter in Indiana, where he was so loved by the staff that they helped arrange for him to come to Wisconsin for a better chance at finding his perfect match. Everyone who meets him sees what a special dog he is, and now all that's missing is a family to call his own.\n\n❤️ Piglet at a Glance\n\n🐾 4-year-old Pit Bull/Lab mix\n🏡 House-trained\n🚶 Great on walks\n🚗 Rides well in the car\n🎾 Loves playing fetch\n🧠 Knows basic commands\n🐶 Gets along with big and small dogs\n🐱 Cat-friendly\n❤️ Sweet, loyal, and affectionate\n🏠 Looking for a patient family who can spend lots of time with him.  If you're searching for a faithful companion who will reward your love with endless loyalty, Piglet may be the perfect connection you've been waiting for. ❤️🐶🏡",
+      "LastIntakeUnixTime": "1791600623",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792547904"
+    },
+    {
+      "ID": "3730",
+      "Internal-ID": "214732439",
+      "Name": "Sasha",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "28",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1665032400,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Mix",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
+      "LastIntakeUnixTime": "1791736083",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792548736"
+    },
+    {
       "ID": "3592",
       "Internal-ID": "213786015",
       "Name": "Mary Beth",
@@ -4059,7 +4091,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1676959200,
-      "Age": 43,
+      "Age": 44,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
@@ -4335,6 +4367,57 @@
         }
       ],
       "LastUpdatedUnixTime": "1792287580"
+    },
+    {
+      "ID": "3742",
+      "Internal-ID": "214824044",
+      "Name": "Emma",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "63",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1719982800,
+      "Age": 27,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5cba996d26cfd189ed3aa40bb13f7146/f26eba5095ccbc5a53560d61d985d6cb.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5cba996d26cfd189ed3aa40bb13f7146/f26eba5095ccbc5a53560d61d985d6cb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5c2d2f93b78311707290470a8fff9d37/be54c816912b56f56f218e0fe0796e75.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d02e23d63bf4924ec140f8d744f79b8b/c13a0883b1a7ecc8edcfb1ff4afaf368.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/40d056c85f4ea75c35ec8494f0944297/7fb2b5a5f82e48dd046637447e525826.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0dfe85633325403d2ec0cd3c87236435/21a5562520b5db76bdca237b3f115bb5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b1c931bbdcbe2ce321ef4e11bc923a5f/ecff75436b4d8006b0a8142c7c20e1ad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f91f3a58a1f92194ceddb4ee935848d3/ae5d01db8d1d90c8e7b699cdf714a402.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Black Labrador/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Emma!\n\nEmma is a sweet two-year-old black lab mix looking for her forever home. She's eager to please and adores attention from her people. Whether it's pets, praise, or a spot on your lap, she soaks it all up.\n\nShe's got plenty of energy and loves her walks, chasing squirrels, and running in a fenced yard. But when the day winds down, she's just as happy curled up in your lap for a cuddle. She's great with people of all ages and has never met a hand she didn't want to be petted by.\n\nEmma walks well on a leash. She pulls a little but responds quickly to redirection. She isn't reactive toward people or dogs she passes. She knows her basic commands and is very food motivated, so she picks up new things fast.\n\nEmma has been through a lot of changes recently, and living with a new dog has been stressful for her. She'll do best as the only pet in the home, especially while she settles in. With a steady routine and consistent training, she'll blossom.\n\nShe's spayed and up to date on her vaccines, with no medical conditions or special diet. She's a healthy, easy keeper.\n\nIf you're looking for a loving, loyal companion who's up for adventures and couch time alike, Emma might be your girl! ❤️",
+      "LastIntakeUnixTime": "1792546398",
+      "Attributes": [
+        {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792547264"
     }
   ]
 }
