@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:28:09Z",
+  "updated": "2026-10-21T20:48:10Z",
   "count": 49,
   "animals": [
     {
@@ -514,6 +514,100 @@
         }
       ],
       "LastUpdatedUnixTime": "1791844549"
+    },
+    {
+      "ID": "3546",
+      "Internal-ID": "213603741",
+      "Name": "Archer James",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "25.6",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1714798800,
+      "Age": 29,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d1097d641524224cdeb3b51d91f9b8c8/9b0d78399b701586e49fc9cc70b1ea80.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d1097d641524224cdeb3b51d91f9b8c8/9b0d78399b701586e49fc9cc70b1ea80.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/bf98853b846e1bfd35c413d5bed7edeb/d43cb554fe8d28936fbf734680030c58.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/8c0988ef044dbf81fb1c60631f8748d4/a8d85589adb4c0db2fc491feea182b27.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e2d82ca7004dc27ac407a5a20674195/e68e6289ca9038e4ba321e73c2227cc9.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/9b92c553c88b587654ac568e04ede290/7cc2e3368528b9aa406888698eb0f396.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG",
+        "https://new-s3.shelterluv.com/profile-pictures/652c5aa5b36cd9436186b4bef86c9e49/27f17031b98b95a708e4f3648eac9b88.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bc505b3724b0fb4589d7b3c3e4bb0fbc/013292d2f6a059d360a81852ee24e5c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0ad65419f2314c2709895cc0ea4dae7/de99ffe8f255d8554d60bcfd43e590ee.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d2aeda5b4add85ffd6ada2709795e37/875aa2c859a11576e1ced6f6f4b9f32d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/257377e04418fb71b9c34933e53eed3d/75463cf7b6ef712799783260c5623fcb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/860d0cf318c39fe113b0504197677e13/5872478d37385788506e029f490a79f6.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Beagle",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet boy who is working on his confidence. Once a Ridglan beagle, he’s still learning how to be a dog, which will be a lifelong battle for him. He needs someone who is patient and understanding, and willing to go at his pace. He looks up at you for reassurance and does great with positive reinforcement.\nPotty training is mostly good as long as he has a routine, and he’s still figuring out that grass is the place to go, so a little patience and praise for going in the right spot will help. He’s learning leash manners quickly and loves his walks.\n\nArcher does well in his kennel! He sometimes he wanders in on his own for a nap when the door is open.\nA few fun facts: Archer loves ceiling fans, naps under a blanket, and rolling in the grass. He does NOT love bagpipes or loud cars. ",
+      "LastIntakeUnixTime": "1791837017",
+      "Attributes": [
+        {
+          "Internal-ID": "294275",
+          "AttributeName": "Adult-Only Home Preferred",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792604082"
     },
     {
       "ID": "3579",
@@ -2335,100 +2429,6 @@
       "LastUpdatedUnixTime": "1792531365"
     },
     {
-      "ID": "3546",
-      "Internal-ID": "213603741",
-      "Name": "Archer James",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "25.6",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1714798800,
-      "Age": 29,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d1097d641524224cdeb3b51d91f9b8c8/9b0d78399b701586e49fc9cc70b1ea80.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d1097d641524224cdeb3b51d91f9b8c8/9b0d78399b701586e49fc9cc70b1ea80.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7fd3594516d00d478a511fd541dd630d/d1308d2305a32ebc983afe1efaa171de.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/bf98853b846e1bfd35c413d5bed7edeb/d43cb554fe8d28936fbf734680030c58.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/274505ad3b0bca47797fccf1bd190d57/ab524b0f22749e1d8bcf03a6ad9f6050.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/8c0988ef044dbf81fb1c60631f8748d4/a8d85589adb4c0db2fc491feea182b27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2e87a508463ebec377ff605ee67badb8/19a06d8f48223a54cd561f779c2cbcd7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e2d82ca7004dc27ac407a5a20674195/e68e6289ca9038e4ba321e73c2227cc9.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/9b92c553c88b587654ac568e04ede290/7cc2e3368528b9aa406888698eb0f396.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76073452d7ddf9d23934db73010fa5cf/02c36db2cf40172e279f17e00e1f93d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8a8c5e67ea6bb4a35ad87ea071673b0/8e82c2b2aff66576f69118e8b20c9fc6.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f5493efe715cdda330e8ac7657b592/f825e49470dc5f0a15d0ed2944d0ae50.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/cfea0665fe96336ae7148c0bfa7abb33/1677fd2840bd06051f0a65bac3798ee4.JPEG",
-        "https://new-s3.shelterluv.com/profile-pictures/652c5aa5b36cd9436186b4bef86c9e49/27f17031b98b95a708e4f3648eac9b88.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc505b3724b0fb4589d7b3c3e4bb0fbc/013292d2f6a059d360a81852ee24e5c5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d0ad65419f2314c2709895cc0ea4dae7/de99ffe8f255d8554d60bcfd43e590ee.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d2aeda5b4add85ffd6ada2709795e37/875aa2c859a11576e1ced6f6f4b9f32d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/257377e04418fb71b9c34933e53eed3d/75463cf7b6ef712799783260c5623fcb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/860d0cf318c39fe113b0504197677e13/5872478d37385788506e029f490a79f6.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Beagle",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi! My name is Archer, Archie for short, A.J. for being cool, and Archer James for long. I’m a very loyal guy. I love my people and look for praise and reinforcement as much as possible. I like sniffing... with my nose.... really close....to the point that my nose makes contact with the item to sniff it extra good! I am getting used to a lot of things and noises, so sometimes I jump a little, but once I hear it and you remind me it’s okay, then I’m good. Just some other things I want to share about myself, I like cuddling, napping, going on walks, and getting the zoomies in the backyard. Okay, now my foster humans can talk….\n\nArcher is a very sweet boy who is working on his confidence. He looks up at you for reassurance and does great with positive reinforcement.\nPotty training is mostly good as long as he has a routine, and he’s still figuring out that grass is the place to go, so a little patience and praise for going in the right spot will help. He’s learning leash manners quickly and loves his walks.\n\nArcher does well in his kennel! He sometimes he wanders in on his own for a nap when the door is open.\nA few fun facts: Archer loves ceiling fans, naps under a blanket, and rolling in the grass. He does NOT love bagpipes or loud cars. ",
-      "LastIntakeUnixTime": "1791837017",
-      "Attributes": [
-        {
-          "Internal-ID": "294275",
-          "AttributeName": "Adult-Only Home Preferred",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792352719"
-    },
-    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -3179,7 +3179,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1626893452,
-      "Age": 62,
+      "Age": 63,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2c80d7481515814a8718b3b099d02a2d/7ac3f65f29ebb786f59dfacc01cd72e2.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/2c80d7481515814a8718b3b099d02a2d/7ac3f65f29ebb786f59dfacc01cd72e2.jpg",
