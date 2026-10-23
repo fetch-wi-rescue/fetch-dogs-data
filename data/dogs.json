@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:48:27Z",
+  "updated": "2026-10-23T00:17:43Z",
   "count": 48,
   "animals": [
     {
@@ -1887,8 +1887,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1696222800,
       "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20cde92b51b071831265c1bcdc23af84/1feb1fe2e0195c12659d450ede9139c9.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/20cde92b51b071831265c1bcdc23af84/1feb1fe2e0195c12659d450ede9139c9.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/eabd2edb1b02456cb4451c9afa930b6f/ce26c9f9591bc46427447dd662691f2f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
@@ -1901,7 +1902,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c3b765bb03de581f011b93639b4f96d5/134e87f8182b912dec6256bd0e87e3c7.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/741da8e28858c19e990160ab1fd2ed66/923a70b195471a4cd8c43ffa425ebea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/30ad4af2c8ab1fe635b577e1628d6ddf/cdc966ddc9716edc94e8b39fd1c2fd4a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/85360e177dd1d6b7baf29b2717b99c6b/15da394727b1a3dd49680e9f035e21ff.jpeg"
       ],
       "Videos": [],
       "Breed": "Husky",
@@ -1915,7 +1918,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Loki is your classic dog about town. Walks, backyard zoomies, car rides, couch snuggles, supervised snack quality control? Loki is enthusiastically available for all of the above.\n\nAfter spending more than a third of his life waiting in a Texas shelter, Loki is making up for lost time and discovering that life is actually pretty great. He can be a little shy when meeting new people, but give him a few minutes and you'll unlock his true form: a goofy, affectionate cuddle bug with a talent for making everyone smile.\n\nLike any good superhero, Loki has a battle scar from his past; it appears he may have sustained an injury to his front paw and one toe healed a little wonky. It gives him character and doesn't slow him down one bit!\n\nAs for his breed? That's anyone's guess. His foster mom has developed several wildly unscientific theories. Perhaps a Shar Pei gifted him those adorable ears, a shepherd added some tail fluff, and a Lab sprinkled in the friendliness. Or maybe a committee of random dogs got together and said, \"Let's make this one extra cute.\" Whatever the recipe, the result is 100% pure good boy.\n\nLoki is incredibly gentle, sweet, silly, and endlessly lovable. He's waited long enough for a family of his own and is ready to be treated like the wannabe little Avenger he is. All he needs now is a couch to claim, snacks to supervise, and humans to love.",
+      "Description": "Loki is your classic dog about town. Walks, backyard zoomies, car rides, couch snuggles, supervised snack quality control? Loki is enthusiastically available for all of the above.\n\nAfter spending more than a third of his life waiting in a Texas shelter, Loki is making up for lost time and discovering that life is actually pretty great. He can be a little shy when meeting new people, but give him a few minutes and you'll unlock his true form: a goofy, affectionate cuddle bug with a talent for making everyone smile. Truly the best little spoon!\n\nLike any good superhero, Loki has a battle scar from his past; it appears he may have sustained an injury to his front leg and one toe healed a little wonky. It gives him character and doesn't slow him down one bit!\n\nAs for his breed? That's anyone's guess. His foster mom has developed several wildly unscientific theories. Perhaps a Shar Pei gifted him those adorable ears, a shepherd added some tail fluff, and a Lab sprinkled in the friendliness. Or maybe a committee of random dogs got together and said, \"Let's make this one extra cute.\" Whatever the recipe, the result is 100% pure good boy.\n\nLoki is incredibly gentle, sweet, silly, and endlessly lovable. He's waited long enough for a family of his own and is ready to be treated like the wannabe little Avenger he is. All he needs now is a couch to claim, snacks to supervise, and humans to love.",
       "LastIntakeUnixTime": "1791737325",
       "Attributes": [
         {
@@ -1974,7 +1977,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792349853"
+      "LastUpdatedUnixTime": "1792708161"
     },
     {
       "ID": "3730",
@@ -2443,8 +2446,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
           "Publish": "Yes"
         },
         {
@@ -2458,7 +2461,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792624530"
+      "LastUpdatedUnixTime": "1792711821"
     },
     {
       "ID": "3663",
