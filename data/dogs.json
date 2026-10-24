@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T13:45:12Z",
-  "count": 48,
+  "updated": "2026-10-24T17:07:21Z",
+  "count": 47,
   "animals": [
     {
       "ID": "3279",
@@ -1654,91 +1654,6 @@
       "LastUpdatedUnixTime": "1791835503"
     },
     {
-      "ID": "3723",
-      "Internal-ID": "214732432",
-      "Name": "Java",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "58.4",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1758171600,
-      "Age": 13,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b8b8c0859d753bb3a50ea05247c727d/c18ffacd740333371c539b5703b08973.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9b8b8c0859d753bb3a50ea05247c727d/c18ffacd740333371c539b5703b08973.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3e3a9e6ef7d24fa5e07ed30f109f6db/86768ec07ecdcd74ea27d2cebb23a427.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/db3739da0120ba95580d1c2adb167f58/47b02d070b5f1d0fa2a75b89e124d9fc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d9295d99a3f474b482701cdbaa738cf/4ca19140bcc75389bf813e37e15ce367.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Terrier, American Pit Bull",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Java spent most of her life so far in Texas, where life was less than ideal, but that didn’t dim her sparkle one bit! She greets everyone she meets with full-body wiggles, stomps of excitement, and a biiiiig smile. Her favorite things in the whole world are cuddling up with her humans and going on car rides.\n\nJava is generally a quiet dog, and she’s done pretty well living in an apartment. She does very well in her crate at night, but she’d much rather be sleeping on the couch or in bed with me. She does cry and bark in her crate when I leave her home alone, but she always calms down after a little while and stays quiet for the rest of the day. Java really is the definition of “velcro dog,” and she wears that badge proudly! She must be touching her humans at all times, and she loves supervising any and all household activities.\n\nJava is still a young dog, so she’s still getting the hang of things like leash skills and manners. She pulls on the leash a moderate amount (especially when excited), but she’s getting better and better every day. She already knows “sit” and is very treat-motivated, which makes her a fast learner. She’s great with children, but she’s enthusiastic with her face licks, which might be a little too much for smaller kiddos.\n\nJava briefly met a store cat and was very fixated on it and lunged toward it, so a cat-free home would be best for her. She does well living with a bossy senior dog, but she’s also confident enough to be the only dog in the home.\n\nJava has adjusted so well to home life and is ready to find a forever family where she can grow and thrive. Java is sure to fill your days with excitement, goofy zoomies, and a never-ending supply of love and affection!",
-      "LastIntakeUnixTime": "1791736867",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792810220"
-    },
-    {
       "ID": "3729",
       "Internal-ID": "214732438",
       "Name": "Loki",
@@ -2798,13 +2713,11 @@
       "Altered": "Yes",
       "DOBUnixTime": 1760936400,
       "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/93b2fcd4557bca54e85a745568763a1d/1cb6de7ac98e0c5a9d017869344f4453.JPG",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ce66ca80ea9bdb1a86937cff8be20a75/78e723c78c0ff443941b8b5b5612abf2.JPG",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/93b2fcd4557bca54e85a745568763a1d/1cb6de7ac98e0c5a9d017869344f4453.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/666f51a7d00beeaf1df22a5466f1c252/810adcb808f998fe06ad0b66d6a508c4.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/049e530f576d7b36f8d7f3fd255d3b37/d71413b47d7ea95c242eaf8bfa6e26f4.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/ee6420fb2fc9587f26d0c3fd7481e602/2591fd93ce0229d7420b2838732e9548.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/ce66ca80ea9bdb1a86937cff8be20a75/78e723c78c0ff443941b8b5b5612abf2.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/666f51a7d00beeaf1df22a5466f1c252/810adcb808f998fe06ad0b66d6a508c4.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/ee6420fb2fc9587f26d0c3fd7481e602/2591fd93ce0229d7420b2838732e9548.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/3ce8f5092cb06c881eb103cf4f57528a/ad1c1c83ae2ad65a2628bb383d7005fe.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/b1fc231c7cef49168d55864059f083c7/8030dd80b702d96c942c68b7044aaf7f.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/3a0662540f91d5bbd86d47087eac6086/bfbeaa193bc99cb6cf318eb17953205c.JPG",
@@ -2817,18 +2730,17 @@
         "https://new-s3.shelterluv.com/profile-pictures/1ff660f4ba4eaaff7dab49d52898a7ae/feaf0f435b36752ec6db01f14e7e44b2.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/af6521a74100f0b25ab21cc8b162f2b4/4d8f8f155378eb21332c0de9e32c9c01.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/15351fbc4752cc58b6b479bac02139a7/48e544a1690106eb8c67f68dc57a42a5.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/88b288248a83875f1482fc84b5d239da/36d733fa8ad718d7d039df16b888ed4d.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/4ab54eabe30e48d038a07e32de93061e/546281da2915d455e02f2e8a22aef00b.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/93b5ea21bd8dae64b99012b7fea6e0f2/cdb9c44114230929ba47129c07c85af7.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/aaf19ad05266a84407a8a5d79f6940c8/1cbbb30a4b1c1a5ba2e347ebf24e3e75.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/ce79b9878212126111a3897c0d5b3bf6/5ceaf138b448f1218ba11f9a97e79fa7.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/93b2fcd4557bca54e85a745568763a1d/1cb6de7ac98e0c5a9d017869344f4453.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/436b83ea34bacc202d6bb6999e0c3d48/3acd05974fc9e8cfe354ccfd2a867605.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/bbb619b7f99ee3aacfdb3fd3b613aecc/5bed4690997672dff16da5a36b80f7c1.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/db48b3cab0f9d1adfe8bf1406700f93f/852356a0ed2186e389d12c663375cf0e.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/d125bab642a45f05bd1b59b2cedb5820/70fca530a3f72592ecfed1bb163aa377.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/0dcef262f899f8ca5735d1debf37ff58/c4db1687cf91efe12f506f1378cfb582.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/0ce788949ad9eb22d8c133b1b8c2b591/dab5fd81221658e566c44ddbf359d280.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/8dbba19c00b729cfb9465bc1a12dc58d/5a6358d44638e4d230f960482e7eb9af.JPG"
+        "https://new-s3.shelterluv.com/profile-pictures/8dbba19c00b729cfb9465bc1a12dc58d/5a6358d44638e4d230f960482e7eb9af.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/a026e42715fd901a309d6b8331a58744/77a61784740aed8a107acdd193a58792.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0253789b43e137b17812bb691e6a600f/8694f0fd092f7d9a6ca6db6b2eea6d92.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian/Mixed Breed (Medium)",
@@ -2906,7 +2818,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792616891"
+      "LastUpdatedUnixTime": "1792853921"
     },
     {
       "ID": "3743",
@@ -4065,6 +3977,91 @@
       "LastUpdatedUnixTime": "1792801693"
     },
     {
+      "ID": "3723",
+      "Internal-ID": "214732432",
+      "Name": "Java",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "58.4",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1758171600,
+      "Age": 13,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b8b8c0859d753bb3a50ea05247c727d/c18ffacd740333371c539b5703b08973.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9b8b8c0859d753bb3a50ea05247c727d/c18ffacd740333371c539b5703b08973.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3e3a9e6ef7d24fa5e07ed30f109f6db/86768ec07ecdcd74ea27d2cebb23a427.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/db3739da0120ba95580d1c2adb167f58/47b02d070b5f1d0fa2a75b89e124d9fc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d9295d99a3f474b482701cdbaa738cf/4ca19140bcc75389bf813e37e15ce367.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Terrier, American Pit Bull",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Java spent most of her life so far in Texas, where life was less than ideal, but that didn’t dim her sparkle one bit! She greets everyone she meets with full-body wiggles, stomps of excitement, and a biiiiig smile. Her favorite things in the whole world are cuddling up with her humans and going on car rides.\n\nJava is generally a quiet dog, and she’s done pretty well living in an apartment. She does very well in her crate at night, but she’d much rather be sleeping on the couch or in bed with me. She does cry and bark in her crate when I leave her home alone, but she always calms down after a little while and stays quiet for the rest of the day. Java really is the definition of “velcro dog,” and she wears that badge proudly! She must be touching her humans at all times, and she loves supervising any and all household activities.\n\nJava is still a young dog, so she’s still getting the hang of things like leash skills and manners. She pulls on the leash a moderate amount (especially when excited), but she’s getting better and better every day. She already knows “sit” and is very treat-motivated, which makes her a fast learner. She’s great with children, but she’s enthusiastic with her face licks, which might be a little too much for smaller kiddos.\n\nJava briefly met a store cat and was very fixated on it and lunged toward it, so a cat-free home would be best for her. She does well living with a bossy senior dog, but she’s also confident enough to be the only dog in the home.\n\nJava has adjusted so well to home life and is ready to find a forever family where she can grow and thrive. Java is sure to fill your days with excitement, goofy zoomies, and a never-ending supply of love and affection!",
+      "LastIntakeUnixTime": "1791736867",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792853071"
+    },
+    {
       "ID": "3592",
       "Internal-ID": "213786015",
       "Name": "Mary Beth",
@@ -4177,128 +4174,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792767198"
-    },
-    {
-      "ID": "3656",
-      "Internal-ID": "214218202",
-      "Name": "Rosie",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "75",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1469941200,
-      "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb07d1d8ad4091c5c630b58d975481af/dc4747700e39c6137d4d4445a701037d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/eb07d1d8ad4091c5c630b58d975481af/dc4747700e39c6137d4d4445a701037d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/865990daa465472496b8f3e05d579190/fe21ff554affe5394e686403e28927ce.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6eea29d98448786ea4f6017ad80389e7/aa13f7ae60dd408509c7ee9afc8727c1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/07f78b2a8fd1136a260db5e303f09ab7/a53635ede479bc5d0f3b2221d59ea8ac.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/87a3f19a0840772f9a8f5b3764ffbcc8/112aa8a20d6b30b2cdea4c3ad7ad893e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/347133b860e80cf97298c9a279739e46/9223ad101bf7e5f4172278726c8a9feb.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Poodle, Standard",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Rosie is a lively gal with a joyful spirit and a heart full of love. At 10 years old, she’s the perfect mix of seasoned sweetness and surprising pep; a senior in age, but absolutely not in attitude.\n\nRosie still loves her walks, playtime, and exploring the yard. She’s the kind of dog who greets each day with a happy tail and a little bounce. She adores her people and happily leans in for pets, cuddles, and attention.\n\nPoodles are famously clever, and Rosie is no exception. She enjoys learning, sniffing games, and anything that engages her brain - ESPECIALLY when food is involved. \n\nRosie loves regular walks and bursts of play. She’s not a hyper dog, but she definitely isn’t slowing down yet. She enjoys being around people and has lived with dogs, cats, and kiddos. After her adventures, she’s all about soft beds, warm blankets, and curling up near her favorite humans.\n\nRosie would thrive with someone who appreciates a dog that’s both cuddly and spirited. She’d be a great match for adults, families, or anyone who wants a companion who’s always ready for a walk, a game, or a cozy evening together. Rosie brings joy, loyalty, and a spark of fun wherever she goes. She’s looking for a home that will celebrate her energy, cherish her sweetness, and give her the love she’s been waiting for.",
-      "LastIntakeUnixTime": "1785548562",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792680277"
     },
     {
       "ID": "3719",
