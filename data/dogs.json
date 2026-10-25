@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T00:25:23Z",
-  "count": 47,
+  "updated": "2026-10-25T05:01:31Z",
+  "count": 55,
   "animals": [
     {
       "ID": "3279",
@@ -1765,114 +1765,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792866075"
-    },
-    {
-      "ID": "3730",
-      "Internal-ID": "214732439",
-      "Name": "Sasha",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1665032400,
-      "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Mix",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
-      "LastIntakeUnixTime": "1791736083",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792623544"
+      "LastUpdatedUnixTime": "1792903213"
     },
     {
       "ID": "3731",
@@ -2698,12 +2591,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792510712"
+      "LastUpdatedUnixTime": "1792899374"
     },
     {
       "ID": "3739",
@@ -2828,6 +2721,50 @@
       "LastUpdatedUnixTime": "1792853921"
     },
     {
+      "ID": "3741",
+      "Internal-ID": "214823211",
+      "Name": "Cecil",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "57.2",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1666242000,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d99f50244ac9ca2a500cae3aab1db96c/674a943be9a9df905bb39ea2e28bc2c7.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d99f50244ac9ca2a500cae3aab1db96c/674a943be9a9df905bb39ea2e28bc2c7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/943a067bc59810390db2d74e9e2c7c30/8e9b26c3685bdd0d8572cdbe349206ca.png",
+        "https://new-s3.shelterluv.com/profile-pictures/f28159f4b1a8e06ef8e2476ffb2affd2/266abef559da5d3b97819457b8587e5e.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Sable/Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901468",
+      "Attributes": [
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792901515"
+    },
+    {
       "ID": "3743",
       "Internal-ID": "214825568",
       "Name": "Athena ",
@@ -2858,7 +2795,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1792597190",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1792597219"
+      "LastUpdatedUnixTime": "1792903321"
     },
     {
       "ID": "3744",
@@ -2871,7 +2808,7 @@
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "45",
-      "Size": "",
+      "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1674498508,
       "Age": 45,
@@ -2884,7 +2821,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/1bab8e35b3d8f0b78be166193cf73cc7/ae7478d2a16d943438d9e48e255759db.jpg"
       ],
       "Videos": [],
-      "Breed": "Shepherd/Mixed Breed (Medium)",
+      "Breed": "Shepherd/Mixed Breed (Large)",
       "Color": "White",
       "Pattern": "None",
       "AdoptionFeeGroup": {
@@ -2959,265 +2896,412 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792598035"
+      "LastUpdatedUnixTime": "1792903442"
     },
     {
-      "ID": "3658",
-      "Internal-ID": "214229995",
-      "Name": "Brutus",
-      "LitterGroupId": null,
+      "ID": "3745",
+      "Internal-ID": "214847680",
+      "Name": "Cecil - 1",
+      "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Foster to Adopt",
+      "Sex": "Unknown",
+      "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "6.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1407103120,
-      "Age": 146,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/841c0f5c6cb38a6deb246ddb56736175/e376163f4c648ee034a8c146279c2668.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9ae4b90e11f9730cc392e3483133706/4f268ff1f8368c196c49b7e4675942a7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9f226183e3fb07c9dff2dcd4286a14d3/3ad345db1f5b16030261b923e1acba85.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dfa83762d782acd9d67ae944935222e7/6c27d887d1df88393a0d0e909a396ad5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d309b93b11a6a84cd82ccc2a60059445/9daa199de4a039035e92a4d7874b5e98.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/43a389a59b606ddf2053c0f07f0e0eab/724f79aee752eb2778e01e78cf1cd1e3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/59649ac05afa32e18e0f8c69a41c43a1/1cbdfb2e9dd1f841b690f048278012ca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/026ed7946af3fde016a5c87855f01671/dea5a50bf0ddc3c410a2e6938a515efc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1117f7ccaa24383abf7788629d35ec56/9c3fe84d876170af4aedfb8cd2f25e31.jpeg"
-      ],
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
       "Videos": [],
-      "Breed": "Pinscher, Miniature/Mixed Breed (Small)",
-      "Color": "Tan/Brown",
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
       "Pattern": null,
       "AdoptionFeeGroup": {
-        "Id": 36570,
-        "Name": "Fee Waived Adoption",
-        "Price": 350,
-        "Discount": 350,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Brutus is a cute little cuddle bug & the definition of a lap dog! He is a happy little guy who will always greet you with the cutest little dance and tail wags. Brutus was surrendered by his owner after their housing situation changed and they were unable to keep their pets. He’s a very sweet senior looking to spend his golden days with someone with an open lap and lots of snuggles to give!\n\nBecause of his small size he will likely do best in a home without very small children. Older, respectful children are likely fine! He loves people and is friendly with everyone he meets. There’s no such thing as a stranger for this guy! He is currently in a foster home with other dogs & a cat and does well with all of them 😊",
-      "LastIntakeUnixTime": "1785774284",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792418129"
-    },
-    {
-      "ID": "3659",
-      "Internal-ID": "214230074",
-      "Name": "Otis",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "14.2",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1533272400,
-      "Age": 98,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/27c39ae08fe5f9efaa071e9ea1e68e45/0b5defde08636097c9e129035ce4e4d9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/814785931e85be143bff93a8cf2c52ce/04398d0dfc0b739d1fe24fbdd6c403bd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/dfda09e26800fdc13b2c70d881036bba/5c1845bd8544375a068065a72ced2590.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/253b8bfc767adbf8c67a6611be01146a/c31ffefc578a9a4b6c12a4f761f00265.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ab3c82efaa32ec23aacbdc4ef3a9e965/2672cc51dcde3565bb5bcba511b2e642.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ac3dab707920b617db1c98f8a2f4b246/857e8accaff8095d4f0fdc7b1af65a0a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0f676009083d0e045bf2e465997607a0/45a4ce726394b0dcc12ca6b68b9c8cca.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a4342d74d13341bfe76f3fec109e8808/19e3d59b75fbab511a24e2f928ef016f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfaa2f646d51485cdfa4f8e2604632b2/7a6b3ea5d314db305913497c70d43b17.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/67cdc815c495227d056523d9e13d8e50/2efeb8031000b61aeb4f91e247910b51.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Border/Mixed Breed (Small)",
-      "Color": "White/Wheaten",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
         "Discount": 0,
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Otis is a sweet and spunky little guy who loves cuddling, belly rubs, walks, sitting on your lap, and chasing squeaky toys. Otis was surrendered by his owner after their housing situation changed and they were unable to keep their pets.\n\nOtis is friendly with everyone he meets and is doing great in his foster home with other dogs and a cat. He’s a very sweet senior looking to spend his golden days with someone who has lots of love to give!",
-      "LastIntakeUnixTime": "1785787051",
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
       "Attributes": [
         {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
           "Publish": "No"
         },
         {
-          "Internal-ID": "810933",
-          "AttributeName": "Would prefer a doggo sibling",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792418096"
+      "LastUpdatedUnixTime": "1792901825"
+    },
+    {
+      "ID": "3746",
+      "Internal-ID": "214847681",
+      "Name": "Cecil - 2",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792901847"
+    },
+    {
+      "ID": "3747",
+      "Internal-ID": "214847683",
+      "Name": "Cecil - 3",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792901867"
+    },
+    {
+      "ID": "3748",
+      "Internal-ID": "214847685",
+      "Name": "Cecil - 4",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792901888"
+    },
+    {
+      "ID": "3749",
+      "Internal-ID": "214847691",
+      "Name": "Cecil - 5",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792902451"
+    },
+    {
+      "ID": "3750",
+      "Internal-ID": "214847692",
+      "Name": "Cecil - 6",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792902468"
+    },
+    {
+      "ID": "3751",
+      "Internal-ID": "214847694",
+      "Name": "Cecil - 7",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792902485"
+    },
+    {
+      "ID": "3752",
+      "Internal-ID": "214847695",
+      "Name": "Cecil - 8",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792902546"
+    },
+    {
+      "ID": "3753",
+      "Internal-ID": "214847696",
+      "Name": "Cecil - 9",
+      "LitterGroupId": 9614948,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Unknown",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1792731600,
+      "Age": 0,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Shepherd, German/Mixed Breed (Medium)",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792901678",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792902560"
     },
     {
       "ID": "3644",
@@ -3878,7 +3962,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792804730"
+      "LastUpdatedUnixTime": "1792903213"
     },
     {
       "ID": "3720",
@@ -4067,6 +4151,113 @@
         }
       ],
       "LastUpdatedUnixTime": "1792853071"
+    },
+    {
+      "ID": "3730",
+      "Internal-ID": "214732439",
+      "Name": "Sasha",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "28",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1665032400,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Mix",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
+      "LastIntakeUnixTime": "1791736083",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792890919"
     },
     {
       "ID": "3592",

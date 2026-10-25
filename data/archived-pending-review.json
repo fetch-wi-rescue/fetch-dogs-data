@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:07:21Z",
+  "updated": "2026-10-25T05:01:31Z",
   "animals": [
     {
       "ID": "3458",
@@ -1997,6 +1997,24 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-24T17:07:21Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3658",
+      "Name": "Brutus",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/36eac79060b994b5c7c1e5bdecf3a082/648f501469b13a87f82980894114da62.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-25T05:01:31Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3659",
+      "Name": "Otis",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/52d590d56051351d0d6173d05875976b/2686a2b6359cb9fb74722c124fa57d16.jpeg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-25T05:01:31Z",
       "status": "pending"
     }
   ]
