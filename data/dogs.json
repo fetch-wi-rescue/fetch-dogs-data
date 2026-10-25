@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:12:49Z",
+  "updated": "2026-10-25T22:42:15Z",
   "count": 56,
   "animals": [
     {
@@ -1867,6 +1867,95 @@
       "LastUpdatedUnixTime": "1792643116"
     },
     {
+      "ID": "3737",
+      "Internal-ID": "214811810",
+      "Name": "Bubby",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1472446800,
+      "Age": 121,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9d1ac6603408dd7dcdc07ee3ec211d51/94e0096e12bf795d8e5d3f17f66b0bef.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9d1ac6603408dd7dcdc07ee3ec211d51/94e0096e12bf795d8e5d3f17f66b0bef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6b8f7c6de7ea2d3a660aa542984524f8/83b362b9b54f4280ccfc2130ad8c8037.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd8abb45e02b0f95a9ab713bb8ecacef/8692acc5d35da375616d70abf5fc59fb.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
+      "Color": "White/Black",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792429770",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792966937"
+    },
+    {
       "ID": "3663",
       "Internal-ID": "214287416",
       "Name": "Ciabatta",
@@ -2177,78 +2266,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792412810"
-    },
-    {
-      "ID": "3737",
-      "Internal-ID": "214811810",
-      "Name": "Bubby",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1472446800,
-      "Age": 121,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6b8f7c6de7ea2d3a660aa542984524f8/83b362b9b54f4280ccfc2130ad8c8037.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6b8f7c6de7ea2d3a660aa542984524f8/83b362b9b54f4280ccfc2130ad8c8037.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
-      "Color": "White/Black",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1792429770",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634891",
-          "AttributeName": "⚠ Special Needs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792624934"
     },
     {
       "ID": "3738",
