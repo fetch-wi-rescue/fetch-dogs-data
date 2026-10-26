@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T00:54:23Z",
+  "updated": "2026-10-26T22:57:37Z",
   "animals": [
     {
       "ID": "3458",
@@ -2024,6 +2024,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-26T00:54:23Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3715",
+      "Name": "Meatball",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8115b9cc34344ed43775a823d988f36c/d663337e67fa4b0e8a0f12166a589fb8.png",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-26T22:57:37Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3723",
+      "Name": "Java",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b8b8c0859d753bb3a50ea05247c727d/c18ffacd740333371c539b5703b08973.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-26T22:57:37Z",
       "status": "pending"
     }
   ]
