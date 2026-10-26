@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T22:42:15Z",
-  "count": 56,
+  "updated": "2026-10-26T00:54:23Z",
+  "count": 55,
   "animals": [
     {
       "ID": "3279",
@@ -4287,117 +4287,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792890919"
-    },
-    {
-      "ID": "3740",
-      "Internal-ID": "214818360",
-      "Name": "Inara",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1760936400,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1ccaa8bbfe1a253e05c65f56041e137a/38c25b4f188eead8a3ed08a897e0433a.JPG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/1ccaa8bbfe1a253e05c65f56041e137a/38c25b4f188eead8a3ed08a897e0433a.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/e5711122dbd90cd9e2c61ad803bbe79b/e0af3a62712c858cf98808ee46794ea6.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/8c504d0ef572be380e6e43d5fa167392/289c75b1913dab0294feaf3840d2d5c0.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/9ac7770744d91604098d9e5b46541467/e7a32578a83744db00f09f6ef88ed06d.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/8f46adf41f239a2bad78696794d56a08/366905a0f7eeea76e28d556967f955e1.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/a482c0cc8bb793d82976e201c81897a8/b60f3e2b80b9fb9f9b6c86b0c1621dd9.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/061963a15619e8d9262d69237276a0c0/e5a9d27622f9bf066555f53f1fe8138f.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/d4d9428d9defee7e43c3e60596743986/58e10fa460bc12c33a1ac1cf33be3970.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c528c644ef61d440ce519dfa6593b91c/64f7acf04f09327278d64d954da1961f.png",
-        "https://new-s3.shelterluv.com/profile-pictures/c13f928e0a41e4aac25fe1da58deccda/4cc28f3aacef20991c9995f62b57d94d.png"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Australian/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Inara! This fun and energetic gal has yet to meet someone - two or four legged - that isn't her new best friend. She plays beautifully with other dogs, and if a cat wants to play, she's in.\nShe is house trained, crate trained, rides nicely in the car, and walks well on leash. If a dog isn't available to play with, she is happy to entertain herself with a selection of toys.\nShe is a curious girl, so if unsupervised, should not be trusted yet to free-roam.\nInara will do best with another playful pup or daycare and dog park opportunities.",
-      "LastIntakeUnixTime": "1792506929",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792959005"
     },
     {
       "ID": "3592",

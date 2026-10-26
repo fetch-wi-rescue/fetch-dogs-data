@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:01:31Z",
+  "updated": "2026-10-26T00:54:23Z",
   "animals": [
     {
       "ID": "3458",
@@ -2015,6 +2015,15 @@
       "Status": "Foster to Adopt",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-25T05:01:31Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3740",
+      "Name": "Inara",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1ccaa8bbfe1a253e05c65f56041e137a/38c25b4f188eead8a3ed08a897e0433a.JPG",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-26T00:54:23Z",
       "status": "pending"
     }
   ]
