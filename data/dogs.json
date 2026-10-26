@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:59:32Z",
+  "updated": "2026-10-26T18:31:14Z",
   "count": 55,
   "animals": [
     {
@@ -926,92 +926,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792025334"
-    },
-    {
-      "ID": "3664",
-      "Internal-ID": "214287417",
-      "Name": "Zombie ",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "66",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1660145419,
-      "Age": 50,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7cfca588f88e09f5141396aaa49785a2/3ef0db47c90db3d7dd694ed204fa2acb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/572b2d92a8d5fc2895477395cc1a60b1/ef3448ea2892c3d8b4395b8f29278112.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70afda071c55e485e2bcadfb33c25280/347703db5fff5b8b62244b516f92406b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0864024f6190564959e5ba5950069437/1ee1f3bfa3a0b07320a27c1f0c60d485.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b2af766ee29dfe183403a9e3021cc41/95357f5fbf6b9990836f78b22065f1dc.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "After a rough start, Zombie is really coming along wonderfully.  He is a low energy gentle giant and really just loves to hang out with his people.  ",
-      "LastIntakeUnixTime": "1786635886",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792328716"
     },
     {
       "ID": "3680",
@@ -2012,7 +1926,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792584998"
+      "LastUpdatedUnixTime": "1793030424"
     },
     {
       "ID": "3724",
@@ -3464,6 +3378,92 @@
       "LastUpdatedUnixTime": "1792763173"
     },
     {
+      "ID": "3664",
+      "Internal-ID": "214287417",
+      "Name": "Zombie ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "66",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1660145419,
+      "Age": 50,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7cfca588f88e09f5141396aaa49785a2/3ef0db47c90db3d7dd694ed204fa2acb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/572b2d92a8d5fc2895477395cc1a60b1/ef3448ea2892c3d8b4395b8f29278112.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70afda071c55e485e2bcadfb33c25280/347703db5fff5b8b62244b516f92406b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0864024f6190564959e5ba5950069437/1ee1f3bfa3a0b07320a27c1f0c60d485.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b2af766ee29dfe183403a9e3021cc41/95357f5fbf6b9990836f78b22065f1dc.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "After a rough start, Zombie is really coming along wonderfully.  He is a low energy gentle giant and really just loves to hang out with his people.  ",
+      "LastIntakeUnixTime": "1786635886",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793037584"
+    },
+    {
       "ID": "3679",
       "Internal-ID": "214320064",
       "Name": "Monona",
@@ -3707,7 +3707,14 @@
       "Breed": "Mixed Breed (Large)",
       "Color": "White",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Meatball is a typical puppy. Curious, playful and full of love. He enjoys the outdoors and walks well on a leash . Besides snuggling next to us, he loves to play and meet other dogs. He does really well with kids, but has not met any cats yet.\nHe is almost housetrained, with occassionally having an accident, he is still a puppy after all.\nMeatball just loves everybody and would be a great pet for anybody who loves dogs.",
       "LastIntakeUnixTime": "1790286747",
       "Attributes": [
@@ -3767,7 +3774,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792864746"
+      "LastUpdatedUnixTime": "1793038297"
     },
     {
       "ID": "3716",
