@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:26:14Z",
+  "updated": "2026-10-27T18:49:11Z",
   "count": 53,
   "animals": [
     {
@@ -905,6 +905,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
@@ -925,7 +930,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792025334"
+      "LastUpdatedUnixTime": "1793122467"
     },
     {
       "ID": "3663",
@@ -1919,7 +1924,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "His name may be Bubby, but he has many nicknames, from Bob, Bubbly, Bubz, or Bubba.\n\nBubby is a 10-year-old, 60-pound land hippo whose days largely consist of naps and Netflix, with a snack intermission and post-nap walk. And boy does he get pumped for his walkies! Yes, Bubz is 10. No, he did not receive that memo. He gets spunky zoomies and playfully whips his toys around like a dog half his age.\n\nBubby came to Fetch from Texas, where he landed at the shelter as a stray. Bubz has made it very clear that he is not interested in discussing his past unless there is a documentary deal involved; in reality, he is much more focused on his comeback tour.\n\nHe’s looking forward to having a home of his own during his golden years!",
+      "Description": "Bubby is the sweetest old man who loves to be super cozy!\n\nBubby walks well on leash, but due to arthritis (which he takes medication & supplements for), he isn’t up for long walks or strenuous activities. He enjoys sniff walks, but he spends most of his day snoozing. He loves playing in water (which is great for his weekly dermatitis baths) and with squeaky toys!\n\nBubz is potty trained and able to free roam during the work day with my dog. He would do well with another calm dog or by himself. Cats are unknown, and living with small children would be overwhelming for him.\n\nBubby’s body shows signs that he has not always been well taken care of, so he is looking for a retirement home where he can be spoiled, sleep in your bed, and eat lots of snacks (he prefers beef)! Despite his age & past, his bloodwork looks great, and he has a wonderful quality of life!",
       "LastIntakeUnixTime": "1792429770",
       "Attributes": [
         {
@@ -1973,7 +1978,108 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793050981"
+      "LastUpdatedUnixTime": "1793110628"
+    },
+    {
+      "ID": "3743",
+      "Internal-ID": "214825568",
+      "Name": "Athena ",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "37",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1626893452,
+      "Age": 63,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/512720621a78f6e5470094d97d6ba456/cefd047b524d99e27286470775762245.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/512720621a78f6e5470094d97d6ba456/cefd047b524d99e27286470775762245.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/911b439fa2f28b4a3772f729ab2abdd5/5965db86d93f98b3ce5c61b155bf6f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e649922042127a58ed0de4fcc827f7e/daf69460ef314c6e73c20842329207d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a6f48a57ea5fba26a503ea6cc3b5702/e56265924674b2bb8a3136311b38dfb5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c80d7481515814a8718b3b099d02a2d/7ac3f65f29ebb786f59dfacc01cd72e2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/582b3f080c4977335a8299deacdb59fb/7ff9b6be6be6fe3c2bfe191a80916216.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8214e52536bad715c233253bdcdb98b5/14dee66e6fd13c0599f0bc99c97f5115.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ba4b74b7cd318ae3b2fec4551b4c4445/a12db28f61d41138a05f9bcba7653a33.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b989c805a62bcaaf75ae5741e5bdc57d/f011efe5979d684893a2b8084e6350d2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a5266be12dafea294924fc034ae1060/ea28bfd4187839d98546ad8aa69e4165.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "After being in survival mode and raising her puppies, Athena is learning how to be a dog for the first time. She is very timid and nervous, but also sweet, gentle, and desperately wants to trust people. Athena will need a patient adopter who is willing to go at her pace and not expect an instant best friend. She has a lot of potential to be an amazing companion! \n\nAthena walks well on leash but can be easily spooked by traffic, bikes, and crowds, so she would prefer a quieter home. In the home, she seeks confidence from other dogs, and often follows their lead, so she will need another dog in the home. If you’re a patient person who celebrates small wins, Athena would love to meet you! ",
+      "LastIntakeUnixTime": "1792597190",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "811189",
+          "AttributeName": "⚠ Needs another dog in the home",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793116440"
     },
     {
       "ID": "3724",
@@ -2466,122 +2572,6 @@
       "LastUpdatedUnixTime": "1792901515"
     },
     {
-      "ID": "3743",
-      "Internal-ID": "214825568",
-      "Name": "Athena ",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "37",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1626893452,
-      "Age": 63,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/582b3f080c4977335a8299deacdb59fb/7ff9b6be6be6fe3c2bfe191a80916216.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/582b3f080c4977335a8299deacdb59fb/7ff9b6be6be6fe3c2bfe191a80916216.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/56c064f5fe5e821b87e8bf4c12d88eec/a0be91ffbdc43872e704c672d46400c8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e649922042127a58ed0de4fcc827f7e/daf69460ef314c6e73c20842329207d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a6f48a57ea5fba26a503ea6cc3b5702/e56265924674b2bb8a3136311b38dfb5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c80d7481515814a8718b3b099d02a2d/7ac3f65f29ebb786f59dfacc01cd72e2.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1792597190",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793068728"
-    },
-    {
       "ID": "3744",
       "Internal-ID": "214825571",
       "Name": "Tipsy",
@@ -2675,12 +2665,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "678764",
           "AttributeName": "Housetrained",
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792903442"
+      "LastUpdatedUnixTime": "1793122486"
     },
     {
       "ID": "3745",
@@ -3139,7 +3134,7 @@
       "Sex": "Male",
       "Status": "Foster to Adopt",
       "InFoster": true,
-      "CurrentWeightPounds": "27",
+      "CurrentWeightPounds": "32.4",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1773597575,
@@ -3294,7 +3289,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792941241"
+      "LastUpdatedUnixTime": "1793126699"
     },
     {
       "ID": "3644",
@@ -3830,7 +3825,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1792683558"
+      "LastUpdatedUnixTime": "1793111805"
     },
     {
       "ID": "3718",
@@ -4052,113 +4047,6 @@
       "LastUpdatedUnixTime": "1792801693"
     },
     {
-      "ID": "3730",
-      "Internal-ID": "214732439",
-      "Name": "Sasha",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "28",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1665032400,
-      "Age": 48,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Labrador/Mix",
-      "Color": "Black/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
-      "LastIntakeUnixTime": "1791736083",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792890919"
-    },
-    {
       "ID": "3592",
       "Internal-ID": "213786015",
       "Name": "Mary Beth",
@@ -4271,6 +4159,113 @@
         }
       ],
       "LastUpdatedUnixTime": "1792767198"
+    },
+    {
+      "ID": "3730",
+      "Internal-ID": "214732439",
+      "Name": "Sasha",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "28",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1665032400,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77174704dc7ccc2dce400219a65a8ad0/afa0a65b90e56a4036a14a81e37481b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/676329e894a2961faee4d834249680bf/5e4dcca6ac1ea859d83ba0afa936bc35.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/188924578156d0e57ddf947af9bee3f4/f12724e484229d52712cede1e1690a9c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd3bdaa33b93f4bed3d68ff4b1970512/7226a06ed1bff6d111735d5b2fb8b8d8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e79a6b2d8a2960dae8240c7b209eee2e/d8a589e65366bf9c25b7e7182cd54092.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Mix",
+      "Color": "Black/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Sasha is a sweet and happy gal who loves people, cuddling, going for walks, toys, running around & playing with other dogs. She does great in a home with two foster dog siblings. She is working on boundaries and not chasing the resident cat, but her foster mom thinks she could likely do fine in a forever home with a kitty as long as her adopter is willing to keep working with her on boundaries. Sasha came to Fetch from an over crowded shelter in Texas and is ready for a loving furever home! \n\nShe is very sweet, submissive, and eager to please, so training is going very well! Sasha is potty trained, walks well on a leash, and does fine out of her crate when left alone in the home. She loves to snuggle and stretch out on the couch! She is also the best little spoon you’ll ever meet and the sweetest little snuggle bug. She currently does not live in a home with children, but likely would do well with them given her easy going temperament. \n",
+      "LastIntakeUnixTime": "1791736083",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793126808"
     },
     {
       "ID": "3719",
