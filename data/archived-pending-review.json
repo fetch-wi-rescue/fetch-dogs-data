@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:57:37Z",
+  "updated": "2026-10-27T22:47:05Z",
   "animals": [
     {
       "ID": "3458",
@@ -2042,6 +2042,24 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-26T22:57:37Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3652",
+      "Name": "Kyle",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fc7543675b90d4bbdb9471231e476e74/26ad4b69f18defbe7901abefa9ff657c.jpg",
+      "Status": "Foster to Adopt",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-27T22:47:05Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3730",
+      "Name": "Sasha",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/99271cd88e5ee0451b6d297c100e0c8f/17ab3c794a196365b201d2c19588bcbe.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-27T22:47:05Z",
       "status": "pending"
     }
   ]
