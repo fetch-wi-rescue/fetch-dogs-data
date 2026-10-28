@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:47:05Z",
+  "updated": "2026-10-28T01:56:26Z",
   "count": 51,
   "animals": [
     {
@@ -2093,6 +2093,112 @@
       "LastUpdatedUnixTime": "1793116440"
     },
     {
+      "ID": "3744",
+      "Internal-ID": "214825571",
+      "Name": "Tipsy",
+      "LitterGroupId": 9575389,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "45",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1674498508,
+      "Age": 45,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/037fc9d811d1b7f256614ec8703083c2/2646bbed6a1933490604211f4f4cdbbc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6e798f5f3e69c74d2a22b2782df73c1d/ce0ae99c2fbf8b16067f05a733cdd4ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/de4d8106426980e94ca2215a29572ab0/2160db06ad7b7ae2278b4268b1d7caca.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1bab8e35b3d8f0b78be166193cf73cc7/ae7478d2a16d943438d9e48e255759db.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd/Mixed Breed (Large)",
+      "Color": "White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1792597190",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793149999"
+    },
+    {
       "ID": "3724",
       "Internal-ID": "214732433",
       "Name": "Lou",
@@ -2581,112 +2687,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792901515"
-    },
-    {
-      "ID": "3744",
-      "Internal-ID": "214825571",
-      "Name": "Tipsy",
-      "LitterGroupId": 9575389,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "45",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1674498508,
-      "Age": 45,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/037fc9d811d1b7f256614ec8703083c2/2646bbed6a1933490604211f4f4cdbbc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6e798f5f3e69c74d2a22b2782df73c1d/ce0ae99c2fbf8b16067f05a733cdd4ce.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/de4d8106426980e94ca2215a29572ab0/2160db06ad7b7ae2278b4268b1d7caca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1bab8e35b3d8f0b78be166193cf73cc7/ae7478d2a16d943438d9e48e255759db.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd/Mixed Breed (Large)",
-      "Color": "White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1792597190",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "❌ No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793122486"
     },
     {
       "ID": "3745",
