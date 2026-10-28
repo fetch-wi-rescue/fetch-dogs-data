@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:52:09Z",
+  "updated": "2026-10-28T14:44:12Z",
   "count": 51,
   "animals": [
     {
@@ -931,7 +931,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793138814"
+      "LastUpdatedUnixTime": "1793191262"
     },
     {
       "ID": "3663",
@@ -1043,7 +1043,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "16",
+      "CurrentWeightPounds": "16.6",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1779997123,
@@ -1133,7 +1133,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791915079"
+      "LastUpdatedUnixTime": "1793191887"
     },
     {
       "ID": "3682",
@@ -1989,7 +1989,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793110628"
+      "LastUpdatedUnixTime": "1793191630"
     },
     {
       "ID": "3744",
@@ -2035,6 +2035,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "295163",
           "AttributeName": "Heartworm Treatment Completed",
           "Publish": "Yes"
@@ -2045,6 +2050,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "524022",
           "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
@@ -2052,6 +2062,11 @@
         {
           "Internal-ID": "621458",
           "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629389",
+          "AttributeName": "❌ No cats",
           "Publish": "Yes"
         },
         {
@@ -2093,9 +2108,14 @@
           "Internal-ID": "678764",
           "AttributeName": "Housetrained",
           "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
+          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793149999"
+      "LastUpdatedUnixTime": "1793194121"
     },
     {
       "ID": "3724",
@@ -2419,7 +2439,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792899374"
+      "LastUpdatedUnixTime": "1793190422"
     },
     {
       "ID": "3739",
@@ -3656,231 +3676,6 @@
       "LastUpdatedUnixTime": "1793131492"
     },
     {
-      "ID": "3716",
-      "Internal-ID": "214615690",
-      "Name": "Pesto",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9163c842f15616bf7c003ab1480cc4b0/f3d1b946fc3b112a41edb43c553bb7d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b466341400ee8a37e3e1bd89850994d9/7cf39b6ecc489f318b8433a81cb3b0af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5dab6eb717b147e32bc86911eb285d9d/a78863db0d7495b5cc5a92bd5c4cf9ac.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b029faa70a000a9e1316fbc2ac35a26f/8a7c866560fc31cc0f632041142d4c0b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b20e60e9ae5d513115cb93caf473a47e/a8c5fc5434790e3f147db37bc405c6e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1cb26eedc8332cf76af09e1b9ec64210/68003470d800b59b53fd6b1c2273ab8a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6062d818e5c966280803f991270f5f87/08b0ae8159be3572253cb10a6a7d8264.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Pesto is an absolute joy. He is a typical puppy that loves to snuggle, play, eat and sleep. He loves playing with his dog foster siblings, playing tug o war, fetch (working on retrieval), and squeaky toys.\n\nHe is sleeping through the night in his crate and working on potty training. He has the sweetest angel face and is so soft and cuddly. I’ll be so sad to say goodbye to this sweetie pie but he will make a family very happy!",
-      "LastIntakeUnixTime": "1790286585",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793111805"
-    },
-    {
-      "ID": "3718",
-      "Internal-ID": "214695886",
-      "Name": "Ringo",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "110",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728536400,
-      "Age": 24,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/099f7443099267be37144c32caaec80b/cfc55c5812470f562b240fac5a43550e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ab3cbe1c4dfda33041948dbec4ae0569/cc879bcc854befc9dc4e32cc8d03596e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8f1b82bd1fa038f02bbedb8e3fe008fa/d8d29e374927c610274ba53ea5690b34.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8c6051cc5669e4ecf1091c51c155f053/bd01c47eb804d41b031c654c40e56d89.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/75b0c282dceb5924a97a8fc8b5adb797/66cdf285330aa48902edf30506f2c0bf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/267b140fa34d262cb7a39ddb3dd575ce/aa86fd7194e19c1f48c41b10ef6617ec.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53a29477bf1d31c756830474ab4a1dbe/5b988ae7c8564d6effc127cfdeee60c1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ce40caae92d3e99b8157da73ea0b2a2d/dc0378e9293479af67386491c6a2060b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/300708565bdefc3a4976e41f9ad0eb87/2b70aee171f0b875881cbea7129cc083.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2bde191b019f980f19c13ced7ebd127b/5def38d4fe57af473785040d7e78f3f3.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/55acd5f90f04018779683186178d88ef/32e81759e2f8853ed2bf07e7074ec0b6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c412c0be2fcc79c8146fb62e6e58b7f0/ef0061f4e0233d02a646e2a78cffe075.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9e1c55545ff2ac5358c45a65e82e3578/4a88abb6e52c1fadb7858edeeac0b7df.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Great Dane",
-      "Color": "Brown/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Ringo is a big baby with a big heart and loves ear rubs, doggy bongos, and has a very nice lean. He is gentle, loves his Kennel, is potty trained, and loves walks. He is good on leash but can get excited about squirrels, bunnies, etc. So far he has been interested in meeting other dogs, and there has been no barking when he does meet them. He’s a good eater and is food motivated but will leave your human food alone when you tell him to leave it. You couldn’t ask for a better behaved big dog, just be prepared for demands for pets, snuggles, and more pets(also a bit of drool!) ",
-      "LastIntakeUnixTime": "1791255995",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634880",
-          "AttributeName": "⚠ Unknown with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792903213"
-    },
-    {
       "ID": "3592",
       "Internal-ID": "213786015",
       "Name": "Mary Beth",
@@ -3993,6 +3788,231 @@
         }
       ],
       "LastUpdatedUnixTime": "1792767198"
+    },
+    {
+      "ID": "3716",
+      "Internal-ID": "214615690",
+      "Name": "Pesto",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1785394800,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9163c842f15616bf7c003ab1480cc4b0/f3d1b946fc3b112a41edb43c553bb7d6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b466341400ee8a37e3e1bd89850994d9/7cf39b6ecc489f318b8433a81cb3b0af.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5dab6eb717b147e32bc86911eb285d9d/a78863db0d7495b5cc5a92bd5c4cf9ac.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b029faa70a000a9e1316fbc2ac35a26f/8a7c866560fc31cc0f632041142d4c0b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b20e60e9ae5d513115cb93caf473a47e/a8c5fc5434790e3f147db37bc405c6e0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1cb26eedc8332cf76af09e1b9ec64210/68003470d800b59b53fd6b1c2273ab8a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6062d818e5c966280803f991270f5f87/08b0ae8159be3572253cb10a6a7d8264.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Large)",
+      "Color": "White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Pesto is an absolute joy. He is a typical puppy that loves to snuggle, play, eat and sleep. He loves playing with his dog foster siblings, playing tug o war, fetch (working on retrieval), and squeaky toys.\n\nHe is sleeping through the night in his crate and working on potty training. He has the sweetest angel face and is so soft and cuddly. I’ll be so sad to say goodbye to this sweetie pie but he will make a family very happy!",
+      "LastIntakeUnixTime": "1790286585",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793193925"
+    },
+    {
+      "ID": "3718",
+      "Internal-ID": "214695886",
+      "Name": "Ringo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "110",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1728536400,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8120f4c48a83222508eb85c4c1b30fdb/e9a11bc594bacb87af538a1c6b3e1c55.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/099f7443099267be37144c32caaec80b/cfc55c5812470f562b240fac5a43550e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ab3cbe1c4dfda33041948dbec4ae0569/cc879bcc854befc9dc4e32cc8d03596e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8f1b82bd1fa038f02bbedb8e3fe008fa/d8d29e374927c610274ba53ea5690b34.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8c6051cc5669e4ecf1091c51c155f053/bd01c47eb804d41b031c654c40e56d89.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/75b0c282dceb5924a97a8fc8b5adb797/66cdf285330aa48902edf30506f2c0bf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/267b140fa34d262cb7a39ddb3dd575ce/aa86fd7194e19c1f48c41b10ef6617ec.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/53a29477bf1d31c756830474ab4a1dbe/5b988ae7c8564d6effc127cfdeee60c1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce40caae92d3e99b8157da73ea0b2a2d/dc0378e9293479af67386491c6a2060b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/300708565bdefc3a4976e41f9ad0eb87/2b70aee171f0b875881cbea7129cc083.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2bde191b019f980f19c13ced7ebd127b/5def38d4fe57af473785040d7e78f3f3.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/55acd5f90f04018779683186178d88ef/32e81759e2f8853ed2bf07e7074ec0b6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c412c0be2fcc79c8146fb62e6e58b7f0/ef0061f4e0233d02a646e2a78cffe075.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9e1c55545ff2ac5358c45a65e82e3578/4a88abb6e52c1fadb7858edeeac0b7df.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Great Dane",
+      "Color": "Brown/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Ringo is a big baby with a big heart and loves ear rubs, doggy bongos, and has a very nice lean. He is gentle, loves his Kennel, is potty trained, and loves walks. He is good on leash but can get excited about squirrels, bunnies, etc. So far he has been interested in meeting other dogs, and there has been no barking when he does meet them. He’s a good eater and is food motivated but will leave your human food alone when you tell him to leave it. You couldn’t ask for a better behaved big dog, just be prepared for demands for pets, snuggles, and more pets(also a bit of drool!) ",
+      "LastIntakeUnixTime": "1791255995",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810935",
+          "AttributeName": "Has lived with kids",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793193962"
     },
     {
       "ID": "3719",
