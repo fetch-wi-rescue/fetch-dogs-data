@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T01:56:26Z",
+  "updated": "2026-10-28T07:52:09Z",
   "count": 51,
   "animals": [
     {
@@ -1348,7 +1348,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1598590800,
-      "Age": 73,
+      "Age": 74,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
@@ -1992,107 +1992,6 @@
       "LastUpdatedUnixTime": "1793110628"
     },
     {
-      "ID": "3743",
-      "Internal-ID": "214825568",
-      "Name": "Athena ",
-      "LitterGroupId": 9575388,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "37",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1626893452,
-      "Age": 63,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/512720621a78f6e5470094d97d6ba456/cefd047b524d99e27286470775762245.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/512720621a78f6e5470094d97d6ba456/cefd047b524d99e27286470775762245.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/911b439fa2f28b4a3772f729ab2abdd5/5965db86d93f98b3ce5c61b155bf6f09.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e649922042127a58ed0de4fcc827f7e/daf69460ef314c6e73c20842329207d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a6f48a57ea5fba26a503ea6cc3b5702/e56265924674b2bb8a3136311b38dfb5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c80d7481515814a8718b3b099d02a2d/7ac3f65f29ebb786f59dfacc01cd72e2.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/582b3f080c4977335a8299deacdb59fb/7ff9b6be6be6fe3c2bfe191a80916216.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8214e52536bad715c233253bdcdb98b5/14dee66e6fd13c0599f0bc99c97f5115.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ba4b74b7cd318ae3b2fec4551b4c4445/a12db28f61d41138a05f9bcba7653a33.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b989c805a62bcaaf75ae5741e5bdc57d/f011efe5979d684893a2b8084e6350d2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a5266be12dafea294924fc034ae1060/ea28bfd4187839d98546ad8aa69e4165.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian",
-      "Color": "Chocolate/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "After being in survival mode and raising her puppies, Athena is learning how to be a dog for the first time. She is very timid and nervous, but also sweet, gentle, and desperately wants to trust people. Athena will need a patient adopter who is willing to go at her pace and not expect an instant best friend. She has a lot of potential to be an amazing companion! \n\nAthena walks well on leash but can be easily spooked by traffic, bikes, and crowds, so she would prefer a quieter home. In the home, she seeks confidence from other dogs, and often follows their lead, so she will need another dog in the home. If you’re a patient person who celebrates small wins, Athena would love to meet you! ",
-      "LastIntakeUnixTime": "1792597190",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "811189",
-          "AttributeName": "⚠ Needs another dog in the home",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793116440"
-    },
-    {
       "ID": "3744",
       "Internal-ID": "214825571",
       "Name": "Tipsy",
@@ -2687,6 +2586,107 @@
         }
       ],
       "LastUpdatedUnixTime": "1792901515"
+    },
+    {
+      "ID": "3743",
+      "Internal-ID": "214825568",
+      "Name": "Athena ",
+      "LitterGroupId": 9575388,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "37",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1626893452,
+      "Age": 63,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/512720621a78f6e5470094d97d6ba456/cefd047b524d99e27286470775762245.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/512720621a78f6e5470094d97d6ba456/cefd047b524d99e27286470775762245.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/911b439fa2f28b4a3772f729ab2abdd5/5965db86d93f98b3ce5c61b155bf6f09.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0e649922042127a58ed0de4fcc827f7e/daf69460ef314c6e73c20842329207d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a6f48a57ea5fba26a503ea6cc3b5702/e56265924674b2bb8a3136311b38dfb5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c80d7481515814a8718b3b099d02a2d/7ac3f65f29ebb786f59dfacc01cd72e2.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/582b3f080c4977335a8299deacdb59fb/7ff9b6be6be6fe3c2bfe191a80916216.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8214e52536bad715c233253bdcdb98b5/14dee66e6fd13c0599f0bc99c97f5115.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ba4b74b7cd318ae3b2fec4551b4c4445/a12db28f61d41138a05f9bcba7653a33.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b989c805a62bcaaf75ae5741e5bdc57d/f011efe5979d684893a2b8084e6350d2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a5266be12dafea294924fc034ae1060/ea28bfd4187839d98546ad8aa69e4165.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Kelpie, Australian",
+      "Color": "Chocolate/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "After being in survival mode and raising her puppies, Athena is learning how to be a dog for the first time. She is very timid and nervous, but also sweet, gentle, and desperately wants to trust people. Athena will need a patient adopter who is willing to go at her pace and not expect an instant best friend. She has a lot of potential to be an amazing companion! \n\nAthena walks well on leash but can be easily spooked by traffic, bikes, and crowds, so she would prefer a quieter home. In the home, she seeks confidence from other dogs, and often follows their lead, so she will need another dog in the home. If you’re a patient person who celebrates small wins, Athena would love to meet you! ",
+      "LastIntakeUnixTime": "1792597190",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "811189",
+          "AttributeName": "⚠ Needs another dog in the home",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793160348"
     },
     {
       "ID": "3745",
