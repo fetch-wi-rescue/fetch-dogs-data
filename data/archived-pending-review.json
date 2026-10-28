@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:47:05Z",
+  "updated": "2026-10-28T23:57:04Z",
   "animals": [
     {
       "ID": "3458",
@@ -2060,6 +2060,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-27T22:47:05Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3718",
+      "Name": "Ringo",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bfab258fd7c9b4fd00134af8af12170d/44701d0c559cd95f101b7d085aa21f8b.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-28T23:57:04Z",
       "status": "pending"
     }
   ]
