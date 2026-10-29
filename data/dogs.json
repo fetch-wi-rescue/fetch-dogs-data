@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:57:04Z",
+  "updated": "2026-10-29T04:22:29Z",
   "count": 50,
   "animals": [
     {
@@ -3045,6 +3045,49 @@
       "LastUpdatedUnixTime": "1793129918"
     },
     {
+      "ID": "3755",
+      "Internal-ID": "214877402",
+      "Name": "Callie",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "25",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1691470800,
+      "Age": 38,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/78b751cfd9663b3d0ed7e35f84d90634/7d62856f03a7d91fcce54eb054a6712a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/78b751cfd9663b3d0ed7e35f84d90634/7d62856f03a7d91fcce54eb054a6712a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4b94d4491e98ff9b7ba9b675f982b995/2a3b46db1425a8ded5fb38549313bdc3.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Australian/Cattle Dog, Australian (Red Heeler)",
+      "Color": "Black/Red/Mahogany",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1793238125",
+      "Attributes": [
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793238771"
+    },
+    {
       "ID": "3644",
       "Internal-ID": "214152752",
       "Name": "Cain",
@@ -3564,116 +3607,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1793131492"
-    },
-    {
-      "ID": "3729",
-      "Internal-ID": "214732438",
-      "Name": "Loki",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1696222800,
-      "Age": 36,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06bbc415f4cc913593a2c17dd9ea67fb/51eb099165c7557ef783d8047a13c64e.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/06bbc415f4cc913593a2c17dd9ea67fb/51eb099165c7557ef783d8047a13c64e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ddcd15ebb05f85022d132e4f876a3f12/71e988929f9c2fe372839e8a749cbe96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/eabd2edb1b02456cb4451c9afa930b6f/ce26c9f9591bc46427447dd662691f2f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bed9b1247b411853509bdaf2ec71afcc/005c439afcf197f5da72124818abd08a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/53eb3a91149bec7ce34aa236593c3d62/b4ad47a7d38c87992506d77f79354b87.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/496b727decb59605935c064b02fec1f4/426d117946755840cbe7a9dac37d152a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/65c3fcbaa0a6e9f30ebda30bbaca09d5/66730b07730d7e93edf4e1ea0dcb7e56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fcb6f076541922700b2bb670228eda45/76b63adb758fa73c4a8e57a9db1eea96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/494a24754f9e11ebf0898ff2f486a82c/6d27328ec4843aff06da7447c9d0ae5e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c1c0ce300675a7cb1680649684e6e67/f0a409eab479186adde77e6992318e4e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/38606d96ccaaebf584f7d345b743a0f8/3c49ad683dee4bd7c5121443fe3b94d6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b5c3675b9614f67dcb51e1d59b0cd27f/fd24904bd20b1852ddae7f3da4f009db.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/99cd21096f9e9850a5a217fce24c29b3/cb8bb5845c98857c56e3a004e486b129.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/20cde92b51b071831265c1bcdc23af84/1feb1fe2e0195c12659d450ede9139c9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/741da8e28858c19e990160ab1fd2ed66/923a70b195471a4cd8c43ffa425ebea5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/30ad4af2c8ab1fe635b577e1628d6ddf/cdc966ddc9716edc94e8b39fd1c2fd4a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/85360e177dd1d6b7baf29b2717b99c6b/15da394727b1a3dd49680e9f035e21ff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ed2987fd3ed1a5d6f8eb79a7f7d77a9/57c93a9ae56fb26867af9e71798384f9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a51bfe284c982b7739f62c806e49a43f/6d940dd8e0f3ec2b86ab39c62192baa3.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky",
-      "Color": "Black",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Loki is your classic dog about town. Walks, backyard zoomies, car rides, couch snuggles, supervised snack quality control? Loki is enthusiastically available for all of the above.\n\nAfter spending more than a third of his life waiting in a Texas shelter, Loki is making up for lost time and discovering that life is actually pretty great. He can be a little shy when meeting new people, but give him a few minutes and you'll unlock his true form: a goofy, affectionate cuddle bug with a talent for making everyone smile. Truly the best little spoon!\n\nLike any good superhero, Loki has a battle scar from his past; it appears he may have sustained an injury to his front leg and one toe healed a little wonky. It gives him character and doesn't slow him down one bit!\n\nAs for his breed? That's anyone's guess. His foster mom has developed several wildly unscientific theories. Perhaps a Shar Pei gifted him those adorable ears, a shepherd added some tail fluff, and a Lab sprinkled in the friendliness. Or maybe a committee of random dogs got together and said, \"Let's make this one extra cute.\" Whatever the recipe, the result is 100% pure good boy.\n\nLoki is incredibly gentle, sweet, silly, and endlessly lovable. He's waited long enough for a family of his own and is ready to be treated like the wannabe little Avenger he is. All he needs now is a couch to claim, snacks to supervise, and humans to love.",
-      "LastIntakeUnixTime": "1791737325",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793231606"
     },
     {
       "ID": "3592",

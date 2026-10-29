@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:57:04Z",
+  "updated": "2026-10-29T04:22:29Z",
   "animals": [
     {
       "ID": "3458",
@@ -2069,6 +2069,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-28T23:57:04Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3729",
+      "Name": "Loki",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/06bbc415f4cc913593a2c17dd9ea67fb/51eb099165c7557ef783d8047a13c64e.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-29T04:22:29Z",
       "status": "pending"
     }
   ]
