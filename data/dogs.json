@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:20:48Z",
+  "updated": "2026-10-29T21:54:41Z",
   "count": 50,
   "animals": [
     {
@@ -416,7 +416,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793057836"
+      "LastUpdatedUnixTime": "1793298993"
     },
     {
       "ID": "3543",
@@ -1791,6 +1791,120 @@
       "LastUpdatedUnixTime": "1792643116"
     },
     {
+      "ID": "3735",
+      "Internal-ID": "214803601",
+      "Name": "Peanut",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "29",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1544508000,
+      "Age": 94,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/da602acb40d37e691e2009111ccefddd/9e0f10aea7720baad83a0af0f5039c32.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/49a921f7e556f462f335fdb2f2e1eb83/12a57dd62d35f40e14c238616a45aa13.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b781dad52f2d31ea74a09c0d58b3b4b5/142e27e78d4ff7344ba63dc218d51fd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7883b6122dd41d1defd6573e1292ddbe/70ac8e292f6b6a6d4d6af4f0666ed04a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4bdf081f8a406d0e706dabcfd51c2abd/11e7a9bbb40ab7404fddc6d2f45a9245.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ccb612224e89a2d7cfdfe89ce09b27f9/e2c2f44ddd986dd8f6c28257c17812f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c77511112e549608a928431029cac17d/e5ba08bfef90bfa2d13d7a7cbe7c2c54.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "White/Tan",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Do you need an extra shadow in your life who simply wants treats and snuggles for unconditional love? Meet Peanut! The most gentle and sweetest dog you will ever meet. She is content with just a few short walks throughout the day and then will pull you back home for her beauty rest. Peanut loves people but is a shy girl around other animals. Extremely food motivated and a fast learner! This easy to care for, disciplined girl does great on leash and is potty trained and crate trained. A calm home with plenty of napping spots will be a dream come true for this little peanut.",
+      "LastIntakeUnixTime": "1792209975",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295161",
+          "AttributeName": "❌ Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793298056"
+    },
+    {
       "ID": "3737",
       "Internal-ID": "214811810",
       "Name": "Bubby",
@@ -2251,115 +2365,6 @@
       "LastIntakeUnixTime": "1791744780",
       "Attributes": [],
       "LastUpdatedUnixTime": "1792004032"
-    },
-    {
-      "ID": "3735",
-      "Internal-ID": "214803601",
-      "Name": "Peanut",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "29",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1544508000,
-      "Age": 94,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/da602acb40d37e691e2009111ccefddd/9e0f10aea7720baad83a0af0f5039c32.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/49a921f7e556f462f335fdb2f2e1eb83/12a57dd62d35f40e14c238616a45aa13.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "White/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1792209975",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "❌ Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793212689"
     },
     {
       "ID": "3738",
