@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T04:22:29Z",
+  "updated": "2026-10-30T07:36:14Z",
   "animals": [
     {
       "ID": "3458",
@@ -2078,6 +2078,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-10-29T04:22:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3704",
+      "Name": "Little Bear",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c7055d62a951465cbbc69305bad4b873/69dca087a8124aeb688ef201be00ac6a.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-10-30T07:36:14Z",
       "status": "pending"
     }
   ]

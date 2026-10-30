@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T01:28:40Z",
-  "count": 50,
+  "updated": "2026-10-30T07:36:14Z",
+  "count": 49,
   "animals": [
     {
       "ID": "3279",
@@ -1701,94 +1701,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792643405"
-    },
-    {
-      "ID": "3734",
-      "Internal-ID": "214732443",
-      "Name": "Cherokee",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1780722000,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7ebdd1d0c8ade2f4c8c066b9649adc49/3d5a0ba7e0cdd8ef5ffd26f375f01897.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7ebdd1d0c8ade2f4c8c066b9649adc49/3d5a0ba7e0cdd8ef5ffd26f375f01897.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/40e36fdf70981ba7d4cc8922dd27a595/f17bc9e8e3e2910612046c1f54034f6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/729b299f9f1ae412b2469cd10fa8e1ed/554f859bd0815a02f3b602a4e9f9c3c2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d132c84cea2d138e2b1f74ba7950180/2721da489704c900343f06605f9156ae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0556877ff1a28fc85a749fbae30f7dcd/12c40ec57adf5c675551c4a0b4650213.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6df119d8567509e062c79e6929437d46/2bf381f3a8235b8f223c1d2a92c9a5bc.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Red Heeler)",
-      "Color": "Red/Mahogany",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "🐾 Meet Cherokee! 🐾\n\nCherokee is a sweet, playful girl with a big personality and a smile that will melt your heart! 💕 She loves playing with her favorite toys, making new doggy friends, and spending time with her brother, Callum. Whether she’s chasing toys or wrestling around with her favorite playmate, Cherokee is always ready for a little adventure!\n\nOnce playtime is over, Cherokee is happy to slow down and enjoy some snuggles with her people. She has the perfect combination of playful puppy energy and a loving, cuddly side that makes her so special!\n\nCherokee is ready to find a family of her own to fill their days with puppy fun, sweet snuggles, and lots of love! 🐶❤️",
-      "LastIntakeUnixTime": "1791734599",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792643116"
+      "LastUpdatedUnixTime": "1793335427"
     },
     {
       "ID": "3735",
@@ -2110,13 +2023,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1674498508,
       "Age": 45,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2749e16e52de564ce096e637af9d2f5a/658d985570e99d81704f2dac6b558e30.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/037fc9d811d1b7f256614ec8703083c2/2646bbed6a1933490604211f4f4cdbbc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2749e16e52de564ce096e637af9d2f5a/658d985570e99d81704f2dac6b558e30.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/6e798f5f3e69c74d2a22b2782df73c1d/ce0ae99c2fbf8b16067f05a733cdd4ce.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/bdf311582189ab203a25566ec94fafe9/24f1e695e7fd78bf823d87c8926ec1fd.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/de4d8106426980e94ca2215a29572ab0/2160db06ad7b7ae2278b4268b1d7caca.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1bab8e35b3d8f0b78be166193cf73cc7/ae7478d2a16d943438d9e48e255759db.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/1bab8e35b3d8f0b78be166193cf73cc7/ae7478d2a16d943438d9e48e255759db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/e6be9584aafd8d76a1a6d0f9b20de2ea/23ea0afb82a508ff9226d43f25118f23.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/de99011626867c6c009b324eeaf0faba/04fdaefa1f614969e7926183b3c1a4d0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eff13c8feb919b7566e8c01c417d8f18/39efe53d58146eb330ab74d1ca905817.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Mixed Breed (Large)",
@@ -2136,11 +2052,6 @@
         {
           "Internal-ID": "294293",
           "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
           "Publish": "Yes"
         },
         {
@@ -2219,7 +2130,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793224110"
+      "LastUpdatedUnixTime": "1793327471"
     },
     {
       "ID": "3724",
@@ -3422,105 +3333,6 @@
       "LastUpdatedUnixTime": "1792328745"
     },
     {
-      "ID": "3704",
-      "Internal-ID": "214485671",
-      "Name": "Little Bear",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "9.9",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1693890000,
-      "Age": 37,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c7055d62a951465cbbc69305bad4b873/69dca087a8124aeb688ef201be00ac6a.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c7055d62a951465cbbc69305bad4b873/69dca087a8124aeb688ef201be00ac6a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/125ef977c612660219495dd0e5e41424/fce565eee4356bef35c093d11b731703.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/305859a4399596473de1655ce9c1743a/84358a5990a56b7aa1d75beb1a017180.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/74e0047e241438a03c5face72c5ee1da/4f985f3ec4086c98d7eaeffacf61aa4c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad0fd6d8921cb20636e790639052b811/e363a8473f9e045665bc561efdbd7a30.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9c2dade52f340ac29cc69428cb70ce8a/25539b3da6690dcae112975b658ffb50.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/763c0a66a946c42b4171ab430bceb479/8521c9b5c93c5bb7e88e5b2d29395af4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fb58a1f69a8739591064056c43c013d2/1d20a3b4f2a5f85593ed0c738fd0eaad.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/926c053eec72137a517b8add1ef2aca4/bfd661225604069cac162877409c3f61.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7b9b6d1ff39bd858588c56aaaa692f97/98a3025f722dfcd1b3f205b7a9426c27.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/acb4263a94f0d069d4d57175408eed56/7ec7ae3e5ca43d637e28b1fbe708e516.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f34a4cc1f345b5d2376d5ffb71cf4ee0/dc82e565395f25b3697b03d83eb5229b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2f7cf262f86a35c162e76f75baefeec/3e4c007bd9913452892d1bfa2f66da5c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Small)",
-      "Color": "Cream",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Little Bear- small yet courageous; spunky yet cuddly; on alert yet friendly. He is a delightful little dog!\n\nLittle Bear was mistreated by a former owner but his behavior doesn’t reflect that. He warms up to people quickly and snuggles with all who invite him. He follows me all around the house and settles next to me when I sit down. He welcomes new people to our home with some barking but also happy wiggles and his signature front leg- pump greeting.\n\nLittle Bear is fully house trained; only 1 accident in the house. He goes out about every 4 hours and makes it through the night without a problem. He is confined to the kitchen or the first floor of our house when we go away. He has not had any accidents or chewed destructively on anything in the house when we are gone.\n\nLittle Bear loves to go for walks! He struts right along and has no fear. He gets three or four 1/2 mile walks a day and has gone on a 2 mile walk with no signs of wearing out. He will attempt to chase squirrels and rabbits on walks but can’t get past the end of the leash. Little Bear has started playing with and chewing on toys and will chase after a ball. He likes to carry a stray sock down from upstairs and shake that around too. He gets the zoomies or chases his tail when he has a lot of energy to expend. He’s still a young dog and he needs daily walks and play time to burn up some of his youthful energy.\n\nLittle Bear does not shed. He will need to be groomed every 6-8 weeks. He has allowed me to brush him and clean his face and teeth. He also allowed me to trim his face and feet though he seemed a bit more timid about those activities.\n\nLittle Bear has done well living with a variety of dogs His first foster home had 3 female dogs who he got along with. He gets along with my 50 lb male dog but they don’t play together. Little Bear has a growly and snippy approach; my dog retreats rather than return the invitation to play. Little Bear can get snippy at my dog when he doesn’t want to share attention. He stops when I correct him. I think Little Bear would be happy as an only dog but also can learn to live with other dogs. Slow introductions will be best.\nLittle Bear needs slow introductions to dogs when out on a walk. He barks, snaps and lunges at dogs when we pass them. If I parallel walk with a dog he will eventually settle down after about one block, allow the mutual dog sniff and greet, and then walk peacefully with the other dog. Little Bear sometimes barks at people on walks but often just approaches them and allows them to pet him.\n\nLittle Bear met my son’s cats; he was curious, calm, and quiet. He did try to follow one or two of the cats, with peaked interest, but we kept him on leash so he wasn’t able to continue after them. I think he could live with a cat that was confident and savvy with dogs.\nHe has barked at children we walk by but has not had direct contact with children while in my care. He would do best in a home with older children because of his size.\n\nLittle Bear sleeps in our room. He’s allowed on the bed until we turn the lights off. Then he goes in his kennel next to our bed, gives one or two short protests, then settles in and sleeps all night.\n\nHe may be LITTLE Bear but he has a BIG personality! He would love to become your walking companion and snuggling buddy.",
-      "LastIntakeUnixTime": "1788634609",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793218587"
-    },
-    {
       "ID": "3706",
       "Internal-ID": "214615675",
       "Name": "Berry",
@@ -3612,6 +3424,93 @@
         }
       ],
       "LastUpdatedUnixTime": "1793131492"
+    },
+    {
+      "ID": "3734",
+      "Internal-ID": "214732443",
+      "Name": "Cherokee",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1780722000,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7ebdd1d0c8ade2f4c8c066b9649adc49/3d5a0ba7e0cdd8ef5ffd26f375f01897.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7ebdd1d0c8ade2f4c8c066b9649adc49/3d5a0ba7e0cdd8ef5ffd26f375f01897.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/40e36fdf70981ba7d4cc8922dd27a595/f17bc9e8e3e2910612046c1f54034f6b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/729b299f9f1ae412b2469cd10fa8e1ed/554f859bd0815a02f3b602a4e9f9c3c2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d132c84cea2d138e2b1f74ba7950180/2721da489704c900343f06605f9156ae.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0556877ff1a28fc85a749fbae30f7dcd/12c40ec57adf5c675551c4a0b4650213.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6df119d8567509e062c79e6929437d46/2bf381f3a8235b8f223c1d2a92c9a5bc.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Red Heeler)",
+      "Color": "Red/Mahogany",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "🐾 Meet Cherokee! 🐾\n\nCherokee is a sweet, playful girl with a big personality and a smile that will melt your heart! 💕 She loves playing with her favorite toys, making new doggy friends, and spending time with her brother, Callum. Whether she’s chasing toys or wrestling around with her favorite playmate, Cherokee is always ready for a little adventure!\n\nOnce playtime is over, Cherokee is happy to slow down and enjoy some snuggles with her people. She has the perfect combination of playful puppy energy and a loving, cuddly side that makes her so special!\n\nCherokee is ready to find a family of her own to fill their days with puppy fun, sweet snuggles, and lots of love! 🐶❤️",
+      "LastIntakeUnixTime": "1791734599",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793335334"
     },
     {
       "ID": "3592",
@@ -3741,7 +3640,7 @@
       "Size": "",
       "Altered": "Unknown",
       "DOBUnixTime": 1785394800,
-      "Age": 2,
+      "Age": 3,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
