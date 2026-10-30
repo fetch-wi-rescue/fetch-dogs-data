@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T07:36:14Z",
-  "count": 49,
+  "updated": "2026-10-30T14:43:29Z",
+  "count": 48,
   "animals": [
     {
       "ID": "3279",
@@ -3625,115 +3625,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792767198"
-    },
-    {
-      "ID": "3716",
-      "Internal-ID": "214615690",
-      "Name": "Pesto",
-      "LitterGroupId": 9597504,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1785394800,
-      "Age": 3,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/301129eb3505a36e5490899753ae304f/dc2774b71b520b0d4561f633586c8588.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9163c842f15616bf7c003ab1480cc4b0/f3d1b946fc3b112a41edb43c553bb7d6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/b466341400ee8a37e3e1bd89850994d9/7cf39b6ecc489f318b8433a81cb3b0af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5dab6eb717b147e32bc86911eb285d9d/a78863db0d7495b5cc5a92bd5c4cf9ac.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b029faa70a000a9e1316fbc2ac35a26f/8a7c866560fc31cc0f632041142d4c0b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b20e60e9ae5d513115cb93caf473a47e/a8c5fc5434790e3f147db37bc405c6e0.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1cb26eedc8332cf76af09e1b9ec64210/68003470d800b59b53fd6b1c2273ab8a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6062d818e5c966280803f991270f5f87/08b0ae8159be3572253cb10a6a7d8264.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Large)",
-      "Color": "White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Pesto is an absolute joy. He is a typical puppy that loves to snuggle, play, eat and sleep. He loves playing with his dog foster siblings, playing tug o war, fetch (working on retrieval), and squeaky toys.\n\nHe is sleeping through the night in his crate and working on potty training. He has the sweetest angel face and is so soft and cuddly. I’ll be so sad to say goodbye to this sweetie pie but he will make a family very happy!",
-      "LastIntakeUnixTime": "1790286585",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810935",
-          "AttributeName": "Has lived with kids",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793193925"
     },
     {
       "ID": "3719",
