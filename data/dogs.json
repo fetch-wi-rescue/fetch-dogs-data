@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T15:26:04Z",
-  "count": 48,
+  "updated": "2026-10-31T19:25:32Z",
+  "count": 49,
   "animals": [
     {
       "ID": "3279",
@@ -3007,6 +3007,33 @@
         }
       ],
       "LastUpdatedUnixTime": "1793282195"
+    },
+    {
+      "ID": "3756",
+      "Internal-ID": "214942609",
+      "Name": "Kai",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1634446800,
+      "Age": 60,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [],
+      "Videos": [],
+      "Breed": "Bernese Mountain Dog/Retriever, Golden",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1793469098",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1793469149"
     },
     {
       "ID": "3644",
