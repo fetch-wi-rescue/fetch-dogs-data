@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:25:32Z",
+  "updated": "2026-10-31T22:39:20Z",
   "count": 49,
   "animals": [
     {
@@ -1143,7 +1143,7 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "9.6",
+      "CurrentWeightPounds": "23.6",
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1781672400,
@@ -1229,7 +1229,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1790953214"
+      "LastUpdatedUnixTime": "1793477839"
     },
     {
       "ID": "3690",
@@ -3033,7 +3033,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1793469098",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1793469149"
+      "LastUpdatedUnixTime": "1793482250"
     },
     {
       "ID": "3644",
@@ -3365,99 +3365,6 @@
       "LastUpdatedUnixTime": "1792328745"
     },
     {
-      "ID": "3706",
-      "Internal-ID": "214615675",
-      "Name": "Berry",
-      "LitterGroupId": 9597498,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "55",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1676153259,
-      "Age": 44,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43a7c02a52f0ff6d1a986e98f0ce2e66/c86a5cd3e01ad0d66efbcc7f301fb92b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/43a7c02a52f0ff6d1a986e98f0ce2e66/c86a5cd3e01ad0d66efbcc7f301fb92b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ec310cf54cb93e7c1a00324717438db3/6f1fdca7d9ee3abfba26637170612253.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/89fdc8ab053110b2e8fb9c6b8f9eb58a/26a801988091fc24a737f4f8512c34f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/518452421702a8053bbaf7ab5b2e8a35/022c3bf6c44532555d1e3ac3da7f91af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/37d207e106724cf809b369bcf2b01e7e/021a9306acc3d0aabada8d6253f15e6d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6ef93e322cee0d82f065255e442025c2/8499cc2aa8131fb7e9b3daf3eb84a98a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/890b34b446da46b92793cdb3d6d222b3/40345e432faa882017c3d61ab4887819.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f48437a9d466204438b1fbe61e4923f0/65cf4511d0a13002efd439c82a689902.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/412b5c05de11336239a319e8b33fb6de/3ff3c353659acc672caddca8da3bb4f6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a400a9bf8d968baecd549b22bf43078e/1efe5af4d82b6a3581eec012524ad180.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c31f483cf1fd99e373502f4a05e3b25/08b4c3597cf98a0df5bfc622c0fdecf6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d512f80ebfd1e450fccea21a8a1b8860/022ba3de4e30de7e3b96252c2cb9cf8f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c5fbbeb694b9bc5cfc6b558136b19a88/067325992ccd9c024ce06dcfce10a9ce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/aace3caa67b542ebc8a2b4d8321e57ca/a91c4ced5e4c37e8eff7b571334a2aea.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Hound",
-      "Color": "Red/Mahogany/Black",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Berry is a sweet, loving dog! She loves to snuggle and reach out to put a gentle paw on you. She isn’t super interested in her toys, aside from the more interactive ones, but is happy to entertain herself. She is a pretty laid-back dog and happy to match our energy levels! She is also a quiet girl and has yet to bark, whine, or beg. She will cuddle and receive pets anytime, anywhere from people she’s familiar with.\n\nBerry is a bit of a shy dog around new people and can be a bit skittish on walks, but she is getting braver and braver every day! I’m not sure the downtown city life is the best for Berry, it seems she could thrive with a fenced in backyard and/or a quiet neighborhood.\n\nHer foster in Alabama said she was great with other dogs and would thrive with a companion dog!",
-      "LastIntakeUnixTime": "1790286975",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793131492"
-    },
-    {
       "ID": "3734",
       "Internal-ID": "214732443",
       "Name": "Cherokee",
@@ -3657,6 +3564,99 @@
         }
       ],
       "LastUpdatedUnixTime": "1792767198"
+    },
+    {
+      "ID": "3706",
+      "Internal-ID": "214615675",
+      "Name": "Berry",
+      "LitterGroupId": 9597498,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "55",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1676153259,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43a7c02a52f0ff6d1a986e98f0ce2e66/c86a5cd3e01ad0d66efbcc7f301fb92b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/43a7c02a52f0ff6d1a986e98f0ce2e66/c86a5cd3e01ad0d66efbcc7f301fb92b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ec310cf54cb93e7c1a00324717438db3/6f1fdca7d9ee3abfba26637170612253.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/89fdc8ab053110b2e8fb9c6b8f9eb58a/26a801988091fc24a737f4f8512c34f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/518452421702a8053bbaf7ab5b2e8a35/022c3bf6c44532555d1e3ac3da7f91af.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/37d207e106724cf809b369bcf2b01e7e/021a9306acc3d0aabada8d6253f15e6d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6ef93e322cee0d82f065255e442025c2/8499cc2aa8131fb7e9b3daf3eb84a98a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/890b34b446da46b92793cdb3d6d222b3/40345e432faa882017c3d61ab4887819.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f48437a9d466204438b1fbe61e4923f0/65cf4511d0a13002efd439c82a689902.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/412b5c05de11336239a319e8b33fb6de/3ff3c353659acc672caddca8da3bb4f6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a400a9bf8d968baecd549b22bf43078e/1efe5af4d82b6a3581eec012524ad180.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c31f483cf1fd99e373502f4a05e3b25/08b4c3597cf98a0df5bfc622c0fdecf6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d512f80ebfd1e450fccea21a8a1b8860/022ba3de4e30de7e3b96252c2cb9cf8f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c5fbbeb694b9bc5cfc6b558136b19a88/067325992ccd9c024ce06dcfce10a9ce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aace3caa67b542ebc8a2b4d8321e57ca/a91c4ced5e4c37e8eff7b571334a2aea.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Hound",
+      "Color": "Red/Mahogany/Black",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Berry is a sweet, loving dog! She loves to snuggle and reach out to put a gentle paw on you. She isn’t super interested in her toys, aside from the more interactive ones, but is happy to entertain herself. She is a pretty laid-back dog and happy to match our energy levels! She is also a quiet girl and has yet to bark, whine, or beg. She will cuddle and receive pets anytime, anywhere from people she’s familiar with.\n\nBerry is a bit of a shy dog around new people and can be a bit skittish on walks, but she is getting braver and braver every day! I’m not sure the downtown city life is the best for Berry, it seems she could thrive with a fenced in backyard and/or a quiet neighborhood.\n\nHer foster in Alabama said she was great with other dogs and would thrive with a companion dog!",
+      "LastIntakeUnixTime": "1790286975",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793479061"
     },
     {
       "ID": "3719",
