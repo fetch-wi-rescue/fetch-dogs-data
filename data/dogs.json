@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:22:18Z",
+  "updated": "2026-11-02T20:26:56Z",
   "count": 50,
   "animals": [
     {
@@ -334,7 +334,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793577754"
+      "LastUpdatedUnixTime": "1793635139"
     },
     {
       "ID": "3238",
@@ -428,7 +428,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "53.1",
+      "CurrentWeightPounds": "54.5",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
@@ -517,7 +517,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792865926"
+      "LastUpdatedUnixTime": "1793651001"
     },
     {
       "ID": "3546",
@@ -931,7 +931,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793577802"
+      "LastUpdatedUnixTime": "1793635163"
     },
     {
       "ID": "3663",
@@ -1048,17 +1048,17 @@
       "Altered": "No",
       "DOBUnixTime": 1779997123,
       "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/acfbccf4eac40b61edffac1a74521a87/5931280526820c44efe539ffea541a7f.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31c403e60288849689062f4e4260d2a6/648e9e6be91a27a9832175d483cca8fd.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/31c403e60288849689062f4e4260d2a6/648e9e6be91a27a9832175d483cca8fd.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/acfbccf4eac40b61edffac1a74521a87/5931280526820c44efe539ffea541a7f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c778e07c417ff4f7d37f28694d2f6a96/c0cad233ac20ef923d7f13bff9c44e94.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/644c9ac1c83277a4653816aea506d1e8/9aaf686b7435f962c2fa7ffa7de5136d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d1c57826ce3ea62d34f0d88facb328e1/760eb322c6ad17b19c7ca4856a0d14cb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/65ef8ac7c4de899b026c94a7aba4dc41/1b795d98907e744a88f10bae58a19cdb.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/4df69adea27fb570a9694914c108f7c0/c5e6bf9f8fc471b59a92fb6362124b1a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9932f34029575802f81828f25f856468/73c0895c3131e04c3a88c49daaf47a0d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01281edd07df5ce1d6f0a9f646573bdc/d1b818cf418ffd7f3ea2bbb6d0160925.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/289508f672cbbc46fe8113b129eff779/5da5183c0e7113bc6a9d9a76f2a639c5.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/743af46f06e9b2af821dee1a0b2288fd/ad7a01a38eec981a53b847c6031bfa91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/23c60ab04aea6dcd28edc7ce1c200647/58b87dc9a67542fea2d622d7f8343589.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/76d842fcf0ad9969b1602625e7065150/7267dcd12c7d80b9f8128343af6ad5af.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1e3c666a6112d6d3e657ced1db5ff736/24581399d7df3f785cf60fc19710d2ef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8b8d98f2b3a14cf6330a65baf1aa5ab/de718466343faa25e8a44017ce790c4d.png",
+        "https://new-s3.shelterluv.com/profile-pictures/30370280e16c8ecbe80d88430124ecad/2573cbbcaf1940ab50fe0e578477017f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/de7216fe0f5b53c3191ebda661a62f3e/c0c5c9e124c7d6c60d62a7a4657e860a.jpeg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -1121,8 +1121,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
+          "Internal-ID": "702283",
+          "AttributeName": "FP:  Linda",
           "Publish": "No"
         },
         {
@@ -1131,7 +1131,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793382225"
+      "LastUpdatedUnixTime": "1793650769"
     },
     {
       "ID": "3682",
@@ -1155,7 +1155,6 @@
         "https://new-s3.shelterluv.com/profile-pictures/124f8169383bd7a9880a8b97b38f9a6c/4a7a2fc4c7e4307f9b9e718ac0bd228e.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/519de7604725571cc28cac7c0aea4529/a0118c8ef4bdfe61292191bce39751e5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/dec3851017b02c9b2c90e4b32222f67d/3e1cf2b7044fa6317c113908d8aba68a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/1d30867cd9eab19e48b9a7775a2bb935/fa33838926b39a9607c5735eb1d749be.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/cf56203dad70d55be08083dafb739e13/a37e95573ee3d7894521fdced90409e5.jpg"
       ],
       "Videos": [],
@@ -1229,7 +1228,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793477839"
+      "LastUpdatedUnixTime": "1793640117"
     },
     {
       "ID": "3690",
@@ -1906,7 +1905,86 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793578693"
+      "LastUpdatedUnixTime": "1793650456"
+    },
+    {
+      "ID": "3738",
+      "Internal-ID": "214817114",
+      "Name": "Lucky",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "39",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1634446800,
+      "Age": 60,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/115b5ea220fd81e05f21f89c834e9130/06157c918f262af227fd4245ee3675cd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2307c64c4a2a7881fa0af9f912f89979/04487391859b46f6f5005a161cb995a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d1c0ecb1e1a016b0239284e6e6eaf8d/725218c70d5e57eb7e3956d22a61f599.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fba8b0126e2441b9b437b4da62bdddb2/68bc073d7ba25e1d89c2d46903ab6d65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/511eb623d605ae1df2639d78802d4981/1a5afba8ef7035089cc81ca868e875b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/47414a2544d1022d5cd4143f79398dde/483acd9c1490a729d93fa05d9396b5a8.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Shiba Inu",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Lucky is a sweet girl who loves being cuddled, pet, and loved on.  She’s great with other dogs, house trained, kennel trained, and is also easy to train.  She takes treats gently and is moderately food motivated.  She enjoys playing with toys, loves walks, and is just a great companion. \n\nLucky came to us with a bit of redness on her belly and seemed itchy. We’ve identified she has an allergy to some food and within a couple days of allergy friendly food and allergy meds she’s become even more relaxed and cuddly. \n\nShe’ll make an excellent companion, family pet, or best friend. \n",
+      "LastIntakeUnixTime": "1792483837",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793633407"
     },
     {
       "ID": "3739",
@@ -2032,7 +2110,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793408457"
+      "LastUpdatedUnixTime": "1793650603"
     },
     {
       "ID": "3743",
@@ -2075,7 +2153,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Athena is discovering what it means to just be a dog. After spending her early life in survival mode and raising her puppies, she's finally getting the chance to focus on herself. While the world still feels a little overwhelming to her, Athena is a gentle, sweet soul who desperately wants to trust and connect with people.\n\nAthena is timid and carefully approaches new situations at her own pace, so she'll thrive with a patient adopter who understands that trust takes time. She may not be an instant best friend, but for someone willing to celebrate the small victories, watching Athena come out of her shell will be incredibly rewarding. Beneath her shy exterior is a wonderful companion just waiting to blossom.\n\nShe walks nicely on leash but can be startled by busy surroundings, so she'd be happiest in a quieter home. Athena gains confidence from other dogs and often looks to them for reassurance, so she will need a friendly canine companion in her adoptive home.\n\nAthena is dog-friendly, likely cat-friendly, crate trained, and often chooses the comfort of her crate when she needs a safe place to relax.\n\nIf you're the kind of person who understands that the best relationships are worth waiting for, Athena would love the chance to show you just how special she is. ❤️",
+      "Description": "Athena is discovering what it means to just be a dog. After spending her life as a backyard breeding dog, she was surrendered to a shelter in Alabama, pregnant and scared. Now she's finally getting the chance to focus on herself. While the world still feels a little overwhelming to her, Athena is a gentle, sweet soul who desperately wants to trust and connect with people and her fellow doggie companions.\n\nAthena is timid and carefully approaches new situations at her own pace, so she'll thrive with a patient adopter who understands that trust takes time. She may not be an instant best friend, but for someone willing to celebrate the small victories, watching Athena come out of her shell will be incredibly rewarding. Beneath her shy exterior is a wonderful companion just waiting to blossom.\n\nShe walks nicely on leash but can be startled by busy surroundings, so she'd be happiest in a quieter home environment. Athena gains confidence from other dogs and looks to her humans for reassurance, often following you around the house and yard; she’s never far from your side! She would likely prefer a friendly canine companion in her adoptive home to help guide her and show her what safety looks like.\n\nAthena is dog-friendly, likely cat-friendly, crate trained, and often chooses the comfort of her crate when she needs a safe place to relax.\n\nIf you're the kind of person who understands that the best relationships are worth waiting for, Athena would love the chance to show you just how special she is. ❤️",
       "LastIntakeUnixTime": "1792597190",
       "Attributes": [
         {
@@ -2406,80 +2484,6 @@
       "LastUpdatedUnixTime": "1792004032"
     },
     {
-      "ID": "3738",
-      "Internal-ID": "214817114",
-      "Name": "Lucky",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "39",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1634446800,
-      "Age": 60,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/115b5ea220fd81e05f21f89c834e9130/06157c918f262af227fd4245ee3675cd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2307c64c4a2a7881fa0af9f912f89979/04487391859b46f6f5005a161cb995a6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d1c0ecb1e1a016b0239284e6e6eaf8d/725218c70d5e57eb7e3956d22a61f599.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fba8b0126e2441b9b437b4da62bdddb2/68bc073d7ba25e1d89c2d46903ab6d65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/511eb623d605ae1df2639d78802d4981/1a5afba8ef7035089cc81ca868e875b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/47414a2544d1022d5cd4143f79398dde/483acd9c1490a729d93fa05d9396b5a8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Shiba Inu",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Lucky is a sweet girl who loves being cuddled, pet, and loved on.  She’s great with other dogs, house trained, kennel trained, and is also easy to train.  She takes treats gently and is moderately food motivated.  She enjoys playing with toys, loves walks, and is just a great companion. \n\nLucky came to us with a bit of redness on her belly and seemed itchy. We’ve identified she has an allergy to some food and within a couple days of allergy friendly food and allergy meds she’s become even more relaxed and cuddly. \n\nShe’ll make an excellent companion, family pet, or best friend. \n",
-      "LastIntakeUnixTime": "1792483837",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793497301"
-    },
-    {
       "ID": "3741",
       "Internal-ID": "214823211",
       "Name": "Cecil",
@@ -2516,12 +2520,17 @@
       "LastIntakeUnixTime": "1792901468",
       "Attributes": [
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792901515"
+      "LastUpdatedUnixTime": "1793632817"
     },
     {
       "ID": "3745",
@@ -3071,12 +3080,17 @@
       "LastIntakeUnixTime": "1793238125",
       "Attributes": [
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793555957"
+      "LastUpdatedUnixTime": "1793632837"
     },
     {
       "ID": "3756",
@@ -3106,8 +3120,14 @@
       "AdoptionFeeGroup": null,
       "Description": "",
       "LastIntakeUnixTime": "1793469098",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1793582413"
+      "Attributes": [
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793632604"
     },
     {
       "ID": "3644",
