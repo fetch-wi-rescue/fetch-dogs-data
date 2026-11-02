@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T02:39:12Z",
+  "updated": "2026-11-02T10:22:18Z",
   "count": 50,
   "animals": [
     {
@@ -1746,11 +1746,6 @@
       "LastIntakeUnixTime": "1792209975",
       "Attributes": [
         {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "295161",
           "AttributeName": "❌ Not Good with Kids",
           "Publish": "Yes"
@@ -1816,7 +1811,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793298056"
+      "LastUpdatedUnixTime": "1793598824"
     },
     {
       "ID": "3737",
