@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T23:15:37Z",
-  "count": 49,
+  "updated": "2026-11-02T02:39:12Z",
+  "count": 50,
   "animals": [
     {
       "ID": "3279",
@@ -334,7 +334,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792378852"
+      "LastUpdatedUnixTime": "1793577754"
     },
     {
       "ID": "3238",
@@ -931,7 +931,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793191262"
+      "LastUpdatedUnixTime": "1793577802"
     },
     {
       "ID": "3663",
@@ -1833,13 +1833,17 @@
       "Altered": "Yes",
       "DOBUnixTime": 1472446800,
       "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6b8f7c6de7ea2d3a660aa542984524f8/83b362b9b54f4280ccfc2130ad8c8037.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/05072bb73f27c240195d2026747769ef/bd754259c229155826744509cd2dc927.jpg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/05072bb73f27c240195d2026747769ef/bd754259c229155826744509cd2dc927.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6b8f7c6de7ea2d3a660aa542984524f8/83b362b9b54f4280ccfc2130ad8c8037.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6d5c68012cd11060381b5d18e3df6ac9/02e4ae3f7e15c23f93b31a5bc09c374e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9d1ac6603408dd7dcdc07ee3ec211d51/94e0096e12bf795d8e5d3f17f66b0bef.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/cd8abb45e02b0f95a9ab713bb8ecacef/8692acc5d35da375616d70abf5fc59fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/38ba6d1aa5bacfa1b23be0e8fc7af758/e10e8516932aa6e359a89a178ec3e0c5.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/38ba6d1aa5bacfa1b23be0e8fc7af758/e10e8516932aa6e359a89a178ec3e0c5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e3f382d233d456bba17c13c799766403/dd6eba23447986c5e2998d00d4e4627d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5eb135239cf5955eb9294e78ea47f31d/cdd5d73591bef27d9d8475f6c38d59ff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/605328514406c92b371dac60396d1454/a7625b8671e932a8dffb944f27675d81.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
@@ -1907,7 +1911,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793191630"
+      "LastUpdatedUnixTime": "1793578693"
     },
     {
       "ID": "3739",
@@ -2060,7 +2064,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/ba4b74b7cd318ae3b2fec4551b4c4445/a12db28f61d41138a05f9bcba7653a33.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b989c805a62bcaaf75ae5741e5bdc57d/f011efe5979d684893a2b8084e6350d2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/66b4ae1f30cf03d4d9a0936388fa6fbe/eea7116bd78a36d88013140369c7c31e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a7d205b8637d61bed4942b8419411d6/117581799ece1361eae478927e7ed26d.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/2a7d205b8637d61bed4942b8419411d6/117581799ece1361eae478927e7ed26d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/123ddb7fba808b79c6725f6ec9c99c7b/2d3e799f14c72d2de9851f0b76633942.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70ab5e8abe461228831146c3f11f1363/37d450507041514a4e142642370ac3fc.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian",
@@ -2133,7 +2139,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793212436"
+      "LastUpdatedUnixTime": "1793581938"
     },
     {
       "ID": "3744",
@@ -3087,13 +3093,17 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "82",
       "Size": "",
       "Altered": "Yes",
-      "DOBUnixTime": 1634446800,
-      "Age": 60,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "DOBUnixTime": 1636002000,
+      "Age": 59,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b69986c30682ecfb4b2baa27b6a5bbd7/b5d7204582500a3be83881aacd1d31a2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b69986c30682ecfb4b2baa27b6a5bbd7/b5d7204582500a3be83881aacd1d31a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/516fbd84893169ae2464b893b1e8ded7/9ee9315f616ade28be296f54a22b04bb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/704f91c12d62157bf4b62975ae39996f/6fec608086e2b6c489b95009162e282f.jpeg"
+      ],
       "Videos": [],
       "Breed": "Bernese Mountain Dog/Retriever, Golden",
       "Color": "Black/White",
@@ -3102,7 +3112,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1793469098",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1793482250"
+      "LastUpdatedUnixTime": "1793582413"
     },
     {
       "ID": "3644",
@@ -3884,6 +3894,72 @@
         }
       ],
       "LastUpdatedUnixTime": "1792547264"
+    },
+    {
+      "ID": "3757",
+      "Internal-ID": "214946742",
+      "Name": "Wally",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "27",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1454997600,
+      "Age": 128,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/73582934705e7865c7133125c4f3f1d7/1e260fef2eef0b2cfb5dda64a3ba1b1a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/73582934705e7865c7133125c4f3f1d7/1e260fef2eef0b2cfb5dda64a3ba1b1a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f6ecf31bdce9904a24533c7568402ac5/02869ec9599739a3132ebb21d9fd2a2c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/69b2b756e6c68a786de57c278c3b4132/7b1ce0a570fee626a12646e195c101ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e55969ecbe06b893a0159b73dd8f24bc/b48ec15f1ba26ac802343c1d8d2d893c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3755d9b4b4f2e4976db18e49fdf076bd/d492d3e03d4b458bb151f6abd8fd654c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/32a57349519c651d791b981c9a13201f/f32ca4453ed6d072a4414148be421a2f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c89e0b2806b300c6fdb2dff7c4a3397f/e024c51ab51edb34d4e91789a348056d.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Corgi, Pembroke Welsh",
+      "Color": "Sable",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Wally is an incredibly loyal companion who loves nothing more than being right by your side. He has a playful spirit and enjoys goofing around with his ball and his favorite egg toy. He is very friendly, and loves being around adults and kids.\n\nWally has been an amazing family pet for the first 10 years of his life. We have a young child, which has been the big life change leading to this decision to rehome Wally. We are having a hard time with Wally and toddler co-existing in a small space. Wally gets overwhelmed when the toddler is clapping, running around, or making noise and will bark and lick/soft nip at her heels. This behavior is out of excitement and not aggression, but he would do better in a home with older kids or no kids.\n\nHealth-wise, he is neutered, kept at a healthy weight (27 Ibs), and is otherwise a healthy Corgi. He can go on walks, run around and play in the backyard, and likes to swim. Wally will match energy and activity level of his human. He is happy to sit and cuddle on the couch all day, or spend most of the day outside playing. He just wants to be where you are.\n\nTo be fully transparent: we want his next home to be his forever home, so we want to share a few of Wally's quirks (many of which are typical of the corgi breed):\n\nHe barks a lot. Hears the mailman coming-barks. You're leaving the house\n- barks. People clapping or playing a game - barks.\n\nHe has window anxiety; he gets stressed and barks if people touch the windows or open and shut the blinds or drapes.\n\nHe has departure stress. When we start the process of leaving the house, he will bark and exhibit typical Corgi herding behavior-nipping at our heels to try to herd us back inside. It is not aggressive in any way.\n\nIn rare, highly stressful situations, if another dog gets too close to us or his territory, he can become protective and reactive toward the other dog. Because of this, he would likely do best as the only dog. He has never shown any aggression toward humans.",
+      "LastIntakeUnixTime": "1793579490",
+      "Attributes": [
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793581852"
     }
   ]
 }
