@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:26:56Z",
+  "updated": "2026-11-03T02:31:25Z",
   "count": 50,
   "animals": [
     {
@@ -931,7 +931,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793635163"
+      "LastUpdatedUnixTime": "1793672290"
     },
     {
       "ID": "3663",
@@ -1148,14 +1148,21 @@
       "Altered": "No",
       "DOBUnixTime": 1781672400,
       "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/309ca34f3870075a7773a0c30c398ca6/de0f60d0d611a81b91eb222ebb81b4d7.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/124f8169383bd7a9880a8b97b38f9a6c/4a7a2fc4c7e4307f9b9e718ac0bd228e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/519de7604725571cc28cac7c0aea4529/a0118c8ef4bdfe61292191bce39751e5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/dec3851017b02c9b2c90e4b32222f67d/3e1cf2b7044fa6317c113908d8aba68a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf56203dad70d55be08083dafb739e13/a37e95573ee3d7894521fdced90409e5.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0698fd51ba3bc232bfee1a94b7593a7f/eb849abea7f4ee4c6422fc5c078ce23a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c3f9c9786f813e1172b8587f973f471/b97103da8c9afdb198d16a8630c05565.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a6c08a51a40856c2d6f65a0c7aafd26/5b2fedaf59540a91c0e319774f95ae45.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc29d2434b8d7db1f11dd96133bdf650/625e053533fbdc49a9b45326bb3e0ac7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd3317c2e9a5ffc471a16c5bc686fb64/bfc148db2483b23d718839596da61091.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/57bdfd0d1477e6b62d7ecb9dbf7eab95/25015b7cf38220c4a7e0204268ac931d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8bfbf738ae4efecb030ddc9b2b267a5a/42193f99429fa36f8886897c4f6114f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d6c0544f1dbfec8caeb590cac6b84fae/e2c94e0abc37131ca117e639ce9e992e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9b1ff821a932305a4e3b6118f8fc570/01eb2d90105205453fbf3b8754d92897.jpg"
       ],
       "Videos": [],
       "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
@@ -1169,7 +1176,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Hi, I'm Cyndi and I'm ready to steal your heart!\n\nI'm a typical puppy full of energy and curiosity, and I absolutely love to play and I'm learning to snuggle with my people. I've met dogs, cats, and kids in my foster home, so with continued socialization, I'll fit right into just about any family! I promise to bring double the fun and twice the love to your home.\n\nI am currently living in a litter foster home, which means you can meet me and all my available siblings and choose your best fit!",
+      "Description": "Hi I'm Cyndi and I'm ready to steal your heart.\nI'm a typical puppy, full of energy and curiosity and I love to play. \nI'm also a great snuggle pup when I'm sleepy, but will go lay down in my bed by myself too.\nI've met dogs, cats, and kids, so with continued socialization I'll fit right into just about any family. \nI've learned some commands like sit and shake, and will sit and wait for my food. \nI just learned how to fetch a ball or a toy and will bring it right back. I am also doing well walking on a leash and riding in the car. \nAnd best of all, I'm house trained and will sleep quietly in my kennel all night. ",
       "LastIntakeUnixTime": "1787159424",
       "Attributes": [
         {
@@ -1228,7 +1235,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793640117"
+      "LastUpdatedUnixTime": "1793665932"
     },
     {
       "ID": "3690",
@@ -2127,11 +2134,11 @@
       "Altered": "Yes",
       "DOBUnixTime": 1626893452,
       "Age": 63,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b0f74db9eea7c0c4d5e5bc26f09b13ec/821ef38b4d352acf6aa4b21e0c5df5a1.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bf10b510bb42e71916249dd3bc0eed09/2dac263328ce8d4de048e638d32f5a55.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bf10b510bb42e71916249dd3bc0eed09/2dac263328ce8d4de048e638d32f5a55.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b0f74db9eea7c0c4d5e5bc26f09b13ec/821ef38b4d352acf6aa4b21e0c5df5a1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/911b439fa2f28b4a3772f729ab2abdd5/5965db86d93f98b3ce5c61b155bf6f09.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0e649922042127a58ed0de4fcc827f7e/daf69460ef314c6e73c20842329207d7.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b4603a234e734e17e668ea335646f941/6964095d1d1b9e340347cf2659001238.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2a6f48a57ea5fba26a503ea6cc3b5702/e56265924674b2bb8a3136311b38dfb5.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/582b3f080c4977335a8299deacdb59fb/7ff9b6be6be6fe3c2bfe191a80916216.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ba4b74b7cd318ae3b2fec4551b4c4445/a12db28f61d41138a05f9bcba7653a33.jpeg",
@@ -2139,7 +2146,8 @@
         "https://new-s3.shelterluv.com/profile-pictures/66b4ae1f30cf03d4d9a0936388fa6fbe/eea7116bd78a36d88013140369c7c31e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2a7d205b8637d61bed4942b8419411d6/117581799ece1361eae478927e7ed26d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/123ddb7fba808b79c6725f6ec9c99c7b/2d3e799f14c72d2de9851f0b76633942.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70ab5e8abe461228831146c3f11f1363/37d450507041514a4e142642370ac3fc.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/70ab5e8abe461228831146c3f11f1363/37d450507041514a4e142642370ac3fc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/911b439fa2f28b4a3772f729ab2abdd5/5965db86d93f98b3ce5c61b155bf6f09.jpeg"
       ],
       "Videos": [],
       "Breed": "Kelpie, Australian",
@@ -2153,7 +2161,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Athena is discovering what it means to just be a dog. After spending her life as a backyard breeding dog, she was surrendered to a shelter in Alabama, pregnant and scared. Now she's finally getting the chance to focus on herself. While the world still feels a little overwhelming to her, Athena is a gentle, sweet soul who desperately wants to trust and connect with people and her fellow doggie companions.\n\nAthena is timid and carefully approaches new situations at her own pace, so she'll thrive with a patient adopter who understands that trust takes time. She may not be an instant best friend, but for someone willing to celebrate the small victories, watching Athena come out of her shell will be incredibly rewarding. Beneath her shy exterior is a wonderful companion just waiting to blossom.\n\nShe walks nicely on leash but can be startled by busy surroundings, so she'd be happiest in a quieter home environment. Athena gains confidence from other dogs and looks to her humans for reassurance, often following you around the house and yard; she’s never far from your side! She would likely prefer a friendly canine companion in her adoptive home to help guide her and show her what safety looks like.\n\nAthena is dog-friendly, likely cat-friendly, crate trained, and often chooses the comfort of her crate when she needs a safe place to relax.\n\nIf you're the kind of person who understands that the best relationships are worth waiting for, Athena would love the chance to show you just how special she is. ❤️",
+      "Description": "Athena is discovering what it means to just be a dog. After spending her life as a backyard breeding dog, she was surrendered to a shelter in Alabama with her last litter. Now she's finally getting the chance to focus on herself. While the world still feels a little overwhelming to her, Athena is a gentle, sweet soul who desperately wants to trust and connect with people and her fellow doggie companions.\n\nAthena is timid and carefully approaches new situations at her own pace, so she'll thrive with a patient adopter who understands that trust takes time. She may not be an instant best friend, but for someone willing to celebrate the small victories, watching Athena come out of her shell will be incredibly rewarding. Beneath her shy exterior is a wonderful companion just waiting to blossom.\n\nShe walks nicely on leash but can be startled by busy surroundings, so she'd be happiest in a quieter home environment. Athena gains confidence from other dogs and looks to her humans for reassurance, often following you around the house and yard; she’s never far from your side! She would likely prefer a friendly canine companion in her adoptive home to help guide her and show her what safety looks like.\n\nAthena is dog-friendly, likely cat-friendly, crate trained, and often chooses the comfort of her crate when she needs a safe place to relax.\n\nIf you're the kind of person who understands that the best relationships are worth waiting for, Athena would love the chance to show you just how special she is. ❤️",
       "LastIntakeUnixTime": "1792597190",
       "Attributes": [
         {
@@ -2207,12 +2215,12 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "811189",
-          "AttributeName": "⚠ Needs another dog in the home",
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793581938"
+      "LastUpdatedUnixTime": "1793663554"
     },
     {
       "ID": "3744",
@@ -2336,7 +2344,119 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793500004"
+      "LastUpdatedUnixTime": "1793655456"
+    },
+    {
+      "ID": "3756",
+      "Internal-ID": "214942609",
+      "Name": "Kai",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "82",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1636002000,
+      "Age": 59,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/516fbd84893169ae2464b893b1e8ded7/9ee9315f616ade28be296f54a22b04bb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b69986c30682ecfb4b2baa27b6a5bbd7/b5d7204582500a3be83881aacd1d31a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/704f91c12d62157bf4b62975ae39996f/6fec608086e2b6c489b95009162e282f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6a387270ac47fc4a8c489b6e260b084a/d6bf2aed237c28174a0f895808b618cf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/61ea7bebc1aa32f93c640126ef9dbe96/ffd85fe1cff22212dcac030c64858967.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/80ea5e1e7a7e6a98e2b086d0a13f9055/b4bf33186e61a4e94e2edb0e88895906.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/335d856028906c7949285bbb6787f6a2/47088a2749f1e75507a05490aacd708d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/152edae1e5fab37df574933af4368cec/77668f9adb429f067921a24a694e6739.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bernese Mountain Dog/Retriever, Golden",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Kai is a 5-year-old, 90-pound Bernese Mountain Dog/Retriever mix with a heart as big as he is! ❤️ He's friendly, loving, loyal, well-mannered, and free-roam trusted. Kai gets along with other dogs and cats, loves playing fetch, going for walks, and rides great in the car.\n\nHis ideal home is with someone who has plenty of time to spend together making memories, going on adventures, and enjoying lots of companionship. If you're looking for a devoted best friend, Kai is your guy!",
+      "LastIntakeUnixTime": "1793469098",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793661776"
     },
     {
       "ID": "3724",
@@ -2575,7 +2695,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792901825"
+      "LastUpdatedUnixTime": "1793654564"
     },
     {
       "ID": "3746",
@@ -2620,7 +2740,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792901847"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3747",
@@ -2665,7 +2785,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792901867"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3748",
@@ -2710,7 +2830,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792901888"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3749",
@@ -2755,7 +2875,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792902451"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3750",
@@ -2800,7 +2920,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792902468"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3751",
@@ -2845,7 +2965,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792902485"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3752",
@@ -2890,7 +3010,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792902546"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3753",
@@ -2935,7 +3055,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792902560"
+      "LastUpdatedUnixTime": "1793654565"
     },
     {
       "ID": "3754",
@@ -3090,44 +3210,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793632837"
-    },
-    {
-      "ID": "3756",
-      "Internal-ID": "214942609",
-      "Name": "Kai",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "82",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1636002000,
-      "Age": 59,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b69986c30682ecfb4b2baa27b6a5bbd7/b5d7204582500a3be83881aacd1d31a2.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b69986c30682ecfb4b2baa27b6a5bbd7/b5d7204582500a3be83881aacd1d31a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/516fbd84893169ae2464b893b1e8ded7/9ee9315f616ade28be296f54a22b04bb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/704f91c12d62157bf4b62975ae39996f/6fec608086e2b6c489b95009162e282f.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bernese Mountain Dog/Retriever, Golden",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1793469098",
-      "Attributes": [
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793632604"
+      "LastUpdatedUnixTime": "1793656375"
     },
     {
       "ID": "3644",
