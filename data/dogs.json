@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T22:54:25Z",
-  "count": 50,
+  "updated": "2026-11-04T02:50:29Z",
+  "count": 49,
   "animals": [
     {
       "ID": "3279",
@@ -1709,7 +1709,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793335427"
+      "LastUpdatedUnixTime": "1793747083"
     },
     {
       "ID": "3735",
@@ -2135,9 +2135,8 @@
       "Altered": "Yes",
       "DOBUnixTime": 1626893452,
       "Age": 63,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bf10b510bb42e71916249dd3bc0eed09/2dac263328ce8d4de048e638d32f5a55.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b0f74db9eea7c0c4d5e5bc26f09b13ec/821ef38b4d352acf6aa4b21e0c5df5a1.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bf10b510bb42e71916249dd3bc0eed09/2dac263328ce8d4de048e638d32f5a55.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b0f74db9eea7c0c4d5e5bc26f09b13ec/821ef38b4d352acf6aa4b21e0c5df5a1.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b4603a234e734e17e668ea335646f941/6964095d1d1b9e340347cf2659001238.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2a6f48a57ea5fba26a503ea6cc3b5702/e56265924674b2bb8a3136311b38dfb5.jpg",
@@ -2148,6 +2147,7 @@
         "https://new-s3.shelterluv.com/profile-pictures/2a7d205b8637d61bed4942b8419411d6/117581799ece1361eae478927e7ed26d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/123ddb7fba808b79c6725f6ec9c99c7b/2d3e799f14c72d2de9851f0b76633942.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/70ab5e8abe461228831146c3f11f1363/37d450507041514a4e142642370ac3fc.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bf10b510bb42e71916249dd3bc0eed09/2dac263328ce8d4de048e638d32f5a55.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/911b439fa2f28b4a3772f729ab2abdd5/5965db86d93f98b3ce5c61b155bf6f09.jpeg"
       ],
       "Videos": [],
@@ -2221,7 +2221,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793663554"
+      "LastUpdatedUnixTime": "1793749483"
     },
     {
       "ID": "3744",
@@ -3536,93 +3536,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792328745"
-    },
-    {
-      "ID": "3734",
-      "Internal-ID": "214732443",
-      "Name": "Cherokee",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1780722000,
-      "Age": 4,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7ebdd1d0c8ade2f4c8c066b9649adc49/3d5a0ba7e0cdd8ef5ffd26f375f01897.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7ebdd1d0c8ade2f4c8c066b9649adc49/3d5a0ba7e0cdd8ef5ffd26f375f01897.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/40e36fdf70981ba7d4cc8922dd27a595/f17bc9e8e3e2910612046c1f54034f6b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/729b299f9f1ae412b2469cd10fa8e1ed/554f859bd0815a02f3b602a4e9f9c3c2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d132c84cea2d138e2b1f74ba7950180/2721da489704c900343f06605f9156ae.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0556877ff1a28fc85a749fbae30f7dcd/12c40ec57adf5c675551c4a0b4650213.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6df119d8567509e062c79e6929437d46/2bf381f3a8235b8f223c1d2a92c9a5bc.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Red Heeler)",
-      "Color": "Red/Mahogany",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "🐾 Meet Cherokee! 🐾\n\nCherokee is a sweet, playful girl with a big personality and a smile that will melt your heart! 💕 She loves playing with her favorite toys, making new doggy friends, and spending time with her brother, Callum. Whether she’s chasing toys or wrestling around with her favorite playmate, Cherokee is always ready for a little adventure!\n\nOnce playtime is over, Cherokee is happy to slow down and enjoy some snuggles with her people. She has the perfect combination of playful puppy energy and a loving, cuddly side that makes her so special!\n\nCherokee is ready to find a family of her own to fill their days with puppy fun, sweet snuggles, and lots of love! 🐶❤️",
-      "LastIntakeUnixTime": "1791734599",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793335334"
     },
     {
       "ID": "3592",
