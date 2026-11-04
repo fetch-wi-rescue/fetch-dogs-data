@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T18:07:57Z",
-  "count": 49,
+  "updated": "2026-11-04T23:49:30Z",
+  "count": 50,
   "animals": [
     {
       "ID": "3279",
@@ -517,7 +517,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793651001"
+      "LastUpdatedUnixTime": "1793831195"
     },
     {
       "ID": "3546",
@@ -1357,6 +1357,7 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad50bef7cef74a5cd8f5bb57a50facc5/fbd300ebc4556dc4b4c474bacdac4309.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
@@ -1427,7 +1428,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793455028"
+      "LastUpdatedUnixTime": "1793823054"
     },
     {
       "ID": "3720",
@@ -3208,6 +3209,78 @@
         }
       ],
       "LastUpdatedUnixTime": "1793673910"
+    },
+    {
+      "ID": "3758",
+      "Internal-ID": "214968201",
+      "Name": "Milo",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "15.6",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1676959200,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0aa23cb71b729fa8abb36bca8a63435a/5d63114c85a2a0549e09af1b1d68671a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/0aa23cb71b729fa8abb36bca8a63435a/5d63114c85a2a0549e09af1b1d68671a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a7b4b8f41b1c4119159671080f31bd08/af5ead6b1e2afb1d74594ac47a5cb170.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/38c9c666a85e150a4c58b295de6c7241/23b8834ae0f6c4b204d79ca8ea969919.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu/Mixed Breed (Small)",
+      "Color": "Grey/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1793820499",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793830030"
     },
     {
       "ID": "3644",
