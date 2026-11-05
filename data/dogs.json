@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:52:08Z",
+  "updated": "2026-11-05T20:25:30Z",
   "count": 50,
   "animals": [
     {
@@ -850,7 +850,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793764130"
+      "LastUpdatedUnixTime": "1793885666"
     },
     {
       "ID": "3663",
@@ -1154,7 +1154,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793665932"
+      "LastUpdatedUnixTime": "1793902906"
     },
     {
       "ID": "3690",
@@ -1255,7 +1255,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792418768"
+      "LastUpdatedUnixTime": "1793883939"
     },
     {
       "ID": "3703",
@@ -1680,7 +1680,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Do you need an extra shadow in your life who simply wants treats and snuggles for unconditional love? Meet Peanut! The most gentle and sweetest dog you will ever meet. She is content with just a few short walks throughout the day and then will pull you back home for her beauty rest. Peanut loves people but is a shy girl around other animals. Extremely food motivated and a fast learner! This easy to care for, disciplined girl does great on leash and is potty trained and crate trained. A calm home with plenty of napping spots will be a dream come true for this little peanut.",
+      "Description": "Looking for a loyal little shadow who only asks for treats and snuggles in return for endless love? Meet Peanut! She’s one of the gentlest, sweetest dogs you’ll ever meet. A few short strolls a day are all she needs before she happily leads you back home for her beauty rest.\n\nPeanut adores people and gets along with other dogs, though she’s a bit shy at first and needs a little time to warm up. She enjoys having her own cozy space, but don’t worry, she’ll still come find you for cuddles! She’s extremely food motivated and a quick learner, and she already walks well on a leash and is fully potty and crate trained.\n\nPeanut has some separation anxiety right now, mostly from the stress of her recent changes. Her previous owner worked through this with her before, and with patience and a steady routine, we’re confident she’ll settle in again. She also takes a daily prednisone pill, which she happily gobbles down in a spoonful of peanut butter (fitting, right?). It doesn’t affect her energy or personality at all.\n\nA calm home with plenty of cozy napping spots would be a dream come true for this little Peanut!",
       "LastIntakeUnixTime": "1792209975",
       "Attributes": [
         {
@@ -1701,6 +1701,11 @@
         {
           "Internal-ID": "296945",
           "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
           "Publish": "Yes"
         },
         {
@@ -1749,7 +1754,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793598824"
+      "LastUpdatedUnixTime": "1793894301"
     },
     {
       "ID": "3737",
@@ -3050,11 +3055,6 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "634888",
           "AttributeName": "✅ Friendly",
           "Publish": "Yes"
@@ -3075,11 +3075,6 @@
           "Publish": "No"
         },
         {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
@@ -3090,7 +3085,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793572037"
+      "LastUpdatedUnixTime": "1793891412"
     },
     {
       "ID": "3755",
@@ -3155,11 +3150,13 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1676959200,
       "Age": 44,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0aa23cb71b729fa8abb36bca8a63435a/5d63114c85a2a0549e09af1b1d68671a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7628bde9af72cb3e463e58165d4ac936/b6575f156b7457094697fc0fa74d9f30.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7628bde9af72cb3e463e58165d4ac936/b6575f156b7457094697fc0fa74d9f30.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/0aa23cb71b729fa8abb36bca8a63435a/5d63114c85a2a0549e09af1b1d68671a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/a7b4b8f41b1c4119159671080f31bd08/af5ead6b1e2afb1d74594ac47a5cb170.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/38c9c666a85e150a4c58b295de6c7241/23b8834ae0f6c4b204d79ca8ea969919.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/38c9c666a85e150a4c58b295de6c7241/23b8834ae0f6c4b204d79ca8ea969919.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e73ee8413e7a53e95b14a02e941e33ce/6f1e1c0de2944ab9fd7b740f9060d139.jpeg"
       ],
       "Videos": [],
       "Breed": "Shih Tzu/Mixed Breed (Small)",
@@ -3210,7 +3207,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793830030"
+      "LastUpdatedUnixTime": "1793910305"
     },
     {
       "ID": "3238",
@@ -3509,7 +3506,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793037584"
+      "LastUpdatedUnixTime": "1793883903"
     },
     {
       "ID": "3679",
@@ -3621,7 +3618,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793841065"
+      "LastUpdatedUnixTime": "1793883976"
     },
     {
       "ID": "3592",
