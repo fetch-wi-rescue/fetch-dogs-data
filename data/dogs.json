@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T08:08:51Z",
-  "count": 51,
+  "updated": "2026-11-06T16:04:02Z",
+  "count": 52,
   "animals": [
     {
       "ID": "3279",
@@ -1176,18 +1176,18 @@
       "Altered": "No",
       "DOBUnixTime": 1778389200,
       "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/d21a8d358b36b60deec89ad3d29b65ce/92156b03900bee87743914ecb7c94b6e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/58164dd7aa7d9054e9e7db6f055ba88d/ae7ef5c35daca5c77c17e11b59112ae8.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/9274facad4e0f517a4630fa2c00bf3f4/a78a9680a57a6299a163b3328e16f98d.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/eb35f6827f95255e2355b691c75d4761/4221a2f6e088b0182c04e9adcd9f59be.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/b26ee8730f11da1b857f7e911f4253c0/319cc2f9bb9282dd04f93ebd5dd92f47.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/08398a45f826ac7582ca31624878ee68/0de0c6420faf88b0b8ca5b8476407b41.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/793baae2da0d47e774ac4dd9e91267ce/8d397783ab5ac0e377b469f3d672df36.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/23d5d5806ca8d9c9758a4864847ad4ec/5dd6e4878590ac6e82a3220b1e7d6012.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cecceea3bfa3c138704e52f09465b861/e08b6378710fda2b322d0d34a7d72394.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/cecceea3bfa3c138704e52f09465b861/e08b6378710fda2b322d0d34a7d72394.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd/Hound",
@@ -1260,7 +1260,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793883939"
+      "LastUpdatedUnixTime": "1793978412"
     },
     {
       "ID": "3703",
@@ -2420,6 +2420,113 @@
       "LastUpdatedUnixTime": "1792004032"
     },
     {
+      "ID": "3732",
+      "Internal-ID": "214732441",
+      "Name": "Kasey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "47",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1728232585,
+      "Age": 24,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8d98181c0d4191631631e19c9d50295/e00e0d69b85aa6fccf7bc284c528dfdc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d4b90e386c78dfdbe06a87d2723359f/80b9e6d5571b5fe2e0dfa2b08190487d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/90c8470c26f47accbb8945c4be01a227/be9465a32935b0a724689aab76572137.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ddf866f255e9a23e7a836ce1b4736dd/1aec91b92429cf6c9dded6bf8a6168b8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/60be705195ce181e4ac83a9a76a82efd/56713ce8731261de2d1747f1793b13c9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Kasey is a lovable, affectionate companion with a heart full of love and a personality that shines. Whether enjoying playtime, exploring new places, or curling up for a cozy nap, Kasey is endlessly entertaining. This sweet soul enjoys spending time with people and is always ready to offer companionship, loyalty, and plenty of smiles.\n\nKasey is looking for a forever home where she can feel safe, loved, and part of the family. With patience, kindness, and a little time to settle in, Kasey is sure to become your forever best friend. If you're searching for a loyal companion who will fill your life with love and joy, Kasey may be the perfect match.\n\nShe currently lives in a multi-dog and cat household and does just fine with everyone. She really prefers her people over her four-legged housemates though, so if you're looking to remain a single-dog family - Kasey will happily accept all your undivided attention.\n\nShe also has a reddish undertone to her fur - photos do not due her justice, so, you'll just need to meet her in person to see it for yourself! :)",
+      "LastIntakeUnixTime": "1793972813",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1793973141"
+    },
+    {
       "ID": "3741",
       "Internal-ID": "214823211",
       "Name": "Cecil",
@@ -3016,7 +3123,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793673910"
+      "LastUpdatedUnixTime": "1793971123"
     },
     {
       "ID": "3758",
@@ -3095,7 +3202,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793929316"
+      "LastUpdatedUnixTime": "1793972717"
     },
     {
       "ID": "3759",
@@ -3118,7 +3225,7 @@
       ],
       "Videos": [],
       "Breed": "Shih Tzu",
-      "Color": "",
+      "Color": "White/Wheaten",
       "Pattern": "None",
       "AdoptionFeeGroup": {
         "Id": 37341,
@@ -3132,12 +3239,27 @@
       "LastIntakeUnixTime": "1793940562",
       "Attributes": [
         {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793941055"
+      "LastUpdatedUnixTime": "1793979707"
     },
     {
       "ID": "3238",
@@ -3548,7 +3670,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793938177"
+      "LastUpdatedUnixTime": "1793972267"
     },
     {
       "ID": "3739",
@@ -3675,7 +3797,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793937591"
+      "LastUpdatedUnixTime": "1793971187"
     },
     {
       "ID": "3592",
