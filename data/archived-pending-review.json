@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:50:29Z",
+  "updated": "2026-11-06T21:40:49Z",
   "animals": [
     {
       "ID": "3458",
@@ -2096,6 +2096,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-04T02:50:29Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3706",
+      "Name": "Berry",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/43a7c02a52f0ff6d1a986e98f0ce2e66/c86a5cd3e01ad0d66efbcc7f301fb92b.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-06T21:40:49Z",
       "status": "pending"
     }
   ]
