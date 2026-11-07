@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T21:40:49Z",
+  "updated": "2026-11-07T01:28:53Z",
   "count": 51,
   "animals": [
     {
@@ -1260,7 +1260,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793978412"
+      "LastUpdatedUnixTime": "1794007310"
     },
     {
       "ID": "3703",
@@ -2041,7 +2041,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793749483"
+      "LastUpdatedUnixTime": "1794012785"
     },
     {
       "ID": "3744",
@@ -2578,20 +2578,23 @@
     {
       "ID": "3745",
       "Internal-ID": "214847680",
-      "Name": "Cecil - 1",
+      "Name": "Chopper",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.5146",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/1a9aaab29d41c7fd55eb00cb777a8f82/3f7c0ef44c042c4e4361796f192d4873.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/1a9aaab29d41c7fd55eb00cb777a8f82/3f7c0ef44c042c4e4361796f192d4873.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/051a92fbf9636d0c984206f563a64381/880dbaa09c2b32632ffcdf56a9e9267e.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2618,29 +2621,32 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994387"
+      "LastUpdatedUnixTime": "1794007602"
     },
     {
       "ID": "3746",
       "Internal-ID": "214847681",
-      "Name": "Cecil - 2",
+      "Name": "Cairo",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.735",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9cd3aa9c4293a2c33b0a00fc3c6e1283/f2c2d0b984db2e37309a8890e08670b2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9cd3aa9c4293a2c33b0a00fc3c6e1283/f2c2d0b984db2e37309a8890e08670b2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5762e986682c745c97ecc1951a4793b3/5e5d715e3ab407f0ba762ced51448283.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
-      "Color": "Black",
-      "Pattern": null,
+      "Color": "Black/White",
+      "Pattern": "None",
       "AdoptionFeeGroup": {
         "Id": 37340,
         "Name": "Puppy + S/N deposit",
@@ -2663,25 +2669,28 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994462"
+      "LastUpdatedUnixTime": "1794007563"
     },
     {
       "ID": "3747",
       "Internal-ID": "214847683",
-      "Name": "Cecil - 3",
+      "Name": "Suma",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.6887",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/719a7d7d44bbd9ffb73548b890608788/ddcda52573395fd73de22b8fc5456c31.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/719a7d7d44bbd9ffb73548b890608788/ddcda52573395fd73de22b8fc5456c31.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1ad2157433fa4907e960c72acb328ae8/9d674bd7c3f5c730838d9e08e524be96.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2708,25 +2717,28 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994505"
+      "LastUpdatedUnixTime": "1794007687"
     },
     {
       "ID": "3748",
       "Internal-ID": "214847685",
-      "Name": "Cecil - 4",
+      "Name": "Rex",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.8783",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d6602948737a77cac7b6430a84e7519b/ba101d305a56cd4167a18b47ab611423.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/d6602948737a77cac7b6430a84e7519b/ba101d305a56cd4167a18b47ab611423.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c032b656ab9c7b1e15bb45fb4338443b/7391775975ffaf69bb529306dec38be4.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2753,16 +2765,16 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994601"
+      "LastUpdatedUnixTime": "1794007890"
     },
     {
       "ID": "3749",
       "Internal-ID": "214847691",
-      "Name": "Cecil - 5",
+      "Name": "Brownie",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.8607",
@@ -2770,8 +2782,11 @@
       "Altered": "Unknown",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/09d62333fc17e5e5e36d70b92f224721/0f675ab6c24a27a27e484061d159d5b3.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/09d62333fc17e5e5e36d70b92f224721/0f675ab6c24a27a27e484061d159d5b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/10f9190a78876b09261e9bbb4806c245/d69d747c9a7f7116696e07d1f2fd860a.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2798,21 +2813,21 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994656"
+      "LastUpdatedUnixTime": "1794007870"
     },
     {
       "ID": "3750",
       "Internal-ID": "214847692",
-      "Name": "Cecil - 6",
+      "Name": "Lucca",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.6535",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
       "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
@@ -2843,25 +2858,29 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994137"
+      "LastUpdatedUnixTime": "1794009041"
     },
     {
       "ID": "3751",
       "Internal-ID": "214847694",
-      "Name": "Cecil - 7",
+      "Name": "Nemo",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.7174",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/cb8607f2dd14e015ef58d1af7bd8bcc8/7a14122cb95bd5aa6eb4a86a2d9160fe.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/cb8607f2dd14e015ef58d1af7bd8bcc8/7a14122cb95bd5aa6eb4a86a2d9160fe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/456a229c5bf8aa8cc5560d59cf216d74/f6dc88564b405b52b329402ef18d13df.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8664013558f601b17e2336464b91b9a/08b86ac6367e0be716e9f05c0dd633fc.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2888,25 +2907,28 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994763"
+      "LastUpdatedUnixTime": "1794009108"
     },
     {
       "ID": "3752",
       "Internal-ID": "214847695",
-      "Name": "Cecil - 8",
+      "Name": "Layka",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.7857",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b5cdd20e1f2b05cbb29135791bbf46ea/393f38d75fc3b1df71944a0f7cd8e78c.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b5cdd20e1f2b05cbb29135791bbf46ea/393f38d75fc3b1df71944a0f7cd8e78c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2cdf4a75b7cb66e8033507873264b1c7/d67d7c60623f50821ad4de642c47f6f5.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2933,25 +2955,28 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994806"
+      "LastUpdatedUnixTime": "1794009161"
     },
     {
       "ID": "3753",
       "Internal-ID": "214847696",
-      "Name": "Cecil - 9",
+      "Name": "Lexi",
       "LitterGroupId": 9614948,
       "Type": "Dog",
       "CurrentLocation": {},
-      "Sex": "Unknown",
+      "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
       "CurrentWeightPounds": "1.8453",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
-      "Photos": [],
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e24eb547dd6b6b32f3b547cc7a21e68b/08d466b26285bca73bc67c79a4b53ee1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e24eb547dd6b6b32f3b547cc7a21e68b/08d466b26285bca73bc67c79a4b53ee1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eeee72c3727ac38973a4363b7d4f5080/f15dfafc440a4185ee362e968e947769.jpeg"
+      ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
       "Color": "Black",
@@ -2978,7 +3003,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793994840"
+      "LastUpdatedUnixTime": "1794009205"
     },
     {
       "ID": "3754",
@@ -3262,6 +3287,92 @@
       "LastUpdatedUnixTime": "1793979707"
     },
     {
+      "ID": "3664",
+      "Internal-ID": "214287417",
+      "Name": "Zombie ",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Foster to Adopt",
+      "InFoster": true,
+      "CurrentWeightPounds": "66",
+      "Size": "Large (60-99)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1660145419,
+      "Age": 50,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7cfca588f88e09f5141396aaa49785a2/3ef0db47c90db3d7dd694ed204fa2acb.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/572b2d92a8d5fc2895477395cc1a60b1/ef3448ea2892c3d8b4395b8f29278112.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/70afda071c55e485e2bcadfb33c25280/347703db5fff5b8b62244b516f92406b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/0864024f6190564959e5ba5950069437/1ee1f3bfa3a0b07320a27c1f0c60d485.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8b2af766ee29dfe183403a9e3021cc41/95357f5fbf6b9990836f78b22065f1dc.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
+      "Color": "White",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "After a rough start, Zombie is really coming along wonderfully.  He is a low energy gentle giant and really just loves to hang out with his people.  ",
+      "LastIntakeUnixTime": "1786635886",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794013301"
+    },
+    {
       "ID": "3238",
       "Internal-ID": "213180113",
       "Name": "Diamond",
@@ -3473,92 +3584,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1793201417"
-    },
-    {
-      "ID": "3664",
-      "Internal-ID": "214287417",
-      "Name": "Zombie ",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "66",
-      "Size": "Large (60-99)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1660145419,
-      "Age": 50,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/e3e315f46c6d11746366360d9146c55a/86dbe3ce7e16bfc22c7f4e996eb6e270.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/582c00839f977d4ed21bfb4861429076/77d1da45e2dc6edbbec8f1553f34b640.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/d3538a3a87cd6ff316d855bd0de733a0/f2e4f1d2760b7b46591d4a958f5b214c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/aa70573d3b44bf7efc8fd98342eb83b9/f65231b6d1d7a3b456bc23879aa5977e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/44e73b4a96ef2fb5a09f0111316cdb27/ffd70746cdf8e477ebf98b9b982d82dd.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7cfca588f88e09f5141396aaa49785a2/3ef0db47c90db3d7dd694ed204fa2acb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/572b2d92a8d5fc2895477395cc1a60b1/ef3448ea2892c3d8b4395b8f29278112.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/70afda071c55e485e2bcadfb33c25280/347703db5fff5b8b62244b516f92406b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0864024f6190564959e5ba5950069437/1ee1f3bfa3a0b07320a27c1f0c60d485.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8b2af766ee29dfe183403a9e3021cc41/95357f5fbf6b9990836f78b22065f1dc.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shepherd, Anatolian/Pyrenees, Great",
-      "Color": "White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "After a rough start, Zombie is really coming along wonderfully.  He is a low energy gentle giant and really just loves to hang out with his people.  ",
-      "LastIntakeUnixTime": "1786635886",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702286",
-          "AttributeName": "FP:  Jen",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793883903"
     },
     {
       "ID": "3679",
