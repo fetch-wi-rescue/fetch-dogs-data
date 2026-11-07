@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T14:32:47Z",
-  "count": 51,
+  "updated": "2026-11-07T19:12:58Z",
+  "count": 53,
   "animals": [
     {
       "ID": "3279",
@@ -1070,8 +1070,8 @@
       "CurrentWeightPounds": "23.6",
       "Size": "Medium (25-59)",
       "Altered": "No",
-      "DOBUnixTime": 1781672400,
-      "Age": 4,
+      "DOBUnixTime": 1779944400,
+      "Age": 5,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
@@ -1159,7 +1159,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793902906"
+      "LastUpdatedUnixTime": "1794071625"
     },
     {
       "ID": "3690",
@@ -1260,7 +1260,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794007310"
+      "LastUpdatedUnixTime": "1794077542"
     },
     {
       "ID": "3703",
@@ -3285,6 +3285,159 @@
         }
       ],
       "LastUpdatedUnixTime": "1793979707"
+    },
+    {
+      "ID": "3760",
+      "Internal-ID": "214988489",
+      "Name": "Stella",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1779858000,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb81217240a404a29780a15674dcf34d/a18be6a1808a0514bc5b0526d0208090.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/eb81217240a404a29780a15674dcf34d/a18be6a1808a0514bc5b0526d0208090.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/de9780cb872e2e7b5fa4c85134842371/c4d20531d04b4ed39f4d57d06e35c065.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1794072660",
+      "Attributes": [
+        {
+          "Internal-ID": "294330",
+          "AttributeName": "Not Housetrained",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634891",
+          "AttributeName": "⚠ Special Needs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794074330"
+    },
+    {
+      "ID": "3761",
+      "Internal-ID": "214988661",
+      "Name": "Maple",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "",
+      "Size": "Medium (25-59)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1762495200,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/6ec296c8d60c771aae61e07aa8c96db5/a884f4367d7179b21e837121e169e797.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/502ac554fbc8cbabceee97c96b4de151/aef5e92611391b1d0816f3e48580f5af.JPG"
+      ],
+      "Videos": [],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "Yellow/Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "",
+      "LastIntakeUnixTime": "1794074340",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794075635"
     },
     {
       "ID": "3664",
