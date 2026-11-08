@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T21:40:49Z",
+  "updated": "2026-11-08T20:03:27Z",
   "animals": [
     {
       "ID": "3458",
@@ -2105,6 +2105,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-06T21:40:49Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3679",
+      "Name": "Monona",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/30af1fe2b78bf9d29bb6c941dcbca859/2df67b4a4f15baf9d3930f663fa43746.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-08T20:03:27Z",
       "status": "pending"
     }
   ]
