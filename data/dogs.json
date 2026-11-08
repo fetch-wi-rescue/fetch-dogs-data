@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:03:27Z",
+  "updated": "2026-11-08T23:50:47Z",
   "count": 53,
   "animals": [
     {
@@ -3466,7 +3466,6 @@
         "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59f5f1366b1277ff6d067d1ba166afa3/d295bcd7296f7a9a93239c44ea3ac400.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9ba35db7688596eeb0915c0f7a2e4351/e0b73bf1652387fac1ae823efc9c5c88.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1ab38b8fac059cb8a8fa3f9760915382/a857a315c7edd26e66b2d37accf21b30.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/72f7a750d374daf5e99d9c3eea63104e/36cb62ef11f451e6137fb4f2506daab7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/55847de2de2187fb1d9eb2b6a6525b74/8ef5a6fcdc8f68df35466e880856b0ff.jpeg"
       ],
@@ -3475,10 +3474,10 @@
       "Color": "Fawn",
       "Pattern": "None",
       "AdoptionFeeGroup": null,
-      "Description": "",
+      "Description": "Dodger is the sweetest little baby angel. He is still discovering the world and learning his body. He loves humans, and snuggling… but watch your toes because he also loves to nibble on them.",
       "LastIntakeUnixTime": "1794013200",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1794147610"
+      "LastUpdatedUnixTime": "1794180610"
     },
     {
       "ID": "3664",
@@ -3779,7 +3778,121 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793201417"
+      "LastUpdatedUnixTime": "1794169557"
+    },
+    {
+      "ID": "3592",
+      "Internal-ID": "213786015",
+      "Name": "Mary Beth",
+      "LitterGroupId": 9522141,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Pending Adoption",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1676959200,
+      "Age": 44,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
+        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Staffordshire Bull/Mix",
+      "Color": "Chocolate",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "LastIntakeUnixTime": "1780065092",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294343",
+          "AttributeName": "Heartworm+",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "629390",
+          "AttributeName": "Orthopedic Surgery Recovery in Progress",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1792767198"
     },
     {
       "ID": "3739",
@@ -3789,7 +3902,7 @@
       "Type": "Dog",
       "CurrentLocation": {},
       "Sex": "Male",
-      "Status": "M&G",
+      "Status": "Pending Adoption",
       "InFoster": true,
       "CurrentWeightPounds": "42",
       "Size": "Medium (25-59)",
@@ -3906,121 +4019,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793971187"
-    },
-    {
-      "ID": "3592",
-      "Internal-ID": "213786015",
-      "Name": "Mary Beth",
-      "LitterGroupId": 9522141,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "60",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1676959200,
-      "Age": 44,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
-        "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4af1e9d3b93c326b5359eba08e15113b/4dd03aa6c650d52dc3dc628bb26ccffd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Staffordshire Bull/Mix",
-      "Color": "Chocolate",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
-      "LastIntakeUnixTime": "1780065092",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294343",
-          "AttributeName": "Heartworm+",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "629390",
-          "AttributeName": "Orthopedic Surgery Recovery in Progress",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792767198"
+      "LastUpdatedUnixTime": "1794180998"
     },
     {
       "ID": "3719",
