@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T22:51:56Z",
-  "count": 53,
+  "updated": "2026-11-08T01:57:48Z",
+  "count": 54,
   "animals": [
     {
       "ID": "3279",
@@ -3438,6 +3438,37 @@
         }
       ],
       "LastUpdatedUnixTime": "1794075635"
+    },
+    {
+      "ID": "3762",
+      "Internal-ID": "214990617",
+      "Name": "Dodger",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.4",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1788757200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/2c16aabc83e11d5b5d157f060e8b5734/068370fd560f2aa2e549f907eceb711f.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/2c16aabc83e11d5b5d157f060e8b5734/068370fd560f2aa2e549f907eceb711f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c72313f53bfd7a1fb24918136a1ce26e/7097278928714adedb3e9b99abbbdd43.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/75042833d80f986509c9f684d7196f30/7093218331fd58d552f40249599b2779.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, American Pit Bull/Shepherd, German",
+      "Color": "Fawn",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1794013200",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1794101018"
     },
     {
       "ID": "3664",
