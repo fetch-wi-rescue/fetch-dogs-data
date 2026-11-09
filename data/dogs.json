@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T12:23:07Z",
-  "count": 54,
+  "updated": "2026-11-09T22:35:11Z",
+  "count": 53,
   "animals": [
     {
       "ID": "3279",
@@ -1159,7 +1159,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794071625"
+      "LastUpdatedUnixTime": "1794243555"
     },
     {
       "ID": "3690",
@@ -2524,7 +2524,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1794150598"
+      "LastUpdatedUnixTime": "1794233320"
     },
     {
       "ID": "3741",
@@ -3893,133 +3893,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1792767198"
-    },
-    {
-      "ID": "3739",
-      "Internal-ID": "214818337",
-      "Name": "Reno",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "42",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1760936400,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3a0662540f91d5bbd86d47087eac6086/bfbeaa193bc99cb6cf318eb17953205c.JPG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/3a0662540f91d5bbd86d47087eac6086/bfbeaa193bc99cb6cf318eb17953205c.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/b1fc231c7cef49168d55864059f083c7/8030dd80b702d96c942c68b7044aaf7f.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/f069c583b5d3f8ac914451125a9a9633/73188eea55a485e0fa46b2ed3a15722b.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/1e72b627ddb0c933ad558f2f0663bfa2/9f5a55a1689d07f8deffacd8bc16830d.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/752881cc4e617313af2d7db60e8ab952/de38455c8893e2ac58f42ff125048e7c.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/1ff660f4ba4eaaff7dab49d52898a7ae/feaf0f435b36752ec6db01f14e7e44b2.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/af6521a74100f0b25ab21cc8b162f2b4/4d8f8f155378eb21332c0de9e32c9c01.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/15351fbc4752cc58b6b479bac02139a7/48e544a1690106eb8c67f68dc57a42a5.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/4ab54eabe30e48d038a07e32de93061e/546281da2915d455e02f2e8a22aef00b.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/ce79b9878212126111a3897c0d5b3bf6/5ceaf138b448f1218ba11f9a97e79fa7.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/93b2fcd4557bca54e85a745568763a1d/1cb6de7ac98e0c5a9d017869344f4453.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/436b83ea34bacc202d6bb6999e0c3d48/3acd05974fc9e8cfe354ccfd2a867605.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/0ce788949ad9eb22d8c133b1b8c2b591/dab5fd81221658e566c44ddbf359d280.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/a026e42715fd901a309d6b8331a58744/77a61784740aed8a107acdd193a58792.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0253789b43e137b17812bb691e6a600f/8694f0fd092f7d9a6ca6db6b2eea6d92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/185c67dd4bcd4de5638f1a806acdb08c/1b42b201c855bd83227b6da79b32207a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bc4ddab54e08cbf05a2780b3e3ca3577/a40d2479172c3bea8d7ca8144577f0fb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc481cb42a4ab595b353301a40b97f8a/8d661d0d40181ca9ad58ba474d4fd01d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/80de321a5269d30d229458837308804f/ce203c0198d69b34a641a37209a446e4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7c4e3154023d922dd5b12c136d1cd1e9/505b2a8494dd2aaf4fc803bf4a4a50dc.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/0ba918fa6375ade9517d0c4be7f15b13/e76455972cf1fa3cd568740546ede18c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Kelpie, Australian/Mixed Breed (Medium)",
-      "Color": "Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Reno! This handsome Australian Kelpie mix is the ultimate blend of fun, brains, and youthful enthusiasm. If you’re looking for an active, well-mannered adventure buddy who will happily keep pace with your lifestyle, Reno is ready to steal your heart.\n\nPersonality & Social Skills\nReno is a total social butterfly when it comes to other dogs—he currently lives with a canine housemate and absolutely thrives on having furry friends to play with. He's also a superstar in public. He walks nicely on a leash, likes going for car rides, and is a world-class play partner who loves fetch and toys.\n\nTraining & Daily Routine\nReno is wonderfully house-trained, sleeps quietly through the night in his crate, and handles a typical workday home alone in his crate like a pro (no chewing or howling here!). He responds well to corrections like \"no\" or \"down\" and is generally very easy to handle.\n\nThat said, we promise to keep it real! Reno has a few typical teenager quirks:\n\nThe Thrill of the Chase: While he's usually a gentleman on walks, he will get excited and tug on the leash if a squirrel, bunny, or passing dog catches his eye.\nCounter-Surfing: He has a habit of putting his paws up on the counter (though he's a good boy and hasn't actually stolen anything yet).\nFurry Footwear Warning: Fuzzy shoes look suspiciously like dog toys to him, so you'll want to keep your slippers safely tucked away!\n\nEnergy Level & Ideal Home\nReno is sitting right in that sweet spot of medium-to-high energy. He will do best in a home that can commit to a couple of solid daily walks (30 to 60+ minutes total) alongside some good old-fashioned playtime or a chance to burn off steam with another dog.\n\nIf you have an active lifestyle and a soft spot for smart herding breeds that are loyal and love attention, Reno might just be your perfect match. Are you ready to welcome this sweet, playful guy into your family?",
-      "LastIntakeUnixTime": "1792506929",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637204",
-          "AttributeName": "High energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1794182313"
     },
     {
       "ID": "763",
