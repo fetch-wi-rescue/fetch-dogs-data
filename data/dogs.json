@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T23:50:47Z",
-  "count": 53,
+  "updated": "2026-11-09T03:54:50Z",
+  "count": 54,
   "animals": [
     {
       "ID": "3279",
@@ -3287,7 +3287,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1793979707"
+      "LastUpdatedUnixTime": "1794184957"
     },
     {
       "ID": "3760",
@@ -4019,7 +4019,92 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794180998"
+      "LastUpdatedUnixTime": "1794182313"
+    },
+    {
+      "ID": "763",
+      "Internal-ID": "213177516",
+      "Name": "Lena",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "92",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1688878800,
+      "Age": 39,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a62fba629b7eadc8e956b4c8461b4694/5c23eadc5e8b76c70954d36e86fba2ae.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/a62fba629b7eadc8e956b4c8461b4694/5c23eadc5e8b76c70954d36e86fba2ae.png",
+        "https://new-s3.shelterluv.com/profile-pictures/8f4ad207ef0ed150d5cb1545f6c46870/06a8cc299aedba10240cc018ba8f6490.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ce74968bb56bb1d146b007761d0cb7f7/ba32064f8600835b92d018d193b21640.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/588381717c858443352fd78545a83d08/7d7ea69c3aea2fb16c2388257684a514.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/69e62b4bcbd8f594d2cbf5e57f743777/9791b1feef3276d0c89283526525c326.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ff78b8975fb5d85e0b68588d00085247/a881150518edc6bda37bc8bf1f404d56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/24f9958a4e821c6adcc1cf255dc1df8e/8448616bb43bed99747af50afdc6a1a3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/091aaf871830f09e6257619f814dcd39/881d79aaf9064027cb2fa45ea07abb6f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/317396b4d0195cd29cd547921c668aa8/1659353221e845b7687b7bc2c1bc42b6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d1ccedcf8b4c2b068ed6a9ddcb2d53ba/546642cd2c36543d6c4bf5150764a237.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c605be2e273c9a82b66d7999aaea19fb/d2987000f5738e67859e5b920bf3405c.png"
+      ],
+      "Videos": [],
+      "Breed": "Pyrenees, Great",
+      "Color": "Cream",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Lena is a mix of mostly Great Pyrenees and Akita, the most beautiful dog and she knows it! Lena just turned 3 this past August. She is full of energy, but does love to sprawl out and take her naps. Lena loves being outside. She would do great in a home with a fenced in backyard. She likes lots of space to run and explore. She loves walks! Lena would be best in a home where she is the only dog. She is fine around other dogs on walks and in short settings, but can get overwhelmed at times. Lena currently lives with two cats and doesn't mind them. She will occasionally chase after them, but has never tried to hurt them. Lena has always done good around older kids and has no issues with them chasing her or playing with her. She is so sweet! A home with a baby or toddler might not be the best fit for her because she sometimes seems bothered by young kids. Lena is full of love! She is looking for her forever home to give her a lot of love, affection, and space to run around outside!",
+      "LastIntakeUnixTime": "1794188037",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294321",
+          "AttributeName": "Not Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294340",
+          "AttributeName": "Single Dog Home",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295161",
+          "AttributeName": "❌ Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296945",
+          "AttributeName": "✅ Good with older kids (12+)",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794188905"
     },
     {
       "ID": "3719",
