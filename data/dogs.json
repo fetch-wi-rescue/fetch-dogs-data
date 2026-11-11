@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T15:28:58Z",
-  "count": 53,
+  "updated": "2026-11-11T22:08:22Z",
+  "count": 54,
   "animals": [
     {
       "ID": "3279",
@@ -674,7 +674,7 @@
       "Sex": "Male",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "25.8",
+      "CurrentWeightPounds": "35",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1769184489,
@@ -851,7 +851,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1794407519"
+      "LastUpdatedUnixTime": "1794432944"
     },
     {
       "ID": "3663",
@@ -1162,97 +1162,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794368449"
-    },
-    {
-      "ID": "3703",
-      "Internal-ID": "214435037",
-      "Name": "Seymour",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "68.2",
-      "Size": "Large (60-99)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1598590800,
-      "Age": 74,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/ad50bef7cef74a5cd8f5bb57a50facc5/fbd300ebc4556dc4b4c474bacdac4309.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/fafbfeae19978c81a907af910a0a5763/ae31943b894bc70bbb44ca4185108387.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/64df149016c49af6626c10ec8d13f4af/cf69deaf05a5e78f032f469b9629742a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7f80492a12117b1333c9bace1e87cb39/59cbce67fee79241e902d7c61b3b24c6.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/26ee20260648dbde0fbf634a3e90999f/6aac57d330f213a5616df4a2d0659b6b.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/2848b909b2ebe7ce728c869346b9b5f2/26e33ad522140778e2408e3f24c379ab.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Yellow Labrador/Mixed Breed (Large)",
-      "Color": "Blond/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Seymour, a 70-pound cuddle bug with the heart of a teddy bear. At six years old, Seymour has mastered the art of companionship; whether he’s following his foster family from room to room or curled up in a cozy corner, he just wants to be where his people are. If you’re looking for a loyal sidekick who believes in the power of snuggles and endless kisses, Seymour is your guy.\n\nAt six years old, Seymour is fairly mellow but does have a playful side. He loves to chase a ball around or play with the resident dog in his foster home. Seymour also loves his walks, and his foster family is helping him practice polite leash manners.\n\nSeymour comes with a great foundation of training. He is fully potty trained, crate trained (but would also be fine free roaming when home alone), and already knows how to sit and shake.  A smart guy with an eagerness to please, Seymour should be a quick study with any new tricks you want to teach him. \n\nSeymour is ready to find a forever home where he can shower his new family with love. He can't wait to meet you and hopefully become your new best friend ❤️",
-      "LastIntakeUnixTime": "1787965584",
-      "Attributes": [
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793823054"
     },
     {
       "ID": "3720",
@@ -3577,6 +3486,97 @@
       "LastUpdatedUnixTime": "1794337378"
     },
     {
+      "ID": "3703",
+      "Internal-ID": "214435037",
+      "Name": "Seymour",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "68.2",
+      "Size": "Large (60-99)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1598590800,
+      "Age": 74,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/afd19bc37436a9d87f331742a5e962b6/f068c490715a0793f9445f930dd2197c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/ad50bef7cef74a5cd8f5bb57a50facc5/fbd300ebc4556dc4b4c474bacdac4309.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8012e3b7df235720bda53920102b057a/5c91f1702b677696e63b0482084147e4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/8596e0c9d8f28cb113bd2a0b7da60bdd/505f7af218c80d374c99b9757246efe0.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/01df901da7f919e3e7b31df22eaacffd/a7394476495472bf53b0c0adfe42018c.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/fafbfeae19978c81a907af910a0a5763/ae31943b894bc70bbb44ca4185108387.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/64df149016c49af6626c10ec8d13f4af/cf69deaf05a5e78f032f469b9629742a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f80492a12117b1333c9bace1e87cb39/59cbce67fee79241e902d7c61b3b24c6.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/26ee20260648dbde0fbf634a3e90999f/6aac57d330f213a5616df4a2d0659b6b.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/2848b909b2ebe7ce728c869346b9b5f2/26e33ad522140778e2408e3f24c379ab.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Yellow Labrador/Mixed Breed (Large)",
+      "Color": "Blond/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Seymour, a 70-pound cuddle bug with the heart of a teddy bear. At six years old, Seymour has mastered the art of companionship; whether he’s following his foster family from room to room or curled up in a cozy corner, he just wants to be where his people are. If you’re looking for a loyal sidekick who believes in the power of snuggles and endless kisses, Seymour is your guy.\n\nAt six years old, Seymour is fairly mellow but does have a playful side. He loves to chase a ball around or play with the resident dog in his foster home. Seymour also loves his walks, and his foster family is helping him practice polite leash manners.\n\nSeymour comes with a great foundation of training. He is fully potty trained, crate trained (but would also be fine free roaming when home alone), and already knows how to sit and shake.  A smart guy with an eagerness to please, Seymour should be a quick study with any new tricks you want to teach him. \n\nSeymour is ready to find a forever home where he can shower his new family with love. He can't wait to meet you and hopefully become your new best friend ❤️",
+      "LastIntakeUnixTime": "1787965584",
+      "Attributes": [
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794416217"
+    },
+    {
       "ID": "3735",
       "Internal-ID": "214803601",
       "Name": "Peanut",
@@ -4224,6 +4224,73 @@
         }
       ],
       "LastUpdatedUnixTime": "1793581852"
+    },
+    {
+      "ID": "3763",
+      "Internal-ID": "215009862",
+      "Name": "Nala",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "50",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1649394000,
+      "Age": 55,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4a19e612324c1afb2598ef0a5ef69f4e/9c893df176747d3542d65ee8f51454ad.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4a19e612324c1afb2598ef0a5ef69f4e/9c893df176747d3542d65ee8f51454ad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7e581dae81d4b3d4749d77a7340358e4/2f165f2f86ad5b18367cc89f2f872a88.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/365abfda7e64d7154dc318d1bc6a1f1a/53cf1d00a2aca5ad8b72a27839210b5c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Poodle/Retriever, Labrador",
+      "Color": "Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Nala is kennel trained and she spends 9+ hours per day in the kennel when we are at work. Nala has free reign of the house when people are home. Nala loves to sleep and cuddle at night. Nala is active and loves daily walks and playing chase the ball.\n\nNala is a \"watcher\" out the window and will bark initially if someone is approaching that she doesn't know. She does great with kids and people of all ages in general. She does well with other dogs. She has stage 2 kidney disease and is on a kidney friendly dog food by her vet. Her prognosis we believe to be several years yet at this point.",
+      "LastIntakeUnixTime": "1794413870",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634880",
+          "AttributeName": "⚠ Unknown with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794414621"
     }
   ]
 }
