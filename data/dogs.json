@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:35:35Z",
+  "updated": "2026-11-12T19:23:12Z",
   "count": 54,
   "animals": [
     {
@@ -1072,9 +1072,9 @@
       "Sex": "Female",
       "Status": "Available",
       "InFoster": true,
-      "CurrentWeightPounds": "24",
+      "CurrentWeightPounds": "28",
       "Size": "Medium (25-59)",
-      "Altered": "No",
+      "Altered": "Yes",
       "DOBUnixTime": 1778389200,
       "Age": 6,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg",
@@ -1154,14 +1154,9 @@
           "Internal-ID": "702286",
           "AttributeName": "FP:  Jen",
           "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794368449"
+      "LastUpdatedUnixTime": "1794499468"
     },
     {
       "ID": "3720",
@@ -1857,6 +1852,76 @@
         }
       ],
       "LastUpdatedUnixTime": "1793735498"
+    },
+    {
+      "ID": "3762",
+      "Internal-ID": "214990617",
+      "Name": "Dodger",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "7.4",
+      "Size": "",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1788757200,
+      "Age": 2,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2c16aabc83e11d5b5d157f060e8b5734/068370fd560f2aa2e549f907eceb711f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c72313f53bfd7a1fb24918136a1ce26e/7097278928714adedb3e9b99abbbdd43.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/75042833d80f986509c9f684d7196f30/7093218331fd58d552f40249599b2779.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/59f5f1366b1277ff6d067d1ba166afa3/d295bcd7296f7a9a93239c44ea3ac400.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9ba35db7688596eeb0915c0f7a2e4351/e0b73bf1652387fac1ae823efc9c5c88.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/72f7a750d374daf5e99d9c3eea63104e/36cb62ef11f451e6137fb4f2506daab7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb846793a09629b45fe83db848083114/cebf0205c98f74bbbb64a1ad35c74e91.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/55847de2de2187fb1d9eb2b6a6525b74/8ef5a6fcdc8f68df35466e880856b0ff.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/577396059e34324528b3edee09ace47d/ff8cbae277c28c903f9aa7aed3e32853.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f3eead86077486d71659260b850cb462/e3a8b71e2eefe29ac04488e6ca035a4f.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, American Pit Bull/Shepherd, German",
+      "Color": "Fawn",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Dodger is the sweetest little baby angel. He is still discovering the world and learning his body. He loves humans, and snuggling… but watch your toes because he also loves to nibble on them.",
+      "LastIntakeUnixTime": "1794013200",
+      "Attributes": [
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794504522"
     },
     {
       "ID": "3724",
@@ -2804,7 +2869,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794407972"
+      "LastUpdatedUnixTime": "1794494671"
     },
     {
       "ID": "3759",
@@ -2816,9 +2881,9 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "14",
+      "CurrentWeightPounds": "11.6",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1653714000,
       "Age": 53,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a6cd534c16c9e0cd6b18d8095521ddba/4e37583d1572d1b164e109e9642765cd.jpeg",
@@ -2861,7 +2926,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794184957"
+      "LastUpdatedUnixTime": "1794494413"
     },
     {
       "ID": "3760",
@@ -3046,43 +3111,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794324469"
-    },
-    {
-      "ID": "3762",
-      "Internal-ID": "214990617",
-      "Name": "Dodger",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "7.4",
-      "Size": "",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1788757200,
-      "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bb846793a09629b45fe83db848083114/cebf0205c98f74bbbb64a1ad35c74e91.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/bb846793a09629b45fe83db848083114/cebf0205c98f74bbbb64a1ad35c74e91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2c16aabc83e11d5b5d157f060e8b5734/068370fd560f2aa2e549f907eceb711f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c72313f53bfd7a1fb24918136a1ce26e/7097278928714adedb3e9b99abbbdd43.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/75042833d80f986509c9f684d7196f30/7093218331fd58d552f40249599b2779.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/59f5f1366b1277ff6d067d1ba166afa3/d295bcd7296f7a9a93239c44ea3ac400.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9ba35db7688596eeb0915c0f7a2e4351/e0b73bf1652387fac1ae823efc9c5c88.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/72f7a750d374daf5e99d9c3eea63104e/36cb62ef11f451e6137fb4f2506daab7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/55847de2de2187fb1d9eb2b6a6525b74/8ef5a6fcdc8f68df35466e880856b0ff.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, American Pit Bull/Shepherd, German",
-      "Color": "Fawn",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "Dodger is the sweetest little baby angel. He is still discovering the world and learning his body. He loves humans, and snuggling… but watch your toes because he also loves to nibble on them.",
-      "LastIntakeUnixTime": "1794013200",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794444257"
     },
     {
       "ID": "3664",
