@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T08:23:35Z",
-  "count": 54,
+  "updated": "2026-11-14T15:14:25Z",
+  "count": 53,
   "animals": [
     {
       "ID": "3279",
@@ -546,9 +546,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1732047217,
       "Age": 23,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/da3cbd09ca1da6b3e9235459520a906f/c4bff47a24697a7096114a3bd7bf485c.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/088b2b8a78be6e3b28bbc074ef14524e/c15f53352ad3631a9c9d8276ceeab766.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/da3cbd09ca1da6b3e9235459520a906f/c4bff47a24697a7096114a3bd7bf485c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/088b2b8a78be6e3b28bbc074ef14524e/c15f53352ad3631a9c9d8276ceeab766.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2adf40ad0cd351cbaa01d70e3ad3aa33/50310c85c345b7c5e8021a83344eb3d4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/56cba08d3262dc0a6fccdc4710ac41f2/736e39433ef4f02c36b74b67e8610b80.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/404526b492384e40dd05570144fe4fa3/09f51b62389b66324182262a45fdc10a.jpeg",
@@ -575,7 +575,9 @@
         "https://new-s3.shelterluv.com/profile-pictures/d60b1be8a40e7d0526ac1a6a9e8d1254/e9e42f3837e4e69da1a213cb40d2b548.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5b0c81f7485a57ec43de46f06921a142/4f371564637202787110b355c586729a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bdc6de5033d1b7b48f97a7d5e7fa6847/02b5277402fb6e54af72db65d837e207.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d09bb434c1e104aea11c1c947c0b3d7d/469e38535f6792fe5f82e8ecce5c3bcf.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/da3cbd09ca1da6b3e9235459520a906f/c4bff47a24697a7096114a3bd7bf485c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d09bb434c1e104aea11c1c947c0b3d7d/469e38535f6792fe5f82e8ecce5c3bcf.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c47a50f53a570cfb4b121cf8a3fb76a9/f3f90382cf8a36ca844ab5b757af1f5f.jpeg"
       ],
       "Videos": [
         {
@@ -637,6 +639,21 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634898",
           "AttributeName": "✅ Can free roam when humans are gone",
           "Publish": "Yes"
@@ -662,7 +679,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1790616738"
+      "LastUpdatedUnixTime": "1794662503"
     },
     {
       "ID": "3632",
@@ -1287,13 +1304,13 @@
       "LastIntakeUnixTime": "1792429770",
       "Attributes": [
         {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
           "Publish": "Yes"
         },
         {
@@ -1332,12 +1349,17 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
           "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1793650456"
+      "LastUpdatedUnixTime": "1794666022"
     },
     {
       "ID": "3738",
@@ -3332,106 +3354,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794585405"
-    },
-    {
-      "ID": "3680",
-      "Internal-ID": "214320066",
-      "Name": "McQueen",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "16.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779997123,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31c403e60288849689062f4e4260d2a6/648e9e6be91a27a9832175d483cca8fd.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/31c403e60288849689062f4e4260d2a6/648e9e6be91a27a9832175d483cca8fd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/acfbccf4eac40b61edffac1a74521a87/5931280526820c44efe539ffea541a7f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/743af46f06e9b2af821dee1a0b2288fd/ad7a01a38eec981a53b847c6031bfa91.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/23c60ab04aea6dcd28edc7ce1c200647/58b87dc9a67542fea2d622d7f8343589.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/76d842fcf0ad9969b1602625e7065150/7267dcd12c7d80b9f8128343af6ad5af.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/1e3c666a6112d6d3e657ced1db5ff736/24581399d7df3f785cf60fc19710d2ef.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f8b8d98f2b3a14cf6330a65baf1aa5ab/de718466343faa25e8a44017ce790c4d.png",
-        "https://new-s3.shelterluv.com/profile-pictures/30370280e16c8ecbe80d88430124ecad/2573cbbcaf1940ab50fe0e578477017f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/de7216fe0f5b53c3191ebda661a62f3e/c0c5c9e124c7d6c60d62a7a4657e860a.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "Chocolate/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi! I’m McQueen. I’m a playful puppy who loves adventure. I love going for walks, chewing on bones, riding in the car, and playing with my toys. A lot of people I meet call me cute and say I have the most beautiful eyes. I’m a bit shy when meeting other dogs and people, but I will come around and remember you next time I see you! I am crate trained at night and when being left for longer periods during the day. I’m working hard on potty training. I still need time and access to consistent potty breaks. I make my foster family laugh every day with my adorable personality and I’m ready to find my forever home! ",
-      "LastIntakeUnixTime": "1787166563",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702283",
-          "AttributeName": "FP:  Linda",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "715250",
-          "AttributeName": "NPOG pup",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1794630387"
     },
     {
       "ID": "3703",

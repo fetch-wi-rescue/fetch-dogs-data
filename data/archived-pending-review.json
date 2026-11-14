@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:35:11Z",
+  "updated": "2026-11-14T15:14:25Z",
   "animals": [
     {
       "ID": "3458",
@@ -2123,6 +2123,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-09T22:35:11Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3680",
+      "Name": "McQueen",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31c403e60288849689062f4e4260d2a6/648e9e6be91a27a9832175d483cca8fd.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-14T15:14:25Z",
       "status": "pending"
     }
   ]
