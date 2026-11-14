@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:44:38Z",
+  "updated": "2026-11-14T01:54:59Z",
   "count": 54,
   "animals": [
     {
@@ -1532,29 +1532,47 @@
       "Status": "Available",
       "InFoster": true,
       "CurrentWeightPounds": "7.4",
-      "Size": "",
-      "Altered": "Unknown",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
       "DOBUnixTime": 1788757200,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fd12e5e14da2e72466cc91aca41b5a96/6c61170bf05985011da5dab1f789b3ce.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd12e5e14da2e72466cc91aca41b5a96/6c61170bf05985011da5dab1f789b3ce.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2c16aabc83e11d5b5d157f060e8b5734/068370fd560f2aa2e549f907eceb711f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c72313f53bfd7a1fb24918136a1ce26e/7097278928714adedb3e9b99abbbdd43.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/75042833d80f986509c9f684d7196f30/7093218331fd58d552f40249599b2779.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6dfb76b2f71574151d6d79f51a37bd7d/174f9210f2abab1342ffaa79691d9534.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/59f5f1366b1277ff6d067d1ba166afa3/d295bcd7296f7a9a93239c44ea3ac400.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9ba35db7688596eeb0915c0f7a2e4351/e0b73bf1652387fac1ae823efc9c5c88.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/72f7a750d374daf5e99d9c3eea63104e/36cb62ef11f451e6137fb4f2506daab7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bb846793a09629b45fe83db848083114/cebf0205c98f74bbbb64a1ad35c74e91.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/55847de2de2187fb1d9eb2b6a6525b74/8ef5a6fcdc8f68df35466e880856b0ff.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/577396059e34324528b3edee09ace47d/ff8cbae277c28c903f9aa7aed3e32853.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f3eead86077486d71659260b850cb462/e3a8b71e2eefe29ac04488e6ca035a4f.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/f3eead86077486d71659260b850cb462/e3a8b71e2eefe29ac04488e6ca035a4f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b772dd2b85d58dcb014ca3530e6ab4de/b797930f8880578d0dfc8c7b1453e0a3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c00ea7e01f76c3b76fd44a5efa98bd22/35ee98376862b3d754d65590f6124db0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/434f1beec00e26a3fd624b2bb3c0a61e/a8e9a50ada99adca4132e5423a3a74ba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cce6d8fcd0792459d8f1a68350896b4c/4928aa7a4973815e91d18b2198a4cfa4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2aa058538c3eb590a239dbbfcfb2f0a3/d3dcefb3e02a2196378552337b84763a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fb6fe01bfdf53b1775a7bc21e429335/57cc4b5e271134d3127659ee3f62d46a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7b52201175072795210a52a8d041afc1/ffb12c477845178012257fe88b5573f0.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/dfe3c3d23a88a882472db80469cad55c/708e988a0b0881520a0f8c1ac031b22e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/31d19b7f2a6f5acb2cfc9052120967a9/b2048c96b59b9b8d4028a2bf3c743a8b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8561743b188e652468b31a155666237/1cf2774c837705bdcfab3f8d3f218dad.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, American Pit Bull/Shepherd, German",
       "Color": "Fawn",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "- Dodger is the sweetest little baby angel. He is still discovering the world and learning his body. - - He loves humans, and snuggling… but watch your toes because he also loves to nibble on them.\n- We are working on potty training, and already at just two months he is catching on to letting me know when he has to potty by pacing at the door and giving a little whine.\n- He is a shadow for humans. He loves all interactions with all humans.\n- Dodger plays hard, and crashes even harder.\n- He is your typical, adorable, snuggly puppy. With patience for training a puppy and the right family he will be perfect for any home.",
       "LastIntakeUnixTime": "1794013200",
       "Attributes": [
@@ -1589,7 +1607,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794504522"
+      "LastUpdatedUnixTime": "1794615212"
     },
     {
       "ID": "3724",
@@ -2666,7 +2684,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794516397"
+      "LastUpdatedUnixTime": "1794611632"
     },
     {
       "ID": "3759",
