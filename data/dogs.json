@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:59:25Z",
+  "updated": "2026-11-14T23:44:45Z",
   "count": 53,
   "animals": [
     {
@@ -1007,9 +1007,9 @@
       "Color": "Tan",
       "Pattern": "Tricolor",
       "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
         "Discount": 0,
         "Tax": 0,
         "IsVariable": false
@@ -1068,7 +1068,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794516397"
+      "LastUpdatedUnixTime": "1794686882"
     },
     {
       "ID": "3731",
@@ -1629,7 +1629,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794615212"
+      "LastUpdatedUnixTime": "1794694979"
     },
     {
       "ID": "3724",
