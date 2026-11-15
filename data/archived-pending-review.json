@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:14:25Z",
+  "updated": "2026-11-15T18:59:39Z",
   "animals": [
     {
       "ID": "3458",
@@ -2132,6 +2132,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-14T15:14:25Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3690",
+      "Name": "Frenchi",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3e71d1e6d766aaa9ac88fb7cf0e16967/f5e7fdfe8f884f5fb2af798245951c1c.jpeg",
+      "Status": "Available",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-15T18:59:39Z",
       "status": "pending"
     }
   ]
