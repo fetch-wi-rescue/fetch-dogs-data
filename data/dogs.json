@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:36:44Z",
+  "updated": "2026-11-17T03:19:16Z",
   "count": 52,
   "animals": [
     {
@@ -1186,9 +1186,9 @@
       "Altered": "Yes",
       "DOBUnixTime": 1472446800,
       "Age": 122,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/05072bb73f27c240195d2026747769ef/bd754259c229155826744509cd2dc927.jpg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0f30f081ab1616176181589740f08e13/5ab26b55e541e5a3dfde77d11f7370ac.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/05072bb73f27c240195d2026747769ef/bd754259c229155826744509cd2dc927.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0f30f081ab1616176181589740f08e13/5ab26b55e541e5a3dfde77d11f7370ac.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/6b8f7c6de7ea2d3a660aa542984524f8/83b362b9b54f4280ccfc2130ad8c8037.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/6d5c68012cd11060381b5d18e3df6ac9/02e4ae3f7e15c23f93b31a5bc09c374e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9d1ac6603408dd7dcdc07ee3ec211d51/94e0096e12bf795d8e5d3f17f66b0bef.jpeg",
@@ -1196,7 +1196,13 @@
         "https://new-s3.shelterluv.com/profile-pictures/38ba6d1aa5bacfa1b23be0e8fc7af758/e10e8516932aa6e359a89a178ec3e0c5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e3f382d233d456bba17c13c799766403/dd6eba23447986c5e2998d00d4e4627d.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5eb135239cf5955eb9294e78ea47f31d/cdd5d73591bef27d9d8475f6c38d59ff.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/605328514406c92b371dac60396d1454/a7625b8671e932a8dffb944f27675d81.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/605328514406c92b371dac60396d1454/a7625b8671e932a8dffb944f27675d81.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/05072bb73f27c240195d2026747769ef/bd754259c229155826744509cd2dc927.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/1fa22c27bdf8bd41d701b2f75df1ca27/9e0f4ef1554abf1466d086efb3056108.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1c78686e7a1e5678a0d075a8cde0aa62/71380addb415a0b254463c2c11b23016.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bd8064c86f91c23ca8b2b3ae2002aa47/3de05e4f2c013f0774e0d49371f21941.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b9f0d004d92ef37c3b4685b2171bfc2b/bda6912431180cd6bda0015de5ec0387.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5d04213768b16e081e20e52bba463524/10effd1aede2f0488dceb095224c8f4e.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull/Mixed Breed (Large)",
@@ -1210,12 +1216,17 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Bubby is the sweetest old man who loves to be super cozy!\n\nBubby walks well on leash, but due to arthritis (which he takes medication & supplements for), he isn’t up for long walks or strenuous activities. He enjoys sniff walks, but he spends most of his day snoozing. He loves playing in water (which is great for his weekly dermatitis baths) and with squeaky toys!\n\nBubz is potty trained and able to free roam during the work day with my dog. He would do well with another calm dog or by himself. Cats are unknown, and living with small children would be overwhelming for him.\n\nBubby’s body shows signs that he has not always been well taken care of, so he is looking for a retirement home where he can be spoiled, sleep in your bed, and eat lots of snacks (he prefers beef)! Despite his age & past, his bloodwork looks great, and he has a wonderful quality of life!",
+      "Description": "Bubby is the sweetest old man who loves to be super cozy!\n\nBubby walks well on leash, but due to arthritis (which he takes medication & supplements for), he isn’t up for hikes or strenuous activities. He takes a 15 minute morning walk, 30 minute lunch walk (but he doesn’t need a lunch break), and a 30-45 minute evening walk. He loves playing in water (which is great for his weekly dermatitis baths) and with squeaky toys! On rainy/cold days, he does just fine with no exercise. He is very calm indoors and spends most of his day snoozing.\n\nBubz is potty trained and able to free roam during the full work day with my dog or be crated for the day. He would be fine with another calm dog, but he does resource guard food from other dogs, so he would probably prefer to be the only dog. Cats are unknown, and while Bubby is good with babies and even walks nicely with a stroller, living with a small child full-time would likely be overwhelming for him.\n\nBubby’s body shows signs that he has not always been well taken care of, so he is looking for a retirement home where he can be spoiled, sleep in your bed, and eat lots of snacks (he prefers beef)! Despite his age & past, his bloodwork looks great, and he has a wonderful quality of life!",
       "LastIntakeUnixTime": "1792429770",
       "Attributes": [
         {
           "Internal-ID": "296939",
           "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
           "Publish": "Yes"
         },
         {
@@ -1239,6 +1250,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634892",
           "AttributeName": "✅ Food motivated",
           "Publish": "Yes"
@@ -1259,6 +1280,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "702280",
           "AttributeName": "FP:  Gen",
           "Publish": "No"
@@ -1269,7 +1295,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1794666022"
+      "LastUpdatedUnixTime": "1794870299"
     },
     {
       "ID": "3738",
@@ -2682,7 +2708,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794516397"
+      "LastUpdatedUnixTime": "1794881960"
     },
     {
       "ID": "3760",
