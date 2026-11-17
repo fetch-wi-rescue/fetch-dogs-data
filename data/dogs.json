@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T12:12:13Z",
-  "count": 52,
+  "updated": "2026-11-17T21:09:28Z",
+  "count": 51,
   "animals": [
     {
       "ID": "3279",
@@ -871,110 +871,6 @@
       "LastUpdatedUnixTime": "1794705031"
     },
     {
-      "ID": "3682",
-      "Internal-ID": "214320068",
-      "Name": "Cyndi",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "23.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779944400,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/519de7604725571cc28cac7c0aea4529/a0118c8ef4bdfe61292191bce39751e5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dec3851017b02c9b2c90e4b32222f67d/3e1cf2b7044fa6317c113908d8aba68a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0698fd51ba3bc232bfee1a94b7593a7f/eb849abea7f4ee4c6422fc5c078ce23a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c3f9c9786f813e1172b8587f973f471/b97103da8c9afdb198d16a8630c05565.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a6c08a51a40856c2d6f65a0c7aafd26/5b2fedaf59540a91c0e319774f95ae45.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc29d2434b8d7db1f11dd96133bdf650/625e053533fbdc49a9b45326bb3e0ac7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd3317c2e9a5ffc471a16c5bc686fb64/bfc148db2483b23d718839596da61091.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57bdfd0d1477e6b62d7ecb9dbf7eab95/25015b7cf38220c4a7e0204268ac931d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8bfbf738ae4efecb030ddc9b2b267a5a/42193f99429fa36f8886897c4f6114f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d6c0544f1dbfec8caeb590cac6b84fae/e2c94e0abc37131ca117e639ce9e992e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9b1ff821a932305a4e3b6118f8fc570/01eb2d90105205453fbf3b8754d92897.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Apricot",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi I'm Cyndi and I'm ready to steal your heart.\nI'm a typical puppy, full of energy and curiosity and I love to play. \nI'm also a great snuggle pup when I'm sleepy, but will go lay down in my bed by myself too.\nI've met dogs, cats, and kids, so with continued socialization I'll fit right into just about any family. \nI've learned some commands like sit and shake, and will sit and wait for my food. \nI just learned how to fetch a ball or a toy and will bring it right back. I am also doing well walking on a leash and riding in the car. \nAnd best of all, I'm house trained and will sleep quietly in my kennel all night. ",
-      "LastIntakeUnixTime": "1787159424",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1794243555"
-    },
-    {
       "ID": "3731",
       "Internal-ID": "214732440",
       "Name": "Bengie",
@@ -1296,85 +1192,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794870299"
-    },
-    {
-      "ID": "3738",
-      "Internal-ID": "214817114",
-      "Name": "Lucky",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "39",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1634446800,
-      "Age": 61,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/115b5ea220fd81e05f21f89c834e9130/06157c918f262af227fd4245ee3675cd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2307c64c4a2a7881fa0af9f912f89979/04487391859b46f6f5005a161cb995a6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d1c0ecb1e1a016b0239284e6e6eaf8d/725218c70d5e57eb7e3956d22a61f599.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fba8b0126e2441b9b437b4da62bdddb2/68bc073d7ba25e1d89c2d46903ab6d65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/511eb623d605ae1df2639d78802d4981/1a5afba8ef7035089cc81ca868e875b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/47414a2544d1022d5cd4143f79398dde/483acd9c1490a729d93fa05d9396b5a8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Shiba Inu",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Lucky is a sweet girl who loves being cuddled, pet, and loved on.  She’s great with other dogs, house trained, kennel trained, and is also easy to train.  She takes treats gently and is moderately food motivated.  She enjoys playing with toys, loves walks, and is just a great companion. \n\nLucky came to us with a bit of redness on her belly and seemed itchy. We’ve identified she has an allergy to some food and within a couple days of allergy friendly food and allergy meds she’s become even more relaxed and cuddly. \n\nShe’ll make an excellent companion, family pet, or best friend. \n",
-      "LastIntakeUnixTime": "1792483837",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793633407"
     },
     {
       "ID": "3743",
@@ -3301,6 +3118,110 @@
       "LastUpdatedUnixTime": "1794585405"
     },
     {
+      "ID": "3682",
+      "Internal-ID": "214320068",
+      "Name": "Cyndi",
+      "LitterGroupId": 9575387,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "23.6",
+      "Size": "Medium (25-59)",
+      "Altered": "No",
+      "DOBUnixTime": 1779944400,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/519de7604725571cc28cac7c0aea4529/a0118c8ef4bdfe61292191bce39751e5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/dec3851017b02c9b2c90e4b32222f67d/3e1cf2b7044fa6317c113908d8aba68a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0698fd51ba3bc232bfee1a94b7593a7f/eb849abea7f4ee4c6422fc5c078ce23a.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/6c3f9c9786f813e1172b8587f973f471/b97103da8c9afdb198d16a8630c05565.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4a6c08a51a40856c2d6f65a0c7aafd26/5b2fedaf59540a91c0e319774f95ae45.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cc29d2434b8d7db1f11dd96133bdf650/625e053533fbdc49a9b45326bb3e0ac7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cd3317c2e9a5ffc471a16c5bc686fb64/bfc148db2483b23d718839596da61091.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/57bdfd0d1477e6b62d7ecb9dbf7eab95/25015b7cf38220c4a7e0204268ac931d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8bfbf738ae4efecb030ddc9b2b267a5a/42193f99429fa36f8886897c4f6114f7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d6c0544f1dbfec8caeb590cac6b84fae/e2c94e0abc37131ca117e639ce9e992e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d9b1ff821a932305a4e3b6118f8fc570/01eb2d90105205453fbf3b8754d92897.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
+      "Color": "White/Apricot",
+      "Pattern": "Tick",
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Hi I'm Cyndi and I'm ready to steal your heart.\nI'm a typical puppy, full of energy and curiosity and I love to play. \nI'm also a great snuggle pup when I'm sleepy, but will go lay down in my bed by myself too.\nI've met dogs, cats, and kids, so with continued socialization I'll fit right into just about any family. \nI've learned some commands like sit and shake, and will sit and wait for my food. \nI just learned how to fetch a ball or a toy and will bring it right back. I am also doing well walking on a leash and riding in the car. \nAnd best of all, I'm house trained and will sleep quietly in my kennel all night. ",
+      "LastIntakeUnixTime": "1787159424",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "697731",
+          "AttributeName": "Parvo Survivor",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794945724"
+    },
+    {
       "ID": "3703",
       "Internal-ID": "214435037",
       "Name": "Seymour",
@@ -3607,6 +3528,85 @@
         }
       ],
       "LastUpdatedUnixTime": "1794594933"
+    },
+    {
+      "ID": "3738",
+      "Internal-ID": "214817114",
+      "Name": "Lucky",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "39",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1634446800,
+      "Age": 61,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/115b5ea220fd81e05f21f89c834e9130/06157c918f262af227fd4245ee3675cd.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2307c64c4a2a7881fa0af9f912f89979/04487391859b46f6f5005a161cb995a6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/8d1c0ecb1e1a016b0239284e6e6eaf8d/725218c70d5e57eb7e3956d22a61f599.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fba8b0126e2441b9b437b4da62bdddb2/68bc073d7ba25e1d89c2d46903ab6d65.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/511eb623d605ae1df2639d78802d4981/1a5afba8ef7035089cc81ca868e875b8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/47414a2544d1022d5cd4143f79398dde/483acd9c1490a729d93fa05d9396b5a8.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Husky/Shiba Inu",
+      "Color": "Black/White",
+      "Pattern": "Tricolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Lucky is a sweet girl who loves being cuddled, pet, and loved on.  She’s great with other dogs, house trained, kennel trained, and is also easy to train.  She takes treats gently and is moderately food motivated.  She enjoys playing with toys, loves walks, and is just a great companion. \n\nLucky came to us with a bit of redness on her belly and seemed itchy. We’ve identified she has an allergy to some food and within a couple days of allergy friendly food and allergy meds she’s become even more relaxed and cuddly. \n\nShe’ll make an excellent companion, family pet, or best friend. \n",
+      "LastIntakeUnixTime": "1792483837",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794927765"
     },
     {
       "ID": "3755",
@@ -4087,63 +4087,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791579384"
-    },
-    {
-      "ID": "3736",
-      "Internal-ID": "214807297",
-      "Name": "Eevee ",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "DiTC",
-      "InFoster": true,
-      "CurrentWeightPounds": "20",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1574488800,
-      "Age": 83,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/40294615c3a1d567ff500009ee544e86/6c05ff3b8d50277ed0fb702527745d0f.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/40294615c3a1d567ff500009ee544e86/6c05ff3b8d50277ed0fb702527745d0f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8b99750f2aa916ecf8a38a41e5b3eea/6299b869e7fe0494f342ec26eb45dda1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f2cb391e8fdf9a14a04a18b5b24ce520/dd8afdd9a4f664df1c1490f14d8c9936.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Dachshund/Mixed Breed (Small)",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "Eevee is a sweet and spunky almost 7 yr old dachshund mix. She loves fetch, snuggling on the couch, and being around her person. She comes from the south so she’s still getting used to the cold weather and snow. She’s had multiple households with other dogs and plays well with others.\n\nEevee is looking for a new home because of her owner’s changing living situation and work schedule. She would do best living with a single person who is home most of the time.",
-      "LastIntakeUnixTime": "1792287227",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1792287580"
     },
     {
       "ID": "3742",
