@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:59:29Z",
+  "updated": "2026-11-18T11:21:22Z",
   "count": 54,
   "animals": [
     {
@@ -195,7 +195,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1791305186"
+      "LastUpdatedUnixTime": "1794974853"
     },
     {
       "ID": "3200",
@@ -2593,12 +2593,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702282",
           "AttributeName": "FP:  Christina",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794074330"
+      "LastUpdatedUnixTime": "1794973592"
     },
     {
       "ID": "3761",
@@ -2704,12 +2709,17 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794324469"
+      "LastUpdatedUnixTime": "1794973713"
     },
     {
       "ID": "3764",
@@ -2750,7 +2760,7 @@
     {
       "ID": "3765",
       "Internal-ID": "215061288",
-      "Name": "Jason",
+      "Name": "Sisko",
       "LitterGroupId": null,
       "Type": "Dog",
       "CurrentLocation": {},
@@ -2770,14 +2780,21 @@
         "https://new-s3.shelterluv.com/profile-pictures/5b6abe5851e25785227140edf2f11834/47c1b530441168814942a6ebe2355583.jpeg"
       ],
       "Videos": [],
-      "Breed": "Collie, Border",
+      "Breed": "Collie, Border/Mixed Breed (Medium)",
       "Color": "Chocolate/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "",
       "LastIntakeUnixTime": "1794956769",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1794956804"
+      "LastUpdatedUnixTime": "1794973847"
     },
     {
       "ID": "3766",
@@ -3704,7 +3721,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794927765"
+      "LastUpdatedUnixTime": "1794977478"
     },
     {
       "ID": "3755",
