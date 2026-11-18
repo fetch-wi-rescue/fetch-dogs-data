@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T11:21:22Z",
-  "count": 54,
+  "updated": "2026-11-18T19:27:43Z",
+  "count": 55,
   "animals": [
     {
       "ID": "3279",
@@ -2537,10 +2537,10 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "17",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1779858000,
+      "Altered": "Yes",
+      "DOBUnixTime": 1779512400,
       "Age": 5,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb81217240a404a29780a15674dcf34d/a18be6a1808a0514bc5b0526d0208090.jpeg",
       "Photos": [
@@ -2552,9 +2552,9 @@
       "Color": "Black/White",
       "Pattern": "Tick",
       "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
         "Discount": 0,
         "Tax": 0,
         "IsVariable": false
@@ -2603,7 +2603,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794973592"
+      "LastUpdatedUnixTime": "1795018887"
     },
     {
       "ID": "3761",
@@ -2615,9 +2615,9 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "",
+      "CurrentWeightPounds": "49",
       "Size": "Medium (25-59)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1762495200,
       "Age": 12,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
@@ -2719,7 +2719,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794973713"
+      "LastUpdatedUnixTime": "1795018887"
     },
     {
       "ID": "3764",
@@ -2793,8 +2793,84 @@
       },
       "Description": "",
       "LastIntakeUnixTime": "1794956769",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794973847"
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795012482"
     },
     {
       "ID": "3766",
@@ -3137,7 +3213,7 @@
       "Sex": "Female",
       "Status": "M&G",
       "InFoster": true,
-      "CurrentWeightPounds": "32.6",
+      "CurrentWeightPounds": "33",
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1749618000,
@@ -3230,7 +3306,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794585405"
+      "LastUpdatedUnixTime": "1795029313"
     },
     {
       "ID": "3682",
@@ -4066,7 +4142,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794752817"
+      "LastUpdatedUnixTime": "1795028118"
     },
     {
       "ID": "763",
@@ -4152,6 +4228,98 @@
         }
       ],
       "LastUpdatedUnixTime": "1794188905"
+    },
+    {
+      "ID": "3578",
+      "Internal-ID": "213704197",
+      "Name": "Amara",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "DiTC",
+      "InFoster": true,
+      "CurrentWeightPounds": "62",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1751778000,
+      "Age": 16,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/85a195f83b60ad85c662835735fc3141/93c7a19454cb341160fc8fa6e8e5d544.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1859d5bc4fe7f70daa62326346266760/cda231be04756dbf7db07cd6e1072fb8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/06d8c7058e6801f4879265d316cf6074/024347528c8716173e2d180d6fe60ca5.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/25a395ad4c111afef601917e28b6760c/56c6d32fe727b1787596ed655049df47.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/b628fe9b9a73a4522a40d47012664366/6d3d9f4d486d8a43561ef21b19fdd0fc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/51ffe3ae466fe9023bec0113a57d7a94/9e11fefad0fafe621dc2c614db0c149e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/379f921e3bdcc4dd8d86ce6548e387ba/d922ca5761fd03d4524e92094f6a5752.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c4b4a8b2dbfa63fcad5db07c9eec2b1d/fa38261d43d483ae8add67e8fb11aca1.png",
+        "https://new-s3.shelterluv.com/profile-pictures/6d4640304e63ee3a568b6d4bc70d8c6f/4ed8b89e55d14b050a79be62ab2daf89.png",
+        "https://new-s3.shelterluv.com/profile-pictures/935dd60328f780783f65db2e14532f3d/b6f4cb3579a23154e29dd52d878107c2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/729538058d113304ad24f2ff6a722dd8/18accaabad928518fca49dab9cebaec4.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Pinscher, Doberman/Rottweiler",
+      "Color": "Black/Chocolate",
+      "Pattern": "Bicolor",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Amara is a smart sweet pup.  Although she's  in her grown up body at a svelte 62 pounds, she still a puppy at heart and sometimes those zoomies just need to get out.  She doesn't  always have zoomies under control and sometimes we get soooo excited we must greet you with a jump, we are working on it, but because of this, we would recommend  a household with no small children under 12.  She would love a fenced yard to show off her speed. Amara is house trained and crate trained.  She sleeps in the bedroom in her crate and just wants to be with you. Amara is extremely  food motivated and learns fast, although she does have a bit of an independent streak at times.  She would shine in a forever home committed to working on her training, with a little patience and some kibble, she could soon be \"Dog of the Year.\"",
+      "LastIntakeUnixTime": "1795021608",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "621458",
+          "AttributeName": "❌ No apartments",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637204",
+          "AttributeName": "High energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702286",
+          "AttributeName": "FP:  Jen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795023671"
     },
     {
       "ID": "3719",
