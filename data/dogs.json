@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T21:09:28Z",
-  "count": 51,
+  "updated": "2026-11-18T02:59:29Z",
+  "count": 54,
   "animals": [
     {
       "ID": "3279",
@@ -1382,7 +1382,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794797845"
+      "LastUpdatedUnixTime": "1794966487"
     },
     {
       "ID": "3724",
@@ -2710,6 +2710,104 @@
         }
       ],
       "LastUpdatedUnixTime": "1794324469"
+    },
+    {
+      "ID": "3764",
+      "Internal-ID": "215061287",
+      "Name": "Ramona",
+      "LitterGroupId": 9597504,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "60",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1685250000,
+      "Age": 41,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5257cc7aa4f13a9f7f3d0dfe73771e64/267594ef3c88b378fadb4d5c2e06d217.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5257cc7aa4f13a9f7f3d0dfe73771e64/267594ef3c88b378fadb4d5c2e06d217.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7abd930f97d9473894edfcb6a955fa22/7943d98910f03f8399414e3cbd28171c.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Bulldog, American/Mix",
+      "Color": "Fawn/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1794956769",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1794956804"
+    },
+    {
+      "ID": "3765",
+      "Internal-ID": "215061288",
+      "Name": "Jason",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "30.2",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1697864400,
+      "Age": 36,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f982702ecf4222b61dc307f49060f763/6b57bd102076c3f23df9322b4659084f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ba4e3de8121a9bbbcc2bb465b73c3f7f/14cc35badc1da2b6b7b860fefe51126b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b6abe5851e25785227140edf2f11834/47c1b530441168814942a6ebe2355583.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Collie, Border",
+      "Color": "Chocolate/White",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1794956769",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1794956804"
+    },
+    {
+      "ID": "3766",
+      "Internal-ID": "215061289",
+      "Name": "Hank",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "130",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1666846800,
+      "Age": 48,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/442824b665607b850cf0b2b75570f221/a18ac5be4c3ccd672abcf38a2ced5cb2.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/442824b665607b850cf0b2b75570f221/a18ac5be4c3ccd672abcf38a2ced5cb2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a33b8a384d230084dc43c175bb5c081d/7612fb7fa141c251ec3cdd76c301fabb.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Great Dane",
+      "Color": "Grey",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1794956769",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1794956804"
     },
     {
       "ID": "3664",
