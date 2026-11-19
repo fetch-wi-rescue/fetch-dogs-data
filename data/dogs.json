@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T01:20:20Z",
-  "count": 55,
+  "updated": "2026-11-19T08:59:47Z",
+  "count": 54,
   "animals": [
     {
       "ID": "3279",
@@ -16,7 +16,7 @@
       "Size": "Large (60-99)",
       "Altered": "Yes",
       "DOBUnixTime": 1731996000,
-      "Age": 23,
+      "Age": 24,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/21be7e6db17fe9c8b813f8d19bb56089/42a671f88134b397733e3ec681888d57.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/21be7e6db17fe9c8b813f8d19bb56089/42a671f88134b397733e3ec681888d57.jpeg",
@@ -529,7 +529,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1792604082"
+      "LastUpdatedUnixTime": "1795054650"
     },
     {
       "ID": "3579",
@@ -1216,9 +1216,9 @@
       "Altered": "No",
       "DOBUnixTime": 1788757200,
       "Age": 2,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fd12e5e14da2e72466cc91aca41b5a96/6c61170bf05985011da5dab1f789b3ce.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/77b111320acf3212392b55210d393d76/e9a70d9b0c9ad71c82a8c19482ec3c51.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/fd12e5e14da2e72466cc91aca41b5a96/6c61170bf05985011da5dab1f789b3ce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/77b111320acf3212392b55210d393d76/e9a70d9b0c9ad71c82a8c19482ec3c51.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/2c16aabc83e11d5b5d157f060e8b5734/068370fd560f2aa2e549f907eceb711f.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c72313f53bfd7a1fb24918136a1ce26e/7097278928714adedb3e9b99abbbdd43.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/75042833d80f986509c9f684d7196f30/7093218331fd58d552f40249599b2779.jpeg",
@@ -1239,7 +1239,15 @@
         "https://new-s3.shelterluv.com/profile-pictures/7b52201175072795210a52a8d041afc1/ffb12c477845178012257fe88b5573f0.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/dfe3c3d23a88a882472db80469cad55c/708e988a0b0881520a0f8c1ac031b22e.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/31d19b7f2a6f5acb2cfc9052120967a9/b2048c96b59b9b8d4028a2bf3c743a8b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f8561743b188e652468b31a155666237/1cf2774c837705bdcfab3f8d3f218dad.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/fd12e5e14da2e72466cc91aca41b5a96/6c61170bf05985011da5dab1f789b3ce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f8561743b188e652468b31a155666237/1cf2774c837705bdcfab3f8d3f218dad.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7e5328eddb1216edd97b99efab359d6e/0cd336813572feaf1c01ac5b4c677f7b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9601cb81464b7a783f5921165219491c/a5e20d38cb3155f97c5f04fd20b6e255.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4dc5859cf69f6438909f3fbd99a6622e/7b18eed8762905f9374632df85f4e0d4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8f4ef56bdbd9e6db9a590c6ae8638d9/d3c4ab8c7e0878ed0f79f3bd797ec5a1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/58928b9fbdc5c45a1bd59753b636d23c/53561eaf5d26bf2156af040d9e2aaf97.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c65a3bcf104955f50195a7704ce2019f/e0b26f07b6ba016a5ff95fcf7a6eb11d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/58f7931f8c24012fc19d518aedf2f4ea/1af5a2dd73cd3b29d7f2d5ae17d41084.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, American Pit Bull/Shepherd, German",
@@ -1287,7 +1295,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794966487"
+      "LastUpdatedUnixTime": "1795060071"
     },
     {
       "ID": "3724",
@@ -2318,7 +2326,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "15.6",
       "Size": "Small (0-24)",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1676959200,
       "Age": 44,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7628bde9af72cb3e463e58165d4ac936/b6575f156b7457094697fc0fa74d9f30.jpeg",
@@ -2373,7 +2381,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794858919"
+      "LastUpdatedUnixTime": "1795063196"
     },
     {
       "ID": "3759",
@@ -2993,7 +3001,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1763532000,
-      "Age": 11,
+      "Age": 12,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d6f2240cc5a219d62f5850662e1a35b4/2d7c40aff8da44d94806b7bab6dfdb81.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/d6f2240cc5a219d62f5850662e1a35b4/2d7c40aff8da44d94806b7bab6dfdb81.jpg",
@@ -3604,123 +3612,14 @@
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795030738"
-    },
-    {
-      "ID": "3735",
-      "Internal-ID": "214803601",
-      "Name": "Peanut",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "29",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1544508000,
-      "Age": 95,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/da602acb40d37e691e2009111ccefddd/9e0f10aea7720baad83a0af0f5039c32.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/49a921f7e556f462f335fdb2f2e1eb83/12a57dd62d35f40e14c238616a45aa13.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b781dad52f2d31ea74a09c0d58b3b4b5/142e27e78d4ff7344ba63dc218d51fd3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/7883b6122dd41d1defd6573e1292ddbe/70ac8e292f6b6a6d4d6af4f0666ed04a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4bdf081f8a406d0e706dabcfd51c2abd/11e7a9bbb40ab7404fddc6d2f45a9245.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ccb612224e89a2d7cfdfe89ce09b27f9/e2c2f44ddd986dd8f6c28257c17812f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c77511112e549608a928431029cac17d/e5ba08bfef90bfa2d13d7a7cbe7c2c54.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "White/Tan",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Looking for a loyal little shadow who only asks for treats and snuggles in return for endless love? Meet Peanut! She’s one of the gentlest, sweetest dogs you’ll ever meet. A few short strolls a day are all she needs before she happily leads you back home for her beauty rest.\n\nPeanut adores people and gets along with other dogs, though she’s a bit shy at first and needs a little time to warm up. She enjoys having her own cozy space, but don’t worry, she’ll still come find you for cuddles! She’s extremely food motivated and a quick learner, and she already walks well on a leash and is fully potty and crate trained.\n\nPeanut has some separation anxiety right now, mostly from the stress of her recent changes. Her previous owner worked through this with her before, and with patience and a steady routine, we’re confident she’ll settle in again. She also takes a daily prednisone pill, which she happily gobbles down in a spoonful of peanut butter (fitting, right?). It doesn’t affect her energy or personality at all.\n\nA calm home with plenty of cozy napping spots would be a dream come true for this little Peanut!",
-      "LastIntakeUnixTime": "1792209975",
-      "Attributes": [
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "❌ Not Good with Kids",
-          "Publish": "Yes"
         },
         {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296945",
-          "AttributeName": "✅ Good with older kids (12+)",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "621458",
-          "AttributeName": "❌ No apartments",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
+          "Internal-ID": "810933",
+          "AttributeName": "Would prefer a doggo sibling",
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795046164"
+      "LastUpdatedUnixTime": "1795061399"
     },
     {
       "ID": "3738",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T21:09:28Z",
+  "updated": "2026-11-19T08:59:47Z",
   "animals": [
     {
       "ID": "3458",
@@ -2142,6 +2142,15 @@
       "reason": "other",
       "disappearedDate": "2026-11-17T21:09:28Z",
       "status": "other"
+    },
+    {
+      "ID": "3735",
+      "Name": "Peanut",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/95b4395f66fcdd74a3bd821f7bb30384/335916fb1caa5c2692d68bab4523c179.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-19T08:59:47Z",
+      "status": "pending"
     }
   ]
 }
