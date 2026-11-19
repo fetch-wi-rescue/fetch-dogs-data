@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:27:43Z",
+  "updated": "2026-11-19T01:20:20Z",
   "count": 55,
   "animals": [
     {
@@ -971,101 +971,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794852348"
-    },
-    {
-      "ID": "3733",
-      "Internal-ID": "214732442",
-      "Name": "Callum",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "18",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1780722000,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b0c5cbe9cbffdd8e6f4e301382e53c3/e15e202ed8039fce8e40c891fe6b6853.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/9b0c5cbe9cbffdd8e6f4e301382e53c3/e15e202ed8039fce8e40c891fe6b6853.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bcfe7c27922a2b2d633ea661059248b0/dc2d6900820120829718a8f385ea7aba.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e9b42583bb27f34ced0b11f80d9d734e/596c01f1d44a6336feea1e72ab20b44d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/51d08bf4abc61be2259ecf536da0127e/6b99a83c29d3c84ba1cc5b4276b42cce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bbfb96cfa7c91fe32bfa870ba759ae49/61e4abe37b3613a43b12e91e11a972e1.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c9503c830727262639f2bedfa8dde70d/17152656e258d6f3222d9cb58270e53c.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b80c40f743f6f87469de2bd135f4b17d/af3312707591037c59e98c0e9e72109d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b66ec10088333261331e79c35de4e7be/e7fa02797fc3933838b137aa0e470c97.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/c069d818eec005c1c79870e2035b2079/ba1412e2e2c6d6cc11cea2cd7c7ba7e7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3c9f0bbcb29f108f8115d1018bd0d4b2/22870f02f9d843350a9faf69835849a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4c69785eedd631102c537fe008f39aa3/53327ae119f831fce98fe67fc8b8ae00.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8dae1129cee2f4806a733f1ff2b8bf1/1dbd58f5c4b77424aaabd0b4fd36a783.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/894446259cc3ebc92013291f4bfb8a03/6316e50cbc3cad9aeb4b1d653e7700ec.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/501ba408914c56d998f71ab526ad7f56/e2475ceda1d547b8e1caf6e5a9bd4c22.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e6d17b19cca1c2f89f1a26324cc05956/f1eb31b3a6dfb0b1c6ec63b7e0bdbc56.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5ad96dfb124a99f81f1a6328f313c3c7/db5ba105db6da3e5714bd4152ff4dc23.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a401a849431e49ef5ff458a435166093/d5650786f46716219755c439cda9c96e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d48607d0b1e8c6a4b26b947a3def571/a408d01d2c3cebbbfb0c61ac8eba4458.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2a4a150e6c752dc599a94f7c79701c10/5105822456a8deedd112d14a3fa3c0b2.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Cattle Dog, Australian (Red Heeler)",
-      "Color": "Red/Mahogany",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "🐾 Meet Callum! 🐾\n\nCallum is all smiles, snuggles, and puppy playfulness! 💙 This happy little guy loves to play with his favorite toys, romp around with other dogs, and soak up all the cuddles he can get. His favorite playmate is his sister, Cherokee, and he especially enjoys having another pup around to share in the fun!\n\nWhen he’s not busy playing, Callum is more than happy to snuggle up with his people and show off his sweet, smiley personality. He’s the perfect mix of playful energy and cuddly puppy love!\n\nCallum is ready to find his forever family to share all his love, puppy kisses, and happy little smiles with! 🐶❤️",
-      "LastIntakeUnixTime": "1791734599",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1793851194"
     },
     {
       "ID": "3737",
@@ -2620,12 +2525,14 @@
       "Altered": "Yes",
       "DOBUnixTime": 1762495200,
       "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/6ec296c8d60c771aae61e07aa8c96db5/a884f4367d7179b21e837121e169e797.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/502ac554fbc8cbabceee97c96b4de151/aef5e92611391b1d0816f3e48580f5af.JPG"
+        "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/502ac554fbc8cbabceee97c96b4de151/aef5e92611391b1d0816f3e48580f5af.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/8f998e1a97ab18fc4849332e09bd51d3/42d6f02cda0a0ea49be87f8a5a0d3692.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/57a669efd89d3037b000664a0ff1d55d/5e326680506a4f83b1906ab9c9232e3b.jpeg"
       ],
       "Videos": [
         {
@@ -2670,7 +2577,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "",
+      "Description": "Meet Maple! 🍁\n\nMaple is a beautiful one-year-old girl who recently arrived from Texas, where she and her sister were found roaming free. Despite her rough start, Maple has a gentle, loving personality and is ready to find her forever family.\n\nShe walks well on a leash, gets along with other dogs and cats, loves people kids included and is learning the ropes of home life. Maple is sweet, kind, and eager to please. She'll do best with someone willing to continue her training and help her become the confident dog she's meant to be.\n\nIf you're looking for a gentle companion with a heart of gold, Maple is waiting to meet you! ❤️",
       "LastIntakeUnixTime": "1794074340",
       "Attributes": [
         {
@@ -2719,7 +2626,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795018887"
+      "LastUpdatedUnixTime": "1795049782"
     },
     {
       "ID": "3764",
@@ -3607,6 +3514,101 @@
       "LastUpdatedUnixTime": "1794585218"
     },
     {
+      "ID": "3733",
+      "Internal-ID": "214732442",
+      "Name": "Callum",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "18",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1780722000,
+      "Age": 5,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/9b0c5cbe9cbffdd8e6f4e301382e53c3/e15e202ed8039fce8e40c891fe6b6853.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/9b0c5cbe9cbffdd8e6f4e301382e53c3/e15e202ed8039fce8e40c891fe6b6853.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bcfe7c27922a2b2d633ea661059248b0/dc2d6900820120829718a8f385ea7aba.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e9b42583bb27f34ced0b11f80d9d734e/596c01f1d44a6336feea1e72ab20b44d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/51d08bf4abc61be2259ecf536da0127e/6b99a83c29d3c84ba1cc5b4276b42cce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bbfb96cfa7c91fe32bfa870ba759ae49/61e4abe37b3613a43b12e91e11a972e1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c9503c830727262639f2bedfa8dde70d/17152656e258d6f3222d9cb58270e53c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b80c40f743f6f87469de2bd135f4b17d/af3312707591037c59e98c0e9e72109d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b66ec10088333261331e79c35de4e7be/e7fa02797fc3933838b137aa0e470c97.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c069d818eec005c1c79870e2035b2079/ba1412e2e2c6d6cc11cea2cd7c7ba7e7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3c9f0bbcb29f108f8115d1018bd0d4b2/22870f02f9d843350a9faf69835849a2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4c69785eedd631102c537fe008f39aa3/53327ae119f831fce98fe67fc8b8ae00.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8dae1129cee2f4806a733f1ff2b8bf1/1dbd58f5c4b77424aaabd0b4fd36a783.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/894446259cc3ebc92013291f4bfb8a03/6316e50cbc3cad9aeb4b1d653e7700ec.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/501ba408914c56d998f71ab526ad7f56/e2475ceda1d547b8e1caf6e5a9bd4c22.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e6d17b19cca1c2f89f1a26324cc05956/f1eb31b3a6dfb0b1c6ec63b7e0bdbc56.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5ad96dfb124a99f81f1a6328f313c3c7/db5ba105db6da3e5714bd4152ff4dc23.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a401a849431e49ef5ff458a435166093/d5650786f46716219755c439cda9c96e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d48607d0b1e8c6a4b26b947a3def571/a408d01d2c3cebbbfb0c61ac8eba4458.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2a4a150e6c752dc599a94f7c79701c10/5105822456a8deedd112d14a3fa3c0b2.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Cattle Dog, Australian (Red Heeler)",
+      "Color": "Red/Mahogany",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37340,
+        "Name": "Puppy + S/N deposit",
+        "Price": 600,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "🐾 Meet Callum! 🐾\n\nCallum is all smiles, snuggles, and puppy playfulness! 💙 This happy little guy loves to play with his favorite toys, romp around with other dogs, and soak up all the cuddles he can get. His favorite playmate is his sister, Cherokee, and he especially enjoys having another pup around to share in the fun!\n\nWhen he’s not busy playing, Callum is more than happy to snuggle up with his people and show off his sweet, smiley personality. He’s the perfect mix of playful energy and cuddly puppy love!\n\nCallum is ready to find his forever family to share all his love, puppy kisses, and happy little smiles with! 🐶❤️",
+      "LastIntakeUnixTime": "1791734599",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795030738"
+    },
+    {
       "ID": "3735",
       "Internal-ID": "214803601",
       "Name": "Peanut",
@@ -3718,7 +3720,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1794594933"
+      "LastUpdatedUnixTime": "1795046164"
     },
     {
       "ID": "3738",
