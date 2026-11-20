@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T00:44:34Z",
-  "count": 54,
+  "updated": "2026-11-20T07:55:56Z",
+  "count": 55,
   "animals": [
     {
       "ID": "3279",
@@ -1683,7 +1683,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1666242000,
-      "Age": 48,
+      "Age": 49,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/276d86dcc290bfff4b13403881554324/cfa413690a6747f576ff802f1283a9d2.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/276d86dcc290bfff4b13403881554324/cfa413690a6747f576ff802f1283a9d2.jpeg",
@@ -2815,6 +2815,79 @@
       "LastUpdatedUnixTime": "1795119436"
     },
     {
+      "ID": "3767",
+      "Internal-ID": "215089735",
+      "Name": "Tilly",
+      "LitterGroupId": 9628793,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "36",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1722786296,
+      "Age": 27,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d86c96e1607fe179e672a74200f3e3f/39742a12903e602cdb0610486ffc6320.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/98dd27aaf94402881e129ec7bd92c9e5/d5144cb797f0b73cb3ff2eb5340d4970.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b2867cd05d29f5976291cdaf45e54e0f/47b93c05c9436e395fa7dbc6cdba97b4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/39c9816be60dd3f1fca4c37f615f9abf/536c2977fd84bdde59dcd2456c3925e1.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1795137933",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795137957"
+    },
+    {
+      "ID": "3768",
+      "Internal-ID": "215089736",
+      "Name": "Columbo",
+      "LitterGroupId": 9628794,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Not available",
+      "InFoster": true,
+      "CurrentWeightPounds": "14",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1782709200,
+      "Age": 4,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/54decf4437db546cd89cd5b007cc69e2/3a47aff97a0f667a5f2c56424fc09677.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/54decf4437db546cd89cd5b007cc69e2/3a47aff97a0f667a5f2c56424fc09677.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever, Labrador/Shepherd, German",
+      "Color": "Black",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1795137933",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1795137957"
+    },
+    {
       "ID": "3664",
       "Internal-ID": "214287417",
       "Name": "Zombie ",
@@ -3012,7 +3085,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795112614"
+      "LastUpdatedUnixTime": "1795136816"
     },
     {
       "ID": "3238",
@@ -3330,7 +3403,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795095343"
+      "LastUpdatedUnixTime": "1795148239"
     },
     {
       "ID": "3682",
@@ -3526,109 +3599,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794416217"
-    },
-    {
-      "ID": "3720",
-      "Internal-ID": "214728111",
-      "Name": "Simba",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "57.9",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1629003600,
-      "Age": 63,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/da2e58b5e844eda8fbf86d5eb52775f7/1bd2457cec0a9595868caacd7f35e6fa.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/da2e58b5e844eda8fbf86d5eb52775f7/1bd2457cec0a9595868caacd7f35e6fa.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3f1efad37fd48f743c966767a73afd16/91203e57b910be55829f5813d144aa60.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/87f5e0a67bc350c80f205a1148399ef6/7d84e3659e0337debbb23b16edf4eada.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/48c488e361a68b2d03f39d343933fcf8/b29ff02cfab6a711a4f11e053be12b3d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/38dcb2c1f63ba28458a0af91d6bd80b0/b78ae3c4a4623e5997d19f468d3dfd54.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a885b6f723b1b46a3b82b39d14303ca6/40b4d77a942303083226f25268e74200.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/26ba950f3db9f784b8b977450a5b2b62/44e1e47b09a927101fd7eba61f6b1df4.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever, Golden/Shepherd",
-      "Color": "Brown/White",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Simba is a gentle, quirky good boy who loves people, cuddles, naps, squeaky toys, and car rides. He enjoys two walks a day with plenty of time to sniff and explore. He knows his basic commands and can free-roam in the home. He gets along great with cats and dogs but prefers calmer canine friends who won’t jump on his back. Loud noises can scare him, so he’d thrive in a quieter home. He occasionally barks but eventually settles down.\n\nSimba has perianal fistulas managed with medication, so his future family will need to keep up with his medical care. With patience and a loving home, this sweet boy will make a wonderful companion!",
-      "LastIntakeUnixTime": "1791600578",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795094988"
     },
     {
       "ID": "3733",
@@ -4077,7 +4047,14 @@
       "Breed": "Bernese Mountain Dog/Retriever, Golden",
       "Color": "Black/White",
       "Pattern": "None",
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "Kai is a 5-year-old, 85-pound Bernese Mountain Dog/Retriever mix with a heart as big as he is! ❤️ He's friendly, loving, loyal, well-mannered, and free-roam trusted. Kai gets along with other dogs and cats, loves playing fetch, going for walks, and rides great in the car.\n\nHis ideal home is with someone who has plenty of time to spend together making memories, going on adventures, and enjoying lots of companionship. If you're looking for a devoted best friend, Kai is your guy!",
       "LastIntakeUnixTime": "1793469098",
       "Attributes": [
@@ -4152,7 +4129,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795028118"
+      "LastUpdatedUnixTime": "1795147671"
     },
     {
       "ID": "763",

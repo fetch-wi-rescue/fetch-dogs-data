@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T08:59:47Z",
+  "updated": "2026-11-20T07:55:56Z",
   "animals": [
     {
       "ID": "3458",
@@ -2150,6 +2150,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-19T08:59:47Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3720",
+      "Name": "Simba",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/da2e58b5e844eda8fbf86d5eb52775f7/1bd2457cec0a9595868caacd7f35e6fa.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-20T07:55:56Z",
       "status": "pending"
     }
   ]
