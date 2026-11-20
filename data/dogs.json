@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T07:55:56Z",
-  "count": 55,
+  "updated": "2026-11-20T16:36:55Z",
+  "count": 53,
   "animals": [
     {
       "ID": "3279",
@@ -1471,11 +1471,11 @@
       "Altered": "Yes",
       "DOBUnixTime": 1762495200,
       "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
         "https://new-s3.shelterluv.com/profile-pictures/8f998e1a97ab18fc4849332e09bd51d3/42d6f02cda0a0ea49be87f8a5a0d3692.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/57a669efd89d3037b000664a0ff1d55d/5e326680506a4f83b1906ab9c9232e3b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b8888762c60fe00ac86eaacd55ab2e4d/48c3ad18b0113a4b9548764ca69038b5.jpeg"
       ],
@@ -1571,7 +1571,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795114332"
+      "LastUpdatedUnixTime": "1795186073"
     },
     {
       "ID": "3762",
@@ -2117,7 +2117,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860945"
+      "LastUpdatedUnixTime": "1795187313"
     },
     {
       "ID": "3750",
@@ -2824,7 +2824,7 @@
       "Sex": "Female",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "36",
+      "CurrentWeightPounds": "49.6",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1722786296,
@@ -2856,7 +2856,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795137957"
+      "LastUpdatedUnixTime": "1795187783"
     },
     {
       "ID": "3768",
@@ -2868,7 +2868,7 @@
       "Sex": "Male",
       "Status": "Not available",
       "InFoster": true,
-      "CurrentWeightPounds": "14",
+      "CurrentWeightPounds": "25.6",
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1782709200,
@@ -2885,7 +2885,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1795137933",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1795137957"
+      "LastUpdatedUnixTime": "1795188131"
     },
     {
       "ID": "3664",
@@ -2974,118 +2974,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794146761"
-    },
-    {
-      "ID": "3732",
-      "Internal-ID": "214732441",
-      "Name": "Kasey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Foster to Adopt",
-      "InFoster": true,
-      "CurrentWeightPounds": "47",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728232585,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8d98181c0d4191631631e19c9d50295/e00e0d69b85aa6fccf7bc284c528dfdc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d4b90e386c78dfdbe06a87d2723359f/80b9e6d5571b5fe2e0dfa2b08190487d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/90c8470c26f47accbb8945c4be01a227/be9465a32935b0a724689aab76572137.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ddf866f255e9a23e7a836ce1b4736dd/1aec91b92429cf6c9dded6bf8a6168b8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/60be705195ce181e4ac83a9a76a82efd/56713ce8731261de2d1747f1793b13c9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Kasey is a lovable, affectionate companion with a heart full of love and a personality that shines. Whether enjoying playtime, exploring new places, or curling up for a cozy nap, Kasey is endlessly entertaining. This sweet soul enjoys spending time with people and is always ready to offer companionship, loyalty, and plenty of smiles.\n\nKasey is looking for a forever home where she can feel safe, loved, and part of the family. With patience, kindness, and a little time to settle in, Kasey is sure to become your forever best friend. If you're searching for a loyal companion who will fill your life with love and joy, Kasey may be the perfect match.\n\nShe currently lives in a multi-dog and cat household and does just fine with everyone. She really prefers her people over her four-legged housemates though, so if you're looking to remain a single-dog family - Kasey will happily accept all your undivided attention.\n\nShe also has a reddish undertone to her fur - photos do not due her justice, so, you'll just need to meet her in person to see it for yourself! :)",
-      "LastIntakeUnixTime": "1793972813",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795136816"
     },
     {
       "ID": "3238",
@@ -4016,120 +3904,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794438654"
-    },
-    {
-      "ID": "3756",
-      "Internal-ID": "214942609",
-      "Name": "Kai",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "82",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1636002000,
-      "Age": 60,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6a387270ac47fc4a8c489b6e260b084a/d6bf2aed237c28174a0f895808b618cf.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6a387270ac47fc4a8c489b6e260b084a/d6bf2aed237c28174a0f895808b618cf.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/516fbd84893169ae2464b893b1e8ded7/9ee9315f616ade28be296f54a22b04bb.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b69986c30682ecfb4b2baa27b6a5bbd7/b5d7204582500a3be83881aacd1d31a2.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/704f91c12d62157bf4b62975ae39996f/6fec608086e2b6c489b95009162e282f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/61ea7bebc1aa32f93c640126ef9dbe96/ffd85fe1cff22212dcac030c64858967.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/80ea5e1e7a7e6a98e2b086d0a13f9055/b4bf33186e61a4e94e2edb0e88895906.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/335d856028906c7949285bbb6787f6a2/47088a2749f1e75507a05490aacd708d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/152edae1e5fab37df574933af4368cec/77668f9adb429f067921a24a694e6739.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Bernese Mountain Dog/Retriever, Golden",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Kai is a 5-year-old, 85-pound Bernese Mountain Dog/Retriever mix with a heart as big as he is! ❤️ He's friendly, loving, loyal, well-mannered, and free-roam trusted. Kai gets along with other dogs and cats, loves playing fetch, going for walks, and rides great in the car.\n\nHis ideal home is with someone who has plenty of time to spend together making memories, going on adventures, and enjoying lots of companionship. If you're looking for a devoted best friend, Kai is your guy!",
-      "LastIntakeUnixTime": "1793469098",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634898",
-          "AttributeName": "✅ Can free roam when humans are gone",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795147671"
     },
     {
       "ID": "763",
