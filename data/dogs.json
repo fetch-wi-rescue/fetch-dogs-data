@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:05:20Z",
+  "updated": "2026-11-20T00:44:34Z",
   "count": 54,
   "animals": [
     {
@@ -545,7 +545,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1732047217,
-      "Age": 23,
+      "Age": 24,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/088b2b8a78be6e3b28bbc074ef14524e/c15f53352ad3631a9c9d8276ceeab766.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/088b2b8a78be6e3b28bbc074ef14524e/c15f53352ad3631a9c9d8276ceeab766.jpeg",
@@ -869,6 +869,261 @@
         }
       ],
       "LastUpdatedUnixTime": "1794705031"
+    },
+    {
+      "ID": "3724",
+      "Internal-ID": "214732433",
+      "Name": "Lou",
+      "LitterGroupId": 9606924,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "16",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1727723039,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/547a5966ef4d24aa0c6b991c71aed265/653d06b47d46ab1ee7e1b9593aae2f87.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/547a5966ef4d24aa0c6b991c71aed265/653d06b47d46ab1ee7e1b9593aae2f87.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/6d556018c978a1c19b20146fcb440555/bb9f47c00167a05e1ed7fda33ea1c14c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/aea5af5a02d19f082d74166c6ef3a71d/abee495941c0b432446079473480cd02.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Mix",
+      "Color": "Tan",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Lou is the proud mama of this litter of chihuahua mix puppies, and she's every bit as sweet as her babies. A true social butterfly, she loves meeting new people and never turns down a chance to make a friend. She's housetrained, easygoing, and an all-around great dog who's done a wonderful job raising her pups — now it's her turn to find a family of her own.\n\nIf you're looking for a friendly, affectionate companion who's ready to settle in and be loved, Lou is the whole package.",
+      "LastIntakeUnixTime": "1791744780",
+      "Attributes": [],
+      "LastUpdatedUnixTime": "1795131025"
+    },
+    {
+      "ID": "3725",
+      "Internal-ID": "214732434",
+      "Name": "Susie",
+      "LitterGroupId": 9606924,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.937",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1790658000,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b1c26978ef015110bece1accc12e0a9f/81b05ee0df232e04cdcf8ac86b6e4cce.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b1c26978ef015110bece1accc12e0a9f/81b05ee0df232e04cdcf8ac86b6e4cce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7b3ae16c7e3c5917b4040b0c59dae506/21a399c634823726f7250dbe9f5b8464.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Mix",
+      "Color": "Black/Brown",
+      "Pattern": "Brindle",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Susie!\n\nSusie is a 7-week-old chihuahua mix and a friendly little cuddlebug at heart. She's playful and curious when there's fun to be had, but her favorite place is tucked into a warm lap for a nap. Sweet, affectionate, and always up for a wagging-tail hello, Susie is a big personality in the tiniest of packages.\n\nIf you're looking for a pint-sized companion to grow alongside, Susie might be your perfect match.",
+      "LastIntakeUnixTime": "1791744780",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795130962"
+    },
+    {
+      "ID": "3726",
+      "Internal-ID": "214732435",
+      "Name": "Lando",
+      "LitterGroupId": 9606924,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.9105",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1790658000,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/647c123eec8e193f62a02b1a83aec97e/a63a5e0d947492552a10335ae89b17c1.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/647c123eec8e193f62a02b1a83aec97e/a63a5e0d947492552a10335ae89b17c1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d0ebb8bbb7b9d888f54bbd6211832b60/8581ac7b3433b4fe7fa257f9c7c75026.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Mix",
+      "Color": "Tan",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Lando!\n\nLando is a 7-week-old chihuahua mix and a playful little goofball through and through. He loves tumbling with his littermates, pouncing on anything that squeaks, and then crashing hard for a cuddle once the zoomies wear off. Friendly and curious, Lando greets the world with an open heart and a wagging tail — a big spirit in a tiny package.\n\nIf you're looking for a pint-sized companion to grow alongside, Lando might be your perfect match.",
+      "LastIntakeUnixTime": "1791744780",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795131057"
+    },
+    {
+      "ID": "3727",
+      "Internal-ID": "214732436",
+      "Name": "Oscar",
+      "LitterGroupId": 9606924,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.8047",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1790658000,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b189f296c1f2a558cd619ae4b1606fd6/80ca88c9a75e06eb53622fafb5a7103b.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b189f296c1f2a558cd619ae4b1606fd6/80ca88c9a75e06eb53622fafb5a7103b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fd60f28d175544f31a54295b29fd47e5/ca36aa22a0a56b43d4238ab1d837fced.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Mix",
+      "Color": "Tan/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": null,
+      "Description": "Meet Oscar!\n\nOscar is a 7-week-old chihuahua mix with a big, friendly personality and a wagging tail for everyone he meets. He's usually the first to trot over and say hello, happy to chase a toy one minute and settle into a warm lap the next. Confident, playful, and affectionate, Oscar is a tiny pup with a whole lot of heart — and he's ready to find a lap to call his own.\n\nIf you're looking for a pint-sized companion to grow alongside, Oscar might be your perfect match.",
+      "LastIntakeUnixTime": "1791744780",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795131005"
+    },
+    {
+      "ID": "3728",
+      "Internal-ID": "214732437",
+      "Name": "Kimi",
+      "LitterGroupId": 9606924,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "0.6438",
+      "Size": "Small (0-24)",
+      "Altered": "Unknown",
+      "DOBUnixTime": 1790658000,
+      "Age": 1,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f6f91ce44e5021a06b272ef19ca41807/579971d501265c33cfb2469345844f76.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f6f91ce44e5021a06b272ef19ca41807/579971d501265c33cfb2469345844f76.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/821ba0e1e4a8c361443cfa597ef802f7/d0d166db8a17cae909e84e1076671a0b.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Chihuahua/Mix",
+      "Color": "Tan",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "",
+      "LastIntakeUnixTime": "1791744780",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296942",
+          "AttributeName": "Typical puppy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "715250",
+          "AttributeName": "NPOG pup",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795131087"
     },
     {
       "ID": "3731",
@@ -1202,6 +1457,123 @@
       "LastUpdatedUnixTime": "1794369055"
     },
     {
+      "ID": "3761",
+      "Internal-ID": "214988661",
+      "Name": "Maple",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "49",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1762495200,
+      "Age": 12,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
+        "https://new-s3.shelterluv.com/profile-pictures/8f998e1a97ab18fc4849332e09bd51d3/42d6f02cda0a0ea49be87f8a5a0d3692.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/57a669efd89d3037b000664a0ff1d55d/5e326680506a4f83b1906ab9c9232e3b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b8888762c60fe00ac86eaacd55ab2e4d/48c3ad18b0113a4b9548764ca69038b5.jpeg"
+      ],
+      "Videos": [
+        {
+          "VideoId": "ZWuPbKsp0xU",
+          "EmbedUrl": "//www.youtube.com/embed/ZWuPbKsp0xU?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=ZWuPbKsp0xU",
+          "ThumbUrl": "https://img.youtube.com/vi/ZWuPbKsp0xU/0.jpg"
+        },
+        {
+          "VideoId": "nifV-0Vm8Us",
+          "EmbedUrl": "//www.youtube.com/embed/nifV-0Vm8Us?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=nifV-0Vm8Us",
+          "ThumbUrl": "https://img.youtube.com/vi/nifV-0Vm8Us/0.jpg"
+        },
+        {
+          "VideoId": "Oc6IllcljVE",
+          "EmbedUrl": "//www.youtube.com/embed/Oc6IllcljVE?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=Oc6IllcljVE",
+          "ThumbUrl": "https://img.youtube.com/vi/Oc6IllcljVE/0.jpg"
+        },
+        {
+          "VideoId": "8NmiU6oubAY",
+          "EmbedUrl": "//www.youtube.com/embed/8NmiU6oubAY?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=8NmiU6oubAY",
+          "ThumbUrl": "https://img.youtube.com/vi/8NmiU6oubAY/0.jpg"
+        },
+        {
+          "VideoId": "zCXBE2uCGv0",
+          "EmbedUrl": "//www.youtube.com/embed/zCXBE2uCGv0?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
+          "YoutubeUrl": "https://www.youtube.com/watch?v=zCXBE2uCGv0",
+          "ThumbUrl": "https://img.youtube.com/vi/zCXBE2uCGv0/0.jpg"
+        }
+      ],
+      "Breed": "Mixed Breed (Medium)",
+      "Color": "Yellow/Blond",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet Maple! 🍁\n\nMaple is a beautiful one-year-old girl who recently arrived from Texas, where she and her sister were found roaming free. Despite her free spirit she is remarkably well-mannered.  Maple has a gentle, loving personality and is ready to find her forever family.\n\nShe walks well on a leash, gets along with other dogs and cats, loves people, kids included and is learning the ropes of home life. She is crate trained but can also free roam if food and shoes are put away. Maple is sweet, kind, and eager to please. She'll do best with someone willing to continue her training and help her become the confident dog she's meant to be.\n\nIf you're looking for a gentle companion with a heart of gold, Maple is waiting to meet you! ❤️",
+      "LastIntakeUnixTime": "1794074340",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702285",
+          "AttributeName": "FP:  Kelsa",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795114332"
+    },
+    {
       "ID": "3762",
       "Internal-ID": "214990617",
       "Name": "Dodger",
@@ -1296,263 +1668,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1795060071"
-    },
-    {
-      "ID": "3724",
-      "Internal-ID": "214732433",
-      "Name": "Lou",
-      "LitterGroupId": 9606924,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "16",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1727723039,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/6d556018c978a1c19b20146fcb440555/bb9f47c00167a05e1ed7fda33ea1c14c.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/6d556018c978a1c19b20146fcb440555/bb9f47c00167a05e1ed7fda33ea1c14c.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Mix",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791744780",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794799339"
-    },
-    {
-      "ID": "3725",
-      "Internal-ID": "214732434",
-      "Name": "Susie",
-      "LitterGroupId": 9606924,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "0.937",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1790658000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7b3ae16c7e3c5917b4040b0c59dae506/21a399c634823726f7250dbe9f5b8464.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7b3ae16c7e3c5917b4040b0c59dae506/21a399c634823726f7250dbe9f5b8464.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Mix",
-      "Color": "Black/Brown",
-      "Pattern": "Brindle",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791744780",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794799243"
-    },
-    {
-      "ID": "3726",
-      "Internal-ID": "214732435",
-      "Name": "Lando",
-      "LitterGroupId": 9606924,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "0.9105",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1790658000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/d0ebb8bbb7b9d888f54bbd6211832b60/8581ac7b3433b4fe7fa257f9c7c75026.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/d0ebb8bbb7b9d888f54bbd6211832b60/8581ac7b3433b4fe7fa257f9c7c75026.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Mix",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791744780",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794799370"
-    },
-    {
-      "ID": "3727",
-      "Internal-ID": "214732436",
-      "Name": "Oscar",
-      "LitterGroupId": 9606924,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "0.8047",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1790658000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fd60f28d175544f31a54295b29fd47e5/ca36aa22a0a56b43d4238ab1d837fced.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/fd60f28d175544f31a54295b29fd47e5/ca36aa22a0a56b43d4238ab1d837fced.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Mix",
-      "Color": "Tan/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791744780",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794799268"
-    },
-    {
-      "ID": "3728",
-      "Internal-ID": "214732437",
-      "Name": "Kimi",
-      "LitterGroupId": 9606924,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "0.6438",
-      "Size": "Small (0-24)",
-      "Altered": "Unknown",
-      "DOBUnixTime": 1790658000,
-      "Age": 1,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/821ba0e1e4a8c361443cfa597ef802f7/d0d166db8a17cae909e84e1076671a0b.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/821ba0e1e4a8c361443cfa597ef802f7/d0d166db8a17cae909e84e1076671a0b.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Chihuahua/Mix",
-      "Color": "Tan",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1791744780",
-      "Attributes": [],
-      "LastUpdatedUnixTime": "1794799395"
-    },
-    {
-      "ID": "3732",
-      "Internal-ID": "214732441",
-      "Name": "Kasey",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "47",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1728232585,
-      "Age": 25,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/a8d98181c0d4191631631e19c9d50295/e00e0d69b85aa6fccf7bc284c528dfdc.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0d4b90e386c78dfdbe06a87d2723359f/80b9e6d5571b5fe2e0dfa2b08190487d.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/90c8470c26f47accbb8945c4be01a227/be9465a32935b0a724689aab76572137.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/7ddf866f255e9a23e7a836ce1b4736dd/1aec91b92429cf6c9dded6bf8a6168b8.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/60be705195ce181e4ac83a9a76a82efd/56713ce8731261de2d1747f1793b13c9.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Retriever/Mixed Breed (Medium)",
-      "Color": "Black/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Kasey is a lovable, affectionate companion with a heart full of love and a personality that shines. Whether enjoying playtime, exploring new places, or curling up for a cozy nap, Kasey is endlessly entertaining. This sweet soul enjoys spending time with people and is always ready to offer companionship, loyalty, and plenty of smiles.\n\nKasey is looking for a forever home where she can feel safe, loved, and part of the family. With patience, kindness, and a little time to settle in, Kasey is sure to become your forever best friend. If you're searching for a loyal companion who will fill your life with love and joy, Kasey may be the perfect match.\n\nShe currently lives in a multi-dog and cat household and does just fine with everyone. She really prefers her people over her four-legged housemates though, so if you're looking to remain a single-dog family - Kasey will happily accept all your undivided attention.\n\nShe also has a reddish undertone to her fur - photos do not due her justice, so, you'll just need to meet her in person to see it for yourself! :)",
-      "LastIntakeUnixTime": "1793972813",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634879",
-          "AttributeName": "⚠ Unknown with kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "810934",
-          "AttributeName": "Wouldn't mind being an only dog",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1794839974"
     },
     {
       "ID": "3741",
@@ -2519,125 +2634,6 @@
       "LastUpdatedUnixTime": "1795018887"
     },
     {
-      "ID": "3761",
-      "Internal-ID": "214988661",
-      "Name": "Maple",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "49",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1762495200,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/68906bfe01a5eb82401915a066676a02/5d9fdf3854c22199a04f20e013ac20e1.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/502ac554fbc8cbabceee97c96b4de151/aef5e92611391b1d0816f3e48580f5af.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/8f998e1a97ab18fc4849332e09bd51d3/42d6f02cda0a0ea49be87f8a5a0d3692.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57a669efd89d3037b000664a0ff1d55d/5e326680506a4f83b1906ab9c9232e3b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8888762c60fe00ac86eaacd55ab2e4d/48c3ad18b0113a4b9548764ca69038b5.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "ZWuPbKsp0xU",
-          "EmbedUrl": "//www.youtube.com/embed/ZWuPbKsp0xU?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=ZWuPbKsp0xU",
-          "ThumbUrl": "https://img.youtube.com/vi/ZWuPbKsp0xU/0.jpg"
-        },
-        {
-          "VideoId": "nifV-0Vm8Us",
-          "EmbedUrl": "//www.youtube.com/embed/nifV-0Vm8Us?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=nifV-0Vm8Us",
-          "ThumbUrl": "https://img.youtube.com/vi/nifV-0Vm8Us/0.jpg"
-        },
-        {
-          "VideoId": "Oc6IllcljVE",
-          "EmbedUrl": "//www.youtube.com/embed/Oc6IllcljVE?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=Oc6IllcljVE",
-          "ThumbUrl": "https://img.youtube.com/vi/Oc6IllcljVE/0.jpg"
-        },
-        {
-          "VideoId": "8NmiU6oubAY",
-          "EmbedUrl": "//www.youtube.com/embed/8NmiU6oubAY?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=8NmiU6oubAY",
-          "ThumbUrl": "https://img.youtube.com/vi/8NmiU6oubAY/0.jpg"
-        },
-        {
-          "VideoId": "zCXBE2uCGv0",
-          "EmbedUrl": "//www.youtube.com/embed/zCXBE2uCGv0?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=zCXBE2uCGv0",
-          "ThumbUrl": "https://img.youtube.com/vi/zCXBE2uCGv0/0.jpg"
-        }
-      ],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "Yellow/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Maple! 🍁\n\nMaple is a beautiful one-year-old girl who recently arrived from Texas, where she and her sister were found roaming free. Despite her free spirit she is remarkably well-mannered.  Maple has a gentle, loving personality and is ready to find her forever family.\n\nShe walks well on a leash, gets along with other dogs and cats, loves people, kids included and is learning the ropes of home life. She is crate trained but can also free roam if food and shoes are put away. Maple is sweet, kind, and eager to please. She'll do best with someone willing to continue her training and help her become the confident dog she's meant to be.\n\nIf you're looking for a gentle companion with a heart of gold, Maple is waiting to meet you! ❤️",
-      "LastIntakeUnixTime": "1794074340",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795110544"
-    },
-    {
       "ID": "3764",
       "Internal-ID": "215061287",
       "Name": "Ramona",
@@ -2671,7 +2667,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1794956804"
+      "LastUpdatedUnixTime": "1795119436"
     },
     {
       "ID": "3765",
@@ -2786,7 +2782,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795012482"
+      "LastUpdatedUnixTime": "1795119436"
     },
     {
       "ID": "3766",
@@ -2816,7 +2812,7 @@
       "Description": "",
       "LastIntakeUnixTime": "1794956769",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1794956804"
+      "LastUpdatedUnixTime": "1795119436"
     },
     {
       "ID": "3664",
@@ -2905,6 +2901,118 @@
         }
       ],
       "LastUpdatedUnixTime": "1794146761"
+    },
+    {
+      "ID": "3732",
+      "Internal-ID": "214732441",
+      "Name": "Kasey",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Foster to Adopt",
+      "InFoster": true,
+      "CurrentWeightPounds": "47",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1728232585,
+      "Age": 25,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/b62578b0bffa0c195a690d587b376be7/36a83d6e7a9eb15af8e3ed9c1a80e24e.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/a8d98181c0d4191631631e19c9d50295/e00e0d69b85aa6fccf7bc284c528dfdc.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/0d4b90e386c78dfdbe06a87d2723359f/80b9e6d5571b5fe2e0dfa2b08190487d.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/90c8470c26f47accbb8945c4be01a227/be9465a32935b0a724689aab76572137.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/7ddf866f255e9a23e7a836ce1b4736dd/1aec91b92429cf6c9dded6bf8a6168b8.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/60be705195ce181e4ac83a9a76a82efd/56713ce8731261de2d1747f1793b13c9.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Retriever/Mixed Breed (Medium)",
+      "Color": "Black/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Kasey is a lovable, affectionate companion with a heart full of love and a personality that shines. Whether enjoying playtime, exploring new places, or curling up for a cozy nap, Kasey is endlessly entertaining. This sweet soul enjoys spending time with people and is always ready to offer companionship, loyalty, and plenty of smiles.\n\nKasey is looking for a forever home where she can feel safe, loved, and part of the family. With patience, kindness, and a little time to settle in, Kasey is sure to become your forever best friend. If you're searching for a loyal companion who will fill your life with love and joy, Kasey may be the perfect match.\n\nShe currently lives in a multi-dog and cat household and does just fine with everyone. She really prefers her people over her four-legged housemates though, so if you're looking to remain a single-dog family - Kasey will happily accept all your undivided attention.\n\nShe also has a reddish undertone to her fur - photos do not due her justice, so, you'll just need to meet her in person to see it for yourself! :)",
+      "LastIntakeUnixTime": "1793972813",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634879",
+          "AttributeName": "⚠ Unknown with kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702281",
+          "AttributeName": "FP:  Jaden",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "810934",
+          "AttributeName": "Wouldn't mind being an only dog",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795112614"
     },
     {
       "ID": "3238",
