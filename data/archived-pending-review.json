@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:36:55Z",
+  "updated": "2026-11-21T03:40:05Z",
   "animals": [
     {
       "ID": "3458",
@@ -2177,6 +2177,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-20T16:36:55Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3663",
+      "Name": "Ciabatta",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/12ed93cd75ce60b88176ac2f215f05ba/3c005816359df02832804e445e64f763.jpg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-21T03:40:05Z",
       "status": "pending"
     }
   ]
