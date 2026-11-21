@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T18:38:23Z",
-  "count": 51,
+  "updated": "2026-11-21T23:39:10Z",
+  "count": 50,
   "animals": [
     {
       "ID": "3279",
@@ -1112,7 +1112,7 @@
       "Description": "Lou is the proud mama of this litter of chihuahua mix puppies, and she's every bit as sweet as her babies. A true social butterfly, she loves meeting new people and never turns down a chance to make a friend. She's housetrained, easygoing, and an all-around great dog who's done a wonderful job raising her pups — now it's her turn to find a family of her own.\n\nIf you're looking for a friendly, affectionate companion who's ready to settle in and be loved, Lou is the whole package.",
       "LastIntakeUnixTime": "1791744780",
       "Attributes": [],
-      "LastUpdatedUnixTime": "1795131025"
+      "LastUpdatedUnixTime": "1795301336"
     },
     {
       "ID": "3725",
@@ -1680,7 +1680,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1626893452,
-      "Age": 63,
+      "Age": 64,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/b0f74db9eea7c0c4d5e5bc26f09b13ec/821ef38b4d352acf6aa4b21e0c5df5a1.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/b0f74db9eea7c0c4d5e5bc26f09b13ec/821ef38b4d352acf6aa4b21e0c5df5a1.jpeg",
@@ -3085,10 +3085,12 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/9d86c96e1607fe179e672a74200f3e3f/39742a12903e602cdb0610486ffc6320.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/98dd27aaf94402881e129ec7bd92c9e5/d5144cb797f0b73cb3ff2eb5340d4970.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2867cd05d29f5976291cdaf45e54e0f/47b93c05c9436e395fa7dbc6cdba97b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/39c9816be60dd3f1fca4c37f615f9abf/536c2977fd84bdde59dcd2456c3925e1.jpg"
+        "https://new-s3.shelterluv.com/profile-pictures/39c9816be60dd3f1fca4c37f615f9abf/536c2977fd84bdde59dcd2456c3925e1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/07400d2192aa4087554199d70208fef7/13496e2579962d11d391ebfa46093424.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d429b234221e05bb34af66e79864109b/41f0e76825d89c0b74595d710d14413a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a7c781423b18f4b56f9a23b80c5d08f/bb8c66c43e169e0e11ec136f89c902f9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cf6c2ad2658e3dc8235c8f6b78e60d79/ec2f846ea7046656ee2de0c8801a3f06.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a50b82762e6ce36d257c91e4c95548fb/563877736308fc4aaf77ae04d8b84bfa.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
@@ -3104,6 +3106,46 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
@@ -3114,7 +3156,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795280904"
+      "LastUpdatedUnixTime": "1795290616"
     },
     {
       "ID": "3768",
@@ -3324,123 +3366,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794977478"
-    },
-    {
-      "ID": "3761",
-      "Internal-ID": "214988661",
-      "Name": "Maple",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "49",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1762495200,
-      "Age": 12,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
-        "https://new-s3.shelterluv.com/profile-pictures/8f998e1a97ab18fc4849332e09bd51d3/42d6f02cda0a0ea49be87f8a5a0d3692.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b3840cf7d4db6c20c7ad7d95b3cca3ff/5e933912e1f9b49530f21a755908dd2a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57a669efd89d3037b000664a0ff1d55d/5e326680506a4f83b1906ab9c9232e3b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b8888762c60fe00ac86eaacd55ab2e4d/48c3ad18b0113a4b9548764ca69038b5.jpeg"
-      ],
-      "Videos": [
-        {
-          "VideoId": "ZWuPbKsp0xU",
-          "EmbedUrl": "//www.youtube.com/embed/ZWuPbKsp0xU?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=ZWuPbKsp0xU",
-          "ThumbUrl": "https://img.youtube.com/vi/ZWuPbKsp0xU/0.jpg"
-        },
-        {
-          "VideoId": "nifV-0Vm8Us",
-          "EmbedUrl": "//www.youtube.com/embed/nifV-0Vm8Us?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=nifV-0Vm8Us",
-          "ThumbUrl": "https://img.youtube.com/vi/nifV-0Vm8Us/0.jpg"
-        },
-        {
-          "VideoId": "Oc6IllcljVE",
-          "EmbedUrl": "//www.youtube.com/embed/Oc6IllcljVE?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=Oc6IllcljVE",
-          "ThumbUrl": "https://img.youtube.com/vi/Oc6IllcljVE/0.jpg"
-        },
-        {
-          "VideoId": "8NmiU6oubAY",
-          "EmbedUrl": "//www.youtube.com/embed/8NmiU6oubAY?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=8NmiU6oubAY",
-          "ThumbUrl": "https://img.youtube.com/vi/8NmiU6oubAY/0.jpg"
-        },
-        {
-          "VideoId": "zCXBE2uCGv0",
-          "EmbedUrl": "//www.youtube.com/embed/zCXBE2uCGv0?rel=0&wmode=opaque&controls=1&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fnew.shelterluv.com",
-          "YoutubeUrl": "https://www.youtube.com/watch?v=zCXBE2uCGv0",
-          "ThumbUrl": "https://img.youtube.com/vi/zCXBE2uCGv0/0.jpg"
-        }
-      ],
-      "Breed": "Mixed Breed (Medium)",
-      "Color": "Yellow/Blond",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet Maple! 🍁\n\nMaple is a beautiful one-year-old girl who recently arrived from Texas, where she and her sister were found roaming free. Despite her free spirit she is remarkably well-mannered.  Maple has a gentle, loving personality and is ready to find her forever family.\n\nShe walks well on a leash, gets along with other dogs and cats, loves people, kids included and is learning the ropes of home life. She is crate trained but can also free roam if food and shoes are put away. Maple is sweet, kind, and eager to please. She'll do best with someone willing to continue her training and help her become the confident dog she's meant to be.\n\nIf you're looking for a gentle companion with a heart of gold, Maple is waiting to meet you! ❤️",
-      "LastIntakeUnixTime": "1794074340",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702285",
-          "AttributeName": "FP:  Kelsa",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795272226"
     },
     {
       "ID": "3762",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:56:22Z",
+  "updated": "2026-11-21T23:39:10Z",
   "animals": [
     {
       "ID": "3458",
@@ -2195,6 +2195,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-21T11:56:22Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3761",
+      "Name": "Maple",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7f16733495b004cd0a57489b7c7fe64b/ca6573e3ffef37e9515e867932449443.JPG",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-21T23:39:10Z",
       "status": "pending"
     }
   ]
