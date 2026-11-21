@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T03:40:05Z",
-  "count": 52,
+  "updated": "2026-11-21T11:56:22Z",
+  "count": 51,
   "animals": [
     {
       "ID": "3279",
@@ -432,7 +432,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1708495200,
-      "Age": 32,
+      "Age": 33,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/31c18f4406c634ef6dde16e972a6921f/756b8a0f43b9160cbc1130f5c4fc0ab4.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/31c18f4406c634ef6dde16e972a6921f/756b8a0f43b9160cbc1130f5c4fc0ab4.jpeg",
@@ -2092,10 +2092,11 @@
       "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a3abc0e71fe0c934bb5a3afb9d9c5b1c/f45e5ebd1e6577f0132f7565fb7ab57f.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3cd3c22a2187e92e2adeb5da470ee2c0/410a4099d0ca46c396dfe212bb793591.jpeg",
       "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a3abc0e71fe0c934bb5a3afb9d9c5b1c/f45e5ebd1e6577f0132f7565fb7ab57f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3cd3c22a2187e92e2adeb5da470ee2c0/410a4099d0ca46c396dfe212bb793591.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/3cd3c22a2187e92e2adeb5da470ee2c0/410a4099d0ca46c396dfe212bb793591.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/1a9aaab29d41c7fd55eb00cb777a8f82/3f7c0ef44c042c4e4361796f192d4873.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a3abc0e71fe0c934bb5a3afb9d9c5b1c/f45e5ebd1e6577f0132f7565fb7ab57f.jpeg"
       ],
       "Videos": [],
       "Breed": "Shepherd, German/Mixed Breed (Medium)",
@@ -2128,7 +2129,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860709"
+      "LastUpdatedUnixTime": "1795233055"
     },
     {
       "ID": "3746",
@@ -2148,6 +2149,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fe542f5caa03ff902873ca2dd823f5ae/a5fd517dbcb5e65c7c30d4b1b5750a73.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/fe542f5caa03ff902873ca2dd823f5ae/a5fd517dbcb5e65c7c30d4b1b5750a73.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9cd3aa9c4293a2c33b0a00fc3c6e1283/f2c2d0b984db2e37309a8890e08670b2.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5762e986682c745c97ecc1951a4793b3/5e5d715e3ab407f0ba762ced51448283.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ced12d30fe83c83305c76cc00cff1d6e/becc3f74eb45258803b13201f9a6c01e.jpeg"
       ],
       "Videos": [],
@@ -2181,7 +2184,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860681"
+      "LastUpdatedUnixTime": "1795233067"
     },
     {
       "ID": "3747",
@@ -2201,6 +2204,7 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e5b13e45fbe256468ecf113a32ed94af/baf786d63fbe2e7f125191a68ed2eb35.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e5b13e45fbe256468ecf113a32ed94af/baf786d63fbe2e7f125191a68ed2eb35.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/719a7d7d44bbd9ffb73548b890608788/ddcda52573395fd73de22b8fc5456c31.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/0ee79397e767fa8e426fe8f241e039c2/75485147e5c43db6db0c2d134937d8d7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e908e278f96e1851549571d00701d511/bf14e7f721be15f10dc33c1c97954aef.jpeg"
       ],
@@ -2235,7 +2239,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860646"
+      "LastUpdatedUnixTime": "1795232951"
     },
     {
       "ID": "3748",
@@ -2252,8 +2256,11 @@
       "Altered": "No",
       "DOBUnixTime": 1792731600,
       "Age": 0,
-      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8175a31fb208623b51966b349d085e67/3b098de63e904de786648c760a14964f.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/8175a31fb208623b51966b349d085e67/3b098de63e904de786648c760a14964f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d6602948737a77cac7b6430a84e7519b/ba101d305a56cd4167a18b47ab611423.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/c032b656ab9c7b1e15bb45fb4338443b/7391775975ffaf69bb529306dec38be4.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/114bcae323f76d0dad1c4f841d282913/e989ed1d37172ab9f2d82782de073f50.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/7d50e2134c9a9847655eec8cafc442f7/82c7bcbd92887f12e53b2c26bb073eec.jpeg"
       ],
@@ -2288,7 +2295,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860920"
+      "LastUpdatedUnixTime": "1795232970"
     },
     {
       "ID": "3749",
@@ -2308,6 +2315,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/21889499d72074d3a222bd4786b08428/2909bc2c11099c749267c1e46ea3b161.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/21889499d72074d3a222bd4786b08428/2909bc2c11099c749267c1e46ea3b161.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/09d62333fc17e5e5e36d70b92f224721/0f675ab6c24a27a27e484061d159d5b3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/10f9190a78876b09261e9bbb4806c245/d69d747c9a7f7116696e07d1f2fd860a.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/b3042ceff627fb7820eb2504a2b3725a/642bd2e77ec259cd9cfe7a3bd082b9a0.jpeg"
       ],
       "Videos": [],
@@ -2341,7 +2350,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795187313"
+      "LastUpdatedUnixTime": "1795233080"
     },
     {
       "ID": "3750",
@@ -2361,6 +2370,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ced184cb05b3c875770d47560ada3760/e1dd8cc8b656fb4da95d98faa18a4ef6.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/ced184cb05b3c875770d47560ada3760/e1dd8cc8b656fb4da95d98faa18a4ef6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/904823cac08dc303fdffb73af296f9b1/4705a18c29b4adbcfe8c6875492c2c82.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f93274e631b191596d9fc1966c98bbc1/3e34b1855a0154aa21e8ddb6d6c5a73b.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/725f6243d992103e9d2c71ce1d21c4bf/f8e2a94f519fe563b61aa1a1b5abc138.jpeg"
       ],
       "Videos": [],
@@ -2394,7 +2405,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860879"
+      "LastUpdatedUnixTime": "1795233010"
     },
     {
       "ID": "3751",
@@ -2414,6 +2425,9 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/63a98fcec64103786e960a730e19cfb6/06640273af9643e70cfde684b8e01a0e.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/63a98fcec64103786e960a730e19cfb6/06640273af9643e70cfde684b8e01a0e.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/456a229c5bf8aa8cc5560d59cf216d74/f6dc88564b405b52b329402ef18d13df.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cb8607f2dd14e015ef58d1af7bd8bcc8/7a14122cb95bd5aa6eb4a86a2d9160fe.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d8664013558f601b17e2336464b91b9a/08b86ac6367e0be716e9f05c0dd633fc.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e662fcad87d9d3d0cbe4226c18054cbf/490cbf4fa8fea19b6b032a57fd3fec18.jpeg"
       ],
       "Videos": [],
@@ -2447,7 +2461,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860853"
+      "LastUpdatedUnixTime": "1795232985"
     },
     {
       "ID": "3752",
@@ -2467,6 +2481,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0b52ae5e6ffd09eac7b4ffff198e2fb6/61d84f8fa3d0639bf8ba0cc8f346a7a7.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/0b52ae5e6ffd09eac7b4ffff198e2fb6/61d84f8fa3d0639bf8ba0cc8f346a7a7.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2cdf4a75b7cb66e8033507873264b1c7/d67d7c60623f50821ad4de642c47f6f5.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b5cdd20e1f2b05cbb29135791bbf46ea/393f38d75fc3b1df71944a0f7cd8e78c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9c40f96e3af668ad310bb29c718dad99/66bd23867f678bf6abd9c0f66388e207.jpeg"
       ],
       "Videos": [],
@@ -2500,7 +2516,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860826"
+      "LastUpdatedUnixTime": "1795233039"
     },
     {
       "ID": "3753",
@@ -2520,6 +2536,8 @@
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aba93e319293f0a35a4a2b22d5473e91/416b3ed95451a3f06ef98384c7275817.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/aba93e319293f0a35a4a2b22d5473e91/416b3ed95451a3f06ef98384c7275817.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e24eb547dd6b6b32f3b547cc7a21e68b/08d466b26285bca73bc67c79a4b53ee1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/eeee72c3727ac38973a4363b7d4f5080/f15dfafc440a4185ee362e968e947769.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/e024eeba97fe0bbb26ea087c49e68fe2/104ae41cf617644bacd818f877e8f7e2.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/5b85beff0c14623ee7b7e7fa199974d7/8f291a073578817039b061955e2ab287.jpeg"
       ],
@@ -2554,7 +2572,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1794860803"
+      "LastUpdatedUnixTime": "1795233023"
     },
     {
       "ID": "3754",
@@ -2667,7 +2685,7 @@
       "Size": "Small (0-24)",
       "Altered": "Yes",
       "DOBUnixTime": 1676959200,
-      "Age": 44,
+      "Age": 45,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7628bde9af72cb3e463e58165d4ac936/b6575f156b7457094697fc0fa74d9f30.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/7628bde9af72cb3e463e58165d4ac936/b6575f156b7457094697fc0fa74d9f30.jpeg",
@@ -2912,7 +2930,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1697864400,
-      "Age": 36,
+      "Age": 37,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
@@ -3047,7 +3065,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795213602"
+      "LastUpdatedUnixTime": "1795238403"
     },
     {
       "ID": "3767",
@@ -3121,7 +3139,14 @@
       "Breed": "Retriever, Labrador/Shepherd, German",
       "Color": "Black",
       "Pattern": null,
-      "AdoptionFeeGroup": null,
+      "AdoptionFeeGroup": {
+        "Id": 67207,
+        "Name": "Puppy",
+        "Price": 400,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
       "Description": "",
       "LastIntakeUnixTime": "1795137933",
       "Attributes": [
@@ -3131,7 +3156,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795213622"
+      "LastUpdatedUnixTime": "1795238068"
     },
     {
       "ID": "3664",
@@ -3527,7 +3552,7 @@
       "Size": "",
       "Altered": "Yes",
       "DOBUnixTime": 1676959200,
-      "Age": 44,
+      "Age": 45,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
@@ -3626,110 +3651,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1794438654"
-    },
-    {
-      "ID": "3682",
-      "Internal-ID": "214320068",
-      "Name": "Cyndi",
-      "LitterGroupId": 9575387,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Pending Adoption",
-      "InFoster": true,
-      "CurrentWeightPounds": "23.6",
-      "Size": "Medium (25-59)",
-      "Altered": "No",
-      "DOBUnixTime": 1779944400,
-      "Age": 5,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/7508e3ed71a551c30d89e4a06e3fc847/28604f337be292071469952c85e692d4.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/519de7604725571cc28cac7c0aea4529/a0118c8ef4bdfe61292191bce39751e5.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/dec3851017b02c9b2c90e4b32222f67d/3e1cf2b7044fa6317c113908d8aba68a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/c2bec15a974b8bc993c683b7b20e2f97/c7b0a7fb06549ef0744444a3de591666.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/0698fd51ba3bc232bfee1a94b7593a7f/eb849abea7f4ee4c6422fc5c078ce23a.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/6c3f9c9786f813e1172b8587f973f471/b97103da8c9afdb198d16a8630c05565.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4a6c08a51a40856c2d6f65a0c7aafd26/5b2fedaf59540a91c0e319774f95ae45.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cc29d2434b8d7db1f11dd96133bdf650/625e053533fbdc49a9b45326bb3e0ac7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cd3317c2e9a5ffc471a16c5bc686fb64/bfc148db2483b23d718839596da61091.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/57bdfd0d1477e6b62d7ecb9dbf7eab95/25015b7cf38220c4a7e0204268ac931d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8bfbf738ae4efecb030ddc9b2b267a5a/42193f99429fa36f8886897c4f6114f7.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d6c0544f1dbfec8caeb590cac6b84fae/e2c94e0abc37131ca117e639ce9e992e.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d9b1ff821a932305a4e3b6118f8fc570/01eb2d90105205453fbf3b8754d92897.jpg"
-      ],
-      "Videos": [],
-      "Breed": "Coonhound, English/Cattle Dog, Australian (Red Heeler)",
-      "Color": "White/Apricot",
-      "Pattern": "Tick",
-      "AdoptionFeeGroup": {
-        "Id": 37340,
-        "Name": "Puppy + S/N deposit",
-        "Price": 600,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Hi I'm Cyndi and I'm ready to steal your heart.\nI'm a typical puppy, full of energy and curiosity and I love to play. \nI'm also a great snuggle pup when I'm sleepy, but will go lay down in my bed by myself too.\nI've met dogs, cats, and kids, so with continued socialization I'll fit right into just about any family. \nI've learned some commands like sit and shake, and will sit and wait for my food. \nI just learned how to fetch a ball or a toy and will bring it right back. I am also doing well walking on a leash and riding in the car. \nAnd best of all, I'm house trained and will sleep quietly in my kennel all night. ",
-      "LastIntakeUnixTime": "1787159424",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294302",
-          "AttributeName": "Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296942",
-          "AttributeName": "Typical puppy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "697731",
-          "AttributeName": "Parvo Survivor",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702281",
-          "AttributeName": "FP:  Jaden",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795207072"
     },
     {
       "ID": "3703",
