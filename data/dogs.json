@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:44:50Z",
+  "updated": "2026-11-22T20:03:59Z",
   "count": 50,
   "animals": [
     {
@@ -681,7 +681,7 @@
           "ThumbUrl": "https://img.youtube.com/vi/SKp2TKBzPY0/0.jpg"
         }
       ],
-      "Breed": "Mixed Breed (Large)/Mixed Breed (Large)",
+      "Breed": "Pyrenees, Great/Mixed Breed (Large)",
       "Color": "Grey/White",
       "Pattern": "None",
       "AdoptionFeeGroup": {
@@ -761,7 +761,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1794662503"
+      "LastUpdatedUnixTime": "1795367069"
     },
     {
       "ID": "3632",
@@ -1538,7 +1538,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795225974"
+      "LastUpdatedUnixTime": "1795370345"
     },
     {
       "ID": "3737",
@@ -1892,6 +1892,124 @@
         }
       ],
       "LastUpdatedUnixTime": "1795225853"
+    },
+    {
+      "ID": "3765",
+      "Internal-ID": "215061288",
+      "Name": "Sisko",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "30.2",
+      "Size": "Medium (25-59)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1697864400,
+      "Age": 37,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/5b61a7bb97480e929701036913c392ae/460890e92493e77fae003c27f696595f.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/5b61a7bb97480e929701036913c392ae/460890e92493e77fae003c27f696595f.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/f982702ecf4222b61dc307f49060f763/6b57bd102076c3f23df9322b4659084f.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/ba4e3de8121a9bbbcc2bb465b73c3f7f/14cc35badc1da2b6b7b860fefe51126b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5b6abe5851e25785227140edf2f11834/47c1b530441168814942a6ebe2355583.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fbb628517ae29fffb73ae737e169debd/fd6a29fd1b4eaf89f0e3fd12c10b32cf.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/047eaa813a34ea3adce790819b42f07b/5531184da975bf21394070e9e1496297.jpg"
+      ],
+      "Videos": [],
+      "Breed": "Collie, Border/Mixed Breed (Medium)",
+      "Color": "Red/Mahogany/White",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Sisko is past the puppy stage but still has plenty of energy for adventure, and he's always ready to be your walking buddy. In fact, Sisko walks beautifully on a leash and enjoys getting out to explore the world with his people.\n\nThis handsome guy is an independent spirit who doesn't need a circle of dog friends to be happy. He's perfectly content doing his own thing and focuses more on his humans than on making canine buddies. He could do well as your one-and-only dog or alongside other dogs who respect his space.\n\nSisko is smart, curious, and always thinking. He is equal parts loyal companion, neighborhood explorer, and lovable troublemaker. If you're looking for a dog with personality, intelligence, and just the right amount of mischievous charm, Sisko may be your perfect match. \n\nHe's ready to find a family that appreciates his independent nature, enjoys daily adventures, and can keep up with his clever mind and adventurous spirit.",
+      "LastIntakeUnixTime": "1794956769",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295162",
+          "AttributeName": "Has lived with cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "524022",
+          "AttributeName": "Has lived with dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634882",
+          "AttributeName": "✅ Attends Doggy Daycare",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795366438"
     },
     {
       "ID": "3767",
@@ -2663,7 +2781,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795233023"
+      "LastUpdatedUnixTime": "1795376497"
     },
     {
       "ID": "3754",
@@ -3008,121 +3126,6 @@
       "LastUpdatedUnixTime": "1795280903"
     },
     {
-      "ID": "3765",
-      "Internal-ID": "215061288",
-      "Name": "Sisko",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "30.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1697864400,
-      "Age": 37,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/4397936f9807610cca8e36fea3e5a25c/0fa85bfbabed09645995642a9ec4e39d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f982702ecf4222b61dc307f49060f763/6b57bd102076c3f23df9322b4659084f.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/ba4e3de8121a9bbbcc2bb465b73c3f7f/14cc35badc1da2b6b7b860fefe51126b.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/5b6abe5851e25785227140edf2f11834/47c1b530441168814942a6ebe2355583.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Collie, Border/Mixed Breed (Medium)",
-      "Color": "Chocolate/White",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "",
-      "LastIntakeUnixTime": "1794956769",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295162",
-          "AttributeName": "Has lived with cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634882",
-          "AttributeName": "✅ Attends Doggy Daycare",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634892",
-          "AttributeName": "✅ Food motivated",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637202",
-          "AttributeName": "Medium energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795119436"
-    },
-    {
       "ID": "3766",
       "Internal-ID": "215061289",
       "Name": "Hank",
@@ -3461,7 +3464,7 @@
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795216575"
+      "LastUpdatedUnixTime": "1795365879"
     },
     {
       "ID": "3592",
