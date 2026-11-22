@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:39:10Z",
+  "updated": "2026-11-22T04:23:35Z",
   "count": 50,
   "animals": [
     {
@@ -1894,6 +1894,97 @@
       "LastUpdatedUnixTime": "1795225853"
     },
     {
+      "ID": "3767",
+      "Internal-ID": "215089735",
+      "Name": "Tilly",
+      "LitterGroupId": 9628793,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "49.6",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1722786296,
+      "Age": 27,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/39c9816be60dd3f1fca4c37f615f9abf/536c2977fd84bdde59dcd2456c3925e1.jpg",
+        "https://new-s3.shelterluv.com/profile-pictures/07400d2192aa4087554199d70208fef7/13496e2579962d11d391ebfa46093424.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/d429b234221e05bb34af66e79864109b/41f0e76825d89c0b74595d710d14413a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9a7c781423b18f4b56f9a23b80c5d08f/bb8c66c43e169e0e11ec136f89c902f9.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/cf6c2ad2658e3dc8235c8f6b78e60d79/ec2f846ea7046656ee2de0c8801a3f06.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a50b82762e6ce36d257c91e4c95548fb/563877736308fc4aaf77ae04d8b84bfa.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Terrier, Pit Bull",
+      "Color": "Brown",
+      "Pattern": null,
+      "AdoptionFeeGroup": null,
+      "Description": "This adorable 2-year-old gargoyle came all the way from Alabama in search of her forever family. Tilly is dog-friendly, loves people, and never turns down the chance to give a few sweet kisses.\n\nShe's a low-energy girlie who enjoys the simple things in life: snuggling close to her favorite humans, lounging by the fire, and soaking up all the love she can get. After everything she's been through, Tilly is more than ready to trade uncertainty for comfort and spend her days curled up beside you while you read a good book.\nIf you're looking for a loyal companion with a gentle soul and a heart full of love, Tilly may be your perfect match.",
+      "LastIntakeUnixTime": "1795137933",
+      "Attributes": [
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294312",
+          "AttributeName": "Not Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295163",
+          "AttributeName": "Heartworm Treatment Completed",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296943",
+          "AttributeName": "✅ Good for beginner dog owner",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634888",
+          "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "678764",
+          "AttributeName": "Housetrained",
+          "Publish": "Yes"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795308512"
+    },
+    {
       "ID": "3741",
       "Internal-ID": "214823211",
       "Name": "Cecil",
@@ -3066,97 +3157,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1795280903"
-    },
-    {
-      "ID": "3767",
-      "Internal-ID": "215089735",
-      "Name": "Tilly",
-      "LitterGroupId": 9628793,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "49.6",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1722786296,
-      "Age": 27,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/39c9816be60dd3f1fca4c37f615f9abf/536c2977fd84bdde59dcd2456c3925e1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/07400d2192aa4087554199d70208fef7/13496e2579962d11d391ebfa46093424.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d429b234221e05bb34af66e79864109b/41f0e76825d89c0b74595d710d14413a.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9a7c781423b18f4b56f9a23b80c5d08f/bb8c66c43e169e0e11ec136f89c902f9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf6c2ad2658e3dc8235c8f6b78e60d79/ec2f846ea7046656ee2de0c8801a3f06.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a50b82762e6ce36d257c91e4c95548fb/563877736308fc4aaf77ae04d8b84bfa.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Terrier, Pit Bull",
-      "Color": "Brown",
-      "Pattern": null,
-      "AdoptionFeeGroup": null,
-      "Description": "",
-      "LastIntakeUnixTime": "1795137933",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294312",
-          "AttributeName": "Not Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295163",
-          "AttributeName": "Heartworm Treatment Completed",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296943",
-          "AttributeName": "✅ Good for beginner dog owner",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634889",
-          "AttributeName": "✅ Snuggle Pup",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795290616"
     },
     {
       "ID": "3768",
