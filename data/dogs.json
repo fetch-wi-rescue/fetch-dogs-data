@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T00:59:19Z",
+  "updated": "2026-11-23T08:43:48Z",
   "count": 50,
   "animals": [
     {
@@ -778,17 +778,16 @@
       "Altered": "Yes",
       "DOBUnixTime": 1676959200,
       "Age": 45,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
       "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/bedbf5456479a76e4668f25c0ad0abb2/cf226318704fd4c415c1d5872abdfea5.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/8e895cca6e5fbddbed815a4cdcbd50ff/637c426e27d3db791e0bb1aa65c82f95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/f08284aa693921c3e6edc263042abb08/db3826bb340c4102ba70c91c4566bc0c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/c69f822376a889692b8fdae6d37277c3/d4f1bae15c4fd44f58562a14499cf518.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/ae76d6a10fec5835f06557f21cb5fd0b/b627cb39569fb429d34a95ed3324246b.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/0ef7094bfaeef524afb4bd88fb7765bb/38a91755161820da4d16185b1cf612ef.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/04aceaf3c5c2959003025f3dda55fc2a/652accb2bb74482fef4971f12b983dd3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/935714fc2acf20d59fca740f29815f65/49b9c141c0a0dedc5a0128b4820b2709.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bfd189eb206f5ffee612673f6b3a0a1a/3054cd5d750207bbdf92c055cd163b8c.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/39e6086b50ed38f9f8857868df250b99/aa4104413767bfbe887c31fc5a590250.png",
         "https://new-s3.shelterluv.com/profile-pictures/dd136b36e28d50096449b576b00f72f2/d2657f9322e74e3766abea7549ee49f3.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/3519687d094d1a12db10dfcbebfc6725/77b4ed898ff6bed5550f6a82d5cb2a96.jpeg",
@@ -806,7 +805,7 @@
         "Tax": 0,
         "IsVariable": false
       },
-      "Description": "Mary Beth is the kind of dog who makes friends everywhere she goes. This sweet girl is full of love and generous with her kisses, always happy to show her people just how much she cares. She is incredibly attentive to humans and loves being part of whatever you're doing, whether that's heading out for a walk or spending a quiet afternoon relaxing at home.\nMary Beth is dog-friendly and enjoys the company of other dogs. Her story began in Alabama, where she was found as a stray while pregnant. After lovingly raising her puppies—the \"Plant Puppies\" who are currently available for adoption—it's finally Mary Beth's turn to find a family of her own.\nShe loves walks, thrives on companionship, and is ready to be someone's loyal best friend. After giving so much love to her puppies, Mary Beth deserves a home where she can be cherished just as much. If you're looking for a sweet, affectionate companion who will happily share life's everyday moments with you, Mary Beth may be the perfect fit. ❤️",
+      "Description": "If anyone has earned a happily-ever-after, it's Mary Beth. ❤️\n\nMary Beth's story began in Alabama, where she was found as a stray while pregnant. Despite her circumstances, she devoted herself to raising her puppies, the beloved \"Plant Puppies,\" and made sure they got the start in life they deserved. Now all of her plants are in their homes, it's finally time for Mary Beth to find one of her own.\n\nOver the last several months, Mary Beth has faced more than her fair share of challenges. She has undergone a pyometra found during her spay, a dental, entropion (\"Cherry Eye\") repair surgery, mass removal surgery, TPLO surgery, and heartworm treatment, all while patiently waiting for her forever family. Through every procedure, recovery period, and vet visit, she has continued to be the same affectionate, people-loving dog who charms everyone she meets.\n\nFor more than three months, Mary Beth was pending adoption while recovering and healing. Just when it seemed her long wait was almost over, her intended adopters lives also changed and Mary Beth is still on the search for her happily ever after.\n\nMost dogs would have every reason to be discouraged. Mary Beth isn't.\n\nShe still greets her favorite people with a wagging tail and plenty of kisses. She still loves spending time with humans and wants nothing more than to be included in whatever you're doing. Whether it's a leisurely walk, a car ride, or simply relaxing together at home, Mary Beth is happiest when she's by your side.\n\nShe's dog-friendly, incredibly loving, and has a gentle, grateful spirit that's impossible not to fall in love with. After everything she's overcome, Mary Beth isn't looking for perfection. She's just looking for someone who will finally choose her forever.\n\nThis sweet girl has spent her life caring for others and persevering through every obstacle thrown her way. Now all she needs is a family willing to give her the happy ending she's waited so patiently for.\n\nCould you be the one who finally gives Mary Beth the forever home she deserves?",
       "LastIntakeUnixTime": "1780065092",
       "Attributes": [
         {
@@ -835,18 +834,23 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "524022",
-          "AttributeName": "Has lived with dogs",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "629390",
           "AttributeName": "Orthopedic Surgery Recovery in Progress",
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "634888",
           "AttributeName": "✅ Friendly",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634889",
+          "AttributeName": "✅ Snuggle Pup",
           "Publish": "Yes"
         },
         {
@@ -865,17 +869,12 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "678764",
-          "AttributeName": "Housetrained",
-          "Publish": "Yes"
-        },
-        {
           "Internal-ID": "702285",
           "AttributeName": "FP:  Kelsa",
           "Publish": "No"
         }
       ],
-      "LastUpdatedUnixTime": "1795394754"
+      "LastUpdatedUnixTime": "1795397464"
     },
     {
       "ID": "3632",
@@ -1782,6 +1781,68 @@
       "LastUpdatedUnixTime": "1794369055"
     },
     {
+      "ID": "3759",
+      "Internal-ID": "214981278",
+      "Name": "Dolly Parton",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Female",
+      "Status": "Available",
+      "InFoster": true,
+      "CurrentWeightPounds": "11.6",
+      "Size": "Small (0-24)",
+      "Altered": "Yes",
+      "DOBUnixTime": 1653714000,
+      "Age": 53,
+      "CoverPhoto": "https://new-s3.shelterluv.com/public/img/profile_photo/default_dog.png",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/ebc8e0e5b85ccb6712a9eaa237d537e7/837a8141b85d42e518103ac56cec3ad6.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9d37a7f2ac4319f7fcc39c241369513e/be4324c39abf6ef6d61a1e451b037635.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/69a0371dc22e07801f5f2efecbadb4ab/e0c97bf200ecf8f2ed1608c8c21b1c85.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/51036212e79847aabe28088ec51a936d/e5ad66869c51dec68699cd491cc39e8c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e74c3d903c552bfa7f11632727f325c0/074fc8fcb55d8423f42d36b15558b8f8.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3a3b415c5cc9aed0424d4fdc4df3dded/7921966f566740d7f82dd6db721f2880.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Shih Tzu",
+      "Color": "White/Wheaten",
+      "Pattern": "None",
+      "AdoptionFeeGroup": {
+        "Id": 37341,
+        "Name": "Adult (1-7 years old)",
+        "Price": 350,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Meet This Sweet Little Work in Progress! ❤️\n\nThis beautiful 4-year-old tri-colored Shih Tzu girl is discovering just how wonderful life can be!\n\nAfter spending her whole life in an Amish puppy mill, she arrived at her foster home a very unsure little soul. For the first week, she spent most of her time tucked away in the back corner of her crate, quietly watching the world around her. But she was also watching the resident dogs, and oh, how much she has learned from them! (She ignores the household cat, which is great).  \n\nIn just three short weeks, we've watched her blossom in the most heartwarming ways. She LOVES going for walks, sleeps quietly in her kennel overnight, and has learned that pets, snuggles, and gentle affection aren't so scary after all. She's beginning to discover that people can be kind and that the world has so many wonderful things to offer.  \n\nShe is still a timid girl, especially around men and unfamiliar people, and will need a family willing to let her build trust at her own pace. A confident, friendly resident dog is a must for her, as she finds comfort in having a furry friend to show her the ropes. Children in the home should be old enough and willing to respect her need for space, patience, and time to decompress as she continues to adjust. Getting picked up and leashed up are both scary for her still.  \n\nWe have fostered over a dozen dogs, and this girl has been THE MOST rewarding. We know there's so much more of her little personality waiting to shine, and we can't wait to see it! She is doing shockingly well with potty training.  Get ready to celebrate all the little victories with this sweet pea!\n\nHer past may have been difficult, but her future can be filled with walks, snuggles, a canine best friend, and a family of her very own.\n\nShe's waited long enough for her happily ever after. Could you be the one to give it to her? ❤️",
+      "LastIntakeUnixTime": "1793940562",
+      "Attributes": [
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634883",
+          "AttributeName": "⚠ Shy at first",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "677802",
+          "AttributeName": "Has a Fi Mini Collar",
+          "Publish": "No"
+        },
+        {
+          "Internal-ID": "702282",
+          "AttributeName": "FP:  Christina",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795395827"
+    },
+    {
       "ID": "3765",
       "Internal-ID": "215061288",
       "Name": "Sisko",
@@ -1978,6 +2039,16 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "634892",
+          "AttributeName": "✅ Food motivated",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634898",
+          "AttributeName": "✅ Can free roam when humans are gone",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
@@ -1988,7 +2059,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795308512"
+      "LastUpdatedUnixTime": "1795396816"
     },
     {
       "ID": "3741",
@@ -2188,7 +2259,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/3cd3c22a2187e92e2adeb5da470ee2c0/410a4099d0ca46c396dfe212bb793591.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/3cd3c22a2187e92e2adeb5da470ee2c0/410a4099d0ca46c396dfe212bb793591.jpeg",
@@ -2242,7 +2313,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/fe542f5caa03ff902873ca2dd823f5ae/a5fd517dbcb5e65c7c30d4b1b5750a73.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/fe542f5caa03ff902873ca2dd823f5ae/a5fd517dbcb5e65c7c30d4b1b5750a73.jpeg",
@@ -2297,7 +2368,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/e5b13e45fbe256468ecf113a32ed94af/baf786d63fbe2e7f125191a68ed2eb35.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/e5b13e45fbe256468ecf113a32ed94af/baf786d63fbe2e7f125191a68ed2eb35.jpeg",
@@ -2352,7 +2423,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/8175a31fb208623b51966b349d085e67/3b098de63e904de786648c760a14964f.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/8175a31fb208623b51966b349d085e67/3b098de63e904de786648c760a14964f.jpeg",
@@ -2408,7 +2479,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Unknown",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/21889499d72074d3a222bd4786b08428/2909bc2c11099c749267c1e46ea3b161.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/21889499d72074d3a222bd4786b08428/2909bc2c11099c749267c1e46ea3b161.jpeg",
@@ -2463,7 +2534,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/ced184cb05b3c875770d47560ada3760/e1dd8cc8b656fb4da95d98faa18a4ef6.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/ced184cb05b3c875770d47560ada3760/e1dd8cc8b656fb4da95d98faa18a4ef6.jpeg",
@@ -2518,7 +2589,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/63a98fcec64103786e960a730e19cfb6/06640273af9643e70cfde684b8e01a0e.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/63a98fcec64103786e960a730e19cfb6/06640273af9643e70cfde684b8e01a0e.jpeg",
@@ -2574,7 +2645,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/0b52ae5e6ffd09eac7b4ffff198e2fb6/61d84f8fa3d0639bf8ba0cc8f346a7a7.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/0b52ae5e6ffd09eac7b4ffff198e2fb6/61d84f8fa3d0639bf8ba0cc8f346a7a7.jpeg",
@@ -2629,7 +2700,7 @@
       "Size": "Medium (25-59)",
       "Altered": "No",
       "DOBUnixTime": 1792731600,
-      "Age": 0,
+      "Age": 1,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/aba93e319293f0a35a4a2b22d5473e91/416b3ed95451a3f06ef98384c7275817.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/aba93e319293f0a35a4a2b22d5473e91/416b3ed95451a3f06ef98384c7275817.jpeg",
@@ -2838,63 +2909,6 @@
       "LastUpdatedUnixTime": "1795063196"
     },
     {
-      "ID": "3759",
-      "Internal-ID": "214981278",
-      "Name": "Dolly Parton",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "Not available",
-      "InFoster": true,
-      "CurrentWeightPounds": "11.6",
-      "Size": "Small (0-24)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1653714000,
-      "Age": 53,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/a6cd534c16c9e0cd6b18d8095521ddba/4e37583d1572d1b164e109e9642765cd.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/a6cd534c16c9e0cd6b18d8095521ddba/4e37583d1572d1b164e109e9642765cd.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Shih Tzu",
-      "Color": "White/Wheaten",
-      "Pattern": "None",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Meet This Sweet Little Work in Progress! ❤️\n\nThis beautiful 4-year-old tri-colored Shih Tzu girl is discovering just how wonderful life can be!\n\nAfter spending her whole life in an Amish puppy mill, she arrived at her foster home a very unsure little soul. For the first week, she spent most of her time tucked away in the back corner of her crate, quietly watching the world around her. But she was also watching the resident dogs, and oh, how much she has learned from them! (She ignores the household cat, which is great).  \n\nIn just three short weeks, we've watched her blossom in the most heartwarming ways. She LOVES going for walks, sleeps quietly in her kennel overnight, and has learned that pets, snuggles, and gentle affection aren't so scary after all. She's beginning to discover that people can be kind and that the world has so many wonderful things to offer.  \n\nShe is still a timid girl, especially around men and unfamiliar people, and will need a family willing to let her build trust at her own pace. A confident, friendly resident dog is a must for her, as she finds comfort in having a furry friend to show her the ropes. Children in the home should be old enough and willing to respect her need for space, patience, and time to decompress as she continues to adjust. Getting picked up and leashed up are both scary for her still.  \n\nWe have fostered over a dozen dogs, and this girl has been THE MOST rewarding. We know there's so much more of her little personality waiting to shine, and we can't wait to see it! She is doing shockingly well with potty training.  Get ready to celebrate all the little victories with this sweet pea!\n\nHer past may have been difficult, but her future can be filled with walks, snuggles, a canine best friend, and a family of her very own.\n\nShe's waited long enough for her happily ever after. Could you be the one to give it to her? ❤️",
-      "LastIntakeUnixTime": "1793940562",
-      "Attributes": [
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634883",
-          "AttributeName": "⚠ Shy at first",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702282",
-          "AttributeName": "FP:  Christina",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795394850"
-    },
-    {
       "ID": "3760",
       "Internal-ID": "214988489",
       "Name": "Stella",
@@ -2908,7 +2922,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1779512400,
-      "Age": 5,
+      "Age": 6,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/eb81217240a404a29780a15674dcf34d/a18be6a1808a0514bc5b0526d0208090.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/eb81217240a404a29780a15674dcf34d/a18be6a1808a0514bc5b0526d0208090.jpeg",
