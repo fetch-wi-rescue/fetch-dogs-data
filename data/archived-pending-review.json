@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:04:49Z",
+  "updated": "2026-11-25T00:57:03Z",
   "animals": [
     {
       "ID": "3458",
@@ -2213,6 +2213,15 @@
       "Status": "Pending Adoption",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-24T05:04:49Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3738",
+      "Name": "Lucky",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
+      "Status": "M&G",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-25T00:57:03Z",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T16:03:43Z",
-  "count": 49,
+  "updated": "2026-11-25T00:57:03Z",
+  "count": 48,
   "animals": [
     {
       "ID": "3279",
@@ -1549,7 +1549,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795370345"
+      "LastUpdatedUnixTime": "1795563914"
     },
     {
       "ID": "3737",
@@ -3297,85 +3297,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1795491588"
-    },
-    {
-      "ID": "3738",
-      "Internal-ID": "214817114",
-      "Name": "Lucky",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Female",
-      "Status": "M&G",
-      "InFoster": true,
-      "CurrentWeightPounds": "39",
-      "Size": "Medium (25-59)",
-      "Altered": "Yes",
-      "DOBUnixTime": 1634446800,
-      "Age": 61,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/196465e2188544d7ad1479fa4fedfef8/3abf7b8ea593a70ad059b3b7709ed413.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb465c428a3c86bb5d690661af411b69/337fed78022ee77ea7d71368adcbb399.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/115b5ea220fd81e05f21f89c834e9130/06157c918f262af227fd4245ee3675cd.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2307c64c4a2a7881fa0af9f912f89979/04487391859b46f6f5005a161cb995a6.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/8d1c0ecb1e1a016b0239284e6e6eaf8d/725218c70d5e57eb7e3956d22a61f599.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/fba8b0126e2441b9b437b4da62bdddb2/68bc073d7ba25e1d89c2d46903ab6d65.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/511eb623d605ae1df2639d78802d4981/1a5afba8ef7035089cc81ca868e875b8.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/47414a2544d1022d5cd4143f79398dde/483acd9c1490a729d93fa05d9396b5a8.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Husky/Shiba Inu",
-      "Color": "Black/White",
-      "Pattern": "Tricolor",
-      "AdoptionFeeGroup": {
-        "Id": 37341,
-        "Name": "Adult (1-7 years old)",
-        "Price": 350,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Lucky is a sweet girl who loves being cuddled, pet, and loved on.  She’s great with other dogs, house trained, kennel trained, and is also easy to train.  She takes treats gently and is moderately food motivated.  She enjoys playing with toys, loves walks, and is just a great companion. \n\nLucky came to us with a bit of redness on her belly and seemed itchy. We’ve identified she has an allergy to some food and within a couple days of allergy friendly food and allergy meds she’s become even more relaxed and cuddly. \n\nShe’ll make an excellent companion, family pet, or best friend. \n",
-      "LastIntakeUnixTime": "1792483837",
-      "Attributes": [
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634888",
-          "AttributeName": "✅ Friendly",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "677802",
-          "AttributeName": "Has a Fi Mini Collar",
-          "Publish": "No"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1795494030"
     },
     {
       "ID": "3755",
