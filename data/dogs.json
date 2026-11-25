@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:57:03Z",
+  "updated": "2026-11-25T09:31:07Z",
   "count": 48,
   "animals": [
     {
@@ -2126,6 +2126,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "294302",
+          "AttributeName": "Good with Kids",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "294312",
           "AttributeName": "Not Good with Cats",
           "Publish": "Yes"
@@ -2151,8 +2156,8 @@
           "Publish": "Yes"
         },
         {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
           "Publish": "Yes"
         },
         {
@@ -2186,7 +2191,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795396816"
+      "LastUpdatedUnixTime": "1795575930"
     },
     {
       "ID": "3741",
