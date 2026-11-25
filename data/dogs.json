@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T09:31:07Z",
+  "updated": "2026-11-25T19:40:49Z",
   "count": 48,
   "animals": [
     {
@@ -94,108 +94,6 @@
         }
       ],
       "LastUpdatedUnixTime": "1791257405"
-    },
-    {
-      "ID": "2582",
-      "Internal-ID": "213178954",
-      "Name": "Buddy",
-      "LitterGroupId": null,
-      "Type": "Dog",
-      "CurrentLocation": {},
-      "Sex": "Male",
-      "Status": "Available",
-      "InFoster": true,
-      "CurrentWeightPounds": "30.2",
-      "Size": "",
-      "Altered": "Yes",
-      "DOBUnixTime": 1419228000,
-      "Age": 143,
-      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/daa9399df39dbae73ba7e6c017c3a860/1f3e6ecbd4c28d2a2c621c414b7f9f8d.jpeg",
-      "Photos": [
-        "https://new-s3.shelterluv.com/profile-pictures/daa9399df39dbae73ba7e6c017c3a860/1f3e6ecbd4c28d2a2c621c414b7f9f8d.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/04285aad384eb8c87cc9a93b8ae27b08/acee9d65e54b82ffac3c16e20e9cc9b4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/b2a5a4e898c226e2707f0a82c479d86a/b21a3fb4c2f324550872f395e4f12bea.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/2fe803f110c26c1335979f2461dcd30b/7b2edf5da063078e75077bc742f5e476.png",
-        "https://new-s3.shelterluv.com/profile-pictures/7a80fe506a0ad1bc6b94aa615c93f617/1c3950670ce4a6387c06a60d13580077.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/e8152180f59da840fda90be5f1c0f797/c65fe19ff73c92bc547910f35fbc7a95.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/4157186dcf9ff2a3705c2990d0e38d80/a9c40bff5c78f7d81dd3854c6d980dc3.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/3b1c256e9a03572586e371004e80d0f2/9501172676bfb81daaa7d82df58edcce.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/9bdbc9fe16ff66d00980432965628e78/db2b3241b13c70077275ea1a98e52d92.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/bb94833ba7ee254f5f56abec4439305c/a8ee344ee9e9f7d027999317699995e4.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/22e2966ac86ae5eb5a15bb017ed07e4e/d74be0e9c0b17434668ea286385abe18.jpeg"
-      ],
-      "Videos": [],
-      "Breed": "Spaniel, Cocker",
-      "Color": "Blond",
-      "Pattern": null,
-      "AdoptionFeeGroup": {
-        "Id": 37343,
-        "Name": "Senior (7 years and older)",
-        "Price": 200,
-        "Discount": 0,
-        "Tax": 0,
-        "IsVariable": false
-      },
-      "Description": "Buddy is a senior cocker spaniel who was surrendered to Fetch when his elderly owner developed health issues and had to go into long term care. He is a happy guy with a big heart and a touch of doggy dementia.\n\nBuddy absolutely loves other dogs and is tolerant of all ages, including puppies. He loves his people very much and is always up for attention and snuggles. He is not so good with strangers and will bark loudly when he sees someone he doesn’t know. Sometimes he forgets that he has already met someone and will bark loudly again. He is not a bite risk as he only has a few teeth left (more on that later) but I typically put him in his crate when new people come over so he doesn’t get worked up.\n\nBuddy has some health issues typical of senior dogs. He has a heart murmur that does not currently cause any symptoms and some arthritis that does not keep him from loving his walks and pulling hard on his leash. He has been diagnosed with chronic stenosis of the ear canals so will need to be monitored for ear infections. He also has KCS which is common in smaller breeds and means his eyes do not produce enough tears. He gets eye drops twice a day to stimulate tear production and his eyes look perfect now, but he will need to stay on the eye drops for the rest of his life. He had most of his teeth removed due to severe dental disease, but he still prefers hard kibble to softened food. He can’t chew but he just swallows it whole.\n\nBuddy is very well behaved in his crate and will go in there on his own during the day to nap. He typically is crated for about 6 hours during the workday and about 10 hours at night and does great on that schedule. He is fully potty trained. He is low shedding and needs a haircut about every 4-5 months which he does very well with.\n\nIf you have a spot in your home for a fuzzy old man who will bark loudly at you for about 10 minutes and then love you forever, come meet Buddy!",
-      "LastIntakeUnixTime": "1770703200",
-      "Attributes": [
-        {
-          "Internal-ID": "294284",
-          "AttributeName": "Good with Cats",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "294293",
-          "AttributeName": "Good with Dogs",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "295161",
-          "AttributeName": "❌ Not Good with Kids",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296939",
-          "AttributeName": "✅ Rides well in a car",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "296944",
-          "AttributeName": "✅ Crate-trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634884",
-          "AttributeName": "✅ Walks well on leash",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634885",
-          "AttributeName": "✅ House trained",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634886",
-          "AttributeName": "✅ Loves to play",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "634893",
-          "AttributeName": "Senior dog",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "637203",
-          "AttributeName": "Low energy",
-          "Publish": "Yes"
-        },
-        {
-          "Internal-ID": "702280",
-          "AttributeName": "FP:  Gen",
-          "Publish": "No"
-        }
-      ],
-      "LastUpdatedUnixTime": "1794974853"
     },
     {
       "ID": "3200",
@@ -2106,18 +2004,22 @@
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/46400a8fb7b0d6acd8e6421b652917e2/1521c2806d65ed68e0d3818535c3f7db.jpg",
         "https://new-s3.shelterluv.com/profile-pictures/39c9816be60dd3f1fca4c37f615f9abf/536c2977fd84bdde59dcd2456c3925e1.jpg",
-        "https://new-s3.shelterluv.com/profile-pictures/07400d2192aa4087554199d70208fef7/13496e2579962d11d391ebfa46093424.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/d429b234221e05bb34af66e79864109b/41f0e76825d89c0b74595d710d14413a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/5cda528fccd51178b075f934e6881a0b/9b6772c42026e4788e3efed8858640a7.jpeg",
         "https://new-s3.shelterluv.com/profile-pictures/9a7c781423b18f4b56f9a23b80c5d08f/bb8c66c43e169e0e11ec136f89c902f9.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/cf6c2ad2658e3dc8235c8f6b78e60d79/ec2f846ea7046656ee2de0c8801a3f06.jpeg",
-        "https://new-s3.shelterluv.com/profile-pictures/a50b82762e6ce36d257c91e4c95548fb/563877736308fc4aaf77ae04d8b84bfa.jpeg"
+        "https://new-s3.shelterluv.com/profile-pictures/a50b82762e6ce36d257c91e4c95548fb/563877736308fc4aaf77ae04d8b84bfa.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/78820c890be64b2a0eebf11558a1fac7/95f7c813c85832c30519d3b76c7b8a0c.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/fb6f0593151bd2f1a7917acdc82594a1/189fc45bc77dde9ea2caeae92ab1d4e1.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/94a4e61cfc505da3fc56aedebb1e8c2f/ab7f9a110d14f6bd9dcdae41d8bca79a.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/f867881f7c8dd0dc545418a6398694fd/d1914650ce9dc86ed6ec72cae4f8083b.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/394977246e6ca9a429a1b59840ce9010/d412c43bc9827eb23008719f87a1ade4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/a64aa934a50a966e023186898aefd10e/6709e1171a8c11edc3a8dbb7894d9a26.jpeg"
       ],
       "Videos": [],
       "Breed": "Terrier, Pit Bull",
       "Color": "Brown",
       "Pattern": null,
       "AdoptionFeeGroup": null,
-      "Description": "This adorable 2-year-old gargoyle came all the way from Alabama in search of her forever family. Tilly is dog-friendly, loves people, and never turns down the chance to give a few sweet kisses.\n\nShe's a low-energy girlie who enjoys the simple things in life: snuggling close to her favorite humans, lounging by the fire, and soaking up all the love she can get. After everything she's been through, Tilly is more than ready to trade uncertainty for comfort and spend her days curled up beside you while you read a good book.\nIf you're looking for a loyal companion with a gentle soul and a heart full of love, Tilly may be your perfect match.",
+      "Description": "This adorable 2-year-old gargoyle came all the way from Alabama in search of her forever family. Tilly is dog-friendly, loves people, and never turns down the chance to give a few sweet kisses.\n\nShe's a low-medium energy girlie who enjoys the simple things in life: snuggling close to her favorite humans, lounging by the fire, going on romps around the neighborhood, and soaking up all the love she can get. After everything she's been through, Tilly is more than ready to trade uncertainty for comfort and spend her days curled up beside you while you read a good book.\nIf you're looking for a loyal companion with a gentle soul and a heart full of love, Tilly may be your perfect match.",
       "LastIntakeUnixTime": "1795137933",
       "Attributes": [
         {
@@ -2181,6 +2083,11 @@
           "Publish": "Yes"
         },
         {
+          "Internal-ID": "637202",
+          "AttributeName": "Medium energy",
+          "Publish": "Yes"
+        },
+        {
           "Internal-ID": "677802",
           "AttributeName": "Has a Fi Mini Collar",
           "Publish": "No"
@@ -2191,7 +2098,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795575930"
+      "LastUpdatedUnixTime": "1795629735"
     },
     {
       "ID": "3741",
@@ -3200,6 +3107,108 @@
         }
       ],
       "LastUpdatedUnixTime": "1794146761"
+    },
+    {
+      "ID": "2582",
+      "Internal-ID": "213178954",
+      "Name": "Buddy",
+      "LitterGroupId": null,
+      "Type": "Dog",
+      "CurrentLocation": {},
+      "Sex": "Male",
+      "Status": "M&G",
+      "InFoster": true,
+      "CurrentWeightPounds": "30.2",
+      "Size": "",
+      "Altered": "Yes",
+      "DOBUnixTime": 1419228000,
+      "Age": 143,
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/daa9399df39dbae73ba7e6c017c3a860/1f3e6ecbd4c28d2a2c621c414b7f9f8d.jpeg",
+      "Photos": [
+        "https://new-s3.shelterluv.com/profile-pictures/daa9399df39dbae73ba7e6c017c3a860/1f3e6ecbd4c28d2a2c621c414b7f9f8d.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/04285aad384eb8c87cc9a93b8ae27b08/acee9d65e54b82ffac3c16e20e9cc9b4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/b2a5a4e898c226e2707f0a82c479d86a/b21a3fb4c2f324550872f395e4f12bea.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/2fe803f110c26c1335979f2461dcd30b/7b2edf5da063078e75077bc742f5e476.png",
+        "https://new-s3.shelterluv.com/profile-pictures/7a80fe506a0ad1bc6b94aa615c93f617/1c3950670ce4a6387c06a60d13580077.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/e8152180f59da840fda90be5f1c0f797/c65fe19ff73c92bc547910f35fbc7a95.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/4157186dcf9ff2a3705c2990d0e38d80/a9c40bff5c78f7d81dd3854c6d980dc3.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/3b1c256e9a03572586e371004e80d0f2/9501172676bfb81daaa7d82df58edcce.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/9bdbc9fe16ff66d00980432965628e78/db2b3241b13c70077275ea1a98e52d92.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/bb94833ba7ee254f5f56abec4439305c/a8ee344ee9e9f7d027999317699995e4.jpeg",
+        "https://new-s3.shelterluv.com/profile-pictures/22e2966ac86ae5eb5a15bb017ed07e4e/d74be0e9c0b17434668ea286385abe18.jpeg"
+      ],
+      "Videos": [],
+      "Breed": "Spaniel, Cocker",
+      "Color": "Blond",
+      "Pattern": null,
+      "AdoptionFeeGroup": {
+        "Id": 37343,
+        "Name": "Senior (7 years and older)",
+        "Price": 200,
+        "Discount": 0,
+        "Tax": 0,
+        "IsVariable": false
+      },
+      "Description": "Buddy is a senior cocker spaniel who was surrendered to Fetch when his elderly owner developed health issues and had to go into long term care. He is a happy guy with a big heart and a touch of doggy dementia.\n\nBuddy absolutely loves other dogs and is tolerant of all ages, including puppies. He loves his people very much and is always up for attention and snuggles. He is not so good with strangers and will bark loudly when he sees someone he doesn’t know. Sometimes he forgets that he has already met someone and will bark loudly again. He is not a bite risk as he only has a few teeth left (more on that later) but I typically put him in his crate when new people come over so he doesn’t get worked up.\n\nBuddy has some health issues typical of senior dogs. He has a heart murmur that does not currently cause any symptoms and some arthritis that does not keep him from loving his walks and pulling hard on his leash. He has been diagnosed with chronic stenosis of the ear canals so will need to be monitored for ear infections. He also has KCS which is common in smaller breeds and means his eyes do not produce enough tears. He gets eye drops twice a day to stimulate tear production and his eyes look perfect now, but he will need to stay on the eye drops for the rest of his life. He had most of his teeth removed due to severe dental disease, but he still prefers hard kibble to softened food. He can’t chew but he just swallows it whole.\n\nBuddy is very well behaved in his crate and will go in there on his own during the day to nap. He typically is crated for about 6 hours during the workday and about 10 hours at night and does great on that schedule. He is fully potty trained. He is low shedding and needs a haircut about every 4-5 months which he does very well with.\n\nIf you have a spot in your home for a fuzzy old man who will bark loudly at you for about 10 minutes and then love you forever, come meet Buddy!",
+      "LastIntakeUnixTime": "1770703200",
+      "Attributes": [
+        {
+          "Internal-ID": "294284",
+          "AttributeName": "Good with Cats",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "294293",
+          "AttributeName": "Good with Dogs",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "295161",
+          "AttributeName": "❌ Not Good with Kids",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296939",
+          "AttributeName": "✅ Rides well in a car",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "296944",
+          "AttributeName": "✅ Crate-trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634884",
+          "AttributeName": "✅ Walks well on leash",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634885",
+          "AttributeName": "✅ House trained",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634886",
+          "AttributeName": "✅ Loves to play",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "634893",
+          "AttributeName": "Senior dog",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "637203",
+          "AttributeName": "Low energy",
+          "Publish": "Yes"
+        },
+        {
+          "Internal-ID": "702280",
+          "AttributeName": "FP:  Gen",
+          "Publish": "No"
+        }
+      ],
+      "LastUpdatedUnixTime": "1795620866"
     },
     {
       "ID": "3731",
