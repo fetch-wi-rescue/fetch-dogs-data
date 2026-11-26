@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:34:31Z",
+  "updated": "2026-11-26T11:44:25Z",
   "count": 48,
   "animals": [
     {
@@ -2550,7 +2550,7 @@
       "Size": "Medium (25-59)",
       "Altered": "Yes",
       "DOBUnixTime": 1719378000,
-      "Age": 28,
+      "Age": 29,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/83a09f69d3cbafc104001f4e611df309/9406b81d30bb838bc66d65856ba8d004.jpeg",
       "Photos": [
         "https://new-s3.shelterluv.com/profile-pictures/83a09f69d3cbafc104001f4e611df309/9406b81d30bb838bc66d65856ba8d004.jpeg"
@@ -3330,7 +3330,7 @@
       "InFoster": true,
       "CurrentWeightPounds": "28",
       "Size": "",
-      "Altered": "Unknown",
+      "Altered": "Yes",
       "DOBUnixTime": 1691470800,
       "Age": 39,
       "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20a5b33eafea6ff3fa3a439e888ceaf0/1be1f2c0c9981073335a1088f94ab251.jpeg",
@@ -3440,7 +3440,7 @@
           "Publish": "Yes"
         }
       ],
-      "LastUpdatedUnixTime": "1795390333"
+      "LastUpdatedUnixTime": "1795692363"
     },
     {
       "ID": "3762",
