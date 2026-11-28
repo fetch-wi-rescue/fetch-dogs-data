@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:57:03Z",
+  "updated": "2026-11-28T03:39:38Z",
   "animals": [
     {
       "ID": "3458",
@@ -2222,6 +2222,15 @@
       "Status": "M&G",
       "reason": "likely_adopted",
       "disappearedDate": "2026-11-25T00:57:03Z",
+      "status": "pending"
+    },
+    {
+      "ID": "3755",
+      "Name": "Callie",
+      "CoverPhoto": "https://new-s3.shelterluv.com/profile-pictures/20a5b33eafea6ff3fa3a439e888ceaf0/1be1f2c0c9981073335a1088f94ab251.jpeg",
+      "Status": "Pending Adoption",
+      "reason": "likely_adopted",
+      "disappearedDate": "2026-11-28T03:39:38Z",
       "status": "pending"
     }
   ]
